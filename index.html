@@ -933,6 +933,14 @@ function showUnderThresholdNote(pct) {
   document.getElementById('comparisonCard').insertAdjacentElement('afterend', el);
 }
 
+function showPriorityCustomerNote() {
+  const el = document.createElement('div');
+  el.id = 'thresholdNote';
+  el.style.cssText = 'display:flex;align-items:center;gap:10px;background:#EFF6FF;border:1px solid #BFDBFE;border-radius:8px;padding:12px 14px;margin-top:1rem;font-size:13px;color:#1E40AF;font-weight:500;';
+  el.innerHTML = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="flex-shrink:0"><polyline points="20 6 9 17 4 12"/></svg>Priority Customer — No invoice disclaimer required`;
+  document.getElementById('comparisonCard').insertAdjacentElement('afterend', el);
+}
+
 async function getExchangeRate(from, to) {
   const resp = await fetch(`https://api.frankfurter.app/latest?from=${from}&to=${to}`);
   if (!resp.ok) throw new Error('Exchange rate unavailable');
@@ -1017,6 +1025,8 @@ async function showResults(result, file) {
           const textEl = document.getElementById('disclaimerText');
           textEl.textContent = msg;
           textEl.dataset.message = msg;
+        } else if (isShort) {
+          showPriorityCustomerNote();
         }
       } catch (_) {
         document.getElementById('cmpExports').innerHTML =
@@ -1045,6 +1055,8 @@ async function showResults(result, file) {
         const textEl = document.getElementById('disclaimerText');
         textEl.textContent = msg;
         textEl.dataset.message = msg;
+      } else if (isShort) {
+        showPriorityCustomerNote();
       }
     }
   } else if (scannedAmount === null) {
