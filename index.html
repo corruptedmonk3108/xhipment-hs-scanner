@@ -969,14 +969,14 @@ async function showResults(result, file) {
         diffEl.className  = 'cmp-value ' + (isShort ? 'danger' : 'success');
         diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
-        if (isShort && pct >= 10) {
+        if (pct < 10) {
+          showUnderThresholdNote(pct);
+        } else if (isShort) {
           const msg = buildDisclaimer(scannedAmount, scannedCurrency, convertedExports, scannedCurrency);
           document.getElementById('disclaimerCard').style.display = 'block';
           const textEl = document.getElementById('disclaimerText');
           textEl.textContent = msg;
           textEl.dataset.message = msg;
-        } else if (isShort) {
-          showUnderThresholdNote(pct);
         }
       } catch (_) {
         document.getElementById('cmpExports').innerHTML =
@@ -997,14 +997,14 @@ async function showResults(result, file) {
       diffEl.className  = 'cmp-value ' + (isShort ? 'danger' : 'success');
       diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
-      if (isShort && pct >= 10) {
+      if (pct < 10) {
+        showUnderThresholdNote(pct);
+      } else if (isShort) {
         const msg = buildDisclaimer(scannedAmount, scannedCurrency, exportsAmt, 'USD');
         document.getElementById('disclaimerCard').style.display = 'block';
         const textEl = document.getElementById('disclaimerText');
         textEl.textContent = msg;
         textEl.dataset.message = msg;
-      } else if (isShort) {
-        showUnderThresholdNote(pct);
       }
     }
   } else if (scannedAmount === null) {
