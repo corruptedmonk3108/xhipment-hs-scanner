@@ -11,12 +11,12 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,11 +33,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add quote_lookup.json
           if git diff --cached --quiet; then
             echo "No changes to quote_lookup.json — skipping commit."
           else
             git commit -m "chore: refresh quote_lookup.json [skip ci]"
-            git pull --rebase
-            git push
+            git push origin main
           fi
