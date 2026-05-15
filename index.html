@@ -758,6 +758,8 @@ function resetApp() {
   document.getElementById('quoteErrorBox').style.display = 'none';
   document.getElementById('disclaimerCard').style.display = 'none';
   document.getElementById('comparisonCard').style.display = 'none';
+  const tn = document.getElementById('thresholdNote');
+  if (tn) tn.remove();
   currentQuoteId = '';
   exportsInvoiceValue = null;
   currentFilename = '';
@@ -884,6 +886,14 @@ ${text.substring(0, 30000)}`;
 }
 
 // ── Results ──
+function showUnderThresholdNote(pct) {
+  const el = document.createElement('div');
+  el.id = 'thresholdNote';
+  el.style.cssText = 'display:flex;align-items:center;gap:10px;background:#EFF6FF;border:1px solid #BFDBFE;border-radius:8px;padding:12px 14px;margin-top:1rem;font-size:13px;color:#1E40AF;font-weight:500;';
+  el.innerHTML = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="flex-shrink:0"><polyline points="20 6 9 17 4 12"/></svg>Difference in invoice is &lt;10% (${pct.toFixed(1)}%) — no disclaimer required`;
+  document.getElementById('comparisonCard').insertAdjacentElement('afterend', el);
+}
+
 async function getExchangeRate(from, to) {
   const resp = await fetch(`https://api.frankfurter.app/latest?from=${from}&to=${to}`);
   if (!resp.ok) throw new Error('Exchange rate unavailable');
@@ -954,16 +964,19 @@ async function showResults(result, file) {
 
         const diff    = scannedAmount - convertedExports;
         const isShort = scannedAmount < convertedExports;
+        const pct     = Math.abs(diff) / convertedExports * 100;
         diffEl.innerHTML  = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">${scannedCurrency}</span>`;
         diffEl.className  = 'cmp-value ' + (isShort ? 'danger' : 'success');
         diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
-        if (isShort) {
+        if (isShort && pct >= 10) {
           const msg = buildDisclaimer(scannedAmount, scannedCurrency, convertedExports, scannedCurrency);
           document.getElementById('disclaimerCard').style.display = 'block';
           const textEl = document.getElementById('disclaimerText');
           textEl.textContent = msg;
           textEl.dataset.message = msg;
+        } else if (isShort) {
+          showUnderThresholdNote(pct);
         }
       } catch (_) {
         document.getElementById('cmpExports').innerHTML =
@@ -979,16 +992,19 @@ async function showResults(result, file) {
 
       const diff    = scannedAmount - exportsAmt;
       const isShort = scannedAmount < exportsAmt;
+      const pct     = Math.abs(diff) / exportsAmt * 100;
       diffEl.innerHTML  = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">USD</span>`;
       diffEl.className  = 'cmp-value ' + (isShort ? 'danger' : 'success');
       diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
-      if (isShort) {
+      if (isShort && pct >= 10) {
         const msg = buildDisclaimer(scannedAmount, scannedCurrency, exportsAmt, 'USD');
         document.getElementById('disclaimerCard').style.display = 'block';
         const textEl = document.getElementById('disclaimerText');
         textEl.textContent = msg;
         textEl.dataset.message = msg;
+      } else if (isShort) {
+        showUnderThresholdNote(pct);
       }
     }
   } else if (scannedAmount === null) {
