@@ -684,16 +684,20 @@ async function scanQuote() {
     currentFilename = decodeURIComponent(rawFilename) || ('invoice.' + ext);
 
     // Fetch the invoice (try direct first, fall back to Worker proxy)
+    const safeUrl = entry.url.replace(/ /g, '%20');
     let blob;
     try {
-      const resp = await fetch(entry.url, { mode: 'cors' });
+      const resp = await fetch(safeUrl, { mode: 'cors' });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       blob = await resp.blob();
     } catch (corsErr) {
       // Try via Cloudflare Worker proxy route
-      const proxyUrl = WORKER_URL + '/download?url=' + encodeURIComponent(entry.url);
+      const proxyUrl = WORKER_URL + '/download?url=' + encodeURIComponent(safeUrl);
       const resp2 = await fetch(proxyUrl);
-      if (!resp2.ok) throw new Error(`Failed to fetch invoice (${resp2.status}). The Cloudflare Worker may need a /download proxy route added.`);
+      if (!resp2.ok) {
+        const body = await resp2.text().catch(() => '');
+        throw new Error(`Could not fetch invoice (HTTP ${resp2.status})${body ? ': ' + body.substring(0, 120) : ''}`);
+      }
       blob = await resp2.blob();
     }
 
@@ -703,7 +707,10 @@ async function scanQuote() {
   } catch (err) {
     document.getElementById('progress-section').style.display = 'none';
     document.getElementById('quoteFormArea').style.display = 'block';
-    errBox.textContent = err.message || 'An unexpected error occurred.';
+    const msg = typeof err?.message === 'string' ? err.message
+              : typeof err === 'string' ? err
+              : JSON.stringify(err);
+    errBox.textContent = msg || 'An unexpected error occurred.';
     errBox.style.display = 'block';
   }
 }
@@ -875,7 +882,10 @@ ${text.substring(0, 30000)}`;
 
   const data = await response.json();
   if (!response.ok) throw new Error(data.error || `Server error ${response.status}`);
-  if (data.error)  throw new Error(data.error.message || data.error);
+  if (data.error)  throw new Error(
+    typeof data.error === 'string' ? data.error
+    : data.error.message || JSON.stringify(data.error)
+  );
 
   const rawText = data.content[0].text.trim();
   try {
