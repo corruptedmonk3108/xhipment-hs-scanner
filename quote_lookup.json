@@ -324,12 +324,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f6b845a3b8dc8806e55a87/bookings-docs/69d0cbf111cd64215638bd43/cf66ab41-dd09-4ab3-ab38-e4a99688aeae.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619722M",
-    "exportsInvoiceValue": 31494.0,
-    "shipper": "muqeem and brothers pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/69bbb1d50c07c1f8ffa5fbc7/bd6c29c2-7c10-4559-8aab-725d9e1b3941-Commercial Invoice_MB-2526-1634_Under_IGST UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL032619987M",
     "exportsInvoiceValue": 85131.0,
     "shipper": "picado home decors pvt ltd",
@@ -634,12 +628,6 @@
     "exportsInvoiceValue": 471.0,
     "shipper": "cosmic bag industries",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c2852a0da10ecff36d4544/execution-documents/69c492abb591ae8d9993d4c5/ac345175-a5fe-43a8-ac37-db2a99e211ff-Export Commercial Invoice - Excel_XQAMZLCL032619887M CI new.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL032619458M",
-    "exportsInvoiceValue": 4900.0,
-    "shipper": "ashrav ecom",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ac9c356a5e706e64f5e0e3/bookings-docs/69b0feb6b191f3fe414b2a87/a2fe6c7d-c4d7-4962-96ab-8df00b06fbb8.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0326152551",
@@ -1078,5 +1066,11 @@
     "exportsInvoiceValue": 6767.46,
     "shipper": "conekraftz india pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67138db23a3b6c2fb9ffa857/bookings-docs/69ca419e68d41dddb9dbd072/77ceedf8-79e4-479c-bb00-d530fe58d275.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619917M",
+    "exportsInvoiceValue": 2613.0,
+    "shipper": "artware international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c604ac90586e027adf8dae/execution-documents/69cd5f3487bd51d8620f43e2/566f6656-43e9-449c-923b-e62f33f3ebe1-EXPORT Commercial Invoice_XQAMZLCL032619917M (1) CI.XLSX"
   }
 ]
