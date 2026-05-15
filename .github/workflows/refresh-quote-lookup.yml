@@ -36,5 +36,6 @@ jobs:
             echo "No changes to quote_lookup.json — skipping commit."
           else
             git commit -m "chore: refresh quote_lookup.json [skip ci]"
+            git pull --rebase
             git push
           fi
