@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Xhipment — HS Code Scanner</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tesseract.js/4.1.1/tesseract.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #F7F8FA;
+    --bg2:       #FFFFFF;
+    --bg3:       #F0F2F5;
+    --bg4:       #E8EBF0;
+    --accent:    #E8622A;
+    --accent-dk: #C9501F;
+    --navy:      #1B3160;
+    --danger:    #DC2626;
+    --warn:      #D97706;
+    --success:   #059669;
+    --text:      #1B3160;
+    --text2:     #4A5568;
+    --text3:     #9AA3B0;
+    --border:    #E2E8F0;
+    --border2:   #CBD5E0;
+    --shadow:    0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+    --radius:    12px;
+    --radius-sm: 8px;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    min-height: 100vh;
+  }
+
+  /* ── NAV ── */
+  nav {
+    background: #fff;
+    border-bottom: 1px solid var(--border);
+    height: 64px;
+    display: flex;
+    align-items: center;
+    padding: 0 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+  }
+
+  .logo-icon {
+    width: 32px;
+    height: 32px;
+  }
+
+  .logo-text {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: -0.02em;
+  }
+
+  .nav-badge {
+    margin-left: 1rem;
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    color: var(--text3);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px 10px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  /* ── LAYOUT ── */
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 5rem;
+  }
+
+  .page-title {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: var(--navy);
+    letter-spacing: -0.03em;
+    margin-bottom: 0.4rem;
+  }
+
+  .page-sub {
+    font-size: 14px;
+    color: var(--text2);
+    margin-bottom: 2rem;
+  }
+
+  /* ── UPLOAD ZONE ── */
+  .upload-zone {
+    background: var(--bg2);
+    border: 2px dashed var(--border2);
+    border-radius: var(--radius);
+    padding: 3rem 2rem;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.2s;
+    box-shadow: var(--shadow);
+  }
+
+  .upload-zone:hover,
+  .upload-zone.drag-over {
+    border-color: var(--accent);
+    background: #FFF5F1;
+  }
+
+  .upload-zone input {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+  }
+
+  .upload-icon-wrap {
+    width: 52px;
+    height: 52px;
+    margin: 0 auto 1rem;
+    background: #FFF0EB;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .upload-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--navy);
+    margin-bottom: 0.35rem;
+  }
+
+  .upload-sub {
+    font-size: 13px;
+    color: var(--text3);
+  }
+
+  .upload-formats {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-top: 1.25rem;
+  }
+
+  .fmt-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    padding: 3px 9px;
+    border-radius: 4px;
+    border: 1px solid var(--border2);
+    color: var(--text3);
+    letter-spacing: 0.04em;
+    background: var(--bg3);
+  }
+
+  .rate-info {
+    margin-top: 1rem;
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    color: var(--text3);
+  }
+
+  /* ── OCR NOTE ── */
+  .ocr-note {
+    display: none;
+    margin-top: 0.75rem;
+    font-size: 12px;
+    color: var(--warn);
+    background: #FFFBEB;
+    border: 1px solid #FDE68A;
+    border-radius: var(--radius-sm);
+    padding: 8px 12px;
+  }
+
+  /* ── ERROR ── */
+  .error-box {
+    display: none;
+    margin-top: 1rem;
+    background: #FEF2F2;
+    border: 1px solid #FECACA;
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    font-size: 13px;
+    color: var(--danger);
+  }
+
+  /* ── PROGRESS ── */
+  #progress-section { display: none; margin-top: 1.5rem; }
+
+  .progress-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    box-shadow: var(--shadow);
+  }
+
+  .progress-label {
+    font-size: 13px;
+    color: var(--text2);
+    font-weight: 500;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .progress-bar-wrap {
+    height: 5px;
+    background: var(--bg4);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 3px;
+    transition: width 0.4s ease;
+    width: 0%;
+  }
+
+  .progress-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 1.25rem;
+  }
+
+  .step {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    color: var(--text3);
+  }
+
+  .step.active { color: var(--text2); }
+  .step.done   { color: var(--success); }
+
+  .step-icon {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1.5px solid var(--border2);
+    background: var(--bg3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    flex-shrink: 0;
+  }
+
+  .step.active .step-icon { background: #FFF0EB; border-color: var(--accent); color: var(--accent); }
+  .step.done   .step-icon { background: #ECFDF5; border-color: var(--success); color: var(--success); }
+
+  /* ── RESULTS ── */
+  #results-section { display: none; margin-top: 1.5rem; }
+
+  .result-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .result-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--navy);
+    letter-spacing: -0.02em;
+  }
+
+  .scan-again-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 18px;
+    cursor: pointer;
+    transition: background 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .scan-again-btn:hover { background: var(--accent-dk); }
+
+  /* ── INVOICE VALUE CARD ── */
+  .invoice-value-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem 1.5rem;
+    margin-top: 1rem;
+    box-shadow: var(--shadow);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .invoice-value-icon {
+    width: 44px;
+    height: 44px;
+    background: #FFF0EB;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .invoice-value-label {
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text3);
+    margin-bottom: 3px;
+  }
+
+  .invoice-value-amount {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--navy);
+    letter-spacing: -0.02em;
+  }
+
+  .invoice-value-amount .currency {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text2);
+    margin-left: 4px;
+  }
+
+  .invoice-value-raw {
+    font-size: 11px;
+    color: var(--text3);
+    margin-top: 2px;
+    font-family: 'DM Mono', monospace;
+  }
+
+  /* ── FILE STRIP ── */
+  .file-strip {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 10px 14px;
+    margin-top: 1rem;
+    font-size: 13px;
+    color: var(--text2);
+  }
+
+  .file-strip-name {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .file-type-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    background: var(--bg4);
+    border: 1px solid var(--border2);
+    color: var(--text3);
+    text-transform: uppercase;
+    flex-shrink: 0;
+  }
+
+  /* ── WARNINGS ── */
+  .warnings-section { margin-top: 1.25rem; margin-bottom: 1.25rem; }
+
+  .section-label {
+    font-size: 10px;
+    font-family: 'DM Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text3);
+    margin-bottom: 0.6rem;
+  }
+
+  .warning-banner {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: #FEF2F2;
+    border: 1px solid #FECACA;
+    border-left: 3px solid var(--danger);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+    animation: slideIn 0.25s ease;
+  }
+
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateX(-6px); }
+    to   { opacity: 1; transform: translateX(0); }
+  }
+
+  .warn-icon { font-size: 14px; margin-top: 1px; flex-shrink: 0; }
+  .warn-content { flex: 1; }
+
+  .warn-headline {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--danger);
+    font-weight: 500;
+    margin-bottom: 2px;
+  }
+
+  .warn-desc { font-size: 12px; color: #7F1D1D; opacity: 0.7; }
+
+  .no-warnings {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #ECFDF5;
+    border: 1px solid #A7F3D0;
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    font-size: 13px;
+    color: var(--success);
+    font-weight: 500;
+  }
+
+  /* ── CODES TABLE ── */
+  .codes-section {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    margin-top: 1.25rem;
+  }
+
+  .codes-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg3);
+  }
+
+  .codes-header-title {
+    font-size: 10px;
+    font-family: 'DM Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text3);
+  }
+
+  .codes-count {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    background: var(--bg2);
+    color: var(--accent);
+    padding: 2px 10px;
+    border-radius: 20px;
+    border: 1px solid #FDDCCE;
+    font-weight: 500;
+  }
+
+  .codes-table { width: 100%; border-collapse: collapse; }
+
+  .codes-table th {
+    text-align: left;
+    padding: 10px 1.25rem;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text3);
+    background: var(--bg3);
+    border-bottom: 1px solid var(--border);
+    letter-spacing: 0.04em;
+  }
+
+  .codes-table td {
+    padding: 11px 1.25rem;
+    font-size: 13px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+    color: var(--text2);
+  }
+
+  .codes-table tr:last-child td { border-bottom: none; }
+  .codes-table tbody tr:hover td { background: #FFFAF8; }
+
+  .code-val {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    color: var(--navy);
+    font-weight: 500;
+  }
+
+  .chapter-badge {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: var(--bg4);
+    border: 1px solid var(--border2);
+    color: var(--text2);
+    font-weight: 500;
+  }
+
+  .chapter-badge.flagged {
+    background: #FEF2F2;
+    border-color: #FECACA;
+    color: var(--danger);
+  }
+
+  .flag-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 11px;
+    color: var(--danger);
+    font-weight: 500;
+  }
+
+  .clear-indicator {
+    font-size: 11px;
+    color: var(--success);
+    font-weight: 500;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    color: var(--text3);
+    letter-spacing: 0.04em;
+  }
+
+  footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a class="logo" href="#">
+    <svg class="logo-icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="16" cy="8"  r="5" fill="#E8622A"/>
+      <circle cx="24" cy="16" r="5" fill="#E8622A" opacity="0.75"/>
+      <circle cx="16" cy="24" r="5" fill="#E8622A" opacity="0.55"/>
+      <circle cx="8"  cy="16" r="5" fill="#E8622A" opacity="0.35"/>
+    </svg>
+    <span class="logo-text">Xhipment</span>
+  </a>
+  <span class="nav-badge">HS Code Scanner</span>
+</nav>
+
+<!-- MAIN -->
+<div class="container">
+
+  <h1 class="page-title">HS Code Scanner</h1>
+  <p class="page-sub">Upload a commercial invoice to extract HS/HTS codes and invoice value instantly.</p>
+
+  <!-- Upload Zone -->
+  <div class="upload-zone" id="uploadZone">
+    <input type="file" id="fileInput" accept=".pdf,.xlsx,.xls,.csv" onchange="handleFile(this.files[0])">
+    <div class="upload-icon-wrap">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#E8622A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+        <polyline points="17 8 12 3 7 8"/>
+        <line x1="12" y1="3" x2="12" y2="15"/>
+      </svg>
+    </div>
+    <div class="upload-title">Drop your commercial invoice here</div>
+    <div class="upload-sub">or click to browse files</div>
+    <div class="upload-formats">
+      <span class="fmt-badge">PDF</span>
+      <span class="fmt-badge">XLSX</span>
+      <span class="fmt-badge">XLS</span>
+      <span class="fmt-badge">CSV</span>
+    </div>
+    <div class="rate-info">10 scans per IP per hour</div>
+  </div>
+
+  <div class="ocr-note" id="ocrNote">⚠ Scanned PDF detected — running OCR. This may take a moment.</div>
+  <div class="error-box" id="errorBox"></div>
+
+  <!-- Progress -->
+  <div id="progress-section">
+    <div class="progress-card">
+      <div class="progress-label">
+        <span id="progressLabel">Processing...</span>
+        <span id="progressPct" style="font-family:'DM Mono',monospace;font-size:12px;color:var(--accent);font-weight:500;">0%</span>
+      </div>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" id="progressBar"></div>
+      </div>
+      <div class="progress-steps" id="progressSteps"></div>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <div id="results-section">
+    <div class="result-header">
+      <div class="result-title">Scan Results</div>
+      <button class="scan-again-btn" onclick="resetApp()">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
+        Scan another invoice
+      </button>
+    </div>
+
+    <div id="fileInfoStrip"></div>
+
+    <!-- Invoice Value -->
+    <div id="invoiceValueCard" style="display:none;" class="invoice-value-card">
+      <div class="invoice-value-icon">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#E8622A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="12" y1="1" x2="12" y2="23"/>
+          <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+        </svg>
+      </div>
+      <div>
+        <div class="invoice-value-label">Total Invoice Value</div>
+        <div class="invoice-value-amount" id="invoiceValueAmount">—</div>
+        <div class="invoice-value-raw" id="invoiceValueRaw"></div>
+      </div>
+    </div>
+
+    <!-- Warnings -->
+    <div class="warnings-section">
+      <div class="section-label">Chapter Alerts</div>
+      <div id="warningsList"></div>
+    </div>
+
+    <!-- Codes Table -->
+    <div class="codes-section">
+      <div class="codes-header">
+        <span class="codes-header-title">Detected HS / HTS Codes</span>
+        <span class="codes-count" id="codesCount">0 codes</span>
+      </div>
+      <table class="codes-table">
+        <thead>
+          <tr>
+            <th>Code</th>
+            <th>Chapter</th>
+            <th>Description</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="codesTableBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 <a href="https://xhipment.com">Xhipment</a> &mdash; HS Code Compliance Scanner &mdash; powered by Claude AI
+  </footer>
+</div>
+
+<script>
+pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+const WORKER_URL = 'https://xhipment-hs-proxy.raunak-4c2.workers.dev';
+
+const FLAGGED_CHAPTERS = {
+  '01': 'Live Animals',
+  '02': 'Meat and Edible Meat Offal',
+  '03': 'Fish and Crustaceans, Molluscs and Other Aquatic Invertebrates',
+  '04': "Dairy Produce; Birds' Eggs; Natural Honey; Edible Products of Animal Origin",
+  '05': 'Products of Animal Origin, Not Elsewhere Specified',
+  '06': 'Live Trees and Other Plants; Bulbs, Roots and the Like',
+  '07': 'Edible Vegetables and Certain Roots and Tubers',
+  '10': 'Cereals',
+  '11': 'Products of the Milling Industry; Malt; Starches; Inulin; Wheat Gluten',
+  '15': 'Animal, Vegetable or Microbial Fats and Oils and Their Cleavage Products',
+  '16': 'Preparations of Meat, Fish, Crustaceans, Molluscs or Other Aquatic Invertebrates',
+  '22': 'Beverages, Spirits and Vinegar',
+  '23': 'Residues and Waste from the Food Industries; Prepared Animal Fodder',
+  '24': 'Tobacco and Manufactured Tobacco Substitutes',
+  '30': 'Pharmaceutical Products',
+  '31': 'Fertilizers',
+  '36': 'Explosives; Pyrotechnic Products; Matches; Pyrophoric Alloys; Certain Combustible Preparations',
+  '41': 'Raw Hides and Skins (Other Than Furskins) and Leather',
+  '42': 'Articles of Leather; Saddlery and Harness; Travel Goods, Handbags and Similar Containers',
+  '43': 'Furskins and Artificial Fur; Manufactures Thereof',
+  '51': 'Wool, Fine or Coarse Animal Hair; Horsehair Yarn and Woven Fabric',
+  '67': 'Prepared Feathers and Down; Artificial Flowers; Articles of Human Hair',
+  '71': 'Natural or Cultured Pearls, Precious or Semiprecious Stones, Precious Metals and Articles Thereof',
+  '84': 'Nuclear Reactors, Boilers, Machinery and Mechanical Appliances; Parts Thereof',
+  '90': 'Optical, Photographic, Measuring, Medical or Surgical Instruments and Apparatus',
+  '93': 'Arms and Ammunition; Parts and Accessories Thereof',
+  '97': "Works of Art, Collectors' Pieces and Antiques"
+};
+
+function showError(msg) {
+  const el = document.getElementById('errorBox');
+  el.textContent = '⚠ ' + msg;
+  el.style.display = 'block';
+}
+
+function hideError() { document.getElementById('errorBox').style.display = 'none'; }
+
+function setProgress(pct, label) {
+  document.getElementById('progressBar').style.width = pct + '%';
+  document.getElementById('progressPct').textContent = pct + '%';
+  document.getElementById('progressLabel').textContent = label;
+}
+
+function updateStep(steps, activeIdx) {
+  const container = document.getElementById('progressSteps');
+  container.innerHTML = '';
+  steps.forEach((s, i) => {
+    const div = document.createElement('div');
+    let cls = 'step', icon = '○';
+    if (i < activeIdx)      { cls += ' done';   icon = '✓'; }
+    else if (i === activeIdx) { cls += ' active'; icon = '→'; }
+    div.className = cls;
+    div.innerHTML = `<div class="step-icon">${icon}</div><span>${s}</span>`;
+    container.appendChild(div);
+  });
+}
+
+const zone = document.getElementById('uploadZone');
+zone.addEventListener('dragover',  e => { e.preventDefault(); zone.classList.add('drag-over'); });
+zone.addEventListener('dragleave', () => zone.classList.remove('drag-over'));
+zone.addEventListener('drop', e => {
+  e.preventDefault();
+  zone.classList.remove('drag-over');
+  const f = e.dataTransfer.files[0];
+  if (f) handleFile(f);
+});
+
+async function handleFile(file) {
+  if (!file) return;
+  hideError();
+
+  document.getElementById('progress-section').style.display = 'block';
+  document.getElementById('results-section').style.display  = 'none';
+  document.getElementById('uploadZone').style.display       = 'none';
+  document.getElementById('ocrNote').style.display          = 'none';
+
+  const steps = ['Reading file', 'Extracting text', 'AI analysis', 'Processing results'];
+  updateStep(steps, 0);
+  setProgress(5, 'Reading file...');
+
+  try {
+    let extractedText = '';
+    const ext = file.name.split('.').pop().toLowerCase();
+
+    if (ext === 'pdf') {
+      updateStep(steps, 1);
+      setProgress(15, 'Extracting text from PDF...');
+      extractedText = await extractPDFText(file);
+    } else if (['xlsx', 'xls', 'csv'].includes(ext)) {
+      updateStep(steps, 1);
+      setProgress(20, 'Parsing spreadsheet...');
+      extractedText = await extractExcelText(file);
+      setProgress(40, 'Spreadsheet parsed');
+    } else {
+      throw new Error('Unsupported file type. Please upload a PDF, XLSX, XLS, or CSV.');
+    }
+
+    if (!extractedText || extractedText.trim().length < 10) {
+      throw new Error('Could not extract meaningful text from the file.');
+    }
+
+    updateStep(steps, 2);
+    setProgress(55, 'Sending to Claude AI for analysis...');
+
+    const result = await analyzeWithClaude(extractedText);
+
+    updateStep(steps, 3);
+    setProgress(90, 'Processing results...');
+    await new Promise(r => setTimeout(r, 400));
+    setProgress(100, 'Complete');
+
+    setTimeout(() => {
+      document.getElementById('progress-section').style.display = 'none';
+      showResults(result, file);
+    }, 500);
+
+  } catch (err) {
+    document.getElementById('progress-section').style.display = 'none';
+    document.getElementById('uploadZone').style.display = 'block';
+    showError(err.message || 'An unexpected error occurred.');
+  }
+}
+
+async function extractPDFText(file) {
+  const arrayBuffer = await file.arrayBuffer();
+  const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+  let fullText = '', hasText = false;
+
+  for (let i = 1; i <= pdf.numPages; i++) {
+    const page    = await pdf.getPage(i);
+    const content = await page.getTextContent();
+    const pageText = content.items.map(item => item.str).join(' ');
+    if (pageText.trim().length > 20) hasText = true;
+    fullText += pageText + '\n';
+  }
+
+  if (!hasText) {
+    document.getElementById('ocrNote').style.display = 'block';
+    setProgress(25, 'Running OCR on scanned PDF...');
+    fullText = await runOCROnPDF(pdf);
+  }
+
+  return fullText;
+}
+
+async function runOCROnPDF(pdf) {
+  let ocrText = '';
+  const worker = await Tesseract.createWorker('eng');
+
+  for (let i = 1; i <= pdf.numPages; i++) {
+    setProgress(25 + Math.round((i / pdf.numPages) * 20), `OCR: page ${i} of ${pdf.numPages}...`);
+    const page     = await pdf.getPage(i);
+    const viewport = page.getViewport({ scale: 2.0 });
+    const canvas   = document.createElement('canvas');
+    canvas.width   = viewport.width;
+    canvas.height  = viewport.height;
+    await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+    const { data: { text } } = await worker.recognize(canvas.toDataURL('image/png'));
+    ocrText += text + '\n';
+  }
+
+  await worker.terminate();
+  return ocrText;
+}
+
+async function extractExcelText(file) {
+  const arrayBuffer = await file.arrayBuffer();
+  const workbook = XLSX.read(arrayBuffer, { type: 'array' });
+  let allText = '';
+  workbook.SheetNames.forEach(name => {
+    allText += `[Sheet: ${name}]\n${XLSX.utils.sheet_to_csv(workbook.Sheets[name])}\n\n`;
+  });
+  return allText;
+}
+
+async function analyzeWithClaude(text) {
+  const prompt = `You are an expert customs and trade compliance analyst. Analyze the commercial invoice below and extract two things:
+
+1. ALL HS codes (also called HTS codes, Harmonized System codes, Commodity Codes, or Tariff Codes).
+   - Look in columns labeled "HS Code", "HTS Code", "Commodity Code", "Tariff Code", "Code", "HTS", "HS", etc.
+   - As standalone numeric strings anywhere in the document
+   - With or without dots/dashes as separators (e.g., 0910.99.6000 or 0910996000 or '0910996000)
+   - Strip any leading apostrophe (Excel formatting artifact)
+   - As 4, 6, 8, or 10-digit codes
+   - Use contextual understanding, NOT regex pattern matching
+
+2. The TOTAL INVOICE VALUE (grand total amount payable).
+   - Look for fields labeled "Total", "Invoice Total", "Grand Total", "Amount Due", "Total Amount", "Total Value", etc.
+   - Capture the numeric amount AND the currency (USD, EUR, INR, GBP, etc.)
+   - If multiple subtotals exist, extract the final grand total only
+   - If no clear total is found, return null values
+
+Return ONLY a valid JSON object (no markdown, no explanation) in this exact format:
+{
+  "codes": [
+    {"raw": "original code as found", "normalized": "digits only no dots or dashes", "context": "brief note about where/how it appeared"}
+  ],
+  "invoice_value": {
+    "amount": 12345.67,
+    "currency": "USD",
+    "raw": "original string as found in document, e.g. 'USD 12,345.67'"
+  },
+  "notes": "any observations about the invoice structure or code detection"
+}
+
+If no HS codes found, return empty codes array. If no invoice total found, set invoice_value to {"amount": null, "currency": null, "raw": null}.
+
+Invoice content:
+${text.substring(0, 15000)}`;
+
+  const response = await fetch(WORKER_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 2000,
+      messages: [{ role: 'user', content: prompt }]
+    })
+  });
+
+  const data = await response.json();
+
+  if (!response.ok) throw new Error(data.error || `Server error ${response.status}`);
+  if (data.error)  throw new Error(data.error.message || data.error);
+
+  const rawText = data.content[0].text.trim();
+  try {
+    return JSON.parse(rawText.replace(/```json|```/g, '').trim());
+  } catch {
+    throw new Error('Could not parse AI response. Please try again.');
+  }
+}
+
+function showResults(result, file) {
+  document.getElementById('results-section').style.display = 'block';
+
+  const ext = file.name.split('.').pop().toUpperCase();
+  document.getElementById('fileInfoStrip').innerHTML = `
+    <div class="file-strip">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--text3);flex-shrink:0">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+        <polyline points="14 2 14 8 20 8"/>
+      </svg>
+      <span class="file-strip-name">${file.name}</span>
+      <span class="file-type-badge">${ext}</span>
+    </div>`;
+
+  // Invoice Value
+  const iv = result.invoice_value;
+  const ivCard = document.getElementById('invoiceValueCard');
+  if (iv && iv.amount !== null && iv.amount !== undefined) {
+    ivCard.style.display = 'flex';
+    const formatted = Number(iv.amount).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    document.getElementById('invoiceValueAmount').innerHTML =
+      `${formatted}<span class="currency">${iv.currency || ''}</span>`;
+    if (iv.raw) {
+      document.getElementById('invoiceValueRaw').textContent = `Found as: "${iv.raw}"`;
+    }
+  } else {
+    ivCard.style.display = 'none';
+  }
+
+  // Warnings
+  const codes = result.codes || [];
+  const warningsList = document.getElementById('warningsList');
+  warningsList.innerHTML = '';
+
+  const triggeredChapters = new Map();
+  codes.forEach(code => {
+    const norm = code.normalized.replace(/\D/g, '');
+    if (norm.length >= 2) {
+      const chapter = norm.substring(0, 2);
+      if (FLAGGED_CHAPTERS[chapter] && !triggeredChapters.has(chapter)) {
+        triggeredChapters.set(chapter, FLAGGED_CHAPTERS[chapter]);
+      }
+    }
+  });
+
+  if (triggeredChapters.size === 0) {
+    warningsList.innerHTML = `
+      <div class="no-warnings">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+        No flagged chapters detected in this invoice
+      </div>`;
+  } else {
+    triggeredChapters.forEach((desc, chapter) => {
+      warningsList.innerHTML += `
+        <div class="warning-banner">
+          <span class="warn-icon">⚠</span>
+          <div class="warn-content">
+            <div class="warn-headline">Chapter ${chapter}: ${desc}</div>
+            <div class="warn-desc">Requires additional compliance review per USITC HTS schedule</div>
+          </div>
+        </div>`;
+    });
+  }
+
+  // Codes Table
+  const tbody = document.getElementById('codesTableBody');
+  tbody.innerHTML = '';
+  document.getElementById('codesCount').textContent = codes.length + ' code' + (codes.length !== 1 ? 's' : '');
+
+  if (codes.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;color:var(--text3);padding:2rem;font-size:13px;">No HS codes detected in this invoice</td></tr>`;
+  } else {
+    codes.forEach(code => {
+      const norm       = code.normalized.replace(/\D/g, '');
+      const chapter    = norm.length >= 2 ? norm.substring(0, 2) : '??';
+      const isFlagged  = !!FLAGGED_CHAPTERS[chapter];
+      const chapterDesc = FLAGGED_CHAPTERS[chapter] || '';
+
+      tbody.innerHTML += `
+        <tr>
+          <td><span class="code-val">${code.raw}</span></td>
+          <td><span class="chapter-badge ${isFlagged ? 'flagged' : ''}">${chapter}</span></td>
+          <td style="font-size:12px;color:var(--text2);max-width:260px;">${isFlagged ? chapterDesc.substring(0, 60) + (chapterDesc.length > 60 ? '…' : '') : '—'}</td>
+          <td>${isFlagged
+            ? `<span class="flag-indicator">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15" stroke="currentColor" stroke-width="2"/></svg>
+                Flagged
+              </span>`
+            : `<span class="clear-indicator">✓ Clear</span>`
+          }</td>
+        </tr>`;
+    });
+  }
+
+  if (result.notes) {
+    document.getElementById('results-section').insertAdjacentHTML('beforeend',
+      `<p style="font-size:12px;color:var(--text3);margin-top:1rem;padding:0 4px;">
+        <span style="font-family:'DM Mono',monospace;">AI note:</span> ${result.notes}
+      </p>`);
+  }
+}
+
+function resetApp() {
+  document.getElementById('results-section').style.display  = 'none';
+  document.getElementById('uploadZone').style.display       = 'block';
+  document.getElementById('ocrNote').style.display          = 'none';
+  document.getElementById('progress-section').style.display = 'none';
+  document.getElementById('fileInput').value = '';
+  const note = document.querySelector('#results-section > p');
+  if (note) note.remove();
+  hideError();
+}
+</script>
+</body>
+</html>
