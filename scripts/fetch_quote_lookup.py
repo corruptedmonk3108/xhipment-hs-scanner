@@ -33,20 +33,21 @@ if not rows:
     print("ERROR: Sheet returned no data.", file=sys.stderr)
     sys.exit(1)
 
-# Column A (index 0) = QuoteId, Column C (index 2) = ExportsInvoiceValue
+# Column A (index 0) = QuoteId, Column C (index 2) = ExportsInvoiceValue, Column E (index 4) = url
 results = []
 for i, row in enumerate(rows[1:], start=2):
     if len(row) < 3:
         continue
     quote_id = row[0].strip()
     raw_value = row[2].strip().replace(",", "")
+    url = row[4].strip() if len(row) > 4 and row[4] else ""
     if not quote_id:
         continue
     try:
         val = float(raw_value)
     except ValueError:
         continue
-    results.append({"quoteId": quote_id, "exportsInvoiceValue": val})
+    results.append({"quoteId": quote_id, "exportsInvoiceValue": val, "url": url})
 
 with open("quote_lookup.json", "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2)

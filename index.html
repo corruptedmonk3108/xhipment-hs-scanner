@@ -91,41 +91,6 @@
     margin-bottom: 2rem;
   }
 
-  /* ── STEP PILLS ── */
-  .step-pills {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 2rem;
-  }
-
-  .step-pill {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 12px;
-    font-weight: 500;
-    color: var(--text3);
-  }
-
-  .step-pill.active { color: var(--accent); }
-  .step-pill.done   { color: var(--success); }
-
-  .step-num {
-    width: 22px; height: 22px;
-    border-radius: 50%;
-    border: 1.5px solid currentColor;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 10px; font-family: 'DM Mono', monospace;
-    flex-shrink: 0;
-  }
-
-  .step-divider {
-    width: 24px; height: 1px;
-    background: var(--border2);
-    flex-shrink: 0;
-  }
-
   /* ── QUOTE ID CARD ── */
   .quote-input-card {
     background: var(--bg2);
@@ -168,6 +133,7 @@
 
   .quote-input-row input:focus { border-color: var(--accent); background: #fff; }
   .quote-input-row input::placeholder { text-transform: none; color: var(--text3); }
+  .quote-input-row input:disabled { opacity: 0.5; cursor: not-allowed; }
 
   .btn-primary {
     height: 44px;
@@ -205,126 +171,6 @@
 
   .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
 
-  /* ── QUOTE FOUND BANNER ── */
-  .quote-found-banner {
-    display: none;
-    margin-top: 1rem;
-    background: #ECFDF5;
-    border: 1px solid #A7F3D0;
-    border-radius: var(--radius-sm);
-    padding: 12px 14px;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .quote-found-banner.visible { display: flex; }
-
-  .quote-found-id {
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--navy);
-  }
-
-  .quote-found-val {
-    font-size: 12px;
-    color: var(--text2);
-    margin-top: 1px;
-  }
-
-  .quote-found-val strong { color: var(--success); }
-
-  /* ── QUOTE CONTEXT BAR (shown during upload/results) ── */
-  .quote-context-bar {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-sm);
-    padding: 10px 16px;
-    margin-bottom: 1.5rem;
-    box-shadow: var(--shadow);
-  }
-
-  .qcb-label {
-    font-size: 10px;
-    font-family: 'DM Mono', monospace;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--text3);
-  }
-
-  .qcb-value {
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--navy);
-  }
-
-  .qcb-divider { width: 1px; height: 28px; background: var(--border2); }
-
-  .qcb-change {
-    margin-left: auto;
-    font-size: 11px;
-    color: var(--accent);
-    cursor: pointer;
-    font-weight: 500;
-    text-decoration: underline;
-    text-underline-offset: 2px;
-    background: none; border: none;
-  }
-
-  /* ── UPLOAD ZONE ── */
-  .upload-zone {
-    background: var(--bg2);
-    border: 2px dashed var(--border2);
-    border-radius: var(--radius);
-    padding: 3rem 2rem;
-    text-align: center;
-    cursor: pointer;
-    position: relative;
-    transition: all 0.2s;
-    box-shadow: var(--shadow);
-  }
-
-  .upload-zone:hover, .upload-zone.drag-over {
-    border-color: var(--accent);
-    background: #FFF5F1;
-  }
-
-  .upload-zone input {
-    position: absolute; inset: 0; opacity: 0;
-    cursor: pointer; width: 100%; height: 100%;
-  }
-
-  .upload-icon-wrap {
-    width: 52px; height: 52px;
-    margin: 0 auto 1rem;
-    background: #FFF0EB;
-    border-radius: 14px;
-    display: flex; align-items: center; justify-content: center;
-  }
-
-  .upload-title { font-size: 1rem; font-weight: 600; color: var(--navy); margin-bottom: 0.35rem; }
-  .upload-sub   { font-size: 13px; color: var(--text3); }
-
-  .upload-formats {
-    display: flex; gap: 8px; justify-content: center; margin-top: 1.25rem;
-  }
-
-  .fmt-badge {
-    font-family: 'DM Mono', monospace; font-size: 10px;
-    padding: 3px 9px; border-radius: 4px;
-    border: 1px solid var(--border2); color: var(--text3);
-    letter-spacing: 0.04em; background: var(--bg3);
-  }
-
-  .rate-info {
-    margin-top: 1rem;
-    font-size: 11px; font-family: 'DM Mono', monospace; color: var(--text3);
-  }
-
   /* ── MISC ── */
   .ocr-note {
     display: none; margin-top: 0.75rem;
@@ -341,7 +187,7 @@
   }
 
   /* ── PROGRESS ── */
-  #progress-section { display: none; margin-top: 1.5rem; }
+  #progress-section { display: none; margin-top: 1.5rem; max-width: 520px; }
 
   .progress-card {
     background: var(--bg2); border: 1px solid var(--border);
@@ -470,8 +316,6 @@
   .cmp-value.success { color: var(--success); }
 
   .cmp-sub { font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; }
-
-  .cmp-divider { width: 1px; background: var(--border); margin: 0 0.5rem; }
 
   /* ── WARNINGS ── */
   .warnings-section { margin-top: 1.25rem; margin-bottom: 1.25rem; }
@@ -604,109 +448,30 @@
 </nav>
 
 <!-- ══════════════════════════════════════
-     STEP 1 — QUOTE ID LOOKUP
+     QUOTE ID INPUT + SCANNING
 ══════════════════════════════════════ -->
 <div id="quote-step" class="container">
   <h1 class="page-title">HS Code Scanner</h1>
-  <p class="page-sub">Enter the shipment Quote ID to begin.</p>
+  <p class="page-sub">Enter a Quote ID to automatically fetch and scan the commercial invoice.</p>
 
-  <div class="step-pills">
-    <div class="step-pill active">
-      <div class="step-num">1</div><span>Quote ID</span>
-    </div>
-    <div class="step-divider"></div>
-    <div class="step-pill">
-      <div class="step-num">2</div><span>Upload Invoice</span>
-    </div>
-    <div class="step-divider"></div>
-    <div class="step-pill">
-      <div class="step-num">3</div><span>Results</span>
-    </div>
-  </div>
-
-  <div class="quote-input-card">
-    <label>Quote ID</label>
-    <div class="quote-input-row">
-      <input type="text" id="quoteInput" placeholder="e.g. XQAMZFCL042620169M"
-             onkeydown="if(event.key==='Enter') lookupQuote()">
-      <button class="btn-primary" onclick="lookupQuote()">
-        Look up
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-      </button>
-    </div>
-
-    <div class="quote-found-banner" id="quoteBanner">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color:var(--success);flex-shrink:0"><polyline points="20 6 9 17 4 12"/></svg>
-      <div style="flex:1">
-        <div class="quote-found-id" id="bannerQuoteId"></div>
-        <div class="quote-found-val">Exports Invoice Value: <strong id="bannerExportsVal"></strong></div>
+  <div id="quoteFormArea">
+    <div class="quote-input-card">
+      <label>Quote ID</label>
+      <div class="quote-input-row">
+        <input type="text" id="quoteInput" placeholder="e.g. XQAMZFCL042620169M"
+               onkeydown="if(event.key==='Enter') scanQuote()">
+        <button class="btn-primary" id="scanBtn" onclick="scanQuote()">
+          Scan Invoice
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
       </div>
-      <button class="btn-primary" id="continueBtn" onclick="goToUpload()" style="height:36px;font-size:12px;padding:0 16px;">
-        Continue
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-      </button>
     </div>
+    <div class="error-box" id="quoteErrorBox"></div>
   </div>
 
-  <div class="error-box" id="quoteErrorBox"></div>
-</div>
+  <div class="ocr-note" id="ocrNote">Scanned PDF detected — running OCR. This may take a moment.</div>
 
-<!-- ══════════════════════════════════════
-     STEP 2 — UPLOAD
-══════════════════════════════════════ -->
-<div id="upload-step" class="container" style="display:none">
-
-  <div class="step-pills">
-    <div class="step-pill done">
-      <div class="step-num">✓</div><span>Quote ID</span>
-    </div>
-    <div class="step-divider"></div>
-    <div class="step-pill active">
-      <div class="step-num">2</div><span>Upload Invoice</span>
-    </div>
-    <div class="step-divider"></div>
-    <div class="step-pill">
-      <div class="step-num">3</div><span>Results</span>
-    </div>
-  </div>
-
-  <div class="quote-context-bar">
-    <div>
-      <div class="qcb-label">Quote ID</div>
-      <div class="qcb-value" id="ctxQuoteId">—</div>
-    </div>
-    <div class="qcb-divider"></div>
-    <div>
-      <div class="qcb-label">Exports Invoice Value</div>
-      <div class="qcb-value" id="ctxExportsVal">—</div>
-    </div>
-    <button class="qcb-change" onclick="resetToQuoteStep()">Change</button>
-  </div>
-
-  <div class="upload-zone" id="uploadZone">
-    <input type="file" id="fileInput" accept=".pdf,.xlsx,.xls,.csv" onchange="handleFile(this.files[0])">
-    <div class="upload-icon-wrap">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#E8622A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
-        <polyline points="17 8 12 3 7 8"/>
-        <line x1="12" y1="3" x2="12" y2="15"/>
-      </svg>
-    </div>
-    <div class="upload-title">Drop your commercial invoice here</div>
-    <div class="upload-sub">or click to browse files</div>
-    <div class="upload-formats">
-      <span class="fmt-badge">PDF</span>
-      <span class="fmt-badge">XLSX</span>
-      <span class="fmt-badge">XLS</span>
-      <span class="fmt-badge">CSV</span>
-    </div>
-    <div class="rate-info">10 scans per IP per hour</div>
-  </div>
-
-  <div class="ocr-note" id="ocrNote">⚠ Scanned PDF detected — running OCR. This may take a moment.</div>
-  <div class="error-box" id="errorBox"></div>
-
-  <!-- Progress -->
+  <!-- Progress (shown while scanning) -->
   <div id="progress-section">
     <div class="progress-card">
       <div class="progress-label">
@@ -722,17 +487,9 @@
 </div>
 
 <!-- ══════════════════════════════════════
-     STEP 3 — RESULTS
+     RESULTS
 ══════════════════════════════════════ -->
 <div id="results-section" class="container" style="display:none">
-
-  <div class="step-pills">
-    <div class="step-pill done"><div class="step-num">✓</div><span>Quote ID</span></div>
-    <div class="step-divider"></div>
-    <div class="step-pill done"><div class="step-num">✓</div><span>Upload Invoice</span></div>
-    <div class="step-divider"></div>
-    <div class="step-pill active"><div class="step-num">3</div><span>Results</span></div>
-  </div>
 
   <div class="result-header">
     <div class="result-title">Scan Results</div>
@@ -766,7 +523,7 @@
   <!-- Disclaimer (shown only when scanned < exports) -->
   <div class="disclaimer-card" id="disclaimerCard" style="display:none">
     <div class="disclaimer-header">
-      <div class="disclaimer-title">⚠ Invoice Value Mismatch — Customer Notice</div>
+      <div class="disclaimer-title">Invoice Value Mismatch — Customer Notice</div>
       <button class="copy-btn" id="copyBtn" onclick="copyDisclaimer()">
         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
         Copy message
@@ -860,153 +617,153 @@ const FLAGGED_CHAPTERS = {
 let quoteLookup = {};
 let currentQuoteId = '';
 let exportsInvoiceValue = null;
+let currentFilename = '';
 
-// Load lookup table from JSON file
 fetch('./quote_lookup.json')
   .then(r => r.json())
   .then(data => {
     data.forEach(entry => {
-      quoteLookup[entry.quoteId.trim().toUpperCase()] = parseFloat(entry.exportsInvoiceValue);
+      quoteLookup[entry.quoteId.trim().toUpperCase()] = {
+        exportsInvoiceValue: parseFloat(entry.exportsInvoiceValue),
+        url: entry.url ? entry.url.trim() : null
+      };
     });
   })
   .catch(() => console.warn('quote_lookup.json not loaded'));
 
-// ── Quote ID step ──
-function lookupQuote() {
+// ── Main: look up Quote ID then fetch + scan invoice ──
+async function scanQuote() {
   const raw = document.getElementById('quoteInput').value.trim().toUpperCase();
   const errBox = document.getElementById('quoteErrorBox');
-  const banner = document.getElementById('quoteBanner');
   errBox.style.display = 'none';
-  banner.classList.remove('visible');
 
   if (!raw) {
-    errBox.textContent = '⚠ Please enter a Quote ID.';
+    errBox.textContent = 'Please enter a Quote ID.';
     errBox.style.display = 'block';
     return;
   }
 
-  const val = quoteLookup[raw];
-  if (val !== undefined && !isNaN(val)) {
-    currentQuoteId = raw;
-    exportsInvoiceValue = val;
-    document.getElementById('bannerQuoteId').textContent = raw;
-    document.getElementById('bannerExportsVal').textContent = formatCurrency(val);
-    banner.classList.add('visible');
-  } else {
-    errBox.textContent = '⚠ Quote ID not found. Please check and try again.';
+  const entry = quoteLookup[raw];
+  if (!entry) {
+    errBox.textContent = 'Quote ID not found. Please check and try again.';
+    errBox.style.display = 'block';
+    return;
+  }
+
+  if (!entry.url) {
+    errBox.textContent = 'No invoice URL found for this Quote ID.';
+    errBox.style.display = 'block';
+    return;
+  }
+
+  currentQuoteId = raw;
+  exportsInvoiceValue = entry.exportsInvoiceValue;
+
+  // Lock UI, show progress
+  document.getElementById('quoteFormArea').style.display = 'none';
+  document.getElementById('progress-section').style.display = 'block';
+
+  const steps = ['Fetching invoice', 'Extracting text', 'AI analysis', 'Processing results'];
+  updateStep(steps, 0);
+  setProgress(5, 'Fetching invoice from server...');
+
+  try {
+    // Detect file type from URL string
+    const urlLower = entry.url.toLowerCase();
+    const ext = urlLower.includes('.xlsx') ? 'xlsx'
+              : urlLower.includes('.xls')  ? 'xls'
+              : urlLower.includes('.csv')  ? 'csv'
+              : 'pdf';
+
+    // Extract display filename from the url parameter inside the query string
+    const urlParamMatch = entry.url.match(/[?&]url=([^&]+)/);
+    const urlParamValue = urlParamMatch ? urlParamMatch[1] : entry.url;
+    const rawFilename = urlParamValue.split('/').pop();
+    currentFilename = decodeURIComponent(rawFilename) || ('invoice.' + ext);
+
+    // Fetch the invoice (try direct first, fall back to Worker proxy)
+    let blob;
+    try {
+      const resp = await fetch(entry.url, { mode: 'cors' });
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      blob = await resp.blob();
+    } catch (corsErr) {
+      // Try via Cloudflare Worker proxy route
+      const proxyUrl = WORKER_URL + '/download?url=' + encodeURIComponent(entry.url);
+      const resp2 = await fetch(proxyUrl);
+      if (!resp2.ok) throw new Error(`Failed to fetch invoice (${resp2.status}). The Cloudflare Worker may need a /download proxy route added.`);
+      blob = await resp2.blob();
+    }
+
+    const file = new File([blob], currentFilename, { type: blob.type || 'application/octet-stream' });
+    await processInvoiceFile(file, steps);
+
+  } catch (err) {
+    document.getElementById('progress-section').style.display = 'none';
+    document.getElementById('quoteFormArea').style.display = 'block';
+    errBox.textContent = err.message || 'An unexpected error occurred.';
     errBox.style.display = 'block';
   }
 }
 
-function goToUpload() {
-  document.getElementById('quote-step').style.display = 'none';
-  document.getElementById('upload-step').style.display = 'block';
-  document.getElementById('ctxQuoteId').textContent  = currentQuoteId;
-  document.getElementById('ctxExportsVal').textContent = formatCurrency(exportsInvoiceValue);
-}
-
-function resetToQuoteStep() {
-  document.getElementById('upload-step').style.display = 'none';
-  document.getElementById('quote-step').style.display  = 'block';
-  document.getElementById('progress-section').style.display = 'none';
+async function processInvoiceFile(file, steps) {
   document.getElementById('ocrNote').style.display = 'none';
-  document.getElementById('errorBox').style.display = 'none';
-  document.getElementById('fileInput').value = '';
-  resetUploadZone();
+
+  let extractedText = '';
+  const ext = file.name.split('.').pop().toLowerCase();
+
+  updateStep(steps, 1);
+
+  if (ext === 'pdf') {
+    setProgress(20, 'Extracting text from PDF...');
+    extractedText = await extractPDFText(file);
+  } else if (['xlsx', 'xls', 'csv'].includes(ext)) {
+    setProgress(25, 'Parsing spreadsheet...');
+    extractedText = await extractExcelText(file);
+    setProgress(45, 'Spreadsheet parsed');
+  } else {
+    throw new Error('Unsupported file type in invoice URL.');
+  }
+
+  if (!extractedText || extractedText.trim().length < 10) {
+    throw new Error('Could not extract meaningful text from the invoice.');
+  }
+
+  updateStep(steps, 2);
+  setProgress(55, 'Sending to Claude AI for analysis...');
+
+  const result = await analyzeWithClaude(extractedText);
+
+  updateStep(steps, 3);
+  setProgress(90, 'Processing results...');
+  await new Promise(r => setTimeout(r, 400));
+  setProgress(100, 'Complete');
+
+  setTimeout(() => {
+    document.getElementById('progress-section').style.display = 'none';
+    document.getElementById('quote-step').style.display = 'none';
+    showResults(result, file);
+  }, 500);
 }
 
 function resetApp() {
   document.getElementById('results-section').style.display = 'none';
   document.getElementById('quote-step').style.display      = 'block';
-  document.getElementById('upload-step').style.display     = 'none';
+  document.getElementById('quoteFormArea').style.display   = 'block';
   document.getElementById('progress-section').style.display = 'none';
   document.getElementById('ocrNote').style.display         = 'none';
-  document.getElementById('fileInput').value = '';
   document.getElementById('quoteInput').value = '';
-  document.getElementById('quoteBanner').classList.remove('visible');
   document.getElementById('quoteErrorBox').style.display = 'none';
+  document.getElementById('disclaimerCard').style.display = 'none';
+  document.getElementById('comparisonCard').style.display = 'none';
   currentQuoteId = '';
   exportsInvoiceValue = null;
-  resetUploadZone();
-  const note = document.querySelector('#results-section > p');
+  currentFilename = '';
+  const note = document.getElementById('results-section').querySelector('p');
   if (note) note.remove();
 }
 
-function resetUploadZone() {
-  document.getElementById('uploadZone').style.display = 'block';
-  document.getElementById('uploadZone').classList.remove('drag-over');
-}
-
-// ── Drag & drop ──
-const zone = document.getElementById('uploadZone');
-zone.addEventListener('dragover',  e => { e.preventDefault(); zone.classList.add('drag-over'); });
-zone.addEventListener('dragleave', () => zone.classList.remove('drag-over'));
-zone.addEventListener('drop', e => {
-  e.preventDefault();
-  zone.classList.remove('drag-over');
-  const f = e.dataTransfer.files[0];
-  if (f) handleFile(f);
-});
-
-// ── File handling ──
-async function handleFile(file) {
-  if (!file) return;
-  document.getElementById('errorBox').style.display = 'none';
-  document.getElementById('progress-section').style.display = 'block';
-  document.getElementById('uploadZone').style.display       = 'none';
-  document.getElementById('ocrNote').style.display          = 'none';
-
-  const steps = ['Reading file', 'Extracting text', 'AI analysis', 'Processing results'];
-  updateStep(steps, 0);
-  setProgress(5, 'Reading file...');
-
-  try {
-    let extractedText = '';
-    const ext = file.name.split('.').pop().toLowerCase();
-
-    if (ext === 'pdf') {
-      updateStep(steps, 1);
-      setProgress(15, 'Extracting text from PDF...');
-      extractedText = await extractPDFText(file);
-    } else if (['xlsx', 'xls', 'csv'].includes(ext)) {
-      updateStep(steps, 1);
-      setProgress(20, 'Parsing spreadsheet...');
-      extractedText = await extractExcelText(file);
-      setProgress(40, 'Spreadsheet parsed');
-    } else {
-      throw new Error('Unsupported file type. Please upload a PDF, XLSX, XLS, or CSV.');
-    }
-
-    if (!extractedText || extractedText.trim().length < 10) {
-      throw new Error('Could not extract meaningful text from the file.');
-    }
-
-    updateStep(steps, 2);
-    setProgress(55, 'Sending to Claude AI for analysis...');
-
-    const result = await analyzeWithClaude(extractedText);
-
-    updateStep(steps, 3);
-    setProgress(90, 'Processing results...');
-    await new Promise(r => setTimeout(r, 400));
-    setProgress(100, 'Complete');
-
-    setTimeout(() => {
-      document.getElementById('progress-section').style.display = 'none';
-      document.getElementById('upload-step').style.display      = 'none';
-      showResults(result, file);
-    }, 500);
-
-  } catch (err) {
-    document.getElementById('progress-section').style.display = 'none';
-    document.getElementById('uploadZone').style.display = 'block';
-    const errBox = document.getElementById('errorBox');
-    errBox.textContent = '⚠ ' + (err.message || 'An unexpected error occurred.');
-    errBox.style.display = 'block';
-  }
-}
-
-// ── PDF / Excel extraction (unchanged) ──
+// ── PDF / Excel extraction ──
 async function extractPDFText(file) {
   const arrayBuffer = await file.arrayBuffer();
   const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
@@ -1050,7 +807,6 @@ async function extractExcelText(file) {
   const arrayBuffer = await file.arrayBuffer();
   const workbook = XLSX.read(arrayBuffer, { type: 'array' });
 
-  // Prioritise invoice-like sheets so they aren't crowded out by packing lists
   const priority = ['invoice', 'commercial invoice', 'ci'];
   const sorted = [...workbook.SheetNames].sort((a, b) => {
     const al = a.toLowerCase(), bl = b.toLowerCase();
@@ -1129,7 +885,6 @@ ${text.substring(0, 30000)}`;
 function showResults(result, file) {
   document.getElementById('results-section').style.display = 'block';
 
-  // File strip
   const ext = file.name.split('.').pop().toUpperCase();
   document.getElementById('fileInfoStrip').innerHTML = `
     <div class="file-strip">
@@ -1149,17 +904,16 @@ function showResults(result, file) {
     const parsed = parseFloat(iv.amount);
     if (!isNaN(parsed)) scannedAmount = parsed;
   }
-  // Fallback: try stripping $, commas from raw string
   if (scannedAmount === null && iv && iv.raw) {
     const cleaned = parseFloat(iv.raw.replace(/[^0-9.]/g, ''));
     if (!isNaN(cleaned) && cleaned > 0) scannedAmount = cleaned;
   }
-  const exportsAmt    = exportsInvoiceValue;
-  const compCard      = document.getElementById('comparisonCard');
+  const exportsAmt = exportsInvoiceValue;
+  const compCard   = document.getElementById('comparisonCard');
 
   if (scannedAmount !== null && exportsAmt !== null) {
     compCard.style.display = 'grid';
-    const diff = scannedAmount - exportsAmt;
+    const diff    = scannedAmount - exportsAmt;
     const isShort = scannedAmount < exportsAmt;
 
     document.getElementById('cmpExports').innerHTML =
@@ -1169,13 +923,12 @@ function showResults(result, file) {
       `${formatCurrency(scannedAmount)}<span class="currency">${iv.currency || ''}</span>`;
     document.getElementById('cmpScannedRaw').textContent = iv.raw ? `"${iv.raw}"` : '';
 
-    const diffEl   = document.getElementById('cmpDiff');
+    const diffEl    = document.getElementById('cmpDiff');
     const diffLabel = document.getElementById('cmpDiffLabel');
     diffEl.innerHTML = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">${iv.currency || 'USD'}</span>`;
     diffEl.className = 'cmp-value ' + (isShort ? 'danger' : 'success');
     diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
-    // Disclaimer
     if (isShort) {
       const msg = buildDisclaimer(scannedAmount, iv.currency, exportsAmt);
       document.getElementById('disclaimerCard').style.display = 'block';
@@ -1252,7 +1005,7 @@ function showResults(result, file) {
 
   if (result.notes) {
     document.getElementById('results-section').insertAdjacentHTML('beforeend',
-      `<p style="font-size:12px;color:var(--text3);margin-top:1rem;padding:0 4px;">
+      `<p id="aiNote" style="font-size:12px;color:var(--text3);margin-top:1rem;padding:0 4px;">
         <span style="font-family:'DM Mono',monospace;">AI note:</span> ${result.notes}
       </p>`);
   }
@@ -1277,8 +1030,8 @@ function copyDisclaimer() {
 }
 
 function setProgress(pct, label) {
-  document.getElementById('progressBar').style.width  = pct + '%';
-  document.getElementById('progressPct').textContent  = pct + '%';
+  document.getElementById('progressBar').style.width   = pct + '%';
+  document.getElementById('progressPct').textContent   = pct + '%';
   document.getElementById('progressLabel').textContent = label;
 }
 
