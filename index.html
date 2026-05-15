@@ -1044,8 +1044,18 @@ async function runOCROnPDF(pdf) {
 async function extractExcelText(file) {
   const arrayBuffer = await file.arrayBuffer();
   const workbook = XLSX.read(arrayBuffer, { type: 'array' });
+
+  // Prioritise invoice-like sheets so they aren't crowded out by packing lists
+  const priority = ['invoice', 'commercial invoice', 'ci'];
+  const sorted = [...workbook.SheetNames].sort((a, b) => {
+    const al = a.toLowerCase(), bl = b.toLowerCase();
+    const ap = priority.some(p => al.includes(p)) ? 0 : 1;
+    const bp = priority.some(p => bl.includes(p)) ? 0 : 1;
+    return ap - bp;
+  });
+
   let allText = '';
-  workbook.SheetNames.forEach(name => {
+  sorted.forEach(name => {
     allText += `[Sheet: ${name}]\n${XLSX.utils.sheet_to_csv(workbook.Sheets[name])}\n\n`;
   });
   return allText;
@@ -1086,7 +1096,7 @@ Return ONLY valid JSON (no markdown) in this exact format:
 If no HS codes found, return empty codes array. Only set invoice_value.amount to null if there is truly no way to determine any value at all.
 
 Invoice content:
-${text.substring(0, 15000)}`;
+${text.substring(0, 30000)}`;
 
   const response = await fetch(WORKER_URL, {
     method: 'POST',
