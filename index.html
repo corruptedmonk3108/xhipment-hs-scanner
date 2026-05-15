@@ -55,14 +55,9 @@
     z-index: 100;
   }
 
-  .logo {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    text-decoration: none;
-  }
+  .logo { display: flex; align-items: center; gap: 8px; text-decoration: none; }
 
-.nav-badge {
+  .nav-badge {
     margin-left: 1rem;
     font-size: 11px;
     font-family: 'DM Mono', monospace;
@@ -96,6 +91,190 @@
     margin-bottom: 2rem;
   }
 
+  /* ── STEP PILLS ── */
+  .step-pills {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 2rem;
+  }
+
+  .step-pill {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text3);
+  }
+
+  .step-pill.active { color: var(--accent); }
+  .step-pill.done   { color: var(--success); }
+
+  .step-num {
+    width: 22px; height: 22px;
+    border-radius: 50%;
+    border: 1.5px solid currentColor;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; font-family: 'DM Mono', monospace;
+    flex-shrink: 0;
+  }
+
+  .step-divider {
+    width: 24px; height: 1px;
+    background: var(--border2);
+    flex-shrink: 0;
+  }
+
+  /* ── QUOTE ID CARD ── */
+  .quote-input-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    box-shadow: var(--shadow-md);
+    max-width: 520px;
+  }
+
+  .quote-input-card label {
+    display: block;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text2);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .quote-input-row {
+    display: flex;
+    gap: 10px;
+  }
+
+  .quote-input-row input {
+    flex: 1;
+    height: 44px;
+    border: 1.5px solid var(--border2);
+    border-radius: var(--radius-sm);
+    padding: 0 14px;
+    font-family: 'DM Mono', monospace;
+    font-size: 14px;
+    color: var(--navy);
+    background: var(--bg);
+    outline: none;
+    transition: border-color 0.2s;
+    text-transform: uppercase;
+  }
+
+  .quote-input-row input:focus { border-color: var(--accent); background: #fff; }
+  .quote-input-row input::placeholder { text-transform: none; color: var(--text3); }
+
+  .btn-primary {
+    height: 44px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 0 20px;
+    cursor: pointer;
+    transition: background 0.2s;
+    white-space: nowrap;
+    display: flex; align-items: center; gap: 6px;
+  }
+
+  .btn-primary:hover { background: var(--accent-dk); }
+  .btn-primary:disabled { background: var(--bg4); color: var(--text3); cursor: not-allowed; }
+
+  .btn-ghost {
+    height: 36px;
+    background: transparent;
+    color: var(--text2);
+    border: 1.5px solid var(--border2);
+    border-radius: 50px;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 0 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex; align-items: center; gap: 5px;
+  }
+
+  .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ── QUOTE FOUND BANNER ── */
+  .quote-found-banner {
+    display: none;
+    margin-top: 1rem;
+    background: #ECFDF5;
+    border: 1px solid #A7F3D0;
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .quote-found-banner.visible { display: flex; }
+
+  .quote-found-id {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--navy);
+  }
+
+  .quote-found-val {
+    font-size: 12px;
+    color: var(--text2);
+    margin-top: 1px;
+  }
+
+  .quote-found-val strong { color: var(--success); }
+
+  /* ── QUOTE CONTEXT BAR (shown during upload/results) ── */
+  .quote-context-bar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 10px 16px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+  }
+
+  .qcb-label {
+    font-size: 10px;
+    font-family: 'DM Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text3);
+  }
+
+  .qcb-value {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--navy);
+  }
+
+  .qcb-divider { width: 1px; height: 28px; background: var(--border2); }
+
+  .qcb-change {
+    margin-left: auto;
+    font-size: 11px;
+    color: var(--accent);
+    cursor: pointer;
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    background: none; border: none;
+  }
+
   /* ── UPLOAD ZONE ── */
   .upload-zone {
     background: var(--bg2);
@@ -109,158 +288,92 @@
     box-shadow: var(--shadow);
   }
 
-  .upload-zone:hover,
-  .upload-zone.drag-over {
+  .upload-zone:hover, .upload-zone.drag-over {
     border-color: var(--accent);
     background: #FFF5F1;
   }
 
   .upload-zone input {
-    position: absolute;
-    inset: 0;
-    opacity: 0;
-    cursor: pointer;
-    width: 100%;
-    height: 100%;
+    position: absolute; inset: 0; opacity: 0;
+    cursor: pointer; width: 100%; height: 100%;
   }
 
   .upload-icon-wrap {
-    width: 52px;
-    height: 52px;
+    width: 52px; height: 52px;
     margin: 0 auto 1rem;
     background: #FFF0EB;
     border-radius: 14px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex; align-items: center; justify-content: center;
   }
 
-  .upload-title {
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--navy);
-    margin-bottom: 0.35rem;
-  }
-
-  .upload-sub {
-    font-size: 13px;
-    color: var(--text3);
-  }
+  .upload-title { font-size: 1rem; font-weight: 600; color: var(--navy); margin-bottom: 0.35rem; }
+  .upload-sub   { font-size: 13px; color: var(--text3); }
 
   .upload-formats {
-    display: flex;
-    gap: 8px;
-    justify-content: center;
-    margin-top: 1.25rem;
+    display: flex; gap: 8px; justify-content: center; margin-top: 1.25rem;
   }
 
   .fmt-badge {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    padding: 3px 9px;
-    border-radius: 4px;
-    border: 1px solid var(--border2);
-    color: var(--text3);
-    letter-spacing: 0.04em;
-    background: var(--bg3);
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    padding: 3px 9px; border-radius: 4px;
+    border: 1px solid var(--border2); color: var(--text3);
+    letter-spacing: 0.04em; background: var(--bg3);
   }
 
   .rate-info {
     margin-top: 1rem;
-    font-size: 11px;
-    font-family: 'DM Mono', monospace;
-    color: var(--text3);
+    font-size: 11px; font-family: 'DM Mono', monospace; color: var(--text3);
   }
 
-  /* ── OCR NOTE ── */
+  /* ── MISC ── */
   .ocr-note {
-    display: none;
-    margin-top: 0.75rem;
-    font-size: 12px;
-    color: var(--warn);
-    background: #FFFBEB;
-    border: 1px solid #FDE68A;
-    border-radius: var(--radius-sm);
-    padding: 8px 12px;
+    display: none; margin-top: 0.75rem;
+    font-size: 12px; color: var(--warn);
+    background: #FFFBEB; border: 1px solid #FDE68A;
+    border-radius: var(--radius-sm); padding: 8px 12px;
   }
 
-  /* ── ERROR ── */
   .error-box {
-    display: none;
-    margin-top: 1rem;
-    background: #FEF2F2;
-    border: 1px solid #FECACA;
-    border-radius: var(--radius-sm);
-    padding: 12px 14px;
-    font-size: 13px;
-    color: var(--danger);
+    display: none; margin-top: 1rem;
+    background: #FEF2F2; border: 1px solid #FECACA;
+    border-radius: var(--radius-sm); padding: 12px 14px;
+    font-size: 13px; color: var(--danger);
   }
 
   /* ── PROGRESS ── */
   #progress-section { display: none; margin-top: 1.5rem; }
 
   .progress-card {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 1.5rem;
-    box-shadow: var(--shadow);
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 1.5rem; box-shadow: var(--shadow);
   }
 
   .progress-label {
-    font-size: 13px;
-    color: var(--text2);
-    font-weight: 500;
+    font-size: 13px; color: var(--text2); font-weight: 500;
     margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    display: flex; align-items: center; justify-content: space-between;
   }
 
   .progress-bar-wrap {
-    height: 5px;
-    background: var(--bg4);
-    border-radius: 3px;
-    overflow: hidden;
+    height: 5px; background: var(--bg4); border-radius: 3px; overflow: hidden;
   }
 
   .progress-bar {
-    height: 100%;
-    background: var(--accent);
-    border-radius: 3px;
-    transition: width 0.4s ease;
-    width: 0%;
+    height: 100%; background: var(--accent); border-radius: 3px;
+    transition: width 0.4s ease; width: 0%;
   }
 
-  .progress-steps {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    margin-top: 1.25rem;
-  }
+  .progress-steps { display: flex; flex-direction: column; gap: 8px; margin-top: 1.25rem; }
 
-  .step {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-size: 13px;
-    color: var(--text3);
-  }
-
+  .step { display: flex; align-items: center; gap: 10px; font-size: 13px; color: var(--text3); }
   .step.active { color: var(--text2); }
   .step.done   { color: var(--success); }
 
   .step-icon {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    border: 1.5px solid var(--border2);
-    background: var(--bg3);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 10px;
-    flex-shrink: 0;
+    width: 20px; height: 20px; border-radius: 50%;
+    border: 1.5px solid var(--border2); background: var(--bg3);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; flex-shrink: 0;
   }
 
   .step.active .step-icon { background: #FFF0EB; border-color: var(--accent); color: var(--accent); }
@@ -270,150 +383,111 @@
   #results-section { display: none; margin-top: 1.5rem; }
 
   .result-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1.25rem;
-    flex-wrap: wrap;
-    gap: 0.5rem;
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.5rem;
   }
 
-  .result-title {
-    font-size: 1.2rem;
-    font-weight: 700;
-    color: var(--navy);
-    letter-spacing: -0.02em;
-  }
+  .result-title { font-size: 1.2rem; font-weight: 700; color: var(--navy); letter-spacing: -0.02em; }
 
   .scan-again-btn {
-    background: var(--accent);
-    color: #fff;
-    border: none;
-    border-radius: 50px;
-    font-family: 'Inter', sans-serif;
-    font-size: 13px;
-    font-weight: 600;
-    padding: 8px 18px;
-    cursor: pointer;
-    transition: background 0.2s;
-    display: flex;
-    align-items: center;
-    gap: 6px;
+    background: var(--accent); color: #fff; border: none;
+    border-radius: 50px; font-family: 'Inter', sans-serif;
+    font-size: 13px; font-weight: 600; padding: 8px 18px;
+    cursor: pointer; transition: background 0.2s;
+    display: flex; align-items: center; gap: 6px;
   }
 
   .scan-again-btn:hover { background: var(--accent-dk); }
 
-  /* ── INVOICE VALUE CARD ── */
-  .invoice-value-card {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
+  /* ── DISCLAIMER CARD ── */
+  .disclaimer-card {
+    background: #FFFBEB;
+    border: 1px solid #FDE68A;
+    border-left: 4px solid var(--warn);
+    border-radius: 0 var(--radius) var(--radius) 0;
     padding: 1.25rem 1.5rem;
     margin-top: 1rem;
     box-shadow: var(--shadow);
-    display: flex;
-    align-items: center;
+  }
+
+  .disclaimer-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 0.75rem; flex-wrap: wrap; gap: 8px;
+  }
+
+  .disclaimer-title {
+    font-size: 11px; font-family: 'DM Mono', monospace;
+    text-transform: uppercase; letter-spacing: 0.1em; color: var(--warn);
+  }
+
+  .copy-btn {
+    display: flex; align-items: center; gap: 5px;
+    background: var(--warn); color: #fff;
+    border: none; border-radius: 50px;
+    font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600;
+    padding: 5px 12px; cursor: pointer; transition: background 0.2s;
+  }
+
+  .copy-btn:hover { background: #B45309; }
+  .copy-btn.copied { background: var(--success); }
+
+  .disclaimer-text {
+    font-size: 13px; color: var(--text2); line-height: 1.7;
+    white-space: pre-line;
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* ── INVOICE COMPARISON CARD ── */
+  .comparison-card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 1.25rem 1.5rem;
+    margin-top: 1rem; box-shadow: var(--shadow);
+    display: grid; grid-template-columns: 1fr 1fr 1fr;
     gap: 1rem;
   }
 
-  .invoice-value-icon {
-    width: 44px;
-    height: 44px;
-    background: #FFF0EB;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
+  @media (max-width: 600px) {
+    .comparison-card { grid-template-columns: 1fr; }
   }
 
-  .invoice-value-label {
-    font-size: 11px;
-    font-family: 'DM Mono', monospace;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--text3);
-    margin-bottom: 3px;
+  .cmp-item { display: flex; flex-direction: column; gap: 4px; }
+
+  .cmp-label {
+    font-size: 10px; font-family: 'DM Mono', monospace;
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--text3);
   }
 
-  .invoice-value-amount {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: var(--navy);
+  .cmp-value {
+    font-size: 1.3rem; font-weight: 700; color: var(--navy);
     letter-spacing: -0.02em;
   }
 
-  .invoice-value-amount .currency {
-    font-size: 0.85rem;
-    font-weight: 500;
-    color: var(--text2);
-    margin-left: 4px;
+  .cmp-value .currency {
+    font-size: 0.8rem; font-weight: 500; color: var(--text2); margin-left: 3px;
   }
 
-  .invoice-value-raw {
-    font-size: 11px;
-    color: var(--text3);
-    margin-top: 2px;
-    font-family: 'DM Mono', monospace;
-  }
+  .cmp-value.danger { color: var(--danger); }
+  .cmp-value.success { color: var(--success); }
 
-  /* ── FILE STRIP ── */
-  .file-strip {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    background: var(--bg3);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-sm);
-    padding: 10px 14px;
-    margin-top: 1rem;
-    font-size: 13px;
-    color: var(--text2);
-  }
+  .cmp-sub { font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; }
 
-  .file-strip-name {
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    flex: 1;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-
-  .file-type-badge {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    padding: 2px 7px;
-    border-radius: 4px;
-    background: var(--bg4);
-    border: 1px solid var(--border2);
-    color: var(--text3);
-    text-transform: uppercase;
-    flex-shrink: 0;
-  }
+  .cmp-divider { width: 1px; background: var(--border); margin: 0 0.5rem; }
 
   /* ── WARNINGS ── */
   .warnings-section { margin-top: 1.25rem; margin-bottom: 1.25rem; }
 
   .section-label {
-    font-size: 10px;
-    font-family: 'DM Mono', monospace;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--text3);
-    margin-bottom: 0.6rem;
+    font-size: 10px; font-family: 'DM Mono', monospace;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--text3); margin-bottom: 0.6rem;
   }
 
   .warning-banner {
-    display: flex;
-    align-items: flex-start;
-    gap: 12px;
-    background: #FEF2F2;
-    border: 1px solid #FECACA;
+    display: flex; align-items: flex-start; gap: 12px;
+    background: #FEF2F2; border: 1px solid #FECACA;
     border-left: 3px solid var(--danger);
     border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
-    padding: 12px 14px;
-    margin-bottom: 8px;
+    padding: 12px 14px; margin-bottom: 8px;
     animation: slideIn 0.25s ease;
   }
 
@@ -424,140 +498,96 @@
 
   .warn-icon { font-size: 14px; margin-top: 1px; flex-shrink: 0; }
   .warn-content { flex: 1; }
-
-  .warn-headline {
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    color: var(--danger);
-    font-weight: 500;
-    margin-bottom: 2px;
-  }
-
+  .warn-headline { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--danger); font-weight: 500; margin-bottom: 2px; }
   .warn-desc { font-size: 12px; color: #7F1D1D; opacity: 0.7; }
 
   .no-warnings {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    background: #ECFDF5;
-    border: 1px solid #A7F3D0;
-    border-radius: var(--radius-sm);
-    padding: 12px 14px;
-    font-size: 13px;
-    color: var(--success);
-    font-weight: 500;
+    display: flex; align-items: center; gap: 10px;
+    background: #ECFDF5; border: 1px solid #A7F3D0;
+    border-radius: var(--radius-sm); padding: 12px 14px;
+    font-size: 13px; color: var(--success); font-weight: 500;
   }
 
   /* ── CODES TABLE ── */
   .codes-section {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    overflow: hidden;
-    box-shadow: var(--shadow);
-    margin-top: 1.25rem;
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: var(--radius); overflow: hidden;
+    box-shadow: var(--shadow); margin-top: 1.25rem;
   }
 
   .codes-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1rem 1.25rem;
-    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 1rem 1.25rem; border-bottom: 1px solid var(--border);
     background: var(--bg3);
   }
 
   .codes-header-title {
-    font-size: 10px;
-    font-family: 'DM Mono', monospace;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--text3);
+    font-size: 10px; font-family: 'DM Mono', monospace;
+    text-transform: uppercase; letter-spacing: 0.1em; color: var(--text3);
   }
 
   .codes-count {
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    background: var(--bg2);
-    color: var(--accent);
-    padding: 2px 10px;
-    border-radius: 20px;
-    border: 1px solid #FDDCCE;
-    font-weight: 500;
+    font-family: 'DM Mono', monospace; font-size: 11px;
+    background: var(--bg2); color: var(--accent);
+    padding: 2px 10px; border-radius: 20px;
+    border: 1px solid #FDDCCE; font-weight: 500;
   }
 
   .codes-table { width: 100%; border-collapse: collapse; }
 
   .codes-table th {
-    text-align: left;
-    padding: 10px 1.25rem;
-    font-size: 11px;
-    font-weight: 600;
-    color: var(--text3);
-    background: var(--bg3);
-    border-bottom: 1px solid var(--border);
+    text-align: left; padding: 10px 1.25rem;
+    font-size: 11px; font-weight: 600; color: var(--text3);
+    background: var(--bg3); border-bottom: 1px solid var(--border);
     letter-spacing: 0.04em;
   }
 
   .codes-table td {
-    padding: 11px 1.25rem;
-    font-size: 13px;
-    border-bottom: 1px solid var(--border);
-    vertical-align: middle;
-    color: var(--text2);
+    padding: 11px 1.25rem; font-size: 13px;
+    border-bottom: 1px solid var(--border); vertical-align: middle; color: var(--text2);
   }
 
   .codes-table tr:last-child td { border-bottom: none; }
   .codes-table tbody tr:hover td { background: #FFFAF8; }
 
-  .code-val {
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    color: var(--navy);
-    font-weight: 500;
-  }
+  .code-val { font-family: 'DM Mono', monospace; font-size: 13px; color: var(--navy); font-weight: 500; }
 
   .chapter-badge {
-    display: inline-block;
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    padding: 2px 8px;
-    border-radius: 4px;
-    background: var(--bg4);
-    border: 1px solid var(--border2);
-    color: var(--text2);
-    font-weight: 500;
+    display: inline-block; font-family: 'DM Mono', monospace; font-size: 10px;
+    padding: 2px 8px; border-radius: 4px;
+    background: var(--bg4); border: 1px solid var(--border2); color: var(--text2); font-weight: 500;
   }
 
-  .chapter-badge.flagged {
-    background: #FEF2F2;
-    border-color: #FECACA;
-    color: var(--danger);
+  .chapter-badge.flagged { background: #FEF2F2; border-color: #FECACA; color: var(--danger); }
+
+  .flag-indicator   { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: var(--danger); font-weight: 500; }
+  .clear-indicator  { font-size: 11px; color: var(--success); font-weight: 500; }
+
+  /* ── FILE STRIP ── */
+  .file-strip {
+    display: flex; align-items: center; gap: 10px;
+    background: var(--bg3); border: 1px solid var(--border);
+    border-radius: var(--radius-sm); padding: 10px 14px;
+    margin-top: 1rem; font-size: 13px; color: var(--text2);
   }
 
-  .flag-indicator {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 11px;
-    color: var(--danger);
-    font-weight: 500;
+  .file-strip-name {
+    font-family: 'DM Mono', monospace; font-size: 12px;
+    flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
 
-  .clear-indicator {
-    font-size: 11px;
-    color: var(--success);
-    font-weight: 500;
+  .file-type-badge {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    padding: 2px 7px; border-radius: 4px;
+    background: var(--bg4); border: 1px solid var(--border2);
+    color: var(--text3); text-transform: uppercase; flex-shrink: 0;
   }
 
   /* ── FOOTER ── */
   footer {
-    margin-top: 4rem;
-    text-align: center;
-    font-size: 12px;
-    font-family: 'DM Mono', monospace;
-    color: var(--text3);
-    letter-spacing: 0.04em;
+    margin-top: 4rem; text-align: center;
+    font-size: 12px; font-family: 'DM Mono', monospace;
+    color: var(--text3); letter-spacing: 0.04em;
   }
 
   footer a { color: var(--accent); text-decoration: none; }
@@ -573,13 +603,86 @@
   <span class="nav-badge">HS Code Scanner</span>
 </nav>
 
-<!-- MAIN -->
-<div class="container">
-
+<!-- ══════════════════════════════════════
+     STEP 1 — QUOTE ID LOOKUP
+══════════════════════════════════════ -->
+<div id="quote-step" class="container">
   <h1 class="page-title">HS Code Scanner</h1>
-  <p class="page-sub">Upload a commercial invoice to extract HS/HTS codes and invoice value instantly.</p>
+  <p class="page-sub">Enter the shipment Quote ID to begin.</p>
 
-  <!-- Upload Zone -->
+  <div class="step-pills">
+    <div class="step-pill active">
+      <div class="step-num">1</div><span>Quote ID</span>
+    </div>
+    <div class="step-divider"></div>
+    <div class="step-pill">
+      <div class="step-num">2</div><span>Upload Invoice</span>
+    </div>
+    <div class="step-divider"></div>
+    <div class="step-pill">
+      <div class="step-num">3</div><span>Results</span>
+    </div>
+  </div>
+
+  <div class="quote-input-card">
+    <label>Quote ID</label>
+    <div class="quote-input-row">
+      <input type="text" id="quoteInput" placeholder="e.g. XQAMZFCL042620169M"
+             onkeydown="if(event.key==='Enter') lookupQuote()">
+      <button class="btn-primary" onclick="lookupQuote()">
+        Look up
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </button>
+    </div>
+
+    <div class="quote-found-banner" id="quoteBanner">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="color:var(--success);flex-shrink:0"><polyline points="20 6 9 17 4 12"/></svg>
+      <div style="flex:1">
+        <div class="quote-found-id" id="bannerQuoteId"></div>
+        <div class="quote-found-val">Exports Invoice Value: <strong id="bannerExportsVal"></strong></div>
+      </div>
+      <button class="btn-primary" id="continueBtn" onclick="goToUpload()" style="height:36px;font-size:12px;padding:0 16px;">
+        Continue
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="error-box" id="quoteErrorBox"></div>
+</div>
+
+<!-- ══════════════════════════════════════
+     STEP 2 — UPLOAD
+══════════════════════════════════════ -->
+<div id="upload-step" class="container" style="display:none">
+
+  <div class="step-pills">
+    <div class="step-pill done">
+      <div class="step-num">✓</div><span>Quote ID</span>
+    </div>
+    <div class="step-divider"></div>
+    <div class="step-pill active">
+      <div class="step-num">2</div><span>Upload Invoice</span>
+    </div>
+    <div class="step-divider"></div>
+    <div class="step-pill">
+      <div class="step-num">3</div><span>Results</span>
+    </div>
+  </div>
+
+  <div class="quote-context-bar">
+    <div>
+      <div class="qcb-label">Quote ID</div>
+      <div class="qcb-value" id="ctxQuoteId">—</div>
+    </div>
+    <div class="qcb-divider"></div>
+    <div>
+      <div class="qcb-label">Exports Invoice Value</div>
+      <div class="qcb-value" id="ctxExportsVal">—</div>
+    </div>
+    <button class="qcb-change" onclick="resetToQuoteStep()">Change</button>
+  </div>
+
   <div class="upload-zone" id="uploadZone">
     <input type="file" id="fileInput" accept=".pdf,.xlsx,.xls,.csv" onchange="handleFile(this.files[0])">
     <div class="upload-icon-wrap">
@@ -616,60 +719,89 @@
       <div class="progress-steps" id="progressSteps"></div>
     </div>
   </div>
+</div>
 
-  <!-- Results -->
-  <div id="results-section">
-    <div class="result-header">
-      <div class="result-title">Scan Results</div>
-      <button class="scan-again-btn" onclick="resetApp()">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
-        Scan another invoice
-      </button>
+<!-- ══════════════════════════════════════
+     STEP 3 — RESULTS
+══════════════════════════════════════ -->
+<div id="results-section" class="container" style="display:none">
+
+  <div class="step-pills">
+    <div class="step-pill done"><div class="step-num">✓</div><span>Quote ID</span></div>
+    <div class="step-divider"></div>
+    <div class="step-pill done"><div class="step-num">✓</div><span>Upload Invoice</span></div>
+    <div class="step-divider"></div>
+    <div class="step-pill active"><div class="step-num">3</div><span>Results</span></div>
+  </div>
+
+  <div class="result-header">
+    <div class="result-title">Scan Results</div>
+    <button class="scan-again-btn" onclick="resetApp()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
+      New Scan
+    </button>
+  </div>
+
+  <div id="fileInfoStrip"></div>
+
+  <!-- Invoice value comparison -->
+  <div class="comparison-card" id="comparisonCard" style="display:none">
+    <div class="cmp-item">
+      <div class="cmp-label">Exports Invoice Value</div>
+      <div class="cmp-value" id="cmpExports">—</div>
+      <div class="cmp-sub">From Google Sheet</div>
     </div>
-
-    <div id="fileInfoStrip"></div>
-
-    <!-- Invoice Value -->
-    <div id="invoiceValueCard" style="display:none;" class="invoice-value-card">
-      <div class="invoice-value-icon">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#E8622A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="12" y1="1" x2="12" y2="23"/>
-          <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
-        </svg>
-      </div>
-      <div>
-        <div class="invoice-value-label">Total Invoice Value</div>
-        <div class="invoice-value-amount" id="invoiceValueAmount">—</div>
-        <div class="invoice-value-raw" id="invoiceValueRaw"></div>
-      </div>
+    <div class="cmp-item">
+      <div class="cmp-label">Scanned Invoice Value</div>
+      <div class="cmp-value" id="cmpScanned">—</div>
+      <div class="cmp-sub" id="cmpScannedRaw"></div>
     </div>
-
-    <!-- Warnings -->
-    <div class="warnings-section">
-      <div class="section-label">Chapter Alerts</div>
-      <div id="warningsList"></div>
-    </div>
-
-    <!-- Codes Table -->
-    <div class="codes-section">
-      <div class="codes-header">
-        <span class="codes-header-title">Detected HS / HTS Codes</span>
-        <span class="codes-count" id="codesCount">0 codes</span>
-      </div>
-      <table class="codes-table">
-        <thead>
-          <tr>
-            <th>Code</th>
-            <th>Chapter</th>
-            <th>Description</th>
-            <th>Status</th>
-          </tr>
-        </thead>
-        <tbody id="codesTableBody"></tbody>
-      </table>
+    <div class="cmp-item">
+      <div class="cmp-label">Difference</div>
+      <div class="cmp-value" id="cmpDiff">—</div>
+      <div class="cmp-sub" id="cmpDiffLabel"></div>
     </div>
   </div>
 
+  <!-- Disclaimer (shown only when scanned < exports) -->
+  <div class="disclaimer-card" id="disclaimerCard" style="display:none">
+    <div class="disclaimer-header">
+      <div class="disclaimer-title">⚠ Invoice Value Mismatch — Customer Notice</div>
+      <button class="copy-btn" id="copyBtn" onclick="copyDisclaimer()">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+        Copy message
+      </button>
+    </div>
+    <div class="disclaimer-text" id="disclaimerText"></div>
+  </div>
+
+  <!-- Chapter warnings -->
+  <div class="warnings-section">
+    <div class="section-label">Chapter Alerts</div>
+    <div id="warningsList"></div>
+  </div>
+
+  <!-- HTS Codes Table -->
+  <div class="codes-section">
+    <div class="codes-header">
+      <span class="codes-header-title">Detected HS / HTS Codes</span>
+      <span class="codes-count" id="codesCount">0 codes</span>
+    </div>
+    <table class="codes-table">
+      <thead>
+        <tr>
+          <th>Code</th>
+          <th>Chapter</th>
+          <th>Description</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody id="codesTableBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<div class="container" style="padding-top:0">
   <footer>
     &copy; 2025 <a href="https://xhipment.com">Xhipment</a> &mdash; HS Code Compliance Scanner &mdash; powered by Claude AI
   </footer>
@@ -679,6 +811,15 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
 const WORKER_URL = 'https://xhipment-hs-proxy.raunak-4c2.workers.dev';
+
+const DISCLAIMER_MESSAGE = `Dear Customer,
+
+Hope you are well. Upon reviewing the import invoice, we observed that there's a reduction in the imports invoice from the exports invoice value. Please note that any customs reviews or holds occurring because of this difference will be attributable to your shipment and the resulting additional charges will be passed on to your account.
+
+Thank you for your support and understanding.
+
+Regards,
+Team Xhipment`;
 
 const FLAGGED_CHAPTERS = {
   '01': 'Live Animals',
@@ -710,34 +851,88 @@ const FLAGGED_CHAPTERS = {
   '97': "Works of Art, Collectors' Pieces and Antiques"
 };
 
-function showError(msg) {
-  const el = document.getElementById('errorBox');
-  el.textContent = '⚠ ' + msg;
-  el.style.display = 'block';
+// ── State ──
+let quoteLookup = {};
+let currentQuoteId = '';
+let exportsInvoiceValue = null;
+
+// Load lookup table from JSON file
+fetch('./quote_lookup.json')
+  .then(r => r.json())
+  .then(data => {
+    data.forEach(entry => {
+      quoteLookup[entry.quoteId.trim().toUpperCase()] = parseFloat(entry.exportsInvoiceValue);
+    });
+  })
+  .catch(() => console.warn('quote_lookup.json not loaded'));
+
+// ── Quote ID step ──
+function lookupQuote() {
+  const raw = document.getElementById('quoteInput').value.trim().toUpperCase();
+  const errBox = document.getElementById('quoteErrorBox');
+  const banner = document.getElementById('quoteBanner');
+  errBox.style.display = 'none';
+  banner.classList.remove('visible');
+
+  if (!raw) {
+    errBox.textContent = '⚠ Please enter a Quote ID.';
+    errBox.style.display = 'block';
+    return;
+  }
+
+  const val = quoteLookup[raw];
+  if (val !== undefined && !isNaN(val)) {
+    currentQuoteId = raw;
+    exportsInvoiceValue = val;
+    document.getElementById('bannerQuoteId').textContent = raw;
+    document.getElementById('bannerExportsVal').textContent = formatCurrency(val);
+    banner.classList.add('visible');
+  } else {
+    errBox.textContent = '⚠ Quote ID not found. Please check and try again.';
+    errBox.style.display = 'block';
+  }
 }
 
-function hideError() { document.getElementById('errorBox').style.display = 'none'; }
-
-function setProgress(pct, label) {
-  document.getElementById('progressBar').style.width = pct + '%';
-  document.getElementById('progressPct').textContent = pct + '%';
-  document.getElementById('progressLabel').textContent = label;
+function goToUpload() {
+  document.getElementById('quote-step').style.display = 'none';
+  document.getElementById('upload-step').style.display = 'block';
+  document.getElementById('ctxQuoteId').textContent  = currentQuoteId;
+  document.getElementById('ctxExportsVal').textContent = formatCurrency(exportsInvoiceValue);
 }
 
-function updateStep(steps, activeIdx) {
-  const container = document.getElementById('progressSteps');
-  container.innerHTML = '';
-  steps.forEach((s, i) => {
-    const div = document.createElement('div');
-    let cls = 'step', icon = '○';
-    if (i < activeIdx)      { cls += ' done';   icon = '✓'; }
-    else if (i === activeIdx) { cls += ' active'; icon = '→'; }
-    div.className = cls;
-    div.innerHTML = `<div class="step-icon">${icon}</div><span>${s}</span>`;
-    container.appendChild(div);
-  });
+function resetToQuoteStep() {
+  document.getElementById('upload-step').style.display = 'none';
+  document.getElementById('quote-step').style.display  = 'block';
+  document.getElementById('progress-section').style.display = 'none';
+  document.getElementById('ocrNote').style.display = 'none';
+  document.getElementById('errorBox').style.display = 'none';
+  document.getElementById('fileInput').value = '';
+  resetUploadZone();
 }
 
+function resetApp() {
+  document.getElementById('results-section').style.display = 'none';
+  document.getElementById('quote-step').style.display      = 'block';
+  document.getElementById('upload-step').style.display     = 'none';
+  document.getElementById('progress-section').style.display = 'none';
+  document.getElementById('ocrNote').style.display         = 'none';
+  document.getElementById('fileInput').value = '';
+  document.getElementById('quoteInput').value = '';
+  document.getElementById('quoteBanner').classList.remove('visible');
+  document.getElementById('quoteErrorBox').style.display = 'none';
+  currentQuoteId = '';
+  exportsInvoiceValue = null;
+  resetUploadZone();
+  const note = document.querySelector('#results-section > p');
+  if (note) note.remove();
+}
+
+function resetUploadZone() {
+  document.getElementById('uploadZone').style.display = 'block';
+  document.getElementById('uploadZone').classList.remove('drag-over');
+}
+
+// ── Drag & drop ──
 const zone = document.getElementById('uploadZone');
 zone.addEventListener('dragover',  e => { e.preventDefault(); zone.classList.add('drag-over'); });
 zone.addEventListener('dragleave', () => zone.classList.remove('drag-over'));
@@ -748,12 +943,11 @@ zone.addEventListener('drop', e => {
   if (f) handleFile(f);
 });
 
+// ── File handling ──
 async function handleFile(file) {
   if (!file) return;
-  hideError();
-
+  document.getElementById('errorBox').style.display = 'none';
   document.getElementById('progress-section').style.display = 'block';
-  document.getElementById('results-section').style.display  = 'none';
   document.getElementById('uploadZone').style.display       = 'none';
   document.getElementById('ocrNote').style.display          = 'none';
 
@@ -794,16 +988,20 @@ async function handleFile(file) {
 
     setTimeout(() => {
       document.getElementById('progress-section').style.display = 'none';
+      document.getElementById('upload-step').style.display      = 'none';
       showResults(result, file);
     }, 500);
 
   } catch (err) {
     document.getElementById('progress-section').style.display = 'none';
     document.getElementById('uploadZone').style.display = 'block';
-    showError(err.message || 'An unexpected error occurred.');
+    const errBox = document.getElementById('errorBox');
+    errBox.textContent = '⚠ ' + (err.message || 'An unexpected error occurred.');
+    errBox.style.display = 'block';
   }
 }
 
+// ── PDF / Excel extraction (unchanged) ──
 async function extractPDFText(file) {
   const arrayBuffer = await file.arrayBuffer();
   const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
@@ -822,14 +1020,12 @@ async function extractPDFText(file) {
     setProgress(25, 'Running OCR on scanned PDF...');
     fullText = await runOCROnPDF(pdf);
   }
-
   return fullText;
 }
 
 async function runOCROnPDF(pdf) {
   let ocrText = '';
   const worker = await Tesseract.createWorker('eng');
-
   for (let i = 1; i <= pdf.numPages; i++) {
     setProgress(25 + Math.round((i / pdf.numPages) * 20), `OCR: page ${i} of ${pdf.numPages}...`);
     const page     = await pdf.getPage(i);
@@ -841,7 +1037,6 @@ async function runOCROnPDF(pdf) {
     const { data: { text } } = await worker.recognize(canvas.toDataURL('image/png'));
     ocrText += text + '\n';
   }
-
   await worker.terminate();
   return ocrText;
 }
@@ -856,37 +1051,38 @@ async function extractExcelText(file) {
   return allText;
 }
 
+// ── Claude analysis ──
 async function analyzeWithClaude(text) {
   const prompt = `You are an expert customs and trade compliance analyst. Analyze the commercial invoice below and extract two things:
 
 1. ALL HS codes (also called HTS codes, Harmonized System codes, Commodity Codes, or Tariff Codes).
    - Look in columns labeled "HS Code", "HTS Code", "Commodity Code", "Tariff Code", "Code", "HTS", "HS", etc.
-   - As standalone numeric strings anywhere in the document
-   - With or without dots/dashes as separators (e.g., 0910.99.6000 or 0910996000 or '0910996000)
-   - Strip any leading apostrophe (Excel formatting artifact)
+   - Also as standalone numeric strings anywhere in the document
+   - With or without dots/dashes (e.g., 0910.99.6000 or 0910996000)
+   - Strip any leading apostrophe (Excel artifact)
    - As 4, 6, 8, or 10-digit codes
    - Use contextual understanding, NOT regex pattern matching
 
 2. The TOTAL INVOICE VALUE (grand total amount payable).
-   - Look for fields labeled "Total", "Invoice Total", "Grand Total", "Amount Due", "Total Amount", "Total Value", etc.
+   - Look for "Total", "Invoice Total", "Grand Total", "Amount Due", "Total Amount", "Total Value", etc.
    - Capture the numeric amount AND the currency (USD, EUR, INR, GBP, etc.)
    - If multiple subtotals exist, extract the final grand total only
    - If no clear total is found, return null values
 
-Return ONLY a valid JSON object (no markdown, no explanation) in this exact format:
+Return ONLY valid JSON (no markdown) in this exact format:
 {
   "codes": [
-    {"raw": "original code as found", "normalized": "digits only no dots or dashes", "context": "brief note about where/how it appeared"}
+    {"raw": "original code as found", "normalized": "digits only no dots or dashes", "context": "brief note"}
   ],
   "invoice_value": {
     "amount": 12345.67,
     "currency": "USD",
-    "raw": "original string as found in document, e.g. 'USD 12,345.67'"
+    "raw": "original string as found"
   },
-  "notes": "any observations about the invoice structure or code detection"
+  "notes": "any observations"
 }
 
-If no HS codes found, return empty codes array. If no invoice total found, set invoice_value to {"amount": null, "currency": null, "raw": null}.
+If no HS codes found, return empty codes array. If no invoice total, set invoice_value to {"amount": null, "currency": null, "raw": null}.
 
 Invoice content:
 ${text.substring(0, 15000)}`;
@@ -902,7 +1098,6 @@ ${text.substring(0, 15000)}`;
   });
 
   const data = await response.json();
-
   if (!response.ok) throw new Error(data.error || `Server error ${response.status}`);
   if (data.error)  throw new Error(data.error.message || data.error);
 
@@ -914,9 +1109,11 @@ ${text.substring(0, 15000)}`;
   }
 }
 
+// ── Results ──
 function showResults(result, file) {
   document.getElementById('results-section').style.display = 'block';
 
+  // File strip
   const ext = file.name.split('.').pop().toUpperCase();
   document.getElementById('fileInfoStrip').innerHTML = `
     <div class="file-strip">
@@ -926,36 +1123,57 @@ function showResults(result, file) {
       </svg>
       <span class="file-strip-name">${file.name}</span>
       <span class="file-type-badge">${ext}</span>
+      <span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--text3);margin-left:auto;">${currentQuoteId}</span>
     </div>`;
 
-  // Invoice Value
+  // Invoice value comparison
   const iv = result.invoice_value;
-  const ivCard = document.getElementById('invoiceValueCard');
-  if (iv && iv.amount !== null && iv.amount !== undefined) {
-    ivCard.style.display = 'flex';
-    const formatted = Number(iv.amount).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-    document.getElementById('invoiceValueAmount').innerHTML =
-      `${formatted}<span class="currency">${iv.currency || ''}</span>`;
-    if (iv.raw) {
-      document.getElementById('invoiceValueRaw').textContent = `Found as: "${iv.raw}"`;
+  const scannedAmount = (iv && iv.amount !== null && iv.amount !== undefined) ? parseFloat(iv.amount) : null;
+  const exportsAmt    = exportsInvoiceValue;
+  const compCard      = document.getElementById('comparisonCard');
+
+  if (scannedAmount !== null && exportsAmt !== null) {
+    compCard.style.display = 'grid';
+    const diff = scannedAmount - exportsAmt;
+    const isShort = scannedAmount < exportsAmt;
+
+    document.getElementById('cmpExports').innerHTML =
+      `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
+
+    document.getElementById('cmpScanned').innerHTML =
+      `${formatCurrency(scannedAmount)}<span class="currency">${iv.currency || ''}</span>`;
+    document.getElementById('cmpScannedRaw').textContent = iv.raw ? `"${iv.raw}"` : '';
+
+    const diffEl   = document.getElementById('cmpDiff');
+    const diffLabel = document.getElementById('cmpDiffLabel');
+    diffEl.innerHTML = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">${iv.currency || 'USD'}</span>`;
+    diffEl.className = 'cmp-value ' + (isShort ? 'danger' : 'success');
+    diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
+
+    // Disclaimer
+    if (isShort) {
+      document.getElementById('disclaimerCard').style.display = 'block';
+      document.getElementById('disclaimerText').textContent = DISCLAIMER_MESSAGE;
     }
-  } else {
-    ivCard.style.display = 'none';
+  } else if (scannedAmount === null) {
+    compCard.style.display = 'grid';
+    document.getElementById('cmpExports').innerHTML =
+      `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
+    document.getElementById('cmpScanned').textContent = 'Not detected';
+    document.getElementById('cmpScanned').style.fontSize = '1rem';
+    document.getElementById('cmpDiff').textContent = '—';
   }
 
-  // Warnings
+  // Chapter warnings
   const codes = result.codes || [];
   const warningsList = document.getElementById('warningsList');
   warningsList.innerHTML = '';
-
   const triggeredChapters = new Map();
   codes.forEach(code => {
     const norm = code.normalized.replace(/\D/g, '');
     if (norm.length >= 2) {
-      const chapter = norm.substring(0, 2);
-      if (FLAGGED_CHAPTERS[chapter] && !triggeredChapters.has(chapter)) {
-        triggeredChapters.set(chapter, FLAGGED_CHAPTERS[chapter]);
-      }
+      const ch = norm.substring(0, 2);
+      if (FLAGGED_CHAPTERS[ch] && !triggeredChapters.has(ch)) triggeredChapters.set(ch, FLAGGED_CHAPTERS[ch]);
     }
   });
 
@@ -966,19 +1184,19 @@ function showResults(result, file) {
         No flagged chapters detected in this invoice
       </div>`;
   } else {
-    triggeredChapters.forEach((desc, chapter) => {
+    triggeredChapters.forEach((desc, ch) => {
       warningsList.innerHTML += `
         <div class="warning-banner">
           <span class="warn-icon">⚠</span>
           <div class="warn-content">
-            <div class="warn-headline">Chapter ${chapter}: ${desc}</div>
+            <div class="warn-headline">Chapter ${ch}: ${desc}</div>
             <div class="warn-desc">Requires additional compliance review per USITC HTS schedule</div>
           </div>
         </div>`;
     });
   }
 
-  // Codes Table
+  // HTS codes table
   const tbody = document.getElementById('codesTableBody');
   tbody.innerHTML = '';
   document.getElementById('codesCount').textContent = codes.length + ' code' + (codes.length !== 1 ? 's' : '');
@@ -987,21 +1205,17 @@ function showResults(result, file) {
     tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;color:var(--text3);padding:2rem;font-size:13px;">No HS codes detected in this invoice</td></tr>`;
   } else {
     codes.forEach(code => {
-      const norm       = code.normalized.replace(/\D/g, '');
-      const chapter    = norm.length >= 2 ? norm.substring(0, 2) : '??';
-      const isFlagged  = !!FLAGGED_CHAPTERS[chapter];
+      const norm        = code.normalized.replace(/\D/g, '');
+      const chapter     = norm.length >= 2 ? norm.substring(0, 2) : '??';
+      const isFlagged   = !!FLAGGED_CHAPTERS[chapter];
       const chapterDesc = FLAGGED_CHAPTERS[chapter] || '';
-
       tbody.innerHTML += `
         <tr>
           <td><span class="code-val">${code.raw}</span></td>
           <td><span class="chapter-badge ${isFlagged ? 'flagged' : ''}">${chapter}</span></td>
           <td style="font-size:12px;color:var(--text2);max-width:260px;">${isFlagged ? chapterDesc.substring(0, 60) + (chapterDesc.length > 60 ? '…' : '') : '—'}</td>
           <td>${isFlagged
-            ? `<span class="flag-indicator">
-                <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15" stroke="currentColor" stroke-width="2"/></svg>
-                Flagged
-              </span>`
+            ? `<span class="flag-indicator"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15" stroke="currentColor" stroke-width="2"/></svg> Flagged</span>`
             : `<span class="clear-indicator">✓ Clear</span>`
           }</td>
         </tr>`;
@@ -1016,15 +1230,41 @@ function showResults(result, file) {
   }
 }
 
-function resetApp() {
-  document.getElementById('results-section').style.display  = 'none';
-  document.getElementById('uploadZone').style.display       = 'block';
-  document.getElementById('ocrNote').style.display          = 'none';
-  document.getElementById('progress-section').style.display = 'none';
-  document.getElementById('fileInput').value = '';
-  const note = document.querySelector('#results-section > p');
-  if (note) note.remove();
-  hideError();
+// ── Helpers ──
+function formatCurrency(val) {
+  return Number(val).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+}
+
+function copyDisclaimer() {
+  navigator.clipboard.writeText(DISCLAIMER_MESSAGE).then(() => {
+    const btn = document.getElementById('copyBtn');
+    btn.classList.add('copied');
+    btn.innerHTML = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg> Copied!`;
+    setTimeout(() => {
+      btn.classList.remove('copied');
+      btn.innerHTML = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Copy message`;
+    }, 2500);
+  });
+}
+
+function setProgress(pct, label) {
+  document.getElementById('progressBar').style.width  = pct + '%';
+  document.getElementById('progressPct').textContent  = pct + '%';
+  document.getElementById('progressLabel').textContent = label;
+}
+
+function updateStep(steps, activeIdx) {
+  const container = document.getElementById('progressSteps');
+  container.innerHTML = '';
+  steps.forEach((s, i) => {
+    const div = document.createElement('div');
+    let cls = 'step', icon = '○';
+    if (i < activeIdx)       { cls += ' done';   icon = '✓'; }
+    else if (i === activeIdx) { cls += ' active'; icon = '→'; }
+    div.className = cls;
+    div.innerHTML = `<div class="step-icon">${icon}</div><span>${s}</span>`;
+    container.appendChild(div);
+  });
 }
 </script>
 </body>
