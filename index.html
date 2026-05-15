@@ -506,7 +506,7 @@
     <div class="cmp-item">
       <div class="cmp-label">Exports Invoice Value</div>
       <div class="cmp-value" id="cmpExports">—</div>
-      <div class="cmp-sub">From Google Sheet</div>
+      <div class="cmp-sub" id="cmpExportsSub">From Google Sheet</div>
     </div>
     <div class="cmp-item">
       <div class="cmp-label">Scanned Invoice Value</div>
@@ -569,11 +569,13 @@ pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs
 
 const WORKER_URL = 'https://xhipment-hs-proxy.raunak-4c2.workers.dev';
 
-function buildDisclaimer(scannedAmt, scannedCurrency, exportsAmt) {
-  const fmt = v => '$' + Number(v).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+function buildDisclaimer(scannedAmt, scannedCurrency, exportsAmt, exportsCurrency) {
+  const fmt = v => Number(v).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const sc = scannedCurrency || 'USD';
+  const ec = exportsCurrency || 'USD';
   return `Dear Customer,
 
-Hope you are well. Upon reviewing the import invoice, we observed that there's a reduction in the imports invoice from the exports invoice value. Your imports invoice value is ${fmt(scannedAmt)} ${scannedCurrency || 'USD'}, whereas your exports invoice value is ${fmt(exportsAmt)} USD.
+Hope you are well. Upon reviewing the import invoice, we observed that there's a reduction in the imports invoice from the exports invoice value. Your imports invoice value is ${fmt(scannedAmt)} ${sc}, whereas your exports invoice value is ${fmt(exportsAmt)} ${ec}.
 
 Please note that any customs reviews or holds occurring because of this difference will be attributable to your shipment and the resulting additional charges will be passed on to your account.
 
@@ -739,10 +741,10 @@ async function processInvoiceFile(file, steps) {
   await new Promise(r => setTimeout(r, 400));
   setProgress(100, 'Complete');
 
-  setTimeout(() => {
+  setTimeout(async () => {
     document.getElementById('progress-section').style.display = 'none';
     document.getElementById('quote-step').style.display = 'none';
-    showResults(result, file);
+    await showResults(result, file);
   }, 500);
 }
 
@@ -882,7 +884,16 @@ ${text.substring(0, 30000)}`;
 }
 
 // ── Results ──
-function showResults(result, file) {
+async function getExchangeRate(from, to) {
+  const resp = await fetch(`https://api.frankfurter.app/latest?from=${from}&to=${to}`);
+  if (!resp.ok) throw new Error('Exchange rate unavailable');
+  const data = await resp.json();
+  const rate = data.rates[to];
+  if (!rate) throw new Error(`No rate for ${from}→${to}`);
+  return rate;
+}
+
+async function showResults(result, file) {
   document.getElementById('results-section').style.display = 'block';
 
   const ext = file.name.split('.').pop().toUpperCase();
@@ -916,9 +927,6 @@ function showResults(result, file) {
     const scannedCurrency = (iv.currency || 'USD').toUpperCase();
     const sameCurrency    = scannedCurrency === 'USD';
 
-    document.getElementById('cmpExports').innerHTML =
-      `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
-
     document.getElementById('cmpScanned').innerHTML =
       `${formatCurrency(scannedAmount)}<span class="currency">${scannedCurrency}</span>`;
     document.getElementById('cmpScannedRaw').textContent = iv.raw ? `"${iv.raw}"` : '';
@@ -927,10 +935,48 @@ function showResults(result, file) {
     const diffLabel = document.getElementById('cmpDiffLabel');
 
     if (!sameCurrency) {
-      diffEl.textContent = '—';
-      diffEl.className   = 'cmp-value';
-      diffLabel.textContent = 'Different currencies — not comparable';
+      // Show USD exports while fetching rate
+      document.getElementById('cmpExports').innerHTML =
+        `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
+      document.getElementById('cmpExportsSub').textContent = 'Converting…';
+      diffEl.textContent    = '…';
+      diffEl.className      = 'cmp-value';
+      diffLabel.textContent = '';
+
+      try {
+        const rate             = await getExchangeRate('USD', scannedCurrency);
+        const convertedExports = exportsAmt * rate;
+
+        document.getElementById('cmpExports').innerHTML =
+          `${formatCurrency(convertedExports)}<span class="currency">${scannedCurrency}</span>`;
+        document.getElementById('cmpExportsSub').textContent =
+          `$${formatCurrency(exportsAmt)} USD × ${rate.toFixed(4)}`;
+
+        const diff    = scannedAmount - convertedExports;
+        const isShort = scannedAmount < convertedExports;
+        diffEl.innerHTML  = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">${scannedCurrency}</span>`;
+        diffEl.className  = 'cmp-value ' + (isShort ? 'danger' : 'success');
+        diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
+
+        if (isShort) {
+          const msg = buildDisclaimer(scannedAmount, scannedCurrency, convertedExports, scannedCurrency);
+          document.getElementById('disclaimerCard').style.display = 'block';
+          const textEl = document.getElementById('disclaimerText');
+          textEl.textContent = msg;
+          textEl.dataset.message = msg;
+        }
+      } catch (_) {
+        document.getElementById('cmpExports').innerHTML =
+          `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
+        document.getElementById('cmpExportsSub').textContent = 'From Google Sheet';
+        diffEl.textContent    = '—';
+        diffLabel.textContent = 'Could not fetch exchange rate';
+      }
     } else {
+      document.getElementById('cmpExports').innerHTML =
+        `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
+      document.getElementById('cmpExportsSub').textContent = 'From Google Sheet';
+
       const diff    = scannedAmount - exportsAmt;
       const isShort = scannedAmount < exportsAmt;
       diffEl.innerHTML  = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">USD</span>`;
@@ -938,7 +984,7 @@ function showResults(result, file) {
       diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
       if (isShort) {
-        const msg = buildDisclaimer(scannedAmount, scannedCurrency, exportsAmt);
+        const msg = buildDisclaimer(scannedAmount, scannedCurrency, exportsAmt, 'USD');
         document.getElementById('disclaimerCard').style.display = 'block';
         const textEl = document.getElementById('disclaimerText');
         textEl.textContent = msg;
