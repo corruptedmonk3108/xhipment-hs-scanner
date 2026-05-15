@@ -568,8 +568,6 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
 const WORKER_URL   = 'https://xhipment-hs-proxy.raunak-4c2.workers.dev';
-const GCHAT_WEBHOOK = 'https://chat.googleapis.com/v1/spaces/AAQANYsjE6k/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=FYi3VmFwHT3qXcUUZpIIsqvv9W0-C015kt9rYdCmvco';
-
 function sendChatAlert(quoteId, chaptersMap) {
   const dt = new Date().toLocaleString('en-IN', {
     timeZone: 'Asia/Kolkata',
@@ -580,11 +578,10 @@ function sendChatAlert(quoteId, chaptersMap) {
     .map(([ch, desc]) => `Chapter ${ch} (${desc})`)
     .join(', ');
   const text = `🚨 *${quoteId}* was flagged for ${chapterList} @ ${dt} IST`;
-  fetch(GCHAT_WEBHOOK, {
+  fetch(WORKER_URL + '/gchat', {
     method: 'POST',
-    headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
-    body: JSON.stringify({ text }),
-    mode: 'no-cors'
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ text })
   }).catch(() => {});
 }
 
