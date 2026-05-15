@@ -506,7 +506,7 @@
     <div class="cmp-item">
       <div class="cmp-label">Exports Invoice Value</div>
       <div class="cmp-value" id="cmpExports">—</div>
-      <div class="cmp-sub" id="cmpExportsSub">From Google Sheet</div>
+      <div class="cmp-sub" id="cmpExportsSub"></div>
     </div>
     <div class="cmp-item">
       <div class="cmp-label">Scanned Invoice Value</div>
@@ -641,6 +641,7 @@ let currentQuoteId = '';
 let currentShipper = '';
 let exportsInvoiceValue = null;
 let currentFilename = '';
+let currentInvoiceUrl = '';
 
 fetch('./quote_lookup.json')
   .then(r => r.json())
@@ -705,9 +706,10 @@ async function scanQuote() {
     const urlParamValue = urlParamMatch ? urlParamMatch[1] : entry.url;
     const rawFilename = urlParamValue.split('/').pop();
     currentFilename = decodeURIComponent(rawFilename) || ('invoice.' + ext);
+    currentInvoiceUrl = entry.url.replace(/ /g, '%20');
 
     // Fetch the invoice (try direct first, fall back to Worker proxy)
-    const safeUrl = entry.url.replace(/ /g, '%20');
+    const safeUrl = currentInvoiceUrl;
     let blob;
     try {
       const resp = await fetch(safeUrl, { mode: 'cors' });
@@ -794,8 +796,9 @@ function resetApp() {
   currentShipper = '';
   exportsInvoiceValue = null;
   currentFilename = '';
-  const note = document.getElementById('results-section').querySelector('p');
-  if (note) note.remove();
+  currentInvoiceUrl = '';
+  const aiNote = document.getElementById('aiNote');
+  if (aiNote) aiNote.remove();
 }
 
 // ── PDF / Excel extraction ──
@@ -952,6 +955,7 @@ async function showResults(result, file) {
       <span class="file-strip-name">${file.name}</span>
       <span class="file-type-badge">${ext}</span>
       <span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--text3);margin-left:auto;">${currentQuoteId}</span>
+      ${currentInvoiceUrl ? `<a href="${currentInvoiceUrl}" target="_blank" rel="noopener" style="display:flex;align-items:center;gap:4px;font-size:11px;color:var(--accent);font-weight:500;text-decoration:none;margin-left:10px;" title="Open invoice"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>Open</a>` : ''}
     </div>`;
 
   // Invoice value comparison
@@ -975,7 +979,7 @@ async function showResults(result, file) {
 
     document.getElementById('cmpScanned').innerHTML =
       `${formatCurrency(scannedAmount)}<span class="currency">${scannedCurrency}</span>`;
-    document.getElementById('cmpScannedRaw').textContent = iv.raw ? `"${iv.raw}"` : '';
+    document.getElementById('cmpScannedRaw').textContent = '';
 
     const diffEl    = document.getElementById('cmpDiff');
     const diffLabel = document.getElementById('cmpDiffLabel');
@@ -1017,7 +1021,7 @@ async function showResults(result, file) {
       } catch (_) {
         document.getElementById('cmpExports').innerHTML =
           `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
-        document.getElementById('cmpExportsSub').textContent = 'From Google Sheet';
+        document.getElementById('cmpExportsSub').textContent = '';
         diffEl.textContent    = '—';
         diffLabel.textContent = 'Could not fetch exchange rate';
       }
@@ -1110,12 +1114,6 @@ async function showResults(result, file) {
     });
   }
 
-  if (result.notes) {
-    document.getElementById('results-section').insertAdjacentHTML('beforeend',
-      `<p id="aiNote" style="font-size:12px;color:var(--text3);margin-top:1rem;padding:0 4px;">
-        <span style="font-family:'DM Mono',monospace;">AI note:</span> ${result.notes}
-      </p>`);
-  }
 }
 
 // ── Helpers ──
