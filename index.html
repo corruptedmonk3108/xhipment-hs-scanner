@@ -1063,11 +1063,12 @@ async function analyzeWithClaude(text) {
    - As 4, 6, 8, or 10-digit codes
    - Use contextual understanding, NOT regex pattern matching
 
-2. The TOTAL INVOICE VALUE (grand total amount payable).
-   - Look for "Total", "Invoice Total", "Grand Total", "Amount Due", "Total Amount", "Total Value", etc.
-   - Capture the numeric amount AND the currency (USD, EUR, INR, GBP, etc.)
-   - If multiple subtotals exist, extract the final grand total only
-   - If no clear total is found, return null values
+2. The TOTAL INVOICE VALUE (grand total amount payable in USD or foreign currency).
+   - First look for an explicit total line: "Total", "Invoice Total", "Grand Total", "Amount Due", "Total Amount", "Total Value", "Net Amount", etc.
+   - If the total is written in words (e.g. "Ten Thousand One Hundred Fifteen and Cents Thirty Five Only"), convert it to a number (10115.35).
+   - If no explicit total line exists, compute it yourself: multiply each line's Qty × Rate and sum all lines.
+   - Capture the numeric amount as a plain number (no $ sign, no commas) AND the currency code.
+   - IMPORTANT: "amount" must always be a plain JSON number like 10115.35, never a string like "$10,115.35".
 
 Return ONLY valid JSON (no markdown) in this exact format:
 {
@@ -1077,12 +1078,12 @@ Return ONLY valid JSON (no markdown) in this exact format:
   "invoice_value": {
     "amount": 12345.67,
     "currency": "USD",
-    "raw": "original string as found"
+    "raw": "original string or computed note, e.g. 'Computed from line items' or 'Ten Thousand...' "
   },
   "notes": "any observations"
 }
 
-If no HS codes found, return empty codes array. If no invoice total, set invoice_value to {"amount": null, "currency": null, "raw": null}.
+If no HS codes found, return empty codes array. Only set invoice_value.amount to null if there is truly no way to determine any value at all.
 
 Invoice content:
 ${text.substring(0, 15000)}`;
@@ -1128,7 +1129,16 @@ function showResults(result, file) {
 
   // Invoice value comparison
   const iv = result.invoice_value;
-  const scannedAmount = (iv && iv.amount !== null && iv.amount !== undefined) ? parseFloat(iv.amount) : null;
+  let scannedAmount = null;
+  if (iv && iv.amount !== null && iv.amount !== undefined) {
+    const parsed = parseFloat(iv.amount);
+    if (!isNaN(parsed)) scannedAmount = parsed;
+  }
+  // Fallback: try stripping $, commas from raw string
+  if (scannedAmount === null && iv && iv.raw) {
+    const cleaned = parseFloat(iv.raw.replace(/[^0-9.]/g, ''));
+    if (!isNaN(cleaned) && cleaned > 0) scannedAmount = cleaned;
+  }
   const exportsAmt    = exportsInvoiceValue;
   const compCard      = document.getElementById('comparisonCard');
 
