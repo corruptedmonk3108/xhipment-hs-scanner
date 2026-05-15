@@ -913,28 +913,37 @@ function showResults(result, file) {
 
   if (scannedAmount !== null && exportsAmt !== null) {
     compCard.style.display = 'grid';
-    const diff    = scannedAmount - exportsAmt;
-    const isShort = scannedAmount < exportsAmt;
+    const scannedCurrency = (iv.currency || 'USD').toUpperCase();
+    const sameCurrency    = scannedCurrency === 'USD';
 
     document.getElementById('cmpExports').innerHTML =
       `${formatCurrency(exportsAmt)}<span class="currency">USD</span>`;
 
     document.getElementById('cmpScanned').innerHTML =
-      `${formatCurrency(scannedAmount)}<span class="currency">${iv.currency || ''}</span>`;
+      `${formatCurrency(scannedAmount)}<span class="currency">${scannedCurrency}</span>`;
     document.getElementById('cmpScannedRaw').textContent = iv.raw ? `"${iv.raw}"` : '';
 
     const diffEl    = document.getElementById('cmpDiff');
     const diffLabel = document.getElementById('cmpDiffLabel');
-    diffEl.innerHTML = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">${iv.currency || 'USD'}</span>`;
-    diffEl.className = 'cmp-value ' + (isShort ? 'danger' : 'success');
-    diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
 
-    if (isShort) {
-      const msg = buildDisclaimer(scannedAmount, iv.currency, exportsAmt);
-      document.getElementById('disclaimerCard').style.display = 'block';
-      const textEl = document.getElementById('disclaimerText');
-      textEl.textContent = msg;
-      textEl.dataset.message = msg;
+    if (!sameCurrency) {
+      diffEl.textContent = '—';
+      diffEl.className   = 'cmp-value';
+      diffLabel.textContent = 'Different currencies — not comparable';
+    } else {
+      const diff    = scannedAmount - exportsAmt;
+      const isShort = scannedAmount < exportsAmt;
+      diffEl.innerHTML  = `${diff < 0 ? '−' : '+'}${formatCurrency(Math.abs(diff))}<span class="currency">USD</span>`;
+      diffEl.className  = 'cmp-value ' + (isShort ? 'danger' : 'success');
+      diffLabel.textContent = isShort ? 'Import value is lower' : 'Import value matches or exceeds';
+
+      if (isShort) {
+        const msg = buildDisclaimer(scannedAmount, scannedCurrency, exportsAmt);
+        document.getElementById('disclaimerCard').style.display = 'block';
+        const textEl = document.getElementById('disclaimerText');
+        textEl.textContent = msg;
+        textEl.dataset.message = msg;
+      }
     }
   } else if (scannedAmount === null) {
     compCard.style.display = 'grid';
