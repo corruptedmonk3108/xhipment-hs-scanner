@@ -62,19 +62,7 @@
     text-decoration: none;
   }
 
-  .logo-icon {
-    width: 32px;
-    height: 32px;
-  }
-
-  .logo-text {
-    font-size: 1.2rem;
-    font-weight: 700;
-    color: var(--accent);
-    letter-spacing: -0.02em;
-  }
-
-  .nav-badge {
+.nav-badge {
     margin-left: 1rem;
     font-size: 11px;
     font-family: 'DM Mono', monospace;
@@ -580,13 +568,7 @@
 <!-- NAV -->
 <nav>
   <a class="logo" href="#">
-    <svg class="logo-icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="16" cy="8"  r="5" fill="#E8622A"/>
-      <circle cx="24" cy="16" r="5" fill="#E8622A" opacity="0.75"/>
-      <circle cx="16" cy="24" r="5" fill="#E8622A" opacity="0.55"/>
-      <circle cx="8"  cy="16" r="5" fill="#E8622A" opacity="0.35"/>
-    </svg>
-    <span class="logo-text">Xhipment</span>
+    <img src="data:image/png;base64,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" alt="Xhipment" style="height:34px;">
   </a>
   <span class="nav-badge">HS Code Scanner</span>
 </nav>
