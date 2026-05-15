@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git add quote_lookup.json
           if git diff --cached --quiet; then
             echo "No changes to quote_lookup.json — skipping commit."
