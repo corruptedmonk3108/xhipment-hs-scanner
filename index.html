@@ -812,14 +812,19 @@ pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs
 
 const WORKER_URL = 'https://xhipment-hs-proxy.raunak-4c2.workers.dev';
 
-const DISCLAIMER_MESSAGE = `Dear Customer,
+function buildDisclaimer(scannedAmt, scannedCurrency, exportsAmt) {
+  const fmt = v => '$' + Number(v).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  return `Dear Customer,
 
-Hope you are well. Upon reviewing the import invoice, we observed that there's a reduction in the imports invoice from the exports invoice value. Please note that any customs reviews or holds occurring because of this difference will be attributable to your shipment and the resulting additional charges will be passed on to your account.
+Hope you are well. Upon reviewing the import invoice, we observed that there's a reduction in the imports invoice from the exports invoice value. Your imports invoice value is ${fmt(scannedAmt)} ${scannedCurrency || 'USD'}, whereas your exports invoice value is ${fmt(exportsAmt)} USD.
+
+Please note that any customs reviews or holds occurring because of this difference will be attributable to your shipment and the resulting additional charges will be passed on to your account.
 
 Thank you for your support and understanding.
 
 Regards,
 Team Xhipment`;
+}
 
 const FLAGGED_CHAPTERS = {
   '01': 'Live Animals',
@@ -1172,8 +1177,11 @@ function showResults(result, file) {
 
     // Disclaimer
     if (isShort) {
+      const msg = buildDisclaimer(scannedAmount, iv.currency, exportsAmt);
       document.getElementById('disclaimerCard').style.display = 'block';
-      document.getElementById('disclaimerText').textContent = DISCLAIMER_MESSAGE;
+      const textEl = document.getElementById('disclaimerText');
+      textEl.textContent = msg;
+      textEl.dataset.message = msg;
     }
   } else if (scannedAmount === null) {
     compCard.style.display = 'grid';
@@ -1256,7 +1264,8 @@ function formatCurrency(val) {
 }
 
 function copyDisclaimer() {
-  navigator.clipboard.writeText(DISCLAIMER_MESSAGE).then(() => {
+  const msg = document.getElementById('disclaimerText').dataset.message || document.getElementById('disclaimerText').textContent;
+  navigator.clipboard.writeText(msg).then(() => {
     const btn = document.getElementById('copyBtn');
     btn.classList.add('copied');
     btn.innerHTML = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg> Copied!`;
