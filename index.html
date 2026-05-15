@@ -615,9 +615,30 @@ const FLAGGED_CHAPTERS = {
   '97': "Works of Art, Collectors' Pieces and Antiques"
 };
 
+// ── Alert exemptions ──
+const EXEMPT_QID_PREFIXES  = ['XQAMZFCL', 'XQFCL'];
+const EXEMPT_SHIPPERS = [
+  'parts world llc',
+  'madan mohan textiles',
+  'nmk textile mills india pvt ltd',
+  'vinay sharma',
+  'picado home decors pvt ltd',
+  'shrimahaveer home furnish expo pvt. ltd.',
+  'apl'
+];
+
+function isExemptFromAlert(quoteId, shipper) {
+  const q = (quoteId || '').toUpperCase();
+  if (EXEMPT_QID_PREFIXES.some(p => q.startsWith(p))) return true;
+  const s = (shipper || '').toLowerCase().trim();
+  if (EXEMPT_SHIPPERS.includes(s)) return true;
+  return false;
+}
+
 // ── State ──
 let quoteLookup = {};
 let currentQuoteId = '';
+let currentShipper = '';
 let exportsInvoiceValue = null;
 let currentFilename = '';
 
@@ -627,6 +648,7 @@ fetch('./quote_lookup.json')
     data.forEach(entry => {
       quoteLookup[entry.quoteId.trim().toUpperCase()] = {
         exportsInvoiceValue: parseFloat(entry.exportsInvoiceValue),
+        shipper: entry.shipper || '',
         url: entry.url ? entry.url.trim() : null
       };
     });
@@ -659,6 +681,7 @@ async function scanQuote() {
   }
 
   currentQuoteId = raw;
+  currentShipper = entry.shipper || '';
   exportsInvoiceValue = entry.exportsInvoiceValue;
 
   // Lock UI, show progress
@@ -768,6 +791,7 @@ function resetApp() {
   const tn = document.getElementById('thresholdNote');
   if (tn) tn.remove();
   currentQuoteId = '';
+  currentShipper = '';
   exportsInvoiceValue = null;
   currentFilename = '';
   const note = document.getElementById('results-section').querySelector('p');
@@ -981,7 +1005,7 @@ async function showResults(result, file) {
 
         if (pct < 10) {
           showUnderThresholdNote(pct);
-        } else if (isShort) {
+        } else if (isShort && !isExemptFromAlert(currentQuoteId, currentShipper)) {
           const msg = buildDisclaimer(scannedAmount, scannedCurrency, convertedExports, scannedCurrency);
           document.getElementById('disclaimerCard').style.display = 'block';
           const textEl = document.getElementById('disclaimerText');
@@ -1009,7 +1033,7 @@ async function showResults(result, file) {
 
       if (pct < 10) {
         showUnderThresholdNote(pct);
-      } else if (isShort) {
+      } else if (isShort && !isExemptFromAlert(currentQuoteId, currentShipper)) {
         const msg = buildDisclaimer(scannedAmount, scannedCurrency, exportsAmt, 'USD');
         document.getElementById('disclaimerCard').style.display = 'block';
         const textEl = document.getElementById('disclaimerText');

@@ -40,6 +40,7 @@ for i, row in enumerate(rows[1:], start=2):
         continue
     quote_id = row[0].strip()
     raw_value = row[2].strip().replace(",", "")
+    shipper = row[3].strip() if len(row) > 3 and row[3] else ""
     url = row[4].strip() if len(row) > 4 and row[4] else ""
     if not quote_id:
         continue
@@ -47,7 +48,7 @@ for i, row in enumerate(rows[1:], start=2):
         val = float(raw_value)
     except ValueError:
         continue
-    results.append({"quoteId": quote_id, "exportsInvoiceValue": val, "url": url})
+    results.append({"quoteId": quote_id, "exportsInvoiceValue": val, "shipper": shipper, "url": url})
 
 with open("quote_lookup.json", "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2)
