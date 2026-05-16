@@ -1014,12 +1014,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c604ac90586e027adf8dae/execution-documents/69cd5f3487bd51d8620f43e2/566f6656-43e9-449c-923b-e62f33f3ebe1-EXPORT Commercial Invoice_XQAMZLCL032619917M (1) CI.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL032619988M",
-    "exportsInvoiceValue": 44130.0,
-    "shipper": "kanishka home bedding",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca5d515bab6c16ff48078b/execution-documents/69cb4d51440e2e2c908435b7/cd0877b0-627b-4170-8fe5-a721411bbcec-Export Commercial Invoice - Excel_XQAMZLCL032619988M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0526169755",
     "exportsInvoiceValue": 1.0,
     "shipper": "maa bhagwati ethnic llp",
@@ -1072,5 +1066,11 @@
     "exportsInvoiceValue": 7176.8,
     "shipper": "blue fox tools",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=651e9b1cbeb8da5b21fdd73d/execution-documents/69bbd974265b4d83da01ce30/323aa47d-c27d-41ab-b264-2523c1bf28fe-Export Commercial Invoice - Excel_XQAMZLCL032619728M (2) CI new.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619988M",
+    "exportsInvoiceValue": 44130.0,
+    "shipper": "kanishka home bedding",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca5d515bab6c16ff48078b/bookings-docs/69cb4d51440e2e2c908435b7/3cea5d50-3d28-48a4-86ee-d90dd6f76bc5.xlsx"
   }
 ]
