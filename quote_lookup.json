@@ -1072,5 +1072,11 @@
     "exportsInvoiceValue": 2613.0,
     "shipper": "artware international",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c604ac90586e027adf8dae/execution-documents/69cd5f3487bd51d8620f43e2/566f6656-43e9-449c-923b-e62f33f3ebe1-EXPORT Commercial Invoice_XQAMZLCL032619917M (1) CI.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL032619988M",
+    "exportsInvoiceValue": 44130.0,
+    "shipper": "kanishka home bedding",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca5d515bab6c16ff48078b/execution-documents/69cb4d51440e2e2c908435b7/cd0877b0-627b-4170-8fe5-a721411bbcec-Export Commercial Invoice - Excel_XQAMZLCL032619988M CI.xlsx"
   }
 ]
