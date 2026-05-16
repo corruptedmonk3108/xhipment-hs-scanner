@@ -1078,5 +1078,47 @@
     "exportsInvoiceValue": 44130.0,
     "shipper": "kanishka home bedding",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca5d515bab6c16ff48078b/execution-documents/69cb4d51440e2e2c908435b7/cd0877b0-627b-4170-8fe5-a721411bbcec-Export Commercial Invoice - Excel_XQAMZLCL032619988M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526169755",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/69fc81aac1facff7f28a4596/e862c9dc-366e-4562-9ac4-5ab41b8e68aa-DI XQAMZAIR0526169755 (Maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526168791",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "best deal export",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/execution-documents/69f8982c95f26df644dbaac1/7eff910d-18df-419b-8674-f21ca96010e3-CI XQAMZAIR0526168791 (Best deal export).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526168161",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "nourishmantra",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f43fc9601b474d88c8585c/execution-documents/69f43fce601b474d88c85885/4f5bd116-da4b-408e-b13f-c4e86a048a47-CI PL XQAMZAIR0526168161 (Nourishmantra) (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526169264",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/69fb1eed60a8396b68cee9ee/221dd51e-4f1c-4ab7-ab2e-2f91a618818a-DI XQAMZAIR0526169264 (Maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAIR042620899",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f1cc1500d4113291c106cb/be2a8c13-f141-4448-a476-f2fc7ccf7225-DI PL XQAIR042620899 (Madan Mohan textiles) (1).xlsx"
+  },
+  {
+    "quoteId": "XQAIR042620898",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f1cae26f0cd9c774940ac4/24a81104-f644-4665-8b9d-8bbfdf582c5f-DI PL XQAIR042620898 (Madan Mohan textiles) (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619847M",
+    "exportsInvoiceValue": 1526.4,
+    "shipper": "ajay jain",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=672a28d7dbfa634b146b703e/execution-documents/69c18bdbc51631d8790db7e7/c474ec63-eb21-46d2-aa5c-78c85cee3bd3-Export Commercial Invoice - Excel_XQAMZLCL032619847M CI.xlsx"
   }
 ]
