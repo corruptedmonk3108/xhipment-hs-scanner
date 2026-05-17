@@ -90,12 +90,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6839c3c8a4ea3ace82f57b96/execution-documents/69ea141da493be154b815a1c/4c5eb306-cff8-4cdf-9ccf-3f3ed0f44110-Export Commercial Invoice - Excel_XQAMZLCL042620729M UP.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0426167569",
-    "exportsInvoiceValue": 13391.94,
-    "shipper": "Sljivo Trading GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/bookings-docs/69f0c23e3a44187575966d72/6309151e-d4c9-415b-8b8e-49f17c090125.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL042620229M",
     "exportsInvoiceValue": 106435.32,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -232,12 +226,6 @@
     "exportsInvoiceValue": 31073.0,
     "shipper": "detilish rugs",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/69b81de6b68b1cdb977890e8/2bf6801e-5786-4791-ada4-8458ef6ccc03-Export Commercial Invoice - Excel_XQAMZFCL032619622M CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0426167553",
-    "exportsInvoiceValue": 4592.64,
-    "shipper": "brun spedition gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68fe558b249a057517f49d55/execution-documents/69f0b637fef431270f492702/dbfb64c2-7a9a-422f-a106-d6eea3cfb53b-(IOR) CI XQAMZAIR0426167553 (brun spedition gmbh).XLSX"
   },
   {
     "quoteId": "XQAMZLCL022619125M",
