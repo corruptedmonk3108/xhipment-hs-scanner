@@ -1072,5 +1072,29 @@
     "exportsInvoiceValue": 44130.0,
     "shipper": "kanishka home bedding",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca5d515bab6c16ff48078b/bookings-docs/69cb4d51440e2e2c908435b7/3cea5d50-3d28-48a4-86ee-d90dd6f76bc5.xlsx"
+  },
+  {
+    "quoteId": "XQLCL032619760",
+    "exportsInvoiceValue": 22905.61,
+    "shipper": "Daaxo Wares, LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bcf2cf0410cfd71d9d4f49/execution-documents/69bd0299b344b00e97347c4b/0ddba71f-e872-420e-91a9-10a08b8194db-512-AM-01-09-26-US-OCEAN Artwork Maestro.xlsx"
+  },
+  {
+    "quoteId": "XQLCL032619760",
+    "exportsInvoiceValue": 22905.61,
+    "shipper": "Daaxo Wares, LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bcf2cf0410cfd71d9d4f49/execution-documents/69bd0299b344b00e97347c4b/2383833e-2120-46ae-94b1-b10d8b50c8c9-506-SCE-12-13-25-US (1) CI- Mr.xls"
+  },
+  {
+    "quoteId": "XQLCL032619760",
+    "exportsInvoiceValue": 22905.61,
+    "shipper": "Daaxo Wares, LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bcf2cf0410cfd71d9d4f49/execution-documents/69bd0299b344b00e97347c4b/5f2b26a2-bceb-4060-8206-585e8f710455-505-FI-12-09-25-US-OCEAN (1)- Fern.xlsx"
+  },
+  {
+    "quoteId": "XQLCL032619760",
+    "exportsInvoiceValue": 22905.61,
+    "shipper": "Daaxo Wares, LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bcf2cf0410cfd71d9d4f49/execution-documents/69bd0299b344b00e97347c4b/63fce545-0838-4f59-b1e8-87abb9a29766-511-WPI-01-09-26-US-OCEAN Wulf.xlsx"
   }
 ]
