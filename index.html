@@ -467,6 +467,13 @@
       </div>
     </div>
     <div class="error-box" id="quoteErrorBox"></div>
+    <div id="cachePrompt" style="display:none;margin-top:1rem;background:#EFF6FF;border:1px solid #BFDBFE;border-radius:8px;padding:12px 14px;font-size:13px;color:#1E40AF;">
+      <div style="font-weight:600;margin-bottom:8px;">Already scanned — show previous results or re-run?</div>
+      <div style="display:flex;gap:8px;">
+        <button onclick="showCachedResults()" style="height:32px;background:#1E40AF;color:#fff;border:none;border-radius:50px;font-size:12px;font-weight:600;padding:0 14px;cursor:pointer;">Previous results</button>
+        <button onclick="rerunScan()" style="height:32px;background:transparent;color:#1E40AF;border:1.5px solid #BFDBFE;border-radius:50px;font-size:12px;font-weight:600;padding:0 14px;cursor:pointer;">Re-run analysis</button>
+      </div>
+    </div>
   </div>
 
   <div class="ocr-note" id="ocrNote">Scanned PDF detected — running OCR. This may take a moment.</div>
@@ -568,7 +575,7 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
 const WORKER_URL   = 'https://xhipment-hs-proxy.raunak-4c2.workers.dev';
-function sendChatAlert(quoteId, chaptersMap) {
+function sendChatAlert(quoteId, chaptersMap, shipper) {
   const dt = new Date().toLocaleString('en-IN', {
     timeZone: 'Asia/Kolkata',
     day: '2-digit', month: 'short', year: 'numeric',
@@ -577,11 +584,10 @@ function sendChatAlert(quoteId, chaptersMap) {
   const chapterList = [...chaptersMap.entries()]
     .map(([ch, desc]) => `Chapter ${ch} (${desc})`)
     .join(', ');
-  const text = `🚨 *${quoteId}* was flagged for ${chapterList} @ ${dt} IST`;
   fetch(WORKER_URL + '/gchat', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ text })
+    body: JSON.stringify({ qid: quoteId, shipper: shipper || '', chapterList, dt })
   }).catch(() => {});
 }
 
@@ -655,6 +661,7 @@ function isExemptFromAlert(quoteId, shipper) {
 let quoteLookup = {};
 let currentQuoteId = '';
 let currentShipper = '';
+const scanResultCache = {};
 let exportsInvoiceValue = null;
 let currentFilename = '';
 let currentInvoiceUrl = '';
@@ -700,6 +707,11 @@ async function scanQuote() {
   currentQuoteId = raw;
   currentShipper = entry.shipper || '';
   exportsInvoiceValue = entry.exportsInvoiceValue;
+
+  if (scanResultCache[raw]) {
+    document.getElementById('cachePrompt').style.display = 'block';
+    return;
+  }
 
   // Lock UI, show progress
   document.getElementById('quoteFormArea').style.display = 'none';
@@ -792,8 +804,23 @@ async function processInvoiceFile(file, steps) {
   setTimeout(async () => {
     document.getElementById('progress-section').style.display = 'none';
     document.getElementById('quote-step').style.display = 'none';
+    scanResultCache[currentQuoteId] = { result, file };
     await showResults(result, file);
   }, 500);
+}
+
+async function showCachedResults() {
+  document.getElementById('cachePrompt').style.display = 'none';
+  document.getElementById('quoteFormArea').style.display = 'none';
+  document.getElementById('quote-step').style.display = 'none';
+  const cached = scanResultCache[currentQuoteId];
+  await showResults(cached.result, cached.file);
+}
+
+function rerunScan() {
+  document.getElementById('cachePrompt').style.display = 'none';
+  delete scanResultCache[currentQuoteId];
+  scanQuote();
 }
 
 function resetApp() {
@@ -804,6 +831,7 @@ function resetApp() {
   document.getElementById('ocrNote').style.display         = 'none';
   document.getElementById('quoteInput').value = '';
   document.getElementById('quoteErrorBox').style.display = 'none';
+  document.getElementById('cachePrompt').style.display   = 'none';
   document.getElementById('disclaimerCard').style.display = 'none';
   document.getElementById('comparisonCard').style.display = 'none';
   const tn = document.getElementById('thresholdNote');
@@ -1114,7 +1142,7 @@ async function showResults(result, file) {
           </div>
         </div>`;
     });
-    sendChatAlert(currentQuoteId, triggeredChapters);
+    sendChatAlert(currentQuoteId, triggeredChapters, currentShipper);
   }
 
   // HTS codes table
