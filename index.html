@@ -455,7 +455,15 @@
   <p class="page-sub">Enter a Quote ID to automatically fetch and scan the commercial invoice.</p>
 
   <div id="quoteFormArea">
-    <div class="quote-input-card">
+
+    <!-- Mode toggle -->
+    <div style="display:flex;gap:6px;margin-bottom:1rem;">
+      <button id="tabQid" onclick="setMode('qid')" style="height:32px;background:var(--navy);color:#fff;border:none;border-radius:50px;font-family:'Inter',sans-serif;font-size:12px;font-weight:600;padding:0 16px;cursor:pointer;">By Quote ID</button>
+      <button id="tabUpload" onclick="setMode('upload')" style="height:32px;background:transparent;color:var(--text2);border:1.5px solid var(--border2);border-radius:50px;font-family:'Inter',sans-serif;font-size:12px;font-weight:500;padding:0 16px;cursor:pointer;">Upload Invoice</button>
+    </div>
+
+    <!-- QID card -->
+    <div id="qidCard" class="quote-input-card">
       <label>Quote ID</label>
       <div class="quote-input-row">
         <input type="text" id="quoteInput" placeholder="e.g. XQAMZFCL042620169M"
@@ -466,6 +474,20 @@
         </button>
       </div>
     </div>
+
+    <!-- Upload card -->
+    <div id="uploadCard" class="quote-input-card" style="display:none">
+      <label>Invoice File</label>
+      <div class="quote-input-row" style="align-items:center;">
+        <span id="uploadFileName" style="flex:1;font-size:13px;color:var(--text3);font-family:'DM Mono',monospace;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">No file chosen</span>
+        <button class="btn-primary" onclick="document.getElementById('fileInput').click()">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Choose &amp; Scan
+        </button>
+        <input type="file" id="fileInput" accept=".pdf,.xlsx,.xls,.csv" style="display:none" onchange="scanUploadedFile()">
+      </div>
+    </div>
+
     <div class="error-box" id="quoteErrorBox"></div>
     <div id="cachePrompt" style="display:none;margin-top:1rem;background:#EFF6FF;border:1px solid #BFDBFE;border-radius:8px;padding:12px 14px;font-size:13px;color:#1E40AF;">
       <div style="font-weight:600;margin-bottom:8px;">Already scanned — show previous results or re-run?</div>
@@ -808,6 +830,51 @@ async function processInvoiceFile(file, steps) {
   }, 500);
 }
 
+function setMode(mode) {
+  const isQid = mode === 'qid';
+  document.getElementById('qidCard').style.display    = isQid ? 'block' : 'none';
+  document.getElementById('uploadCard').style.display = isQid ? 'none'  : 'block';
+  document.getElementById('tabQid').style.cssText    = `height:32px;background:${isQid ? 'var(--navy);color:#fff' : 'transparent;color:var(--text2)'};border:${isQid ? 'none' : '1.5px solid var(--border2)'};border-radius:50px;font-family:'Inter',sans-serif;font-size:12px;font-weight:${isQid ? 600 : 500};padding:0 16px;cursor:pointer;`;
+  document.getElementById('tabUpload').style.cssText = `height:32px;background:${isQid ? 'transparent;color:var(--text2)' : 'var(--navy);color:#fff'};border:${isQid ? '1.5px solid var(--border2)' : 'none'};border-radius:50px;font-family:'Inter',sans-serif;font-size:12px;font-weight:${isQid ? 500 : 600};padding:0 16px;cursor:pointer;`;
+  document.getElementById('quoteErrorBox').style.display = 'none';
+}
+
+async function scanUploadedFile() {
+  const input = document.getElementById('fileInput');
+  const file  = input.files[0];
+  if (!file) return;
+
+  document.getElementById('uploadFileName').textContent = file.name;
+  const errBox = document.getElementById('quoteErrorBox');
+  errBox.style.display = 'none';
+
+  currentQuoteId        = '';
+  currentShipper        = '';
+  exportsInvoiceValue   = null;
+  currentFilename       = file.name;
+  currentInvoiceUrl     = '';
+
+  document.getElementById('quoteFormArea').style.display    = 'none';
+  document.getElementById('progress-section').style.display = 'block';
+
+  const steps = ['Reading file', 'Extracting text', 'AI analysis', 'Processing results'];
+  updateStep(steps, 0);
+  setProgress(10, 'Reading invoice file...');
+
+  try {
+    await processInvoiceFile(file, steps);
+  } catch (err) {
+    document.getElementById('progress-section').style.display = 'none';
+    document.getElementById('quoteFormArea').style.display    = 'block';
+    const msg = typeof err?.message === 'string' ? err.message
+              : typeof err === 'string' ? err
+              : JSON.stringify(err);
+    errBox.textContent = msg || 'An unexpected error occurred.';
+    errBox.style.display = 'block';
+  }
+  input.value = '';
+}
+
 async function showCachedResults() {
   document.getElementById('cachePrompt').style.display = 'none';
   document.getElementById('quoteFormArea').style.display = 'none';
@@ -829,8 +896,10 @@ function resetApp() {
   document.getElementById('progress-section').style.display = 'none';
   document.getElementById('ocrNote').style.display         = 'none';
   document.getElementById('quoteInput').value = '';
+  document.getElementById('uploadFileName').textContent = 'No file chosen';
   document.getElementById('quoteErrorBox').style.display = 'none';
   document.getElementById('cachePrompt').style.display   = 'none';
+  setMode('qid');
   document.getElementById('disclaimerCard').style.display = 'none';
   document.getElementById('comparisonCard').style.display = 'none';
   const tn = document.getElementById('thresholdNote');
