@@ -1072,5 +1072,11 @@
     "exportsInvoiceValue": 29049.15,
     "shipper": "James White",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/69e0cf7d27400f8be67f314e/efb3aff2-2601-4703-bfd0-86574b4da738-Export Commercial Invoice - Excel_XQAMZFCL042620524M (CI) new.xlsx"
+  },
+  {
+    "quoteId": "XQLCL032619344",
+    "exportsInvoiceValue": 17373.79,
+    "shipper": "TealBee",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a8967d6de872d90828b010/execution-documents/69a8d172a2f477af4a4dc2a8/3e6baf54-3df3-49d6-925a-8d07c3ec6205-Export Commercial Invoice - Excel_XQLCL032619344 CI new.xlsx"
   }
 ]
