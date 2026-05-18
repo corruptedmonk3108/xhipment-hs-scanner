@@ -948,12 +948,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690b7faea346c7e7274e5335/execution-documents/69df7b480c18512749ab77ae/5e155bb3-bb28-4334-a2a2-30503c11cdfe-Export Commercial Invoice - Excel_XQAMZLCL042620526M CI.xlsx"
   },
   {
-    "quoteId": "XQLCL052621076",
-    "exportsInvoiceValue": 11914.66,
-    "shipper": "Wrimes Cosmetics Limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66597f102cf3ac17ab477680/execution-documents/69fb01195d98b47151093cb5/9628b9d4-3d18-4ecc-9e8f-6cff7fcc9b2e-Consolidated - Invoice.pdf"
-  },
-  {
     "quoteId": "XQAMZLCL042620596M",
     "exportsInvoiceValue": 3075.84,
     "shipper": "rukshan warnacula",
@@ -1096,5 +1090,47 @@
     "exportsInvoiceValue": 19619.06,
     "shipper": "malani impex inc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c18928b1a4b600d46633e2/execution-documents/69cb7e9bdf9e6ab2f5fc0d02/04899db0-239a-45c1-827d-f205f51ffc29-MANDALA LIFE ART INV MI 401.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171213",
+    "exportsInvoiceValue": 4092.28,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ccfb49b8557a254546/d4a506ce-527b-4246-aeda-ea8cacf5ee6a-DI XQAMZAIR0526171213 (Wild cosmetics) (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526170114",
+    "exportsInvoiceValue": 5724.32,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/69fdb0bc48a6ea098608eb65/3fc42ff2-771f-4139-ad19-8b3ee13c3f4a-DI XQAMZAIR0526170114 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526170126",
+    "exportsInvoiceValue": 4823.04,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/69fdb0bcdcfbe6ea767fbf3b/d8fa249a-3fb3-4f01-b71e-501e353d3247-DI XQAMZAIR0526170126 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171243",
+    "exportsInvoiceValue": 4823.04,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ce4daf4f450576f9f3/9f86dc96-5179-4f51-a857-285cd6f23d21-DI XQAMZAIR0526171243 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526170137",
+    "exportsInvoiceValue": 5290.34,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/69fdb0be8ae58174c1188b39/70236ece-8d86-40fe-a480-bd930f806d57-DI XQAMZAIR0526170137 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171230",
+    "exportsInvoiceValue": 5992.26,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6cc69bb10c331294d0b/918e68de-c8a7-4547-89d8-3947918f3567-DI XQAMZAIR0526171230 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQLCL052621076",
+    "exportsInvoiceValue": 11914.66,
+    "shipper": "Wrimes Cosmetics Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66597f102cf3ac17ab477680/bookings-docs/69fb01195d98b47151093cb5/d74c6331-2f3f-4195-b572-242a9c0f92ec.pdf"
   }
 ]
