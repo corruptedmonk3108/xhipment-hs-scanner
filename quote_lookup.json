@@ -1084,5 +1084,17 @@
     "exportsInvoiceValue": 22905.61,
     "shipper": "Daaxo Wares, LLC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bcf2cf0410cfd71d9d4f49/execution-documents/69bd0299b344b00e97347c4b/63fce545-0838-4f59-b1e8-87abb9a29766-511-WPI-01-09-26-US-OCEAN Wulf.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619968M",
+    "exportsInvoiceValue": 28949.73,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69ca19c76878ac205a0c5ec4/9eea5f44-f643-47d4-9742-2621669a8ca2-Export Commercial Invoice - Excel_XQAMZLCL032619968M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619999M",
+    "exportsInvoiceValue": 19619.06,
+    "shipper": "malani impex inc",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c18928b1a4b600d46633e2/execution-documents/69cb7e9bdf9e6ab2f5fc0d02/04899db0-239a-45c1-827d-f205f51ffc29-MANDALA LIFE ART INV MI 401.xlsx"
   }
 ]
