@@ -342,12 +342,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/execution-documents/69b921a15711bd97b0315fab/8bba62bd-25aa-46e8-9cc8-df363e25410c-Import Commercial Invoice - Excel_XQAMZLCL032619610M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL042620576M",
-    "exportsInvoiceValue": 38903.77,
-    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/69e22584a405c029bcf0234c/1fd0b916-253a-4c36-9db8-d366e6e718eb-Commercial Invoice_XQAMZFCL042620576M (CInew).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620150M",
     "exportsInvoiceValue": 136169.55,
     "shipper": "vision enterprises",
@@ -432,12 +426,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670e09456cd8676e0286d570/bookings-docs/69ca632f274d30121c7e37fb/79e5483c-0389-4009-90d2-49c0e6b0af95.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619698M",
-    "exportsInvoiceValue": 9208.72,
-    "shipper": "paul brothers my stationery mart",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ba7483e6f4605346989cf9/execution-documents/69ba772de6f460534698bb7f/96eaed57-3643-46e0-9a6d-65ea4ad490c3-Export Commercial Invoice - Excel_XQAMZLCL032619698M CI))).xls"
-  },
-  {
     "quoteId": "XQAMZLCL032619875M",
     "exportsInvoiceValue": 6851.64,
     "shipper": "dom ventas india pvt ltd",
@@ -484,12 +472,6 @@
     "exportsInvoiceValue": 300.0,
     "shipper": "vikash kumar",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69511c22108656dae9076993/execution-documents/69a6a6145616932442221cc8/65244b4a-56da-4cc7-81c0-0e11956830c4-Export Commercial Invoice - Excel_XQAMZLCL032619310M UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL032619385M",
-    "exportsInvoiceValue": 860.4,
-    "shipper": "kavita narayanan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6911d47237b9050de969b7ea/bookings-docs/69aa95ccdd9b54f43b612adf/1f1fc1b7-cfe3-48ba-a318-016aa7fbc833.xlsx"
   },
   {
     "quoteId": "XQAMZLCL032619316M",
@@ -1078,5 +1060,35 @@
     "exportsInvoiceValue": 17373.79,
     "shipper": "TealBee",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a8967d6de872d90828b010/execution-documents/69a8d172a2f477af4a4dc2a8/3e6baf54-3df3-49d6-925a-8d07c3ec6205-Export Commercial Invoice - Excel_XQLCL032619344 CI new.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620576M",
+    "exportsInvoiceValue": 38903.77,
+    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/bookings-docs/69e22584a405c029bcf0234c/9674a5f0-1bb6-43c4-8cba-64079cbd7d32.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619698M",
+    "exportsInvoiceValue": 9208.72,
+    "shipper": "paul brothers my stationery mart",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ba7483e6f4605346989cf9/bookings-docs/69ba772de6f460534698bb7f/d972cffe-6df8-41c0-adca-713de38406cb.xls"
+  },
+  {
+    "quoteId": "XQAMZFCL032619371M",
+    "exportsInvoiceValue": 28796.8,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/117aa944-3364-47c9-ba34-f316227e4a00-INV WHF-33 577 BOX - IMPORT.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL032619371M",
+    "exportsInvoiceValue": 28796.8,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/0c5f4dec-ab38-4935-8d13-ab3497db4a85-INV VE EXP 25-26 44 VIDHI.xls"
+  },
+  {
+    "quoteId": "XQAMZFCL032619371M",
+    "exportsInvoiceValue": 28796.8,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/9f9c3751-d4de-4ec0-896d-391b9243cf57-INVOICE   packing listEB-041 destination invoice (1).xls"
   }
 ]
