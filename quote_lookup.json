@@ -1077,18 +1077,60 @@
     "quoteId": "XQAMZFCL032619371M",
     "exportsInvoiceValue": 28796.8,
     "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/117aa944-3364-47c9-ba34-f316227e4a00-INV WHF-33 577 BOX - IMPORT.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL032619371M",
-    "exportsInvoiceValue": 28796.8,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/0c5f4dec-ab38-4935-8d13-ab3497db4a85-INV VE EXP 25-26 44 VIDHI.xls"
-  },
-  {
-    "quoteId": "XQAMZFCL032619371M",
-    "exportsInvoiceValue": 28796.8,
-    "shipper": "wagon home furnishing",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/9f9c3751-d4de-4ec0-896d-391b9243cf57-INVOICE   packing listEB-041 destination invoice (1).xls"
+  },
+  {
+    "quoteId": "XQAMZFCL032619371M",
+    "exportsInvoiceValue": 28796.8,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/69a972fb14d9f225359e9de5/e3680cd4-ca45-456d-a2a1-37d260be3720.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL032619371M",
+    "exportsInvoiceValue": 28796.8,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/69a972fb14d9f225359e9de5/8a3e9f5b-191b-47d8-9aa6-abebace89793.xls"
+  },
+  {
+    "quoteId": "XQAMZFCL032619371M",
+    "exportsInvoiceValue": 28796.8,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/69a972fb14d9f225359e9de5/b7bcc545-6289-4353-ae77-faf2846c26f4-INV ED-08 NF 229 BOX (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526169990",
+    "exportsInvoiceValue": 5454.55,
+    "shipper": "opro international ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/69fda52648a6ea098608985d/1c1fbe7b-d42f-4ba5-b283-dca6c55a96ca-CI XQAMZAIR0526169990 (Opro international ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0526170104",
+    "exportsInvoiceValue": 7262.77,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/bookings-docs/69fdb0bcbf0ed98a3ef04204/eceee90f-c4e9-4c3f-99a4-e1e89cb1d23c.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171220",
+    "exportsInvoiceValue": 5407.65,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ccc2989cd4f09f26b8/b3aa2836-2585-4172-b62f-75eb4c485ca8-DI XQAMZAIR0526171220 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171203",
+    "exportsInvoiceValue": 5407.65,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ca4daf4f450576f90a/4b149c24-1289-451c-9b93-7578e817ab91-DI XQAMZAIR0526171203 (Wild cosmetics).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171358",
+    "exportsInvoiceValue": 795.35,
+    "shipper": "s.brannan & sons",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69dfaa18296552d3b74bd4d3/execution-documents/6a02e6e28ae4a1906de38f29/14801528-f7b2-4d9d-a20f-1117e4b39328-CI XQAMZAIR0526171358 (S.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0526170091",
+    "exportsInvoiceValue": 6682.64,
+    "shipper": "wild cosmetics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/69fdb0b98ae58174c1188a6f/8ed07738-da24-44e4-ac54-3c82b32594d6-DI XQAMZAIR0526170091 (Wild cosmetics).xlsx"
   }
 ]
