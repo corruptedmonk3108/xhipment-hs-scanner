@@ -978,33 +978,9 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/69fda52648a6ea098608985d/1c1fbe7b-d42f-4ba5-b283-dca6c55a96ca-CI XQAMZAIR0526169990 (Opro international ltd).XLSX"
   },
   {
-    "quoteId": "XQAMZAIR0526170104",
-    "exportsInvoiceValue": 7262.77,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/bookings-docs/69fdb0bcbf0ed98a3ef04204/eceee90f-c4e9-4c3f-99a4-e1e89cb1d23c.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526171220",
-    "exportsInvoiceValue": 5407.65,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ccc2989cd4f09f26b8/b3aa2836-2585-4172-b62f-75eb4c485ca8-DI XQAMZAIR0526171220 (Wild cosmetics).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526171203",
-    "exportsInvoiceValue": 5407.65,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ca4daf4f450576f90a/4b149c24-1289-451c-9b93-7578e817ab91-DI XQAMZAIR0526171203 (Wild cosmetics).xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0526171358",
     "exportsInvoiceValue": 795.35,
     "shipper": "s.brannan & sons",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69dfaa18296552d3b74bd4d3/execution-documents/6a02e6e28ae4a1906de38f29/14801528-f7b2-4d9d-a20f-1117e4b39328-CI XQAMZAIR0526171358 (S.XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0526170091",
-    "exportsInvoiceValue": 6682.64,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/69fdb0b98ae58174c1188a6f/8ed07738-da24-44e4-ac54-3c82b32594d6-DI XQAMZAIR0526170091 (Wild cosmetics).xlsx"
   }
 ]
