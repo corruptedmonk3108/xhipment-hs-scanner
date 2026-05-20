@@ -18,12 +18,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/69becf2c3a1fb4e7b2697001/c8aca460-2a00-457b-8d6c-65b19e94fddd-Export Commercial Invoice - Excel_XQAMZLCL032619790M CI Up.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619750M",
-    "exportsInvoiceValue": 1519.0,
-    "shipper": "shreeram online",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698d441475ab4194d75e9835/bookings-docs/69bd115c5c80cc09a0f157d4/e0898021-ace7-42ac-8055-1e8609cd1ee3.xlsx"
-  },
-  {
     "quoteId": "XQLCL022619064",
     "exportsInvoiceValue": 14081.75,
     "shipper": "Hypernikao Enterprises LLC",
@@ -154,12 +148,6 @@
     "exportsInvoiceValue": 31704.0,
     "shipper": "apl",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69d8e387f9087108e16f28b2/eb1b011f-b0ac-4a57-a222-9c0f506d36b2-Import Commercial Invoice - Excel_XQAMZFCL042620337M UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL032619401M",
-    "exportsInvoiceValue": 47496.0,
-    "shipper": "matras exporters",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670e09456cd8676e0286d570/execution-documents/69b157064f2a9701c18e179a/1f984c19-e2b2-40c5-81e4-d1829db8d0ea-Import Commercial Invoice - Excel_XQAMZLCL032619401M UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL032619983M",
@@ -312,12 +300,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6965d94f53aae2103d9d7419/execution-documents/69be2923d8fcdd8cf22c6db2/aff91b56-1e01-439f-b67f-cf47eb516be1-Export Commercial Invoice - Excel_XQAMZLCL032619751M UP.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619752M",
-    "exportsInvoiceValue": 42544.8049,
-    "shipper": "Krishna Handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64f95732c37fc8db3e2e9c03/execution-documents/69bcf236bf71f1902a990b1c/6d60dc1f-4983-467e-a981-41cc6d88e345-Import Commercial Invoice - Excel_XQAMZLCL032619752M UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620512M",
     "exportsInvoiceValue": 12690.0,
     "shipper": "s a enterprises",
@@ -376,12 +358,6 @@
     "exportsInvoiceValue": 684.0,
     "shipper": "kavita narayanan",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6911d47237b9050de969b7ea/execution-documents/69c4930966f5db02f871f7b7/88401eb4-31b1-4bd3-8d7e-79b5b20274e5-Consolidated CI_XQAMZLCL032619882M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL032619982M",
-    "exportsInvoiceValue": 67574.0,
-    "shipper": "matras exporters",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670e09456cd8676e0286d570/bookings-docs/69ca632f274d30121c7e37fb/79e5483c-0389-4009-90d2-49c0e6b0af95.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620577M",
@@ -546,28 +522,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69d096a5db2f2b1ce21a6c22/b82933a2-c5a0-41d2-a7b5-74cd51ced6ae-Import Commercial Invoice - Excel_XQAMZFCL042620117M UP.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL042620120M",
-    "exportsInvoiceValue": 137483.64,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69d0a2926a2ddc0b953eab8d/41e9b793-5991-425c-a147-7f584f39b1a7-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL032619347M",
     "exportsInvoiceValue": 18993.84,
     "shipper": "H.R INDUSTRIES",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=666a8286d25637405b0e926e/execution-documents/69aa9bbd78dc116ff2e20e3e/8ab696a5-fb02-4982-aaa5-6752e7f0a79d-Signed & Scanned Export Commercial Invoice_XQAMZLCL032619347M UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620119M",
-    "exportsInvoiceValue": 122547.62,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69d0a119e622c1e8a512d0fe/158cf963-b71a-4fae-aee7-659b047a82f1-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620148M",
-    "exportsInvoiceValue": 122027.0,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69d35411b186d4cd1430d5b1/9206d1c6-2cfe-45ae-9545-0f4224316907-Invoice No.xlsx"
   },
   {
     "quoteId": "XQLCL032619758",
