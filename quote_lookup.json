@@ -486,6 +486,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/bookings-docs/69cb7dbbbf8a220db4039209/97540561-1a40-4e48-9315-1c94560b1b52.xls"
   },
   {
+    "quoteId": "XQAMZLCL042620895M",
+    "exportsInvoiceValue": 5362.16,
+    "shipper": "cod beck blenders",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f0f9d756a98a01a25b7f4d/execution-documents/69f1b188d13ee4ac88afb85b/40104978-0848-4d4c-ab89-377f6889568f-Export Commercial Invoice - Excel_XQAMZLCL042620895M UP.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL032620011M",
     "exportsInvoiceValue": 10724.0,
     "shipper": "fireants sourcing technologies pvt ltd",
