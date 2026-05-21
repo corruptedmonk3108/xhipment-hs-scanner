@@ -462,10 +462,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da627871c4cab886d336c5/execution-documents/69a5a1440cd10e0a7a353563/e203aae9-44fa-4479-94fc-63126a79b636-CI XQAMZAIR0326152551 (Paul longley).XLSX"
   },
   {
+    "quoteId": "XQAMZFCL042620771M",
+    "exportsInvoiceValue": 59767.0,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/69f07f70e293bc96a34c4535/8e97ad62-2938-449f-abc3-ff93c5a867cd-proforma-invoice-100355.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL032619995M",
     "exportsInvoiceValue": 2352.0,
     "shipper": "Delphi Leather",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bfec928bb33ef411fecaa8/execution-documents/69cc015b7005732b5b9229d5/1ceae2af-beb6-4462-a825-a61543e0c79f-Export Commercial Invoice - Excel_XQAMZLCL032619995M (3) (1) CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621054M",
+    "exportsInvoiceValue": 12410.2,
+    "shipper": "bja trading limited t/a birkdale sales",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/execution-documents/69f9fa7f34403bc323de86a8/feee5665-2c1f-432f-90d4-89af51b1a74b-Export Commercial Invoice - Excel_XQAMZLCL052621054M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL032620001M",
@@ -532,12 +544,6 @@
     "exportsInvoiceValue": 9451.32,
     "shipper": "CODE N CRAYON SOLUTIONS LLP",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bce6d5bf71f1902a90d87e/execution-documents/69bcf97079d96badb6f6c316/c1c1181c-92a3-44cf-8988-71189ee9cf98-Export Commercial Invoice - Excel_XQLCL032619758 (CI)).xlsx"
-  },
-  {
-    "quoteId": "XQAIR042620683",
-    "exportsInvoiceValue": 4560.0,
-    "shipper": "Kenzen Ventures Limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ab5ddfb8f128eb29a734a6/execution-documents/69e8774a1c01f8a80a8b0f56/0eda9075-a2a2-4a4f-af1b-e6a806fd678b-CI XQAIR042620683 (Kenzen Ventures Limited) (FDA, HTS, MANUFACTURER DETAILS).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620689M",
