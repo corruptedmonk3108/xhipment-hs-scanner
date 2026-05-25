@@ -498,10 +498,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ab922f3a2205dd88733e89/execution-documents/69e9d513be1c8c3e9551c544/fefcc5f4-5159-450c-8e3b-699e08322571-Export Commercial Invoice - Excel_XQFCL042620687 (2) (2).pdf"
   },
   {
+    "quoteId": "XQFCL042620486",
+    "exportsInvoiceValue": 25000.0,
+    "shipper": "Topline Retail Solutions",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da376164a72ed0a3369ff4/execution-documents/69df9af51b1823504957c87f/ae82ea4f-be85-4ba2-8518-510522d3a07f-Topline CIPL- BTGOY25062 UP.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620034M",
     "exportsInvoiceValue": 907.19,
     "shipper": "fuzail ahmed",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/execution-documents/69cd17fafec77c8b2ec369e5/62d3dcbc-88a1-4ed0-b13e-5b20dd44b076-Export Commercial Invoice - Excel_XQAMZLCL042620034M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620230M",
+    "exportsInvoiceValue": 19224.0,
+    "shipper": "creative 7",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69661e1dd924c15124a05be8/execution-documents/69d6547eb11353b3b9bbe76c/fe39b096-9833-4d76-a89f-6f978e6a0df0-EXPORT Commercial Invoice_XQAMZFCL042620230M UP.XLSX"
   },
   {
     "quoteId": "XQAMZLCL042620083M",
