@@ -426,12 +426,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da627871c4cab886d336c5/execution-documents/69a5a1440cd10e0a7a353563/e203aae9-44fa-4479-94fc-63126a79b636-CI XQAMZAIR0326152551 (Paul longley).XLSX"
   },
   {
-    "quoteId": "XQAMZLCL042620508M",
-    "exportsInvoiceValue": 6116.0,
-    "shipper": "kessler",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df285cb43879c4efdfef6b/execution-documents/69df342f96feff2414743d58/a543936b-c844-41f8-ba40-516f01bc129f-CI_PL - 2026-05-23T121547.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL042620771M",
     "exportsInvoiceValue": 59767.0,
     "shipper": "Sljivo Trading GmbH",
@@ -532,6 +526,12 @@
     "exportsInvoiceValue": 30150.0,
     "shipper": "apl",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69d096a5db2f2b1ce21a6c22/b82933a2-c5a0-41d2-a7b5-74cd51ced6ae-Import Commercial Invoice - Excel_XQAMZFCL042620117M UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620508M",
+    "exportsInvoiceValue": 6116.0,
+    "shipper": "kessler",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df285cb43879c4efdfef6b/bookings-docs/69df342f96feff2414743d58/63f2e0d4-8ea8-418f-8e23-3aeccfce43d2.xlsx"
   },
   {
     "quoteId": "XQAIR042620722",
