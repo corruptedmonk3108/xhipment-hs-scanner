@@ -480,6 +480,42 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69661e1dd924c15124a05be8/execution-documents/69d6547eb11353b3b9bbe76c/fe39b096-9833-4d76-a89f-6f978e6a0df0-EXPORT Commercial Invoice_XQAMZFCL042620230M UP.XLSX"
   },
   {
+    "quoteId": "XQAIR042620867",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "Beebay International Pvt Ltd.,",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f0758ee7f4f75a17d03fe5/execution-documents/69f0816e12e848122cda76d6/727a666f-9a2c-414d-bd03-e53d453eb3c5-CI XQAIR042620867 (Beebay International Pvt Ltd.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526172218",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "manan jain",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a04600e5ea08a57d8613f98/execution-documents/6a0460125ea08a57d8613fc1/6ba2f1b7-2fb0-4a14-b6f6-d5b40d0f5416-CI XQAMZAIR0526172218 (manan jain).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175010",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a114e25964c2831901c97ee/9cbfbf5e-16b6-41aa-afc3-1238d8a47c3d-DI XQAMZAIR0526175010 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526168929",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "raxedo",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f9a7e8a4438cbd0979c15d/execution-documents/69f9a7eba4438cbd0979c193/6c339aee-6e84-490e-8d5d-2fdfc4154cb1-CI XQAMZAIR0526168929 (raxedo).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526173924",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a0d9e37eae45080a633eaaa/7907049f-1aef-43af-b6c4-db192853d1f2-DI XQAMZAIR0526173924 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526171455",
+    "exportsInvoiceValue": 1.0,
+    "shipper": "21g design works pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65548f5b48c6c7d36e5e369f/execution-documents/6a02fe886b91976fbde06e22/fc3dc5bc-2cc2-43d7-b5b3-5ad288d54678-CI XQAMZAIR0526171455 (21g design works pvt ltd).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620508M",
     "exportsInvoiceValue": 6116.0,
     "shipper": "kessler",
