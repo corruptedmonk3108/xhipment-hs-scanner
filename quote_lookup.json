@@ -90,12 +90,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a07523efb764c036032bbbd/5f972d8e-03e4-4182-8b9c-c6efbb69ec97-CI XQAMZAIR0526172860 (matthias christian).XLSX"
   },
   {
-    "quoteId": "XQAMZAIR0526172849",
-    "exportsInvoiceValue": 5335.2,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a07523ae19ef8ce3e216d7b/9db09596-b461-454b-bf76-80114633c448-CI XQAMZAIR0526172849 (matthias christian).XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR0526171654",
     "exportsInvoiceValue": 16239.0,
     "shipper": "Rose and Caramel Limited (SEND)",
@@ -234,12 +228,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a0367a0aed52671cdf37b7e/8d749777-9424-4752-8c98-655e9a227439-Export Commercial Invoice - Excel_XQAMZLCL052621283M.pdf"
   },
   {
-    "quoteId": "XQAMZAIR0526170319",
-    "exportsInvoiceValue": 624.24,
-    "shipper": "the others beauty co ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878e4745a64de1ec89db325/execution-documents/69fdc42248a6ea098615b53d/3ec084fd-8a75-4bfb-943e-550f7c36dbe7-CI XQAMZAIR0526170319 (the others beauty co ltd).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052620978M",
     "exportsInvoiceValue": 2096.57,
     "shipper": "stsfy",
@@ -360,18 +348,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fc71b5c8a4314d74bcf5af/execution-documents/69fc834a920e20acf4cd4628/35b8e3b9-c68e-4215-9773-dfec145f2d9e-Export Commercial Invoice - Excel_XQAMZLCL052621121M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0526170091",
-    "exportsInvoiceValue": 6682.64,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/69fdb0b98ae58174c1188a6f/8ed07738-da24-44e4-ac54-3c82b32594d6-DI XQAMZAIR0526170091 (Wild cosmetics).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL032619933M",
-    "exportsInvoiceValue": 91084.0,
-    "shipper": "B Healthy Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b0456d91cce9e613a6822a/execution-documents/69c76417a31ee2a8039b1cc1/24e8afb4-b392-4b9b-935a-394034f57166-Export Commercial Invoice - Excel_XQAMZFCL032619933M (FDA done c).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621460M",
     "exportsInvoiceValue": 13831.0,
     "shipper": "the master herbalist",
@@ -382,12 +358,6 @@
     "exportsInvoiceValue": 900.0,
     "shipper": "pure gliss ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68adc4d767c497f85b6dff39/execution-documents/69f8bc21172d1423752c5916/3f458ae7-811b-4dc2-bd06-493836dcfde8-Export Commercial Invoice - Excel_XQAMZLCL052621027M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526171203",
-    "exportsInvoiceValue": 5407.65,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ca4daf4f450576f90a/4b149c24-1289-451c-9b93-7578e817ab91-DI XQAMZAIR0526171203 (Wild cosmetics).xlsx"
   },
   {
     "quoteId": "XQAMZAIR0326152551",
@@ -648,10 +618,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/execution-documents/69d3561e0d1c22d286e22202/8eea5016-33c2-483b-b756-beae47f750c5-EXPORT Commercial Invoice_XQAMZLCL042620064M.XLSX"
   },
   {
+    "quoteId": "XQAMZFCL042620507M",
+    "exportsInvoiceValue": 144188.82,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69df2ecb7e363dde5261224d/0c7c3f02-6bdb-4b85-8582-f52c5ac0bbee-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL032620007M",
     "exportsInvoiceValue": 189852.74,
     "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/69cb8c6ee2dcb5ea93812c87/5a53d867-fcef-47f8-b48b-db65275af3de-INV AND PAC LIST EX_SM_25-26_15 US CUSTOM INVOICE CI NEW.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL042620625M",
+    "exportsInvoiceValue": 18220.0,
+    "shipper": "archie enterprise",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/execution-documents/69e60c6607b2e06c8609e667/eb8c1837-b564-4593-9dcf-e22715a39bfd-Import Commercial Invoice - Excel_XQAMZLCL042620625M CI updated neww.xlsx"
   },
   {
     "quoteId": "XQAMZLCL032619560M",
@@ -684,22 +666,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677d13d91b731bf79f059e39/execution-documents/69ca164b0b6c4da80ed3eb00/0cc58f50-48ec-4f86-96e8-23b4e3cbd705-Import Commercial Invoice - Excel_XQAMZLCL032619969M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619954M",
-    "exportsInvoiceValue": 6767.46,
-    "shipper": "conekraftz india pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67138db23a3b6c2fb9ffa857/bookings-docs/69ca419e68d41dddb9dbd072/77ceedf8-79e4-479c-bb00-d530fe58d275.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL032619917M",
     "exportsInvoiceValue": 2613.0,
     "shipper": "artware international",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c604ac90586e027adf8dae/execution-documents/69cd5f3487bd51d8620f43e2/566f6656-43e9-449c-923b-e62f33f3ebe1-EXPORT Commercial Invoice_XQAMZLCL032619917M (1) CI.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL032619728M",
-    "exportsInvoiceValue": 7176.8,
-    "shipper": "blue fox tools",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=651e9b1cbeb8da5b21fdd73d/execution-documents/69bbd974265b4d83da01ce30/323aa47d-c27d-41ab-b264-2523c1bf28fe-Export Commercial Invoice - Excel_XQAMZLCL032619728M (2) CI new.xlsx"
   },
   {
     "quoteId": "XQLCL032619760",
