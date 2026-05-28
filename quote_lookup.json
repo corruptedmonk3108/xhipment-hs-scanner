@@ -6,6 +6,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=679019a293878fbfcf0d48b8/execution-documents/69cea84c36a8ad59f2320b24/7ba7c52f-8bc0-4812-bf59-17b64818f66f-Import Commercial Invoice - Excel_XQAMZLCL042620061M CI new.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620743M",
+    "exportsInvoiceValue": 20556.0,
+    "shipper": "anaya agate",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68284257b3fb02d788de8a29/execution-documents/69eb5f01a2b4890888eaaa77/d30fe218-7638-4ee5-8f06-5417d6e55118-EXPORT Commercial Invoice_XQAMZLCL042620743M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZFCL042620668M",
+    "exportsInvoiceValue": 45707.0,
+    "shipper": "rig cosmetics limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/execution-documents/69e788e8c663e423636e72eb/fb0ae7a4-be96-4110-8148-0cbd138abf52-Export Commercial Invoice - Excel_XQAMZFCL042620668M (CI).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620458M",
     "exportsInvoiceValue": 19152.05,
     "shipper": "le craf",
@@ -76,12 +88,6 @@
     "exportsInvoiceValue": 25824.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f09da5f0ae046e5e626360/baf643ca-ef6a-4263-9ac9-3858a4d6e686-Import Commercial Invoice - Excel_XQAMZLCL042620881M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526172049",
-    "exportsInvoiceValue": 2146.56,
-    "shipper": "s.brannan & sons",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69dfaa18296552d3b74bd4d3/execution-documents/6a04320c1800e932081f6eb5/37d0de4c-a52c-4ae6-b46c-9f32d8a0622e-CI XQAMZAIR0526172049 (s.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526172860",
@@ -694,11 +700,5 @@
     "exportsInvoiceValue": 22905.61,
     "shipper": "Daaxo Wares, LLC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bcf2cf0410cfd71d9d4f49/execution-documents/69bd0299b344b00e97347c4b/63fce545-0838-4f59-b1e8-87abb9a29766-511-WPI-01-09-26-US-OCEAN Wulf.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526171243",
-    "exportsInvoiceValue": 4823.04,
-    "shipper": "wild cosmetics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fdb0b78ae58174c1188a2a/execution-documents/6a01e6ce4daf4f450576f9f3/9f86dc96-5179-4f51-a857-285cd6f23d21-DI XQAMZAIR0526171243 (Wild cosmetics).xlsx"
   }
 ]
