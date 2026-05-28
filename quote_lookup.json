@@ -642,6 +642,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69e609d85717b733a4161230/9397a597-8599-48a1-95e2-3787c59ed5d8-Import Commercial Invoice - Excel_XQAMZFCL042620628M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620064M",
+    "exportsInvoiceValue": 2363.2,
+    "shipper": "Akanhshaa Arts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/execution-documents/69d3561e0d1c22d286e22202/8eea5016-33c2-483b-b756-beae47f750c5-EXPORT Commercial Invoice_XQAMZLCL042620064M.XLSX"
+  },
+  {
     "quoteId": "XQAMZFCL032620007M",
     "exportsInvoiceValue": 189852.74,
     "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
