@@ -18,10 +18,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/execution-documents/69e788e8c663e423636e72eb/fb0ae7a4-be96-4110-8148-0cbd138abf52-Export Commercial Invoice - Excel_XQAMZFCL042620668M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZFCL042620859M",
+    "exportsInvoiceValue": 127493.3,
+    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/69f05bc016bb65b529706f10/ecc731f2-719d-499f-95ac-c983af417fa2-Destination Invoice_XQAMZFCL042620859M CI.xls"
+  },
+  {
     "quoteId": "XQAMZLCL042620458M",
     "exportsInvoiceValue": 19152.05,
     "shipper": "le craf",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c3a696a07a44ae203b8eee/execution-documents/69dca788b3ec385f73ea136a/176c1bdb-6ca6-461c-b63c-610e6bca7f7f-Export Commercial Invoice - Excel_XQAMZLCL042620458M CI.XLS"
+  },
+  {
+    "quoteId": "XQAMZLCL042620626M",
+    "exportsInvoiceValue": 17115.94,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69e60808b30aa6e67d0e1c34/62edccfd-76d7-43b7-abdf-3b6e4223abc0-Export Commercial Invoice - Excel_XQAMZLCL042620626M UP.xlsx"
+  },
+  {
+    "quoteId": "XQFCL042620612",
+    "exportsInvoiceValue": 51339.03,
+    "shipper": "Imagimake",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/69e5d24dac87c4e1443b1b8e/bd2f595d-feb1-4b2f-a9fd-1a138ee81252-Export Commercial Invoice - Excel_XQFCL042620612.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL042620599M",
+    "exportsInvoiceValue": 4032.0,
+    "shipper": "sharks success marketing enterprises inc.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=693fe749fac042e47afd31d0/execution-documents/69e5bc36b7043d8a7d1bdeaf/95103184-de91-4f9c-afac-07cd224371bf-Import Commercial Invoice - Excel_XQAMZLCL042620599M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620686M",
@@ -124,12 +148,6 @@
     "exportsInvoiceValue": 50515.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69ef6f89f1af61636d663fef/4213f1f9-d197-4473-88a9-e583c760c9d8-Import Commercial Invoice - Excel_XQAMZLCL042620835M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL032619462M",
-    "exportsInvoiceValue": 3120.0,
-    "shipper": "g & g global",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69abe2e3d4dba691b3f40707/execution-documents/69b2a45c35fedfe6fa41269f/79d1ffde-d466-4c0e-89fb-471cd65c3a6a-Export Commercial Invoice - Excel_XQAMZLCL032619462M (CI))).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620879M",
@@ -298,12 +316,6 @@
     "exportsInvoiceValue": 1057.68,
     "shipper": "the others beauty co ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878e4745a64de1ec89db325/execution-documents/69fdc42648a6ea098615b821/ea96e29a-8609-42f8-94fc-a140e5121544-CI XQAMZAIR0526170331 (the others beauty co ltd) (1) (2).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526172066",
-    "exportsInvoiceValue": 1098.24,
-    "shipper": "s.brannan & sons",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69dfaa18296552d3b74bd4d3/execution-documents/6a04320c9fa74d95078c62dd/57266b1f-f967-4163-9b7b-2a12bf0bcc0b-CI XQAMZAIR0526172066 (s.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526172519",
