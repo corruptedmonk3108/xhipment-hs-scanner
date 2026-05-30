@@ -192,12 +192,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=652797938807003a1c290a0a/execution-documents/69e37f57aeda90fb7a172177/e720589b-7518-408f-ba43-68d95a88d1b9-Export Commercial Invoice - Excel_XQAMZLCL042620605M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619530M",
-    "exportsInvoiceValue": 1544.4,
-    "shipper": "velnik india limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b11c9dba14a6662a7119ac/execution-documents/69b3e5592868db2a8c2b00e2/8107c07d-7d78-4522-bf91-972a5c3cefc7-EXPORT Commercial Invoice_XQAMZLCL032619530M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620460M",
     "exportsInvoiceValue": 605.5,
     "shipper": "organique alchemy marketing llp",
@@ -274,12 +268,6 @@
     "exportsInvoiceValue": 27524.13,
     "shipper": "Wyldsson Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a0367a0aed52671cdf37b7e/8d749777-9424-4752-8c98-655e9a227439-Export Commercial Invoice - Excel_XQAMZLCL052621283M.pdf"
-  },
-  {
-    "quoteId": "XQAMZLCL052620978M",
-    "exportsInvoiceValue": 2096.57,
-    "shipper": "stsfy",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b98333881d07ba0925e2c8/execution-documents/69f59c1e3cfd699ad274c3c1/3428582e-e7bf-434c-b070-75f67521f3b7-EXPORT Commercial Invoice_XQAMZLCL052620978M (CI new.XLSX"
   },
   {
     "quoteId": "XQAMZLCL042620512M",
@@ -382,12 +370,6 @@
     "exportsInvoiceValue": 888.45,
     "shipper": "bulk hardware ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687630cdfbd8fbda11a62d73/execution-documents/6a072789df856e2f4d50be92/d3fd3fc1-39e2-4fb0-ad33-8a70dc92c59a-Destination Invoice_XQAMZAIR0526172819.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL032619988M",
-    "exportsInvoiceValue": 44130.0,
-    "shipper": "kanishka home bedding",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca5d515bab6c16ff48078b/bookings-docs/69cb4d51440e2e2c908435b7/40459722-92d2-43cb-8023-a5893a59044b.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621121M",
@@ -682,12 +664,6 @@
     "exportsInvoiceValue": 18220.0,
     "shipper": "archie enterprise",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/execution-documents/69e60c6607b2e06c8609e667/eb8c1837-b564-4593-9dcf-e22715a39bfd-Import Commercial Invoice - Excel_XQAMZLCL042620625M CI updated neww.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL032620022M",
-    "exportsInvoiceValue": 53957.8,
-    "shipper": "metis learning solutions pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6822df7688ffefbf4011cae1/execution-documents/69ccc61bc90f0ce1070e0f0b/2ba12bfe-30b8-4106-89ca-f2393d3e8392-Export Commercial Invoice - Excel_XQAMZFCL032620022M CI.xlsx"
   },
   {
     "quoteId": "XQLCL032619760",
