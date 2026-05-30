@@ -402,6 +402,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/bookings-docs/69e609d85717b733a4161230/0a4e7684-18ce-4def-9bca-5ded333861aa.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620825M",
+    "exportsInvoiceValue": 120.0,
+    "shipper": "nidaecommerce",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69146eb0ecac171d51e290c5/execution-documents/69f07206ebc685d38bcc3de4/a8b68621-b874-4bd3-9027-bd467a0cca6e-EXPORT Commercial Invoice_XQAMZLCL042620825M CI new.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL042620163M",
+    "exportsInvoiceValue": 6553.44,
+    "shipper": "blue sapphire merchant",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68cbba3a88432a030a5533e9/execution-documents/69d76d1c130059f86fe887cb/f91aeb24-43f3-4b93-970b-94f1e5192ac2-Export Commercial Invoice - Excel_XQAMZLCL042620163M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621460M",
     "exportsInvoiceValue": 13831.0,
     "shipper": "the master herbalist",
@@ -412,6 +424,12 @@
     "exportsInvoiceValue": 900.0,
     "shipper": "pure gliss ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68adc4d767c497f85b6dff39/execution-documents/69f8bc21172d1423752c5916/3f458ae7-811b-4dc2-bd06-493836dcfde8-Export Commercial Invoice - Excel_XQAMZLCL052621027M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620682M",
+    "exportsInvoiceValue": 92117.0,
+    "shipper": "matras exporters",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/69e871bc5805dd5e0e58ae54/93ee243f-6828-439e-a536-c5c6fd4ce658-Excel Invoice -  ME2627-0008 CI NEW.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0326152551",
