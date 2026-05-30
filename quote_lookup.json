@@ -78,12 +78,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69993320b4ac69cdc1625284/execution-documents/69d79854b62fb1172ae34df6/fca5a978-0f8c-4b6d-a92c-bc3cc335333e-Export Commercial Invoice - Excel_XQAMZLCL042620252M CI new.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0526172661",
-    "exportsInvoiceValue": 1530.15,
-    "shipper": "s.brannan & sons",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69dfaa18296552d3b74bd4d3/bookings-docs/6a06d6b98e94c9a26fce94b3/332ea1fd-c1b4-4cc5-9976-ae4cc07d1ff3.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620876M",
     "exportsInvoiceValue": 28258.0,
     "shipper": "Madan Mohan textiles",
@@ -136,12 +130,6 @@
     "exportsInvoiceValue": 4924.8,
     "shipper": "matthias christian",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a07523efb764c036032bbbd/5f972d8e-03e4-4182-8b9c-c6efbb69ec97-CI XQAMZAIR0526172860 (matthias christian).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0526171654",
-    "exportsInvoiceValue": 16239.0,
-    "shipper": "Rose and Caramel Limited (SEND)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b5f1fd1967c7914f75209f/execution-documents/6a032102ee2a35a2e3b500ab/7b32b162-110d-4701-8175-4cb40b937797-CI XQAMZAIR0526171654 (Rose and Caramel Limited (SEND)).xlsx"
   },
   {
     "quoteId": "XQAMZLCL032619394M",
@@ -312,12 +300,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878e4745a64de1ec89db325/execution-documents/69fdc42648a6ea098615b821/ea96e29a-8609-42f8-94fc-a140e5121544-CI XQAMZAIR0526170331 (the others beauty co ltd) (1) (2).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0526172519",
-    "exportsInvoiceValue": 1098.38,
-    "shipper": "WeTrade Limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ec66958f83a5ac5b746eae/execution-documents/6a05a27fff27d04ac666a359/b3a8163f-eb78-4d9c-91b4-ca56fd60db55-CI XQAMZAIR0526172519 (WeTrade Limited) (1).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL052621408M",
     "exportsInvoiceValue": 252.0,
     "shipper": "sunitt halai",
@@ -342,22 +324,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/bookings-docs/69e60808b30aa6e67d0e1c34/a5c84c57-cce3-471a-afae-b2e86e892613.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0526173349",
-    "exportsInvoiceValue": 1023.0,
-    "shipper": "creative jam enterprises ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a0b163f4caac2709a9ac0f0/d0fbfbe7-f596-4771-9ad7-4af5a7857714-CI XQAMZAIR0526173349 (creative jam enterprises ltd) (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620577M",
     "exportsInvoiceValue": 1198.8,
     "shipper": "kavita narayanan",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6911d47237b9050de969b7ea/execution-documents/69e22fda06b48b20a19b9ea5/2df3dde3-c898-44a8-8dda-b0b25f91bfc4-Export Commercial Invoice - Excel_XQAMZLCL042620577M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0526172819",
-    "exportsInvoiceValue": 888.45,
-    "shipper": "bulk hardware ltd.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687630cdfbd8fbda11a62d73/execution-documents/6a072789df856e2f4d50be92/d3fd3fc1-39e2-4fb0-ad33-8a70dc92c59a-Destination Invoice_XQAMZAIR0526172819.XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621121M",
@@ -430,6 +400,12 @@
     "exportsInvoiceValue": 798.0,
     "shipper": "prashant rana",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a0856f52dbc726be68f89e/bookings-docs/69e1ddf3b8e636be43d24bcb/f2baf8c5-71e4-4f80-aa60-7522ba6be4ab.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620850M",
+    "exportsInvoiceValue": 14820.0,
+    "shipper": "s a enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/bookings-docs/69f043c540e864035185dc7d/f90e51b7-527f-4f40-a40a-6975ef6a80cd.xls"
   },
   {
     "quoteId": "XQAMZFCL042620836M",
