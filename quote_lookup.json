@@ -474,6 +474,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69e1e4af86db1074019c89a7/03c7b5e5-dc16-464c-9f6d-9d095057cb40-Invoice No.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620601M",
+    "exportsInvoiceValue": 24260.0,
+    "shipper": "Arrowhead exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64427e65dd743bd4c1ef5891/bookings-docs/69e37008cd160821314bcbd6/ce7552f3-6932-4d1d-b00a-5e7294ea7a14.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620613M",
+    "exportsInvoiceValue": 6974.5,
+    "shipper": "amit bhandari",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6711e173101051070927f1b1/execution-documents/69e5cadde87838b2292f1106/35ab49c8-d0ed-41c5-86ec-bd502c112432-EXPORT Commercial Invoice_XQAMZLCL042620613M CI.XLSX"
+  },
+  {
     "quoteId": "XQAIR042620867",
     "exportsInvoiceValue": 1.0,
     "shipper": "Beebay International Pvt Ltd.,",
