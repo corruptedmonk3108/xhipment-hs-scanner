@@ -408,10 +408,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/bookings-docs/69f043c540e864035185dc7d/f90e51b7-527f-4f40-a40a-6975ef6a80cd.xls"
   },
   {
+    "quoteId": "XQAMZLCL042620115M",
+    "exportsInvoiceValue": 2120.0,
+    "shipper": "naturoindia",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657c2cb66f96f5c177bbd6e5/execution-documents/69d0f7f26d37a96866ad3ab2/1866307c-d4e8-41cf-a7e1-e677aba8ee31-Export Commercial Invoice - Excel_XQAMZLCL042620115M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620464M",
+    "exportsInvoiceValue": 18000.0,
+    "shipper": "sabah khan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/69dde0b9147004f9b24cb0f8/0403b6b7-3383-4a95-a9fd-52aeaa0a7f15-Import Commercial Invoice - Excel_XQAMZLCL042620464M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL042620836M",
     "exportsInvoiceValue": 163656.44,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69ef6fee0c9f7dd4058be675/610b5a32-279a-4d31-b1b1-0b3febb815af-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620480M",
+    "exportsInvoiceValue": 5635.56,
+    "shipper": "goodwill coir mfg. co.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=681b173e699e3d31706d47be/execution-documents/69df1979ac789e1cf127cf1a/d397e517-2418-49b1-bac0-3757a9b11061-Export Commercial Invoice - Excel_XQAMZLCL042620480M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620617M",
+    "exportsInvoiceValue": 1052.09,
+    "shipper": "manjunatha km",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6791cbdde43222add0401271/execution-documents/69e73e03fecba36fef33e739/c737bfc8-37ea-4700-bab2-f187e313825c-Import Commercial Invoice - Excel_XQAMZLCL042620617M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL052620964M",
