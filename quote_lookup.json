@@ -150,6 +150,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69ef6f89f1af61636d663fef/4213f1f9-d197-4473-88a9-e583c760c9d8-Import Commercial Invoice - Excel_XQAMZLCL042620835M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621508M",
+    "exportsInvoiceValue": 4828.0,
+    "shipper": "lcr group holdings",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c44d38c0655a2ab614df9/bookings-docs/6a0c5c248128992b0691d0a2/885c3f10-0021-4b3f-8c63-2faeee41a7c3.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621510M",
+    "exportsInvoiceValue": 3614.93,
+    "shipper": "liquid gaming",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687fa42776a42f554ef7a4db/bookings-docs/6a0c5f988128992b069269c1/0a944690-9d29-464a-91da-1cbd264a8aab.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620879M",
     "exportsInvoiceValue": 4940.0,
     "shipper": "Madan Mohan textiles",
@@ -184,12 +196,6 @@
     "exportsInvoiceValue": 121662.48,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69ea20587d24c5a2c480f63e/1ff476ae-3ac0-4961-9479-69efae09c68a-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQLCL032619918",
-    "exportsInvoiceValue": 83142.0,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/bookings-docs/69c61e8a5253d60a01801e26/dec5b810-8c13-427a-a6b8-44a55535d68e.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620547M",
@@ -696,12 +702,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e7f67ec5e77288b0d0bc3c/execution-documents/6a155113cc8fc99f9fe70c1f/3933e2c1-167a-4e34-abc9-56995fa62064-Export Commercial Invoice - Excel_XQAMZLCL052621695M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621510M",
-    "exportsInvoiceValue": 3614.93,
-    "shipper": "liquid gaming",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687fa42776a42f554ef7a4db/execution-documents/6a0c5f988128992b069269c1/092ec70e-0860-4a9f-b855-e861a6018f5b-Export Commercial Invoice - Excel_XQAMZLCL052621510M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621392M",
     "exportsInvoiceValue": 4814.96,
     "shipper": "big web warehouse",
@@ -720,15 +720,27 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=668e879ca57e857e4fdd867f/execution-documents/69e606d5ba78417aca3b42c6/d165721f-84db-477a-b8a5-f070c1b87f85-Export Commercial Invoice - Excel_XQAMZLCL042620615M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621508M",
-    "exportsInvoiceValue": 4828.0,
-    "shipper": "lcr group holdings",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c44d38c0655a2ab614df9/execution-documents/6a0c5c248128992b0691d0a2/883d8229-632c-4e72-9c28-28cbee986c8a-EXPORT Commercial Invoice_XQAMZLCL052621508M CI newww.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620714M",
     "exportsInvoiceValue": 6231.21,
     "shipper": "lsd lifestyle",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69e9c28d2a1b2007e6ab6fe1/54113986-6120-475e-a98b-d53df815d930-Export Commercial Invoice - Excel_XQAMZLCL042620714M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621601M",
+    "exportsInvoiceValue": 21640.28,
+    "shipper": "delta / new leaf",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690b7faea346c7e7274e5335/execution-documents/6a0f469a78bcccc271beb465/9d88b2d6-dee6-478c-a4ea-37ff7cfd77ad-Export Commercial Invoice - Excel_XQAMZLCL052621601M CI newww.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621523M",
+    "exportsInvoiceValue": 6060.0,
+    "shipper": "paul longley",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cd06b0b4b9069e4791d632/bookings-docs/6a0c80cc8128992b069da6f1/a1b40d90-5dc8-478f-b0f2-e3a1d5df8e9e.XLSX"
+  },
+  {
+    "quoteId": "XQFCL052621798",
+    "exportsInvoiceValue": 8314.0,
+    "shipper": "Wrimes Cosmetics Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66597f102cf3ac17ab477680/execution-documents/6a18230f6783b10bca2a9c96/8a85f023-d515-4032-b84f-491429722466-Export Commercial Invoice - Excel_XQFCL052621798 (CI) neww.xlsx"
   }
 ]
