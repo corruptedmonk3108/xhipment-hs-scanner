@@ -676,5 +676,11 @@
     "exportsInvoiceValue": 6116.0,
     "shipper": "kessler",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df285cb43879c4efdfef6b/bookings-docs/69df342f96feff2414743d58/d559516e-5531-4416-b34a-2a9dc2668a26.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620259M",
+    "exportsInvoiceValue": 572.0,
+    "shipper": "kalaimani ramachandran",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f908c27f0b14c7f50ee483/execution-documents/69da31dd7f67c3ab5ea6b479/329290f1-c36d-459d-8511-2ea0cc21565e-Export Commercial Invoice - Excel_XQAMZLCL042620259M (1).xlsx"
   }
 ]
