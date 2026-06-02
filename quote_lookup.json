@@ -682,5 +682,11 @@
     "exportsInvoiceValue": 572.0,
     "shipper": "kalaimani ramachandran",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f908c27f0b14c7f50ee483/execution-documents/69da31dd7f67c3ab5ea6b479/329290f1-c36d-459d-8511-2ea0cc21565e-Export Commercial Invoice - Excel_XQAMZLCL042620259M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526173336",
+    "exportsInvoiceValue": 5539.6,
+    "shipper": "edvinas scerbavicius",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0b15594caac2709a9a9429/execution-documents/6a0b155c4caac2709a9a94a6/adaf8188-bbef-4c40-af95-810a79078845-Commercial Invoice_XQAMZAIR0526173336 (2).xlsx"
   }
 ]
