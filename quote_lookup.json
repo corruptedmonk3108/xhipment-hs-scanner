@@ -30,6 +30,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c3a696a07a44ae203b8eee/execution-documents/69dca788b3ec385f73ea136a/176c1bdb-6ca6-461c-b63c-610e6bca7f7f-Export Commercial Invoice - Excel_XQAMZLCL042620458M CI.XLS"
   },
   {
+    "quoteId": "XQAMZLCL042620713M",
+    "exportsInvoiceValue": 6704.0,
+    "shipper": "Eximious India",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63be58037afd2bee40041ae5/execution-documents/69e9dec4be002359c5f7c64d/6e46bcd1-73c8-44c3-8a80-4bbad660bc31-Export Commercial Invoice - Excel_XQAMZLCL042620713M.xlsx"
+  },
+  {
     "quoteId": "XQFCL042620612",
     "exportsInvoiceValue": 51339.03,
     "shipper": "Imagimake",
@@ -66,6 +72,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/execution-documents/69d4905aa5d9a2f993769b88/9c0d6d41-9197-47f6-b753-4adbb71fb0ae-Export Commercial Invoice - Excel_XQAMZLCL042620164M UP.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL042620787M",
+    "exportsInvoiceValue": 30750.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69eeef63cd2c7b4c0d739d8c/6cda3cdd-acec-43d6-b32d-ebd222d61f52-Import Packing List - Excel_XQAMZFCL042620787M (1).xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526170803",
     "exportsInvoiceValue": 76410.0,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -78,16 +90,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69993320b4ac69cdc1625284/execution-documents/69d79854b62fb1172ae34df6/fca5a978-0f8c-4b6d-a92c-bc3cc335333e-Export Commercial Invoice - Excel_XQAMZLCL042620252M CI new.xlsx"
   },
   {
+    "quoteId": "XQFCL042620855",
+    "exportsInvoiceValue": 31771.6,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69f0549931555da5f06e2019/8a8db2d9-803a-48db-a515-0965090a75f4-Import Commercial Invoice - Excel_XQFCL042620855 (1).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620876M",
     "exportsInvoiceValue": 28258.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f09be687681a41c1b9f301/8de7ac1c-28a6-4b0f-859e-57ec09a2f2ed-Import Commercial Invoice - Excel_XQAMZLCL042620876M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620498M",
+    "exportsInvoiceValue": 4274.98,
+    "shipper": "Tapes n More",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/69df1937ca4c22129eb00220/4c058ac0-79c3-411f-b940-ff3e5217526c-Inv  PL.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526172875",
     "exportsInvoiceValue": 5730.64,
     "shipper": "f139 kailash vaibhav estate",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/6a07660d2bb99513b03316ea/c5efb085-32e7-4360-bb85-32c5eeaeeb23-DI XQAMZAIR0526172875 (f139 kailash vaibhav estate).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620896M",
+    "exportsInvoiceValue": 30000.0,
+    "shipper": "hands and craft",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e4fcf78ea7389ef67a4fcd/execution-documents/69f1df976fcc9aff171cd095/bac80004-699c-416a-a933-e7c1c8bc0502-Import Commercial Invoice - Excel_XQAMZLCL042620896M UP.xls"
   },
   {
     "quoteId": "XQAMZLCL042620875M",
@@ -118,6 +148,12 @@
     "exportsInvoiceValue": 25824.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f09da5f0ae046e5e626360/baf643ca-ef6a-4263-9ac9-3858a4d6e686-Import Commercial Invoice - Excel_XQAMZLCL042620881M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620481M",
+    "exportsInvoiceValue": 11600.0,
+    "shipper": "future handmade",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a79e7397943e96874cb38/execution-documents/69ddebe354b3a61c49f48034/c4334e55-60ab-41ea-a478-82b653ee207c-Export Commercial Invoice - Excel_XQAMZLCL042620481M UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL032619394M",
@@ -174,6 +210,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=652797938807003a1c290a0a/execution-documents/69e37f57aeda90fb7a172177/e720589b-7518-408f-ba43-68d95a88d1b9-Export Commercial Invoice - Excel_XQAMZLCL042620605M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620717M",
+    "exportsInvoiceValue": 42600.0,
+    "shipper": "Bluemoon Homes",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/69ecc62594db7587dae063ef/949153fd-633a-462c-b003-697c32b591d9-Export Commercial Invoice - Excel_XQAMZLCL042620717M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620796M",
+    "exportsInvoiceValue": 40550.0,
+    "shipper": "butterfly edufields pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68370c625aa0e5bb683499c1/execution-documents/69ef1ded567bba830dca333f/da4d4ad9-d29b-4ec7-a386-97047418bcb8-Export Commercial Invoice - Excel_XQAMZLCL042620796M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620460M",
     "exportsInvoiceValue": 605.5,
     "shipper": "organique alchemy marketing llp",
@@ -186,10 +234,40 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/bookings-docs/69f4c581b68d0d9c138e3aff/7b15e6f7-eb4d-4420-b865-07ade69707b3.xls"
   },
   {
+    "quoteId": "XQAMZFCL052621081M",
+    "exportsInvoiceValue": 164198.44,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69fb2559ef2759f61d5c6513/a7bbd4f0-da43-42ef-a871-631962f46c40-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620864M",
+    "exportsInvoiceValue": 147821.62,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f07638f565c98e3083a244/bad6f83b-b783-4d06-b5d0-f2c4b4e3153d-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621082M",
+    "exportsInvoiceValue": 145867.48,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69fb26302261b5a4acc40c7d/179544a5-6c47-4a2a-9c10-b7df0dbeb7de-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620890M",
+    "exportsInvoiceValue": 167224.24,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f0b7ee3a44187575962525/18e7d08d-dd40-48df-ad5d-e08a05d0f4aa-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQFCL052620965",
     "exportsInvoiceValue": 12474.0,
     "shipper": "BubbleBum USA LLC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68651427a873c8ff95289c6c/execution-documents/69f46cfa002efd55066abd12/a09a9744-ac0b-49a4-8d73-bd66fcb2a473-Export Commercial Invoice - Excel_XQFCL052620965 CI.xlsx"
+  },
+  {
+    "quoteId": "XQLCL052621070",
+    "exportsInvoiceValue": 7770.0,
+    "shipper": "Sutram Creations",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c926046d1bac3d2152c43c/execution-documents/69fad619ba7661d0fa740f2e/a35524a0-2376-406f-b601-bcca20d8cbff-Invoice_097_2.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620730M",
