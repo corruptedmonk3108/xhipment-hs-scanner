@@ -198,6 +198,30 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687fa42776a42f554ef7a4db/bookings-docs/6a0c5f988128992b069269c1/0a944690-9d29-464a-91da-1cbd264a8aab.xlsx"
   },
   {
+    "quoteId": "XQLCL042620756",
+    "exportsInvoiceValue": 2262.0,
+    "shipper": "shobhit gupta",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=666fbd23b82fdbb2b8147773/execution-documents/69ef5b06a91aa2a5b7ba04e2/8f7461d6-cf7a-434c-927f-0b5ff51463f9-Export Commercial Invoice - Excel_XQLCL042620756.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL042620922M",
+    "exportsInvoiceValue": 4032.49,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69f2fde832d53fcdf7acd0fe/6498dbfe-bca4-42c8-824c-052c06f0f650-Export Commercial Invoice - Excel_XQAMZLCL042620922M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620853M",
+    "exportsInvoiceValue": 6284.8,
+    "shipper": "Daddy J",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64843fce54794e270c3aef8e/execution-documents/69f05aa116bb65b529705926/a162dc03-d588-497a-882a-72d81168b563-Export Commercial Invoice - Excel_XQAMZLCL042620853M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620797M",
+    "exportsInvoiceValue": 17535.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/69f043e19081be07806b1260/242745a3-fccc-4e0e-99be-62be20d31e23-Export Commercial Invoice - Excel_XQAMZLCL042620797M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620879M",
     "exportsInvoiceValue": 4940.0,
     "shipper": "Madan Mohan textiles",
@@ -826,6 +850,12 @@
     "exportsInvoiceValue": 4613.0,
     "shipper": "Lockabox",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ab922f3a2205dd88733e89/execution-documents/69faee3cba7661d0fa76ac43/e52e2dc0-8229-4aec-9f81-679b87c25007-Commercial Invoice_XQLCL052621074 CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620614M",
+    "exportsInvoiceValue": 9720.0,
+    "shipper": "metallic designs exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=659e8ddddf479f7b7454368c/execution-documents/69e872ea894cfe56ee5ac135/3a758676-d8c0-4b13-a980-1b9575d0dff5-Import Commercial Invoice - Excel_XQAMZLCL042620614M (1).xlsx"
   },
   {
     "quoteId": "XQFCL052621798",
