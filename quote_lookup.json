@@ -36,12 +36,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63be58037afd2bee40041ae5/execution-documents/69e9dec4be002359c5f7c64d/6e46bcd1-73c8-44c3-8a80-4bbad660bc31-Export Commercial Invoice - Excel_XQAMZLCL042620713M.xlsx"
   },
   {
-    "quoteId": "XQFCL042620612",
-    "exportsInvoiceValue": 51339.03,
-    "shipper": "Imagimake",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/69e5d24dac87c4e1443b1b8e/bd2f595d-feb1-4b2f-a9fd-1a138ee81252-Export Commercial Invoice - Excel_XQFCL042620612.xls"
-  },
-  {
     "quoteId": "XQAMZLCL042620599M",
     "exportsInvoiceValue": 4032.0,
     "shipper": "sharks success marketing enterprises inc.",
@@ -372,12 +366,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/bookings-docs/69f5e1f2e8944173ed50e5a7/4da344fd-a71a-4c48-9aa4-68a9386bb0e2.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620626M",
-    "exportsInvoiceValue": 17115.94,
-    "shipper": "lsd lifestyle",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/bookings-docs/69e60808b30aa6e67d0e1c34/a5c84c57-cce3-471a-afae-b2e86e892613.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0526175712",
     "exportsInvoiceValue": 8000.0,
     "shipper": "maa bhagwati ethnic llp",
@@ -462,12 +450,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6415ade063d6dda7f17d9e5f/execution-documents/69e345c26cafc55c57d7c60d/b1b6d253-fe4f-4c84-929d-099d02e1cad5-Export destination Invoice - AGO - S003 (1) UPP.xls"
   },
   {
-    "quoteId": "XQAMZFCL042620516M",
-    "exportsInvoiceValue": 132279.56,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69df5591a33bd61eb2eca756/946d0ef1-fa40-4e13-a390-55931ac21bb6-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620564M",
     "exportsInvoiceValue": 798.0,
     "shipper": "prashant rana",
@@ -492,12 +474,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/69dde0b9147004f9b24cb0f8/0403b6b7-3383-4a95-a9fd-52aeaa0a7f15-Import Commercial Invoice - Excel_XQAMZLCL042620464M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL042620836M",
-    "exportsInvoiceValue": 163656.44,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69ef6fee0c9f7dd4058be675/610b5a32-279a-4d31-b1b1-0b3febb815af-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620480M",
     "exportsInvoiceValue": 5635.56,
     "shipper": "goodwill coir mfg. co.",
@@ -520,18 +496,6 @@
     "exportsInvoiceValue": 25000.0,
     "shipper": "Topline Retail Solutions",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da376164a72ed0a3369ff4/execution-documents/69df9af51b1823504957c87f/ae82ea4f-be85-4ba2-8518-510522d3a07f-Topline CIPL- BTGOY25062 UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620837M",
-    "exportsInvoiceValue": 145114.2,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69ef7038f1af61636d6668e1/fa7e3bd2-536d-4813-8c14-713cc7dce71e-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620862M",
-    "exportsInvoiceValue": 128285.0,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f061fd15fc46915892841d/5728faa7-73a9-4f97-895e-79b6bff514ae-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620572M",
@@ -624,12 +588,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68496cd30cc098423b114625/execution-documents/69f9cf04fa7b2d4a9d3cd2c3/200dfb18-f5b5-4518-b20e-6c1488c758b7-Export Commercial Invoice - Excel_XQAMZLCL052621045M CI new.xlsb"
   },
   {
-    "quoteId": "XQAMZLCL042620505M",
-    "exportsInvoiceValue": 24170.0,
-    "shipper": "everse",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a8f1e43996ff342b87d9d/execution-documents/69df5664a33bd61eb2ecd054/4422ba60-1c9a-456c-b849-7a916d0749d3-Export Commercial Invoice - Excel_XQAMZLCL042620505M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620546M",
     "exportsInvoiceValue": 138016.0,
     "shipper": "cuminco kitchenware private limited",
@@ -658,18 +616,6 @@
     "exportsInvoiceValue": 8667.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f88739311d77925e7c1e/dafdc4b3-f928-4499-a342-918321b4b41b-Import Commercial Invoice - Excel_XQAMZLCL052621279M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620785M",
-    "exportsInvoiceValue": 31210.0,
-    "shipper": "apl",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69eeef7a35fbf9b28fb327ee/17935de5-927d-4350-8dd1-f0b0b19c292a-Import Commercial Invoice - Excel_XQAMZFCL042620785M up.xls"
-  },
-  {
-    "quoteId": "XQLCL042620579",
-    "exportsInvoiceValue": 25020.0,
-    "shipper": "Sutram Creations",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c926046d1bac3d2152c43c/execution-documents/69e215bd82011809b0c26c73/ac5f1443-d695-44ae-9fbb-da435d99e37b-Invoice_096_2.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621560M",
@@ -736,12 +682,6 @@
     "exportsInvoiceValue": 2363.2,
     "shipper": "Akanhshaa Arts",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/execution-documents/69d3561e0d1c22d286e22202/8eea5016-33c2-483b-b756-beae47f750c5-EXPORT Commercial Invoice_XQAMZLCL042620064M.XLSX"
-  },
-  {
-    "quoteId": "XQAMZFCL042620507M",
-    "exportsInvoiceValue": 144188.82,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69df2ecb7e363dde5261224d/0c7c3f02-6bdb-4b85-8582-f52c5ac0bbee-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620616M",
