@@ -150,12 +150,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f09da5f0ae046e5e626360/baf643ca-ef6a-4263-9ac9-3858a4d6e686-Import Commercial Invoice - Excel_XQAMZLCL042620881M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620481M",
-    "exportsInvoiceValue": 11600.0,
-    "shipper": "future handmade",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a79e7397943e96874cb38/execution-documents/69ddebe354b3a61c49f48034/c4334e55-60ab-41ea-a478-82b653ee207c-Export Commercial Invoice - Excel_XQAMZLCL042620481M UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL032619394M",
     "exportsInvoiceValue": 13367.5,
     "shipper": "kent ro systems limited",
@@ -348,6 +342,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/69f8a244ef9d3c80c6d5770f/d15331bd-5bfe-4396-a309-079df4489990-Export Commercial Invoice - Excel_XQAMZLCL052621026M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0526177449",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a1c2ddb4841e110e31f31ae/b04b2ecd-bc96-4578-b586-79d507d89696-DI XQAMZAIR0526177449(maa bhagwati ethnic llp).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621408M",
     "exportsInvoiceValue": 252.0,
     "shipper": "sunitt halai",
@@ -370,6 +370,30 @@
     "exportsInvoiceValue": 17115.94,
     "shipper": "lsd lifestyle",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/bookings-docs/69e60808b30aa6e67d0e1c34/a5c84c57-cce3-471a-afae-b2e86e892613.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175712",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a158026387fbeacf76ff13b/ffa3d75f-65a6-4565-b6e7-f3d24fb03b2c-DI XQAMZAIR0526175712 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526176575",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a1812374b442c144a56cfbf/5952cc99-bf1b-4f74-8c0f-180d1bc3fe19-DI XQAMZAIR0526176575 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526176678",
+    "exportsInvoiceValue": 3321.0,
+    "shipper": "ena goyal",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677e7320415956b8212dd01f/execution-documents/6a183c6e4853f4861c6dd2ad/613bca07-8422-4dc1-a086-d200822059d3-DI XQAMZAIR0526176678 (ena goyal).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526177215",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a1a7d071a62c5f8a5aa0870/46740bab-d4c5-4dfa-a7a1-45d02ebb716b-DI XQAMZAIR0526177215 (maa bhagwati ethnic llp).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620577M",
@@ -568,6 +592,12 @@
     "exportsInvoiceValue": 2039.0,
     "shipper": "navodita apparel pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68a41912f16ca30bb5938131/execution-documents/69e85db27e22f02a9c07e8b7/95317a18-b07c-4047-adfe-3fb0ac76671e-Export Commercial Invoice - Excel_XQAMZLCL042620679M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620481M",
+    "exportsInvoiceValue": 11600.0,
+    "shipper": "future handmade",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a79e7397943e96874cb38/bookings-docs/69ddebe354b3a61c49f48034/04148e35-2051-491b-a03d-03956c0223f4.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621431M",
