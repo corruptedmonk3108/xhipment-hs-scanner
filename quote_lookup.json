@@ -216,6 +216,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/69f043e19081be07806b1260/242745a3-fccc-4e0e-99be-62be20d31e23-Export Commercial Invoice - Excel_XQAMZLCL042620797M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620603M",
+    "exportsInvoiceValue": 4800.0,
+    "shipper": "feyn foods (opc) private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/bookings-docs/69e606c2c822ea97fcce5ec6/c26fe92d-2f3c-44b8-929a-ccb6a1002ab8.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620879M",
     "exportsInvoiceValue": 4940.0,
     "shipper": "Madan Mohan textiles",
@@ -720,18 +726,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686ab0e1018574c8e2bab4a4/execution-documents/69d8cdbff9087108e16b0b49/8866b109-7e9e-484b-a1e5-da0bd7b665af-EXPORT Commercial Invoice_XQAMZLCL042620258M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0526174505",
-    "exportsInvoiceValue": 553.5,
-    "shipper": "creative jam enterprises ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a0f51cc853ddeca0276a7ae/1ad81c8a-583c-4ce7-9755-f454ff57703c-CI XQAMZAIR0526174505 (creative jam enterprises ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0526174963",
-    "exportsInvoiceValue": 1812.48,
-    "shipper": "andrew bryson",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a10af88f4829d4f43cc397d/execution-documents/6a10af8cf4829d4f43cc39a6/8825408d-e3c0-4d3b-9331-c9586a71a455-CI XQAMZAIR0526174963 (andrew bryson).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620625M",
     "exportsInvoiceValue": 18220.0,
     "shipper": "archie enterprise",
@@ -748,12 +742,6 @@
     "exportsInvoiceValue": 5539.6,
     "shipper": "edvinas scerbavicius",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0b15594caac2709a9a9429/execution-documents/6a0b155c4caac2709a9a94a6/adaf8188-bbef-4c40-af95-810a79078845-Commercial Invoice_XQAMZAIR0526173336 (2).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620603M",
-    "exportsInvoiceValue": 4800.0,
-    "shipper": "feyn foods (opc) private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/69e606c2c822ea97fcce5ec6/416f8b80-82a0-4a91-8322-e84f5080f9fa-Export Commercial Invoice - Excel_XQAMZLCL042620603M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621388M",
