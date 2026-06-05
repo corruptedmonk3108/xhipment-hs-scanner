@@ -24,12 +24,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/69f05bc016bb65b529706f10/ecc731f2-719d-499f-95ac-c983af417fa2-Destination Invoice_XQAMZFCL042620859M CI.xls"
   },
   {
-    "quoteId": "XQAMZLCL042620458M",
-    "exportsInvoiceValue": 19152.05,
-    "shipper": "le craf",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c3a696a07a44ae203b8eee/execution-documents/69dca788b3ec385f73ea136a/176c1bdb-6ca6-461c-b63c-610e6bca7f7f-Export Commercial Invoice - Excel_XQAMZLCL042620458M CI.XLS"
-  },
-  {
     "quoteId": "XQAMZLCL042620713M",
     "exportsInvoiceValue": 6704.0,
     "shipper": "Eximious India",
@@ -324,12 +318,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a0367a0aed52671cdf37b7e/8d749777-9424-4752-8c98-655e9a227439-Export Commercial Invoice - Excel_XQAMZLCL052621283M.pdf"
   },
   {
-    "quoteId": "XQAMZLCL042620512M",
-    "exportsInvoiceValue": 12690.0,
-    "shipper": "s a enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/69df563fdde57ca928fa2c24/01ba17e2-38e9-4b1e-a82a-acc9879712b8-Import Commercial Invoice - Excel_XQAMZLCL042620512M CI new.xls"
-  },
-  {
     "quoteId": "XQAMZLCL052621151M",
     "exportsInvoiceValue": 1188.0,
     "shipper": "enabled works",
@@ -504,12 +492,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da376164a72ed0a3369ff4/execution-documents/69df9af51b1823504957c87f/ae82ea4f-be85-4ba2-8518-510522d3a07f-Topline CIPL- BTGOY25062 UP.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL042620572M",
-    "exportsInvoiceValue": 143035.62,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69e1e4af86db1074019c89a7/03c7b5e5-dc16-464c-9f6d-9d095057cb40-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620601M",
     "exportsInvoiceValue": 24260.0,
     "shipper": "Arrowhead exports",
@@ -574,12 +556,6 @@
     "exportsInvoiceValue": 10573.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082d16f0013b437e3082f0/24ee5efd-8ac7-4cc5-846e-5cca2e93a389-Import Commercial Invoice - Excel_XQAMZLCL052621431M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620476M",
-    "exportsInvoiceValue": 3069.0,
-    "shipper": "mediaa minds",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677b9d4ed2c6de9d30d3850e/execution-documents/69ddd4ffe156c9779507015a/0eb784f3-9614-418e-912d-3597a2adb877-Export Commercial Invoice - Excel_XQAMZLCL042620476M.xlsx"
   },
   {
     "quoteId": "XQLCL042620622",
