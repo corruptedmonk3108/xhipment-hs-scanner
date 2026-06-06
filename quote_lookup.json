@@ -42,12 +42,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/bookings-docs/69e88b5a2102107a00fa71eb/53a65430-f95c-4773-9d2e-a37131f7bbc5.xls"
   },
   {
-    "quoteId": "XQAMZFCL042620868M",
-    "exportsInvoiceValue": 138805.49,
-    "shipper": "IDVENTURE UG",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694122b31da56540f5f0544b/execution-documents/69f0820be928018c51d3f242/87ac5352-3b74-4ec0-8bad-d7bbe0bfd854-Commercial Invoice_XQAMZFCL042620868M UP.XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL042620210M",
     "exportsInvoiceValue": 791.91,
     "shipper": "m. malarvizhi",
@@ -132,12 +126,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69f09da5f0ae046e5e626360/baf643ca-ef6a-4263-9ac9-3858a4d6e686-Import Commercial Invoice - Excel_XQAMZLCL042620881M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620852M",
-    "exportsInvoiceValue": 656.45,
-    "shipper": "fuzail ahmed",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/execution-documents/69f0998f0efcfd44e33db2b4/2f003346-724a-4053-8244-94157e68a370-Export Commercial Invoice - Excel_XQAMZLCL042620852M (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620930M",
     "exportsInvoiceValue": 30000.0,
     "shipper": "shubh psyllium indsutries",
@@ -214,6 +202,12 @@
     "exportsInvoiceValue": 4800.0,
     "shipper": "feyn foods (opc) private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/bookings-docs/69e606c2c822ea97fcce5ec6/c26fe92d-2f3c-44b8-929a-ccb6a1002ab8.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175440",
+    "exportsInvoiceValue": 3714.69,
+    "shipper": "PAWEL LIPSZYC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a1461a29517ee9cb56428f5/c68552aa-079f-42f7-9de9-3edd54c2914d-CI XQAMZAIR0526175440 (PAWEL LIPSZYC) (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620879M",
@@ -660,12 +654,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a016a65c3f9c92694878491/39baddd7-c97c-412f-9d44-3f4a241feef7-INV  PAC SMHD_26-27_003 US CUSTOM CI.xls"
   },
   {
-    "quoteId": "XQAMZLCL042620064M",
-    "exportsInvoiceValue": 2363.2,
-    "shipper": "Akanhshaa Arts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/execution-documents/69d3561e0d1c22d286e22202/8eea5016-33c2-483b-b756-beae47f750c5-EXPORT Commercial Invoice_XQAMZLCL042620064M.XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL042620616M",
     "exportsInvoiceValue": 2125.0,
     "shipper": "mart exports",
@@ -802,6 +790,12 @@
     "exportsInvoiceValue": 24825.5,
     "shipper": "Handcrafted trading Co",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65813dd1621f6a5c6ab6e1e4/execution-documents/69f0b5bfe10dc5cf7ffac8f9/a0f24b75-7f4b-416d-a1f9-671ec4a5bede-Import Commercial Invoice - Excel_XQAMZLCL042620884M UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620852M",
+    "exportsInvoiceValue": 656.45,
+    "shipper": "fuzail ahmed",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/bookings-docs/69f0998f0efcfd44e33db2b4/5dc10900-39fc-4d5f-934f-4f3c6bc78a47.xlsx"
   },
   {
     "quoteId": "XQFCL052621798",
