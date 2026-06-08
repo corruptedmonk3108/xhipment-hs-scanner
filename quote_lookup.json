@@ -1,11 +1,5 @@
 [
   {
-    "quoteId": "XQAMZLCL042620061M",
-    "exportsInvoiceValue": 13126.0,
-    "shipper": "rakesh lethwala",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=679019a293878fbfcf0d48b8/execution-documents/69cea84c36a8ad59f2320b24/7ba7c52f-8bc0-4812-bf59-17b64818f66f-Import Commercial Invoice - Excel_XQAMZLCL042620061M CI new.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620743M",
     "exportsInvoiceValue": 20556.0,
     "shipper": "anaya agate",
@@ -58,12 +52,6 @@
     "exportsInvoiceValue": 30750.0,
     "shipper": "apl",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69eeef63cd2c7b4c0d739d8c/6cda3cdd-acec-43d6-b32d-ebd222d61f52-Import Packing List - Excel_XQAMZFCL042620787M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620252M",
-    "exportsInvoiceValue": 604.9,
-    "shipper": "healthy floyds",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69993320b4ac69cdc1625284/execution-documents/69d79854b62fb1172ae34df6/fca5a978-0f8c-4b6d-a92c-bc3cc335333e-Export Commercial Invoice - Excel_XQAMZLCL042620252M CI new.xlsx"
   },
   {
     "quoteId": "XQFCL042620855",
@@ -760,5 +748,29 @@
     "exportsInvoiceValue": 18553.0,
     "shipper": "archie enterprise",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=bookings/69ef4edbe7fc18dd0ff44cb0/consolidated-commercial-invoice-KRXTBD8QK4-1780654239170.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620620M",
+    "exportsInvoiceValue": 31072.94,
+    "shipper": "detilish rugs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/69e61210edbc27e5f3095715/df463f8b-073f-4f34-bf27-c68000f4a8ba-XQAMZFCL042620620M_INVOICE CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621101M",
+    "exportsInvoiceValue": 2678.0,
+    "shipper": "t & d pharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/69fc3172a4bb1961f81570bd/d41ea618-a744-4654-bee8-5c18312d80be-Commercial Invoice_XQAMZLCL052621101M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZFCL042620630M",
+    "exportsInvoiceValue": 31072.94,
+    "shipper": "detilish rugs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/69e611f97e20b5ec0697f073/043ade3a-4c9d-4048-adde-9835d1dc8bd6-XQAMZFCL042620630M_INVOICE (CI).xlsx"
+  },
+  {
+    "quoteId": "XQFCL042620788",
+    "exportsInvoiceValue": 73707.28,
+    "shipper": "Srinivasa Textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefaac4924d68dd277695e/238ff199-52b4-41d7-a49a-b995d9f71030-Export Commercial Invoice - Excel_XQFCL042620788 (CI new).xls"
   }
 ]
