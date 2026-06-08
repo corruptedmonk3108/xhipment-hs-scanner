@@ -736,5 +736,29 @@
     "exportsInvoiceValue": 26289.0,
     "shipper": "Vicco Products (Bombay) Pvt. Ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66bae3d84b9008cca66b9847/bookings-docs/69f834d4960390fd06cbcd1f/bfee57f1-3342-412f-b45b-49050827fc6d.XLS"
+  },
+  {
+    "quoteId": "XQAMZAIR0526169565",
+    "exportsInvoiceValue": 94.91,
+    "shipper": "vega enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c3da58718c681579810808/execution-documents/69fc610a21f7715fbae67c78/9be655ca-d0d9-4562-9675-c7c490efb8bd-CI XQAMZAIR0526169565 (vega enterprises) (3).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175639",
+    "exportsInvoiceValue": 7671.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a156a2090f91bc57f28d884/b598c960-1f46-40b0-8ce5-53d429328115-CI XQAMZAIR0526175639 (fashionking brands pvt ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620751M",
+    "exportsInvoiceValue": 121992.12,
+    "shipper": "tamannah creatio",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/bookings-docs/69ec4ad30ceef282daa0e447/918d4cd1-230f-4f17-bf02-f22391336bc0.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620818M",
+    "exportsInvoiceValue": 18553.0,
+    "shipper": "archie enterprise",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=bookings/69ef4edbe7fc18dd0ff44cb0/consolidated-commercial-invoice-KRXTBD8QK4-1780654239170.xlsx"
   }
 ]
