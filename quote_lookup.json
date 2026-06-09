@@ -6,12 +6,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690f081b2b9caaf6f15cf8bc/execution-documents/69e84856de23fd9cb662ba6c/5e419092-3cc4-40f3-804e-78738feabdb0-Commercial_Invoice_English_USD CI new.xls"
   },
   {
-    "quoteId": "XQAMZLCL042620743M",
-    "exportsInvoiceValue": 20556.0,
-    "shipper": "anaya agate",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68284257b3fb02d788de8a29/execution-documents/69eb5f01a2b4890888eaaa77/d30fe218-7638-4ee5-8f06-5417d6e55118-EXPORT Commercial Invoice_XQAMZLCL042620743M.XLSX"
-  },
-  {
     "quoteId": "XQAMZFCL042620668M",
     "exportsInvoiceValue": 45707.0,
     "shipper": "rig cosmetics limited",
@@ -384,10 +378,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69f31fdd487f97e7495b1212/198d2ec2-c751-4314-ae33-005ce5fb0fd3-Export Commercial Invoice - Excel_XQAMZLCL042620925M.xlsx"
   },
   {
+    "quoteId": "XQFCL032619645",
+    "exportsInvoiceValue": 22737.0,
+    "shipper": "VOYZZ INDIA PRIVATE LIMITED",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b8feedd3d470619b976a65/execution-documents/69b90d99ae1a8730582df039/10bddf45-7475-4eb3-8094-5f270043671b-Export Commercial Invoice - Excel_XQFCL032619645 CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621121M",
     "exportsInvoiceValue": 1814.0,
     "shipper": "kyzen media ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fc71b5c8a4314d74bcf5af/execution-documents/69fc834a920e20acf4cd4628/35b8e3b9-c68e-4215-9773-dfec145f2d9e-Export Commercial Invoice - Excel_XQAMZLCL052621121M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175508",
+    "exportsInvoiceValue": 3207.7,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a154f5d3d148450e3034a96/b87d3897-2b99-4963-a134-995a887b9f3c-CI XQAMZAIR0526175508 (Solino Home).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620825M",
@@ -400,6 +406,12 @@
     "exportsInvoiceValue": 6553.44,
     "shipper": "blue sapphire merchant",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68cbba3a88432a030a5533e9/execution-documents/69d76d1c130059f86fe887cb/f91aeb24-43f3-4b93-970b-94f1e5192ac2-Export Commercial Invoice - Excel_XQAMZLCL042620163M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175520",
+    "exportsInvoiceValue": 10744.63,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a15514f3d148450e30365bf/90de1682-81ad-4a36-966d-1c5147b986c5-CI XQAMZAIR0526175520 (Solino Home).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621460M",
@@ -468,12 +480,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670d1566bbe15dbe3293a823/execution-documents/69f4864cf1b649074eeec73f/fba43b66-fc20-4853-88d1-0a509c0173c2-Destination Invoice_XQAMZFCL052620964M (1) (3).pdf"
   },
   {
-    "quoteId": "XQFCL042620486",
-    "exportsInvoiceValue": 25000.0,
-    "shipper": "Topline Retail Solutions",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da376164a72ed0a3369ff4/execution-documents/69df9af51b1823504957c87f/ae82ea4f-be85-4ba2-8518-510522d3a07f-Topline CIPL- BTGOY25062 UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620601M",
     "exportsInvoiceValue": 24260.0,
     "shipper": "Arrowhead exports",
@@ -492,10 +498,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/bookings-docs/69d75ad4038bd254252f292c/0eeeefbc-8f99-4df2-974a-1fe277075421.xlsx"
   },
   {
-    "quoteId": "XQAIR042620867",
-    "exportsInvoiceValue": 1.0,
-    "shipper": "Beebay International Pvt Ltd.,",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f0758ee7f4f75a17d03fe5/execution-documents/69f0816e12e848122cda76d6/727a666f-9a2c-414d-bd03-e53d453eb3c5-CI XQAIR042620867 (Beebay International Pvt Ltd.xlsx"
+    "quoteId": "XQAMZAIR0526175739",
+    "exportsInvoiceValue": 2749.68,
+    "shipper": "amit kadam",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1581e117565504c4c02c01/execution-documents/6a1581e617565504c4c02c29/a8ec3068-48d8-46de-97d2-bff4b9a9b71a-CI XQAMZAIR0526175739 (Amit kadam).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620661M",
@@ -540,10 +546,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082d16f0013b437e3082f0/24ee5efd-8ac7-4cc5-846e-5cca2e93a389-Import Commercial Invoice - Excel_XQAMZLCL052621431M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621086M",
+    "exportsInvoiceValue": 31483.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69fb2f372261b5a4acc4cf46/5d39f859-1a2d-436b-b308-b811bb4dd0d2-Import Commercial Invoice - Excel_XQAMZLCL052621086M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621282M",
+    "exportsInvoiceValue": 24325.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f9ce39311d77925f2b84/f4c3ada4-609e-423a-8773-1a5b6805eb38-Import Commercial Invoice - Excel_XQAMZLCL052621282M ci.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621045M",
     "exportsInvoiceValue": 1584.0,
     "shipper": "Games to Get Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68496cd30cc098423b114625/execution-documents/69f9cf04fa7b2d4a9d3cd2c3/200dfb18-f5b5-4518-b20e-6c1488c758b7-Export Commercial Invoice - Excel_XQAMZLCL052621045M CI new.xlsb"
+  },
+  {
+    "quoteId": "XQLCL042620803",
+    "exportsInvoiceValue": 17295.0,
+    "shipper": "sri venkatesh aromas",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620335M",
@@ -670,12 +694,6 @@
     "exportsInvoiceValue": 5539.6,
     "shipper": "edvinas scerbavicius",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0b15594caac2709a9a9429/execution-documents/6a0b155c4caac2709a9a94a6/adaf8188-bbef-4c40-af95-810a79078845-Commercial Invoice_XQAMZAIR0526173336 (2).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621388M",
-    "exportsInvoiceValue": 19284.48,
-    "shipper": "Forest & Shore LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684704afe1aa53753368a402/execution-documents/6a059a02fe92de340fb065d1/c37d68cf-9f4c-467c-8b21-de91d137ca42-Export Commercial Invoice - Excel_XQAMZLCL052621388M UP.pdf"
   },
   {
     "quoteId": "XQAMZLCL042620490M",
