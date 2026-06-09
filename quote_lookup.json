@@ -36,12 +36,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63be58037afd2bee40041ae5/execution-documents/69e9dec4be002359c5f7c64d/6e46bcd1-73c8-44c3-8a80-4bbad660bc31-Export Commercial Invoice - Excel_XQAMZLCL042620713M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620682M",
-    "exportsInvoiceValue": 92117.0,
-    "shipper": "matras exporters",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/69e871bc5805dd5e0e58ae54/47626b74-fe27-44ae-ad16-5a101329e952.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620599M",
     "exportsInvoiceValue": 4032.0,
     "shipper": "sharks success marketing enterprises inc.",
@@ -132,6 +126,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ebb8a1727fd8815071fd8/execution-documents/6a1ebb8f1727fd8815072051/d847c8b9-8e34-46f9-afd7-0940a1f54ca9-POA CI XQAMZAIR0626178032 (utl shipping noatum logistcs).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621523M",
+    "exportsInvoiceValue": 6060.0,
+    "shipper": "paul longley",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cd06b0b4b9069e4791d632/bookings-docs/6a0c80cc8128992b069da6f1/ca03b36c-ff35-4698-9f88-18454a87fe0e.XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL032619394M",
     "exportsInvoiceValue": 13367.5,
     "shipper": "kent ro systems limited",
@@ -142,6 +142,12 @@
     "exportsInvoiceValue": 25205.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/69ef6e66f1af61636d661943/50f15c1b-f280-4877-bb7c-eee5d505ef17-Import Commercial Invoice - Excel_XQAMZLCL042620832M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620682M",
+    "exportsInvoiceValue": 92117.0,
+    "shipper": "matras exporters",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/69e871bc5805dd5e0e58ae54/b9ab2397-cd58-400a-9cbf-fdb6469dc1bb.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621508M",
@@ -208,6 +214,12 @@
     "exportsInvoiceValue": 1119.0,
     "shipper": "harrow business services ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a1803d5d6f67f6f0970f791/79c279f8-2161-4101-9ef3-053b0d3a1e8a-CI XQAMZAIR0526176486 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL042620818M",
+    "exportsInvoiceValue": 18553.0,
+    "shipper": "archie enterprise",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/execution-documents/69ef4edbe7fc18dd0ff44cb0/7c589411-8809-40ea-b700-c41fcb75b986-Import Commercial Invoice - Excel_XQAMZLCL042620818M (CI new))))) n.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620796M",
@@ -304,6 +316,12 @@
     "exportsInvoiceValue": 6051.87,
     "shipper": "f139 kailash vaibhav estate",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/69f8a244ef9d3c80c6d5770f/d15331bd-5bfe-4396-a309-079df4489990-Export Commercial Invoice - Excel_XQAMZLCL052621026M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621293M",
+    "exportsInvoiceValue": 17746.05814,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a033421f3c988067d7b8d25/170f8e06-bd4c-4608-9889-d0375c751562-Export Commercial Invoice - Excel_XQAMZLCL052621293M (1).xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526177449",
@@ -696,12 +714,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69e9c28d2a1b2007e6ab6fe1/54113986-6120-475e-a98b-d53df815d930-Export Commercial Invoice - Excel_XQAMZLCL042620714M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621523M",
-    "exportsInvoiceValue": 6060.0,
-    "shipper": "paul longley",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cd06b0b4b9069e4791d632/bookings-docs/6a0c80cc8128992b069da6f1/a1b40d90-5dc8-478f-b0f2-e3a1d5df8e9e.XLSX"
-  },
-  {
     "quoteId": "XQLCL052621074",
     "exportsInvoiceValue": 4613.0,
     "shipper": "Lockabox",
@@ -748,12 +760,6 @@
     "exportsInvoiceValue": 121992.12,
     "shipper": "tamannah creatio",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/bookings-docs/69ec4ad30ceef282daa0e447/918d4cd1-230f-4f17-bf02-f22391336bc0.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620818M",
-    "exportsInvoiceValue": 18553.0,
-    "shipper": "archie enterprise",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=bookings/69ef4edbe7fc18dd0ff44cb0/consolidated-commercial-invoice-KRXTBD8QK4-1780654239170.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620620M",
