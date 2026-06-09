@@ -186,12 +186,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/bookings-docs/69e606c2c822ea97fcce5ec6/c26fe92d-2f3c-44b8-929a-ccb6a1002ab8.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0526175440",
-    "exportsInvoiceValue": 3714.69,
-    "shipper": "PAWEL LIPSZYC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a1461a29517ee9cb56428f5/c68552aa-079f-42f7-9de9-3edd54c2914d-CI XQAMZAIR0526175440 (PAWEL LIPSZYC) (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0626178768",
     "exportsInvoiceValue": 171.84,
     "shipper": "enabled works",
@@ -474,12 +468,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6791cbdde43222add0401271/execution-documents/69e73e03fecba36fef33e739/c737bfc8-37ea-4700-bab2-f187e313825c-Import Commercial Invoice - Excel_XQAMZLCL042620617M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052620964M",
-    "exportsInvoiceValue": 48647.0,
-    "shipper": "Woldoshop GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670d1566bbe15dbe3293a823/execution-documents/69f4864cf1b649074eeec73f/fba43b66-fc20-4853-88d1-0a509c0173c2-Destination Invoice_XQAMZFCL052620964M (1) (3).pdf"
-  },
-  {
     "quoteId": "XQAMZLCL042620601M",
     "exportsInvoiceValue": 24260.0,
     "shipper": "Arrowhead exports",
@@ -660,6 +648,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691c4f0040e6564aa28999e8/execution-documents/69ec8e93e4c44bf2ef2cf5b2/6fc00352-70e8-4772-8581-a9a1a79cffdc-Import Commercial Invoice - Excel_XQAMZLCL042620769M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0526175965",
+    "exportsInvoiceValue": 8400.0,
+    "shipper": "arjun kataria",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69249f418adf5a29b6e8e239/execution-documents/6a167974fe8334b0d2284203/f4659cd8-6e9b-469a-ba3f-1ca40b46d8f0-CI XQAMZAIR0526175965 (arjun kataria).XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL042620509M",
     "exportsInvoiceValue": 2699.84,
     "shipper": "anshul c/o fba sunny sadh",
@@ -802,5 +796,17 @@
     "exportsInvoiceValue": 73707.28,
     "shipper": "Srinivasa Textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefaac4924d68dd277695e/238ff199-52b4-41d7-a49a-b995d9f71030-Export Commercial Invoice - Excel_XQFCL042620788 (CI new).xls"
+  },
+  {
+    "quoteId": "XQAMZAIR0526176124",
+    "exportsInvoiceValue": 3516.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a16df4ff6dd08c869290306/7381d7b7-e12d-416c-803a-d6de9c6cee33-CI XQAMZAIR0526176124 (fashionking brands pvt ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526176051",
+    "exportsInvoiceValue": 2817.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/bookings-docs/6a16bf7692317fbde31c1ec9/90c09fea-92ff-4c80-a0f5-c36d44f3bb5d.xlsx"
   }
 ]
