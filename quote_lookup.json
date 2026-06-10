@@ -504,12 +504,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/bookings-docs/69f043c540e864035185dc7d/f90e51b7-527f-4f40-a40a-6975ef6a80cd.xls"
   },
   {
-    "quoteId": "XQAMZLCL042620115M",
-    "exportsInvoiceValue": 2120.0,
-    "shipper": "naturoindia",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657c2cb66f96f5c177bbd6e5/execution-documents/69d0f7f26d37a96866ad3ab2/1866307c-d4e8-41cf-a7e1-e677aba8ee31-Export Commercial Invoice - Excel_XQAMZLCL042620115M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620464M",
     "exportsInvoiceValue": 18000.0,
     "shipper": "sabah khan",
@@ -624,6 +618,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621561M",
+    "exportsInvoiceValue": 984.0,
+    "shipper": "pointbid logistics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c2c42e1a5075b8326329df/bookings-docs/6a0dded72093da4fe5237f5b/f7b7bbd2-660d-42a9-8ce4-f49f7db96940.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620032M",
     "exportsInvoiceValue": 21203.92,
     "shipper": "prasad acumeter llp",
@@ -634,6 +634,12 @@
     "exportsInvoiceValue": 8667.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f88739311d77925e7c1e/dafdc4b3-f928-4499-a342-918321b4b41b-Import Commercial Invoice - Excel_XQAMZLCL052621279M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620784M",
+    "exportsInvoiceValue": 3936.97,
+    "shipper": "sharma handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677d13d91b731bf79f059e39/execution-documents/69eefbd00966c9fc406f6428/d952bc8c-eee9-42c0-95a0-74478e8fb52c-Import Commercial Invoice - Excel_XQAMZLCL042620784M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621560M",
@@ -652,12 +658,6 @@
     "exportsInvoiceValue": 2581.76,
     "shipper": "henry watson's potteries ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a07215937469e54c778241d/5a806743-c6d0-4ae0-a5c0-4ffba11840fa-Export Commercial Invoice - Excel_XQAMZLCL052621420M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620717M",
-    "exportsInvoiceValue": 42600.0,
-    "shipper": "Bluemoon Homes",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/69ecc62594db7587dae063ef/d012d183-58ec-47c8-9c8c-a4da7e00eeaa-Export Commercial Invoice -26-27_001 US invoice (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621087M",
@@ -754,12 +754,6 @@
     "exportsInvoiceValue": 845.0547046,
     "shipper": "madhav aggarwal",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a530f966bde2d92a67a23b/bookings-docs/69de15efad0bcf733d25fbc4/4ede6ef9-55cd-476e-a00c-bc9df536970d.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621561M",
-    "exportsInvoiceValue": 984.0,
-    "shipper": "pointbid logistics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c2c42e1a5075b8326329df/execution-documents/6a0dded72093da4fe5237f5b/4cdc15dd-8286-4910-a3d0-c3a7a18ccbde-Export Commercial Invoice - Excel_XQAMZLCL052621561M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621695M",
