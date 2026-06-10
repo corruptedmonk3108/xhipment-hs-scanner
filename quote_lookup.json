@@ -294,6 +294,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6848cc2193cbd32eca7bd6a7/execution-documents/69e08ce2ac8ebba53f6071ef/fa2fc62d-c266-4db6-97a4-0e53ba3507ee-Export Commercial Invoice - Excel_XQAMZLCL042620532M (1).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626178418",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a200d74aeb18690a14f3b07/3b4dc83c-b8ee-4b19-901f-6950ca4f8fb9-DI XQAMZAIR0626178418 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626177931",
+    "exportsInvoiceValue": 532.56,
+    "shipper": "bharat bansal",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fbf9a8e317f730b0ac0b3e/execution-documents/6a1e878a4717daf870cf0b3c/b2bb60c1-ba77-4ebf-917d-d05b062aa994-CI XQAMZAIR0626177931 (bharat bansal).xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL042620547M",
     "exportsInvoiceValue": 244072.0,
     "shipper": "cuminco kitchenware private limited",
@@ -306,10 +318,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6819f708b326f93fa2eba6e6/execution-documents/69e1c677126fd2794d3da91a/9d14e713-e810-459b-90b4-1ec11709c500-Import Commercial Invoice - Excel_XQAMZLCL042620538M (1).xls"
   },
   {
+    "quoteId": "XQAMZAIR0426168102",
+    "exportsInvoiceValue": 9100.0,
+    "shipper": "saurabh gargatte",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f351199078e78014f22f16/execution-documents/69f3511d9078e78014f22f3e/93755ca9-2989-4535-adba-682328235150-Commercial Invoice_XQAMZAIR0426168102 (Halfway).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621283M",
     "exportsInvoiceValue": 27524.13,
     "shipper": "Wyldsson Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a0367a0aed52671cdf37b7e/8d749777-9424-4752-8c98-655e9a227439-Export Commercial Invoice - Excel_XQAMZLCL052621283M.pdf"
+  },
+  {
+    "quoteId": "XQAIR062622025",
+    "exportsInvoiceValue": 50503.24433,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/bookings-docs/6a217ae15f37bdc839a37e5c/6c7a99be-7f95-4e99-8152-2dae4da2314e.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626178712",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a21631f25611f8b62677d22/e475ca82-cf59-47dd-a516-ed1ee774ef13-DI XQAMZAIR0626178712 (Maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0526175886",
+    "exportsInvoiceValue": 4868.016,
+    "shipper": "mplinn foods",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b589eda1e9bad190698548/execution-documents/6a15c9692acb42c083894345/2b0482d9-d80a-465b-86cd-166a63dce792-CI XQAMZAIR0526175886 (mplinn foods).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621151M",
