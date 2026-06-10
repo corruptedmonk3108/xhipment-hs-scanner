@@ -60,6 +60,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69eeef63cd2c7b4c0d739d8c/6cda3cdd-acec-43d6-b32d-ebd222d61f52-Import Packing List - Excel_XQAMZFCL042620787M (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620695M",
+    "exportsInvoiceValue": 10043.0,
+    "shipper": "fibertec gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8867c09617ba3cd25a4e6/execution-documents/69e892d92102107a00ff0b08/d5d77c9f-551b-4994-a760-535e7881a823-Commercial Invoice_XQAMZLCL042620695M CI new.xlsx"
+  },
+  {
     "quoteId": "XQFCL042620855",
     "exportsInvoiceValue": 31771.6,
     "shipper": "apl",
@@ -144,6 +150,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/69e871bc5805dd5e0e58ae54/b9ab2397-cd58-400a-9cbf-fdb6469dc1bb.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621174M",
+    "exportsInvoiceValue": 7306.0,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/69fed6fe16c56029254cc0dc/4b52cad6-a0ea-4e8a-9981-212d95651825-Commercial Invoice_XQAMZLCL052621174M UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620727M",
+    "exportsInvoiceValue": 120504.96,
+    "shipper": "Wyldsson Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/69f2281fd5a573d8dd2b2922/3ddaf0d4-1c19-440b-815e-0bda5e51b347-Export Commercial Invoice - Excel_XQAMZFCL042620727M.pdf"
+  },
+  {
     "quoteId": "XQAMZLCL052621508M",
     "exportsInvoiceValue": 4828.0,
     "shipper": "lcr group holdings",
@@ -202,6 +220,12 @@
     "exportsInvoiceValue": 1119.0,
     "shipper": "harrow business services ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a1803d5d6f67f6f0970f791/79c279f8-2161-4101-9ef3-053b0d3a1e8a-CI XQAMZAIR0526176486 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZFCL042620871M",
+    "exportsInvoiceValue": 49500.0,
+    "shipper": "woldoshop gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f07e569e471da8ba83e9a6/execution-documents/69f08808cf0e0fadb93e17ea/9f7c49b8-5a04-4776-92b9-cc9f13ddca39-Commercial Invoice_XQAMZFCL042620871M (1) UP_removed.pdf"
   },
   {
     "quoteId": "XQAMZLCL042620818M",
@@ -556,12 +580,6 @@
     "exportsInvoiceValue": 17295.0,
     "shipper": "sri venkatesh aromas",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620335M",
-    "exportsInvoiceValue": 267.5,
-    "shipper": "SALMA AZIM CHOUDHARY",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c8ef3938524d648955fa3d/execution-documents/69dcb86c1ff0b16da2f38fa0/e68815fb-82dc-42dc-bada-c737cc91cced-Import Commercial Invoice - Excel_XQAMZLCL042620335M.xls"
   },
   {
     "quoteId": "XQAMZLCL042620032M",
