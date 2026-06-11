@@ -156,12 +156,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c44d38c0655a2ab614df9/bookings-docs/6a0c5c248128992b0691d0a2/885c3f10-0021-4b3f-8c63-2faeee41a7c3.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621510M",
-    "exportsInvoiceValue": 3614.93,
-    "shipper": "liquid gaming",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687fa42776a42f554ef7a4db/bookings-docs/6a0c5f988128992b069269c1/0a944690-9d29-464a-91da-1cbd264a8aab.xlsx"
-  },
-  {
     "quoteId": "XQLCL042620756",
     "exportsInvoiceValue": 2262.0,
     "shipper": "shobhit gupta",
@@ -412,12 +406,6 @@
     "exportsInvoiceValue": 8000.0,
     "shipper": "maa bhagwati ethnic llp",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a1a7d071a62c5f8a5aa0870/46740bab-d4c5-4dfa-a7a1-45d02ebb716b-DI XQAMZAIR0526177215 (maa bhagwati ethnic llp).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620625M",
-    "exportsInvoiceValue": 18220.0,
-    "shipper": "archie enterprise",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/69e60c6607b2e06c8609e667/3ce85587-75cc-4c21-bdde-3a12bdbd552b.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620925M",
@@ -720,6 +708,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68287776586fa2a9a7251d9c/execution-documents/69e0953bac8ebba53f60d5b2/05437419-e740-4d4a-beb2-c7a14f52d86c-Import Commercial Invoice - Excel_XQAMZLCL042620509M - CI.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL052620963M",
+    "exportsInvoiceValue": 48199.0,
+    "shipper": "Dart Corner",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66438ddb3443a20ad7bb5492/execution-documents/69f48570f1b649074eeec2c6/2e6555c7-43d5-4680-b9a9-f91d8e1a98be-Export Commercial Invoice - Excel_XQAMZFCL052620963M (1) UP.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620659M",
     "exportsInvoiceValue": 8110.0,
     "shipper": "yash punjabi",
@@ -856,5 +850,17 @@
     "exportsInvoiceValue": 2817.0,
     "shipper": "fashionking brands pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/bookings-docs/6a16bf7692317fbde31c1ec9/90c09fea-92ff-4c80-a0f5-c36d44f3bb5d.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL022619169M",
+    "exportsInvoiceValue": 210.0,
+    "shipper": "Zendition\u00a0Pvt\u00a0Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64ba6e1768df07cad571fead/execution-documents/69cb90dea088f1ab80b0b97b/22f6219d-3b51-4700-9cae-92e46f99790f-Export Commercial Invoice - Excel_XQAMZLCL022619169M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052620959M",
+    "exportsInvoiceValue": 30885.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69f45b76faf166477bf30f8a/419885d9-bc84-483f-a463-969358ed5444-Import Commercial Invoice - Excel_XQAMZFCL052620959M UPP.xlsx"
   }
 ]
