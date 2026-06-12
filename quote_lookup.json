@@ -138,6 +138,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66597f102cf3ac17ab477680/bookings-docs/6a18230f6783b10bca2a9c96/e6490d6b-6c59-446a-8815-ed2545175d11.doc"
   },
   {
+    "quoteId": "XQAMZLCL042620719M",
+    "exportsInvoiceValue": 5446.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/69ea03d4bb132b3272488389/84d226eb-2277-4347-9a99-fa94b7db7092-Export Commercial Invoice - Excel_XQAMZLCL042620719M (CI) new updated.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621522M",
+    "exportsInvoiceValue": 12271.5,
+    "shipper": "mantic games",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ef42e22e2341400c407f46/execution-documents/6a0c8043fcd80e8b0683f749/68040090-617b-4924-b7cb-72da220c435e-Export Commercial Invoice - Excel_XQAMZLCL052621522M CI new.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0626178418",
     "exportsInvoiceValue": 8000.0,
     "shipper": "maa bhagwati ethnic llp",
@@ -184,6 +196,18 @@
     "exportsInvoiceValue": 24260.0,
     "shipper": "Arrowhead exports",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64427e65dd743bd4c1ef5891/bookings-docs/69e37008cd160821314bcbd6/ce7552f3-6932-4d1d-b00a-5e7294ea7a14.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621754M",
+    "exportsInvoiceValue": 2331.27,
+    "shipper": "simon orchard",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6839c3c8a4ea3ace82f57b96/execution-documents/6a16913adccddc9f212ff220/87e20615-7b4a-44cd-a75e-fb766a64ca08-Export Commercial Invoice - Excel_XQAMZLCL052621754M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621769M",
+    "exportsInvoiceValue": 4393.44,
+    "shipper": "opro international ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a16cfbb8b30c45f7bb815a2/02f31beb-aa90-44ae-911d-0565074239b8-Export Commercial Invoice - Excel_XQAMZLCL052621769M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526172855",
@@ -300,10 +324,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/69f8a244ef9d3c80c6d5770f/d15331bd-5bfe-4396-a309-079df4489990-Export Commercial Invoice - Excel_XQAMZLCL052621026M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062621913M",
+    "exportsInvoiceValue": 6145.6,
+    "shipper": "chai guys",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698b240f68f6f2c1cf527d11/execution-documents/6a1dc842fa24ef5a350db781/8429df58-e81b-4eb2-8a9b-d5e60f7b6bab-Commercial Invoice_XQAMZLCL062621913M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621775M",
+    "exportsInvoiceValue": 1447.68,
+    "shipper": "etail ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ad968fb7f83df6a6311bee/execution-documents/6a16f7ec41a6e48c621ea71f/96110a65-2453-48d5-8035-a759a5ba2e3e-Export Commercial Invoice - Excel_XQAMZLCL052621775M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621770M",
+    "exportsInvoiceValue": 29535.73,
+    "shipper": "amethyst group",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16c7af051fb439cc18db9b/execution-documents/6a16d0a5051fb439cc19b011/0d3c3ba7-7c14-4369-b26d-112137e69c86-Export Commercial Invoice - Excel_XQAMZLCL052621770M.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526175508",
     "exportsInvoiceValue": 3207.7,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a154f5d3d148450e3034a96/b87d3897-2b99-4963-a134-995a887b9f3c-CI XQAMZAIR0526175508 (Solino Home).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621001M",
+    "exportsInvoiceValue": 30510.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69f861c6300fb160324d73f0/3ab9801d-9f16-4bee-8014-4b0a0f353fc9-Import Commercial Invoice - Excel_XQAMZFCL052621001M UP.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526175520",
@@ -334,6 +382,12 @@
     "exportsInvoiceValue": 512.0,
     "shipper": "twisted ware's c/o pelz llc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d692ee27d712c6df05cefc/execution-documents/69d78ad94f167e586abf567e/b1d87c57-3cb6-4564-ac75-de02f13c745f-Export Commercial Invoice - Excel_XQAMZLCL042620237M  CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052620957M",
+    "exportsInvoiceValue": 60337.35,
+    "shipper": "metis learning solutions pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/69f49488653f94ece1e61495/44454a80-70b7-430b-8b46-5d6df3411996-Export Commercial Invoice - Excel_XQAMZFCL052620957M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526175739",
