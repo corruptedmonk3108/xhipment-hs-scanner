@@ -66,12 +66,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ebb8a1727fd8815071fd8/execution-documents/6a1ebb904717daf870e26335/d0062516-071d-44a9-a9d7-1a81e7419124-POA CI XQAMZAIR0626178040(utl shipping noatum logistcs).XLSX"
   },
   {
-    "quoteId": "XQAMZAIR0626178032",
-    "exportsInvoiceValue": 4616.8,
-    "shipper": "utl shipping / noatum logistcs",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ebb8a1727fd8815071fd8/execution-documents/6a1ebb8f1727fd8815072051/d847c8b9-8e34-46f9-afd7-0940a1f54ca9-POA CI XQAMZAIR0626178032 (utl shipping noatum logistcs).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621863M",
     "exportsInvoiceValue": 2856.96,
     "shipper": "henry watson's potteries ltd",
@@ -102,12 +96,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a1803d7f010d50f1ff7010d/0247a7b1-3537-4536-a284-975015e9abb1-CI XQAMZAIR0526176493 (harrow business services ltd).XLSX"
   },
   {
-    "quoteId": "XQAMZAIR0526176486",
-    "exportsInvoiceValue": 1119.0,
-    "shipper": "harrow business services ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a1803d5d6f67f6f0970f791/79c279f8-2161-4101-9ef3-053b0d3a1e8a-CI XQAMZAIR0526176486 (harrow business services ltd).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL052621262M",
     "exportsInvoiceValue": 6646.9,
     "shipper": "hwc trading ltd",
@@ -124,12 +112,6 @@
     "exportsInvoiceValue": 845.0547046,
     "shipper": "madhav aggarwal",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a530f966bde2d92a67a23b/bookings-docs/69de15efad0bcf733d25fbc4/4ede6ef9-55cd-476e-a00c-bc9df536970d.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620616M",
-    "exportsInvoiceValue": 2125.0,
-    "shipper": "mart exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=693d9bcb038fafccc3aa1691/bookings-docs/69e786a499f330dc5cd002e5/f62125ae-80d7-4e5e-b5c0-82a242d58c91.xls"
   },
   {
     "quoteId": "XQAMZFCL042620705M",
@@ -160,6 +142,12 @@
     "exportsInvoiceValue": 12271.5,
     "shipper": "mantic games",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ef42e22e2341400c407f46/execution-documents/6a0c8043fcd80e8b0683f749/68040090-617b-4924-b7cb-72da220c435e-Export Commercial Invoice - Excel_XQAMZLCL052621522M CI new.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621230M",
+    "exportsInvoiceValue": 37965.58,
+    "shipper": "J&J ARONIA TRADING INC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68887b4ec734b267a9719ca8/execution-documents/6a01b8cf0667c4c6b7289cbe/e5804cd0-8a45-4e3d-9a76-5f11889c871d-CI_XQAMZFCL052621230M.pdf"
   },
   {
     "quoteId": "XQAMZAIR0626178418",
@@ -210,6 +198,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a16cfbb8b30c45f7bb815a2/02f31beb-aa90-44ae-911d-0565074239b8-Export Commercial Invoice - Excel_XQAMZLCL052621769M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620853M",
+    "exportsInvoiceValue": 6284.8,
+    "shipper": "Daddy J",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64843fce54794e270c3aef8e/bookings-docs/69f05aa116bb65b529705926/0866fbec-748b-43ca-ba28-e069259aad53.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620852M",
+    "exportsInvoiceValue": 656.45,
+    "shipper": "fuzail ahmed",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/bookings-docs/69f0998f0efcfd44e33db2b4/73147d2d-f1f7-41a0-99f8-cb77aea9a460.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526172855",
     "exportsInvoiceValue": 3693.6,
     "shipper": "matthias christian",
@@ -226,12 +226,6 @@
     "exportsInvoiceValue": 120.0,
     "shipper": "nidaecommerce",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69146eb0ecac171d51e290c5/execution-documents/69f07206ebc685d38bcc3de4/a8b68621-b874-4bd3-9027-bd467a0cca6e-EXPORT Commercial Invoice_XQAMZLCL042620825M CI new.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL042620661M",
-    "exportsInvoiceValue": 634.8,
-    "shipper": "ahesanali kadival",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/execution-documents/69e76521c8345abf66903abe/19cbd076-c678-4465-bccd-e8c825fe3c6c-Export Commercial Invoice - Excel_XQAMZLCL042620661M.xlsx"
   },
   {
     "quoteId": "XQLCL042620789",
@@ -330,6 +324,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69f861c6300fb160324d73f0/3ab9801d-9f16-4bee-8014-4b0a0f353fc9-Import Commercial Invoice - Excel_XQAMZFCL052621001M UP.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620614M",
+    "exportsInvoiceValue": 9720.0,
+    "shipper": "metallic designs exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=659e8ddddf479f7b7454368c/bookings-docs/69e872ea894cfe56ee5ac135/7e20ea4c-9d6c-46e7-b042-d55c8300fd2a.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526175520",
     "exportsInvoiceValue": 10744.63,
     "shipper": "Solino Home",
@@ -346,12 +346,6 @@
     "exportsInvoiceValue": 2678.0,
     "shipper": "t & d pharma",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/69fc3172a4bb1961f81570bd/d41ea618-a744-4654-bee8-5c18312d80be-Commercial Invoice_XQAMZLCL052621101M.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL042620852M",
-    "exportsInvoiceValue": 656.45,
-    "shipper": "fuzail ahmed",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/bookings-docs/69f0998f0efcfd44e33db2b4/5dc10900-39fc-4d5f-934f-4f3c6bc78a47.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620237M",
@@ -372,22 +366,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1581e117565504c4c02c01/execution-documents/6a1581e617565504c4c02c29/a8ec3068-48d8-46de-97d2-bff4b9a9b71a-CI XQAMZAIR0526175739 (Amit kadam).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620614M",
-    "exportsInvoiceValue": 9720.0,
-    "shipper": "metallic designs exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=659e8ddddf479f7b7454368c/execution-documents/69e872ea894cfe56ee5ac135/3a758676-d8c0-4b13-a980-1b9575d0dff5-Import Commercial Invoice - Excel_XQAMZLCL042620614M (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL042620864M",
     "exportsInvoiceValue": 147821.62,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f07638f565c98e3083a244/bad6f83b-b783-4d06-b5d0-f2c4b4e3153d-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620853M",
-    "exportsInvoiceValue": 6284.8,
-    "shipper": "Daddy J",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64843fce54794e270c3aef8e/execution-documents/69f05aa116bb65b529705926/a162dc03-d588-497a-882a-72d81168b563-Export Commercial Invoice - Excel_XQAMZLCL042620853M (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621695M",
@@ -522,12 +504,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68adc4d767c497f85b6dff39/execution-documents/69f8bc21172d1423752c5916/3f458ae7-811b-4dc2-bd06-493836dcfde8-Export Commercial Invoice - Excel_XQAMZLCL052621027M (1).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620532M",
-    "exportsInvoiceValue": 29130.5,
-    "shipper": "ascetic exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6848cc2193cbd32eca7bd6a7/execution-documents/69e08ce2ac8ebba53f6071ef/fa2fc62d-c266-4db6-97a4-0e53ba3507ee-Export Commercial Invoice - Excel_XQAMZLCL042620532M (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620097M",
     "exportsInvoiceValue": 1429.6,
     "shipper": "zenin potions",
@@ -580,12 +556,6 @@
     "exportsInvoiceValue": 561.7,
     "shipper": "passionforperfume",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/execution-documents/6a219faff887ae26f67d38c1/7fc62ccc-efd7-42ce-957e-bb0a73b9618c-CI XQAMZAIR0626178837 (passionforperfume).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL042620660M",
-    "exportsInvoiceValue": 17500.0,
-    "shipper": "hands and craft",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e4fcf78ea7389ef67a4fcd/bookings-docs/69e868148a2f781fee8a30a2/791e7437-38ac-486d-a3d2-d8a720b7c0ab.xls"
   },
   {
     "quoteId": "XQAMZAIR0526176510",
