@@ -198,12 +198,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a16cfbb8b30c45f7bb815a2/02f31beb-aa90-44ae-911d-0565074239b8-Export Commercial Invoice - Excel_XQAMZLCL052621769M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620853M",
-    "exportsInvoiceValue": 6284.8,
-    "shipper": "Daddy J",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64843fce54794e270c3aef8e/bookings-docs/69f05aa116bb65b529705926/0866fbec-748b-43ca-ba28-e069259aad53.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620852M",
     "exportsInvoiceValue": 656.45,
     "shipper": "fuzail ahmed",
@@ -324,12 +318,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69f861c6300fb160324d73f0/3ab9801d-9f16-4bee-8014-4b0a0f353fc9-Import Commercial Invoice - Excel_XQAMZFCL052621001M UP.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620614M",
-    "exportsInvoiceValue": 9720.0,
-    "shipper": "metallic designs exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=659e8ddddf479f7b7454368c/bookings-docs/69e872ea894cfe56ee5ac135/7e20ea4c-9d6c-46e7-b042-d55c8300fd2a.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0526175520",
     "exportsInvoiceValue": 10744.63,
     "shipper": "Solino Home",
@@ -382,12 +370,6 @@
     "exportsInvoiceValue": 4828.0,
     "shipper": "lcr group holdings",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c44d38c0655a2ab614df9/bookings-docs/6a0c5c248128992b0691d0a2/885c3f10-0021-4b3f-8c63-2faeee41a7c3.xlsx"
-  },
-  {
-    "quoteId": "XQLCL042620756",
-    "exportsInvoiceValue": 2262.0,
-    "shipper": "shobhit gupta",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=666fbd23b82fdbb2b8147773/execution-documents/69ef5b06a91aa2a5b7ba04e2/8f7461d6-cf7a-434c-927f-0b5ff51463f9-Export Commercial Invoice - Excel_XQLCL042620756.xls"
   },
   {
     "quoteId": "XQAMZLCL042620849M",
@@ -544,12 +526,6 @@
     "exportsInvoiceValue": 5788.36,
     "shipper": "James White",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/6a2293de3a0e543d5ccaa5a9/8709102b-23d4-400e-91aa-ded9b4709365-CI XQAMZAIR0626178926 (James White).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL042620884M",
-    "exportsInvoiceValue": 24825.5,
-    "shipper": "Handcrafted trading Co",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65813dd1621f6a5c6ab6e1e4/bookings-docs/69f0b5bfe10dc5cf7ffac8f9/a436613d-a461-4e4d-a115-f4e572445013.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0626178837",
