@@ -360,12 +360,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f07638f565c98e3083a244/bad6f83b-b783-4d06-b5d0-f2c4b4e3153d-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621508M",
-    "exportsInvoiceValue": 4828.0,
-    "shipper": "lcr group holdings",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c44d38c0655a2ab614df9/bookings-docs/6a0c5c248128992b0691d0a2/885c3f10-0021-4b3f-8c63-2faeee41a7c3.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620849M",
     "exportsInvoiceValue": 26289.0,
     "shipper": "Vicco Products (Bombay) Pvt. Ltd.",
@@ -622,12 +616,6 @@
     "exportsInvoiceValue": 45707.0,
     "shipper": "rig cosmetics limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/execution-documents/69e788e8c663e423636e72eb/fb0ae7a4-be96-4110-8148-0cbd138abf52-Export Commercial Invoice - Excel_XQAMZFCL042620668M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQFCL052620965",
-    "exportsInvoiceValue": 12474.0,
-    "shipper": "BubbleBum USA LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68651427a873c8ff95289c6c/execution-documents/69f46cfa002efd55066abd12/a09a9744-ac0b-49a4-8d73-bd66fcb2a473-Export Commercial Invoice - Excel_XQFCL052620965 CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621222M",
