@@ -360,12 +360,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f07638f565c98e3083a244/bad6f83b-b783-4d06-b5d0-f2c4b4e3153d-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621695M",
-    "exportsInvoiceValue": 5460.0,
-    "shipper": "PURE CLINICA",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e7f67ec5e77288b0d0bc3c/execution-documents/6a155113cc8fc99f9fe70c1f/3933e2c1-167a-4e34-abc9-56995fa62064-Export Commercial Invoice - Excel_XQAMZLCL052621695M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621508M",
     "exportsInvoiceValue": 4828.0,
     "shipper": "lcr group holdings",
