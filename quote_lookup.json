@@ -336,12 +336,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/69fc3172a4bb1961f81570bd/d41ea618-a744-4654-bee8-5c18312d80be-Commercial Invoice_XQAMZLCL052621101M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL042620237M",
-    "exportsInvoiceValue": 512.0,
-    "shipper": "twisted ware's c/o pelz llc",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d692ee27d712c6df05cefc/execution-documents/69d78ad94f167e586abf567e/b1d87c57-3cb6-4564-ac75-de02f13c745f-Export Commercial Invoice - Excel_XQAMZLCL042620237M  CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL052620957M",
     "exportsInvoiceValue": 60337.35,
     "shipper": "metis learning solutions pvt ltd",
@@ -472,12 +466,6 @@
     "exportsInvoiceValue": 900.0,
     "shipper": "pure gliss ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68adc4d767c497f85b6dff39/execution-documents/69f8bc21172d1423752c5916/3f458ae7-811b-4dc2-bd06-493836dcfde8-Export Commercial Invoice - Excel_XQAMZLCL052621027M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620097M",
-    "exportsInvoiceValue": 1429.6,
-    "shipper": "zenin potions",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cf814a7dc6e7aece5b69a4/execution-documents/69cfbc709d29574f993b0d00/cb5980a8-be6d-4d66-9581-3e7eb1402017-Export Commercial Invoice - Excel_XQAMZLCL042620097M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620682M",
