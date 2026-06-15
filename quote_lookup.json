@@ -66,12 +66,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878e4745a64de1ec89db325/execution-documents/69fdc422bf0ed98a3ef5c079/b593bc6b-dedc-4d33-b9c4-04c99f161cd3-CI XQAMZAIR0526170297 (the others beauty co ltd).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621561M",
-    "exportsInvoiceValue": 984.0,
-    "shipper": "pointbid logistics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c2c42e1a5075b8326329df/bookings-docs/6a0dded72093da4fe5237f5b/f7b7bbd2-660d-42a9-8ce4-f49f7db96940.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0626178040",
     "exportsInvoiceValue": 2497.44,
     "shipper": "utl shipping / noatum logistcs",
@@ -244,12 +238,6 @@
     "exportsInvoiceValue": 29668.8,
     "shipper": "apl",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69dddf93147004f9b24c9b57/e3b0d18a-e5d3-4039-93f5-16c2102da70f-TI27-2011_4FC LLC_INVOICE_COO_xhipment (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620825M",
-    "exportsInvoiceValue": 120.0,
-    "shipper": "nidaecommerce",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69146eb0ecac171d51e290c5/execution-documents/69f07206ebc685d38bcc3de4/a8b68621-b874-4bd3-9027-bd467a0cca6e-EXPORT Commercial Invoice_XQAMZLCL042620825M CI new.xls"
   },
   {
     "quoteId": "XQLCL042620789",
@@ -720,22 +708,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/69f31fdd487f97e7495b1212/198d2ec2-c751-4314-ae33-005ce5fb0fd3-Export Commercial Invoice - Excel_XQAMZLCL042620925M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620850M",
-    "exportsInvoiceValue": 14820.0,
-    "shipper": "s a enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/bookings-docs/69f043c540e864035185dc7d/f90e51b7-527f-4f40-a40a-6975ef6a80cd.xls"
-  },
-  {
     "quoteId": "XQAMZLCL042620797M",
     "exportsInvoiceValue": 17535.0,
     "shipper": "fashionking brands pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/69f043e19081be07806b1260/242745a3-fccc-4e0e-99be-62be20d31e23-Export Commercial Invoice - Excel_XQAMZLCL042620797M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620818M",
-    "exportsInvoiceValue": 18553.0,
-    "shipper": "archie enterprise",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/69ef4edbe7fc18dd0ff44cb0/e382e8d3-716c-44d4-ae3a-e8f5bfea9270.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620769M",
