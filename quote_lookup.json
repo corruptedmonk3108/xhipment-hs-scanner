@@ -18,6 +18,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6825ad4eb52bc5e7c00675f8/execution-documents/69ec9389b832da22e034a979/bdbab063-fe8e-4432-bcc8-d3f05cf86884-Export Commercial Invoice - Excel_XQAMZLCL042620774M.xlsx"
   },
   {
+    "quoteId": "XQFCL052621014",
+    "exportsInvoiceValue": 149038.02,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f87aa87779ac7816c1bae1/4dc12773-da5c-481d-ab26-c94694907818-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621117M",
+    "exportsInvoiceValue": 149840.28,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69fc77c97e7eebb6735a74cf/bfa0a2d0-461c-49ba-b329-88e941ba891a-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621221M",
+    "exportsInvoiceValue": 131318.18,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a016796c3f9c926948750d7/c0ceab93-a8b7-42e7-9767-b37827cf482a-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052620963M",
     "exportsInvoiceValue": 48199.0,
     "shipper": "Dart Corner",
