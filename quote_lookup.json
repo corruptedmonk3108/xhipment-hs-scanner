@@ -108,6 +108,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=652050af15e2b3a3242e31ab/execution-documents/69fb5afc6d859b0462e1c060/29565db6-46a6-4003-bef8-69f22a62f576-Export Commercial Invoice - Excel_XQAMZLCL052621057M (CI new).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626177778",
+    "exportsInvoiceValue": 2027.5,
+    "shipper": "pablo pajares hoffmann",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0213664daf4f4505799e37/execution-documents/6a1da1070c30220a97f8eb5d/2016c52c-64ff-49f1-8c6d-d0c4ca790a83-CI XQAMZAIR0626177778 (pablo pajares hoffmann).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0526176982",
+    "exportsInvoiceValue": 10139.89,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a195bca5f64a2e908de2e3f/1f6096b2-bee8-4d9b-8cb5-0ee26d816c2e-CI XQAMZAIR0526176982 (Sljivo Trading GmbH).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626178247",
+    "exportsInvoiceValue": 4771.14,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a1fee393931f360176d4dfd/fee36768-cfcc-482a-9480-40fda3eb3f42-CI XQAMZAIR0626178247 (Sljivo Trading GmbH).xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526176493",
     "exportsInvoiceValue": 992.96,
     "shipper": "harrow business services ltd",
@@ -168,6 +186,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68887b4ec734b267a9719ca8/execution-documents/6a01b8cf0667c4c6b7289cbe/e5804cd0-8a45-4e3d-9a76-5f11889c871d-CI_XQAMZFCL052621230M.pdf"
   },
   {
+    "quoteId": "XQAMZLCL042620723M",
+    "exportsInvoiceValue": 7727.0,
+    "shipper": "AGF International",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6992e9dcf32c0588a5f713d8/execution-documents/69e9dec66b991af59c6a78b5/e4e551ee-b310-4053-b33e-c55a593c1318-Import Commercial Invoice - Excel_XQAMZLCL042620723M (1).xls"
+  },
+  {
     "quoteId": "XQAMZAIR0626178418",
     "exportsInvoiceValue": 8000.0,
     "shipper": "maa bhagwati ethnic llp",
@@ -226,6 +250,12 @@
     "exportsInvoiceValue": 3693.6,
     "shipper": "matthias christian",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a07523afb764c036032bb0a/483817a7-7340-4f14-914b-e8980fc6fe65-CI XQAMZAIR0526172855 (matthias christian) (1).XLSX"
+  },
+  {
+    "quoteId": "XQLCL032619481",
+    "exportsInvoiceValue": 8472.7,
+    "shipper": "Yogasana",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69afc21a6fd51c32d92282a7/execution-documents/69afdaf5dd6ae8ec24d0c617/4e07eeba-58af-47e0-8120-95c9bdceecb5-Export Commercial Invoice - Excel_XQLCL032619481 (CI).xls"
   },
   {
     "quoteId": "XQAMZLCL042620463M",
@@ -342,10 +372,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a15514f3d148450e30365bf/90de1682-81ad-4a36-966d-1c5147b986c5-CI XQAMZAIR0526175520 (Solino Home).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0326152551",
-    "exportsInvoiceValue": 505.0,
-    "shipper": "paul longley",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da627871c4cab886d336c5/execution-documents/69a5a1440cd10e0a7a353563/e203aae9-44fa-4479-94fc-63126a79b636-CI XQAMZAIR0326152551 (Paul longley).XLSX"
+    "quoteId": "XQAMZFCL052621733M",
+    "exportsInvoiceValue": 2994072.61,
+    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a16933b13d85ff6760ed4b5/3347a29b-9772-4186-9e43-f002394fabda-Commercial Invoice_XQAMZFCL052621733M CI USD.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621101M",
