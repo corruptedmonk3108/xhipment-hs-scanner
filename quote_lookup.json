@@ -6,12 +6,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653cafe326796547ec0fa6c7/execution-documents/69f037017e22c4109ec39aca/7179b519-ceca-40d5-b998-558caae9a0fc-Export Commercial Invoice - Excel_XQAMZLCL042620802M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620580M",
-    "exportsInvoiceValue": 7389.33,
-    "shipper": "3Idee EU",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f251acea9a17d52670d39e/bookings-docs/69e2179e82011809b0c283dd/d9d75d8b-2300-4ce3-9629-4bf9d4fd987a.pdf"
-  },
-  {
     "quoteId": "XQAMZLCL042620774M",
     "exportsInvoiceValue": 620.25,
     "shipper": "akash manubhai kapadiya",
@@ -36,16 +30,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a016796c3f9c926948750d7/c0ceab93-a8b7-42e7-9767-b37827cf482a-Invoice No.xlsx"
   },
   {
+    "quoteId": "XQFCL042620788",
+    "exportsInvoiceValue": 73707.28,
+    "shipper": "Srinivasa Textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/bookings-docs/69eefaac4924d68dd277695e/77cdbbf1-7016-4143-8c0a-b387d26817af.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL052621799M",
+    "exportsInvoiceValue": 10284.6,
+    "shipper": "hwc trading ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a18257f6783b10bca2ac5ae/b6efb449-d658-4e39-b7cd-807e0d1b94ef-Export Commercial Invoice - Excel_XQAMZLCL052621799M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052620963M",
     "exportsInvoiceValue": 48199.0,
     "shipper": "Dart Corner",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66438ddb3443a20ad7bb5492/execution-documents/69f48570f1b649074eeec2c6/2e6555c7-43d5-4680-b9a9-f91d8e1a98be-Export Commercial Invoice - Excel_XQAMZFCL052620963M (1) UP.xlsx"
-  },
-  {
-    "quoteId": "XQLCL052621074",
-    "exportsInvoiceValue": 4613.0,
-    "shipper": "Lockabox",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ab922f3a2205dd88733e89/execution-documents/69faee3cba7661d0fa76ac43/e52e2dc0-8229-4aec-9f81-679b87c25007-Commercial Invoice_XQLCL052621074 CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052620985M",
@@ -76,18 +76,6 @@
     "exportsInvoiceValue": 2856.96,
     "shipper": "henry watson's potteries ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a19a4ce9bac0aeddf8c0151/0db3d598-a812-479f-8dd8-c1f3b51ce7f6-EXPORT Commercial Invoice_XQAMZLCL052621863M (CI).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL052621835M",
-    "exportsInvoiceValue": 1803.2,
-    "shipper": "hwc trading ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a1953e15f64a2e908d9ab41/69014d90-f079-4a8d-8b20-6f4a5c2ff522-EXPORT Commercial Invoice_XQAMZLCL052621835M CI.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL042620538M",
-    "exportsInvoiceValue": 4800.0,
-    "shipper": "farhan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6819f708b326f93fa2eba6e6/bookings-docs/69e1c677126fd2794d3da91a/d41e7989-18be-4fcc-aab5-ff33fb23f315.xls"
   },
   {
     "quoteId": "XQAMZLCL052621057M",
@@ -132,22 +120,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/69fed6fe16c56029254cc0dc/4b52cad6-a0ea-4e8a-9981-212d95651825-Commercial Invoice_XQAMZLCL052621174M UP.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620490M",
-    "exportsInvoiceValue": 845.0547046,
-    "shipper": "madhav aggarwal",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a530f966bde2d92a67a23b/bookings-docs/69de15efad0bcf733d25fbc4/4ede6ef9-55cd-476e-a00c-bc9df536970d.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL042620705M",
     "exportsInvoiceValue": 29962.95,
     "shipper": "hosley india pvt. ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6916e6dd493a8fe03548badc/execution-documents/69eb08cd42d1cfaf572420d3/37345200-a5b3-4089-b47a-d8d8b3f6e17a-Import Commercial Invoice - Excel_XQAMZFCL042620705M CI.xls"
-  },
-  {
-    "quoteId": "XQFCL052621798",
-    "exportsInvoiceValue": 8314.0,
-    "shipper": "Wrimes Cosmetics Limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66597f102cf3ac17ab477680/bookings-docs/6a18230f6783b10bca2a9c96/e6490d6b-6c59-446a-8815-ed2545175d11.doc"
   },
   {
     "quoteId": "XQAMZLCL042620719M",
@@ -240,12 +216,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69dddf93147004f9b24c9b57/e3b0d18a-e5d3-4039-93f5-16c2102da70f-TI27-2011_4FC LLC_INVOICE_COO_xhipment (1).xlsx"
   },
   {
-    "quoteId": "XQLCL042620789",
-    "exportsInvoiceValue": 30355.44,
-    "shipper": "Srinivasa Textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/bookings-docs/69eefa86d8145e94321c5119/1d093b6a-7896-45a8-95d7-eef8cbd0a18b.xls"
-  },
-  {
     "quoteId": "XQAMZLCL042620615M",
     "exportsInvoiceValue": 2625.0,
     "shipper": "MIKSAR FOODS PRIVATE LIMITED",
@@ -256,12 +226,6 @@
     "exportsInvoiceValue": 6974.5,
     "shipper": "amit bhandari",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6711e173101051070927f1b1/execution-documents/69e5cadde87838b2292f1106/35ab49c8-d0ed-41c5-86ec-bd502c112432-EXPORT Commercial Invoice_XQAMZLCL042620613M CI.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL042620603M",
-    "exportsInvoiceValue": 4800.0,
-    "shipper": "feyn foods (opc) private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/bookings-docs/69e606c2c822ea97fcce5ec6/c26fe92d-2f3c-44b8-929a-ccb6a1002ab8.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621408M",
@@ -546,12 +510,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b8feedd3d470619b976a65/execution-documents/69b90d99ae1a8730582df039/10bddf45-7475-4eb3-8094-5f270043671b-Export Commercial Invoice - Excel_XQFCL032619645 CI.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621081M",
-    "exportsInvoiceValue": 164198.44,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69fb2559ef2759f61d5c6513/a7bbd4f0-da43-42ef-a871-631962f46c40-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0526176509",
     "exportsInvoiceValue": 1076.98,
     "shipper": "harrow business services ltd",
@@ -604,6 +562,18 @@
     "exportsInvoiceValue": 10043.0,
     "shipper": "fibertec gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8867c09617ba3cd25a4e6/bookings-docs/69e892d92102107a00ff0b08/05acad75-53c4-4e5a-b17a-b09ab5b99d12.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620618M",
+    "exportsInvoiceValue": 2560.0,
+    "shipper": "ramsons industries kundli",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a236181ecf0fb565b6eed1/bookings-docs/69e71e7427d14733c19ccfd3/6bf29cc1-4c62-4b9f-8a7c-332d7d09a305.xlsx"
+  },
+  {
+    "quoteId": "XQLCL042620790",
+    "exportsInvoiceValue": 1351.0,
+    "shipper": "Srinivasa Textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefa754924d68dd2776614/e76befb3-0488-45ca-a416-6f14a4ed0e8d-Export Commercial Invoice - Excel_XQLCL042620790 CI.xls"
   },
   {
     "quoteId": "XQAMZAIR0526175639",
@@ -702,22 +672,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c926046d1bac3d2152c43c/execution-documents/69fad619ba7661d0fa740f2e/a35524a0-2376-406f-b601-bcca20d8cbff-Invoice_097_2.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621082M",
-    "exportsInvoiceValue": 145867.48,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69fb26302261b5a4acc40c7d/179544a5-6c47-4a2a-9c10-b7df0dbeb7de-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQFCL042620788",
     "exportsInvoiceValue": 73707.28,
     "shipper": "Srinivasa Textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefaac4924d68dd277695e/238ff199-52b4-41d7-a49a-b995d9f71030-Export Commercial Invoice - Excel_XQFCL042620788 (CI new).xls"
-  },
-  {
-    "quoteId": "XQFCL042620788",
-    "exportsInvoiceValue": 73707.28,
-    "shipper": "Srinivasa Textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/bookings-docs/69eefaac4924d68dd277695e/fec0e80f-4271-4c3a-99bb-2ae156b4c229.pdf"
   },
   {
     "quoteId": "XQLCL042620666",
@@ -754,12 +712,6 @@
     "exportsInvoiceValue": 30000.0,
     "shipper": "shubh psyllium indsutries",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f2e5ae9193d71c00ee18de/execution-documents/69f31eafc7adb46f9b9f8bf7/2e81d7d1-13c4-4e95-98d4-a9ff916ba20a-Import Commercial Invoice - Excel_XQAMZLCL042620930M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620618M",
-    "exportsInvoiceValue": 2560.0,
-    "shipper": "ramsons industries kundli",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a236181ecf0fb565b6eed1/bookings-docs/69e71e7427d14733c19ccfd3/133a05c1-36f8-4ac7-9a10-2a922d058969.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621045M",
@@ -816,15 +768,15 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670cc8d9bbe15dbe328d750a/execution-documents/69d629100efd42796e62608a/32043275-6671-4746-b5d1-97b159e5a8e6-Commercial Invoice_XQAMZLCL042620216M (CI).xlsx"
   },
   {
-    "quoteId": "XQAMZFCL042620547M",
-    "exportsInvoiceValue": 244072.0,
-    "shipper": "cuminco kitchenware private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e0a9ac71710115da3db2cd/execution-documents/69e0c869d06121f153561d27/efd1e189-2564-4cde-9c7d-64bfbfa6ae3e-Import Commercial Invoice - Excel_XQAMZFCL042620547M (CI).xlsx"
+    "quoteId": "XQAMZLCL032619395M",
+    "exportsInvoiceValue": 4077.0,
+    "shipper": "kent ro systems limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a92863026c685ceb2fac7b/execution-documents/69aaafd3ffb23cc6d2ff1c73/8eb4c013-9ac8-446f-b832-1982fd19638a-Import Commercial Invoice - Excel_XQAMZLCL032619395M CI  new.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621663M",
-    "exportsInvoiceValue": 54084.62,
-    "shipper": "James White",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/6a19964ad033aeeef82ac25c/d9852958-ffd5-4cc5-a40f-8f3611bd4a3b-invoice_usd CI.xlsx"
+    "quoteId": "XQAMZLCL062622039M",
+    "exportsInvoiceValue": 23402.0,
+    "shipper": "Sports Inside Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b481aacb0d1cd35afedc9b/execution-documents/6a21a125b52e57e1f1001d65/f5b06c09-efbe-4858-abfb-7f93d75e589c-Export Commercial Invoice - Excel_XQAMZLCL062622039M.xlsx"
   }
 ]
