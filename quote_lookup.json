@@ -456,6 +456,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f3079fcb391be7a69d008d/execution-documents/69f307a4cb391be7a69d00d0/fb3c2ac1-744d-4b39-90c5-b33c65236e39-CI XQAMZAIR0426167910 (master fab) (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621280M",
+    "exportsInvoiceValue": 33995.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f96c39311d77925edf45/6f0cd1c6-d040-4112-9ba5-e2c2643b6592-Import Commercial Invoice - Excel_XQAMZLCL052621280M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621559M",
     "exportsInvoiceValue": 1336.0,
     "shipper": "calzette",
@@ -574,6 +580,24 @@
     "exportsInvoiceValue": 756.0,
     "shipper": "creative jam enterprises ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a18438e4853f4861c6fbe2c/9ecd62b2-a392-43a7-883c-245fa61dc367-CI XQAMZAIR0526176684 (creative jam enterprises ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL052621433M",
+    "exportsInvoiceValue": 22539.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082db4f0013b437e33017e/8618f876-7e5e-465e-834f-d001f1896cb0-Import Commercial Invoice - Excel_XQAMZLCL052621433M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621644M",
+    "exportsInvoiceValue": 68253.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a11818e404f74edf9422513/37ea6e17-90c6-4dfa-b318-cbc38cc233fe-Import Commercial Invoice - Excel_XQAMZFCL052621644M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621511M",
+    "exportsInvoiceValue": 9304.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a0c60a28c0655a2ab66ff81/9b28fc40-6dbc-4d32-9f1a-5198ccbcf48a-Import Commercial Invoice - Excel_XQAMZLCL052621511M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620695M",
