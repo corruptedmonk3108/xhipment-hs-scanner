@@ -228,12 +228,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/bookings-docs/6a297058481202d52fc34b87/83871195-e091-4dad-9b0f-10470ca0bf1a.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620615M",
-    "exportsInvoiceValue": 2625.0,
-    "shipper": "MIKSAR FOODS PRIVATE LIMITED",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=668e879ca57e857e4fdd867f/execution-documents/69e606d5ba78417aca3b42c6/d165721f-84db-477a-b8a5-f070c1b87f85-Export Commercial Invoice - Excel_XQAMZLCL042620615M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621408M",
     "exportsInvoiceValue": 252.0,
     "shipper": "sunitt halai",
@@ -262,18 +256,6 @@
     "exportsInvoiceValue": 6145.6,
     "shipper": "chai guys",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698b240f68f6f2c1cf527d11/execution-documents/6a1dc842fa24ef5a350db781/8429df58-e81b-4eb2-8a9b-d5e60f7b6bab-Commercial Invoice_XQAMZLCL062621913M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621775M",
-    "exportsInvoiceValue": 1447.68,
-    "shipper": "etail ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ad968fb7f83df6a6311bee/execution-documents/6a16f7ec41a6e48c621ea71f/96110a65-2453-48d5-8035-a759a5ba2e3e-Export Commercial Invoice - Excel_XQAMZLCL052621775M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621770M",
-    "exportsInvoiceValue": 29535.73,
-    "shipper": "amethyst group",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16c7af051fb439cc18db9b/execution-documents/6a16d0a5051fb439cc19b011/0d3c3ba7-7c14-4369-b26d-112137e69c86-Export Commercial Invoice - Excel_XQAMZLCL052621770M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526175508",
@@ -418,12 +400,6 @@
     "exportsInvoiceValue": 900.0,
     "shipper": "pure gliss ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68adc4d767c497f85b6dff39/execution-documents/69f8bc21172d1423752c5916/3f458ae7-811b-4dc2-bd06-493836dcfde8-Export Commercial Invoice - Excel_XQAMZLCL052621027M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620682M",
-    "exportsInvoiceValue": 92117.0,
-    "shipper": "matras exporters",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/69e871bc5805dd5e0e58ae54/b9ab2397-cd58-400a-9cbf-fdb6469dc1bb.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0626178070",
@@ -676,12 +652,6 @@
     "exportsInvoiceValue": 17295.0,
     "shipper": "sri venkatesh aromas",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620890M",
-    "exportsInvoiceValue": 167224.24,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/69f0b7ee3a44187575962525/18e7d08d-dd40-48df-ad5d-e08a05d0f4aa-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620216M",
