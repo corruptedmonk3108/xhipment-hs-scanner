@@ -30,6 +30,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6825ad4eb52bc5e7c00675f8/bookings-docs/69ec9389b832da22e034a979/de49fe3a-6cc5-4370-9999-5b386caf6f40.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620338M",
+    "exportsInvoiceValue": 2954.0,
+    "shipper": "iqra trading corp.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d8dc78f7b643533803717f/bookings-docs/69d8e59bf9087108e16f5a7b/8a8be259-a464-4f4c-a387-d262ce77458d.xls"
+  },
+  {
+    "quoteId": "XQAIR052621692",
+    "exportsInvoiceValue": 17225.76,
+    "shipper": "JF Home Leisure",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69732cd95f6af3beceae3ea6/execution-documents/6a1a584a4954aca71f7a851f/4901b5ff-0b38-4065-a4c3-8bd8b2859290-CI XQAIR052621692 (JF Home Leisure) (2).xlsx"
+  },
+  {
     "quoteId": "XQLCL042620598",
     "exportsInvoiceValue": 309.6,
     "shipper": "Mensa Brands",
@@ -84,6 +96,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a218ec8b52e57e1f1ffce67/execution-documents/6a219e70237adca8cf6a277c/b4b954e8-dd8b-4904-956e-38534415ce97-Export Commercial Invoice - Excel_XQAMZLCL062622038M CI.xlsx"
   },
   {
+    "quoteId": "XQLCL062621970",
+    "exportsInvoiceValue": 9266.88,
+    "shipper": "DE Distribution",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a2009a4aeb18690a14d242e/4cb6dcf7-a577-4925-9add-860c81153e1f-Export Commercial Invoice - Excel_XQLCL062621970 (2) CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621262M",
     "exportsInvoiceValue": 6646.9,
     "shipper": "hwc trading ltd",
@@ -108,22 +126,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/69ea03d4bb132b3272488389/84d226eb-2277-4347-9a99-fa94b7db7092-Export Commercial Invoice - Excel_XQAMZLCL042620719M (CI) new updated.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621522M",
-    "exportsInvoiceValue": 12271.5,
-    "shipper": "mantic games",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ef42e22e2341400c407f46/execution-documents/6a0c8043fcd80e8b0683f749/68040090-617b-4924-b7cb-72da220c435e-Export Commercial Invoice - Excel_XQAMZLCL052621522M CI new.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620723M",
     "exportsInvoiceValue": 7727.0,
     "shipper": "AGF International",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6992e9dcf32c0588a5f713d8/execution-documents/69e9dec66b991af59c6a78b5/e4e551ee-b310-4053-b33e-c55a593c1318-Import Commercial Invoice - Excel_XQAMZLCL042620723M (1).xls"
   },
   {
-    "quoteId": "XQAMZLCL042620338M",
-    "exportsInvoiceValue": 2954.0,
-    "shipper": "iqra trading corp.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d8dc78f7b643533803717f/execution-documents/69d8e59bf9087108e16f5a7b/3aeed469-a917-4635-8097-4c9e74f5e0b2-Export Commercial Invoice - Excel_XQAMZLCL042620338M CI.xls"
+    "quoteId": "XQLCL062621953",
+    "exportsInvoiceValue": 6041.91,
+    "shipper": "DE Distribution",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a1ee2165276198c129f120a/8c0df4bf-bb29-491e-8a05-2e6a13e7ae1d-Export Commercial Invoice - Excel_XQLCL062621953 (2) CI.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0626178418",
@@ -208,6 +220,12 @@
     "exportsInvoiceValue": 455.9,
     "shipper": "passionforperfume",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/bookings-docs/6a297058481202d52fc34b87/83871195-e091-4dad-9b0f-10470ca0bf1a.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620752M",
+    "exportsInvoiceValue": 3601.8,
+    "shipper": "mr. tamilselvan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68521cab2fb860a75762b6d5/execution-documents/69f0f3533a441875759e1c1a/c65e589e-ea99-4f6f-bf96-17aef6292b25-EXPORT Commercial Invoice_XQAMZLCL042620752M (2) CI.xls"
   },
   {
     "quoteId": "XQAMZLCL052621408M",
@@ -424,12 +442,6 @@
     "exportsInvoiceValue": 1076.98,
     "shipper": "harrow business services ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a1803d54b442c144a4e63ca/935d29ac-6c94-4e98-92ff-2565a1a5d1b5-CI XQAMZAIR0526176477 (harrow business services ltd).XLSX"
-  },
-  {
-    "quoteId": "XQFCL032619645",
-    "exportsInvoiceValue": 22737.0,
-    "shipper": "VOYZZ INDIA PRIVATE LIMITED",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b8feedd3d470619b976a65/execution-documents/69b90d99ae1a8730582df039/10bddf45-7475-4eb3-8094-5f270043671b-Export Commercial Invoice - Excel_XQFCL032619645 CI.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526176509",
