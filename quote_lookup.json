@@ -54,12 +54,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878e4745a64de1ec89db325/execution-documents/69fdc422bf0ed98a3ef5c079/b593bc6b-dedc-4d33-b9c4-04c99f161cd3-CI XQAMZAIR0526170297 (the others beauty co ltd).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620802M",
-    "exportsInvoiceValue": 1967.5,
-    "shipper": "cresurge pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653cafe326796547ec0fa6c7/bookings-docs/69f037017e22c4109ec39aca/5ecb450c-d8a3-4848-ac06-307774e4f10f.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621057M",
     "exportsInvoiceValue": 1107.73,
     "shipper": "akash neelam",
@@ -534,12 +528,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a016a65c3f9c92694878491/39baddd7-c97c-412f-9d44-3f4a241feef7-INV  PAC SMHD_26-27_003 US CUSTOM CI.xls"
   },
   {
-    "quoteId": "XQAMZLCL052621232M",
-    "exportsInvoiceValue": 13611.04,
-    "shipper": "Solino Home",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a01b4aa1eabc2400976b4ec/e9ac261d-a1bd-4bc2-bf75-ac0e6404216f-Import Commercial Invoice - Excel_XQAMZLCL052621232M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621282M",
     "exportsInvoiceValue": 24325.0,
     "shipper": "Madan Mohan textiles",
@@ -598,12 +586,6 @@
     "exportsInvoiceValue": 10573.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082d16f0013b437e3082f0/24ee5efd-8ac7-4cc5-846e-5cca2e93a389-Import Commercial Invoice - Excel_XQAMZLCL052621431M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620871M",
-    "exportsInvoiceValue": 49500.0,
-    "shipper": "woldoshop gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f07e569e471da8ba83e9a6/execution-documents/69f08808cf0e0fadb93e17ea/9f7c49b8-5a04-4776-92b9-cc9f13ddca39-Commercial Invoice_XQAMZFCL042620871M (1) UP_removed.pdf"
   },
   {
     "quoteId": "XQAMZFCL052620959M",
