@@ -36,12 +36,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6825ad4eb52bc5e7c00675f8/bookings-docs/69ec9389b832da22e034a979/de49fe3a-6cc5-4370-9999-5b386caf6f40.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052620985M",
-    "exportsInvoiceValue": 8400.0,
-    "shipper": "Global Exim",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/bookings-docs/69f5e1f2e8944173ed50e5a7/4da344fd-a71a-4c48-9aa4-68a9386bb0e2.xlsx"
-  },
-  {
     "quoteId": "XQLCL042620598",
     "exportsInvoiceValue": 309.6,
     "shipper": "Mensa Brands",
@@ -124,12 +118,6 @@
     "exportsInvoiceValue": 12271.5,
     "shipper": "mantic games",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ef42e22e2341400c407f46/execution-documents/6a0c8043fcd80e8b0683f749/68040090-617b-4924-b7cb-72da220c435e-Export Commercial Invoice - Excel_XQAMZLCL052621522M CI new.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL052621230M",
-    "exportsInvoiceValue": 37965.58,
-    "shipper": "J&J ARONIA TRADING INC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68887b4ec734b267a9719ca8/execution-documents/6a01b8cf0667c4c6b7289cbe/e5804cd0-8a45-4e3d-9a76-5f11889c871d-CI_XQAMZFCL052621230M.pdf"
   },
   {
     "quoteId": "XQAMZLCL042620723M",
@@ -562,12 +550,6 @@
     "exportsInvoiceValue": 24325.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f9ce39311d77925f2b84/f4c3ada4-609e-423a-8773-1a5b6805eb38-Import Commercial Invoice - Excel_XQAMZLCL052621282M ci.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620679M",
-    "exportsInvoiceValue": 2039.0,
-    "shipper": "navodita apparel pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68a41912f16ca30bb5938131/execution-documents/69e85db27e22f02a9c07e8b7/95317a18-b07c-4047-adfe-3fb0ac76671e-Export Commercial Invoice - Excel_XQAMZLCL042620679M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620778M",
