@@ -24,12 +24,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a18257f6783b10bca2ac5ae/b6efb449-d658-4e39-b7cd-807e0d1b94ef-Export Commercial Invoice - Excel_XQAMZLCL052621799M CI.xlsx"
   },
   {
-    "quoteId": "XQFCL042620788",
-    "exportsInvoiceValue": 73707.28,
-    "shipper": "Srinivasa Textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/bookings-docs/69eefaac4924d68dd277695e/49c20ce2-aa22-49b8-ae42-ef4f1eeeebf8.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620774M",
     "exportsInvoiceValue": 620.25,
     "shipper": "akash manubhai kapadiya",
@@ -232,12 +226,6 @@
     "exportsInvoiceValue": 2581.76,
     "shipper": "henry watson's potteries ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a07215937469e54c778241d/5a806743-c6d0-4ae0-a5c0-4ffba11840fa-Export Commercial Invoice - Excel_XQAMZLCL052621420M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL042620630M",
-    "exportsInvoiceValue": 31072.94,
-    "shipper": "detilish rugs",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/69e611f97e20b5ec0697f073/043ade3a-4c9d-4048-adde-9835d1dc8bd6-XQAMZFCL042620630M_INVOICE (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL062621913M",
@@ -522,12 +510,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/bookings-docs/6a16bf7692317fbde31c1ec9/90c09fea-92ff-4c80-a0f5-c36d44f3bb5d.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL042620620M",
-    "exportsInvoiceValue": 31072.94,
-    "shipper": "detilish rugs",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/69e61210edbc27e5f3095715/df463f8b-073f-4f34-bf27-c68000f4a8ba-XQAMZFCL042620620M_INVOICE CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL042620668M",
     "exportsInvoiceValue": 45707.0,
     "shipper": "rig cosmetics limited",
@@ -586,12 +568,6 @@
     "exportsInvoiceValue": 21203.92,
     "shipper": "prasad acumeter llp",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c9682450f57a679fff3cbc/bookings-docs/69cd19c14426d5368c699431/94c42107-e966-49b8-ab6b-b684bcf4c257.XLSX"
-  },
-  {
-    "quoteId": "XQFCL042620788",
-    "exportsInvoiceValue": 73707.28,
-    "shipper": "Srinivasa Textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefaac4924d68dd277695e/238ff199-52b4-41d7-a49a-b995d9f71030-Export Commercial Invoice - Excel_XQFCL042620788 (CI new).xls"
   },
   {
     "quoteId": "XQLCL042620666",
