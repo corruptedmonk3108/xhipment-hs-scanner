@@ -258,6 +258,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/69f861c6300fb160324d73f0/3ab9801d-9f16-4bee-8014-4b0a0f353fc9-Import Commercial Invoice - Excel_XQAMZFCL052621001M UP.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620188M",
+    "exportsInvoiceValue": 2496.0,
+    "shipper": "phoenix medicaments private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d4dcc7856da3c95509a2d9/execution-documents/69d5098a31a5a9442fc58586/3ac60d7f-0f5f-4582-a46e-776867a44259-Export Commercial Invoice - Excel_XQAMZLCL042620188M (CI).xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0526175520",
     "exportsInvoiceValue": 10744.63,
     "shipper": "Solino Home",
