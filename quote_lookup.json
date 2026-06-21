@@ -1,5 +1,11 @@
 [
   {
+    "quoteId": "XQAMZLCL042620322M",
+    "exportsInvoiceValue": 3252.6,
+    "shipper": "haus bioceuticals india pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697d22213f25977dd57281d7/execution-documents/69d898389fd4c1056120df45/b3deaddc-7007-4843-aeec-d1d332928661-Export Commercial Invoice - Excel_XQAMZLCL042620322M.xlsx"
+  },
+  {
     "quoteId": "XQFCL052621014",
     "exportsInvoiceValue": 149038.02,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
