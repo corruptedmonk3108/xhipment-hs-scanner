@@ -144,48 +144,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a07523afb764c036032bb0a/483817a7-7340-4f14-914b-e8980fc6fe65-CI XQAMZAIR0526172855 (matthias christian) (1).XLSX"
   },
   {
-    "quoteId": "XQAMZAIR0626179404",
-    "exportsInvoiceValue": 1617.0,
-    "shipper": "tysr limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691dd9e98884ce4dcb88bf94/execution-documents/6a2675c94026f1ac0de0779e/c6c3679c-9598-41fa-bc45-46750a6992ed-POA setup on process CI XQAMZAIR0626179404 (tysr limited).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626180128",
-    "exportsInvoiceValue": 525.0,
-    "shipper": "creative jam enterprises ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a29309f691630082af5d5c0/9c4a3082-f0eb-43fd-8308-d16309991ee8-CI XQAMZAIR0626180128 (creative jam enterprises ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0626179933",
-    "exportsInvoiceValue": 3513.3,
-    "shipper": "s.brannan & sons",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69dfaa18296552d3b74bd4d3/execution-documents/6a27fcd3571be13663be5b85/ba54c3cb-43c7-433a-8d4d-24419ba2d0e6-CI XQAMZAIR0626179933(s.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626180534",
-    "exportsInvoiceValue": 489.0,
-    "shipper": "creative jam enterprises ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/bookings-docs/6a2a9dbc036ef5f997fd2e99/00a1ba27-5761-45f6-baa5-bca5addba085.XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0626179027",
-    "exportsInvoiceValue": 6400.0,
-    "shipper": "bramley products ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a22d44fde31b2284b2e8dde/execution-documents/6a22d453de31b2284b2e8e07/c667d5ff-1c1b-41b6-ac4d-38624abf00b8-CI XQAMZAIR0626179027 (bramley products ltd).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626180225",
-    "exportsInvoiceValue": 1602.54,
-    "shipper": "opro international ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a294f447c5c00b51170a8b4/110a4e64-88c8-401b-92f3-2c8a61b1148c-CI XQAMZAIR0626180225 (OPRO International Ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0626180275",
-    "exportsInvoiceValue": 455.9,
-    "shipper": "passionforperfume",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/bookings-docs/6a297058481202d52fc34b87/83871195-e091-4dad-9b0f-10470ca0bf1a.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620752M",
     "exportsInvoiceValue": 3601.8,
     "shipper": "mr. tamilselvan",
