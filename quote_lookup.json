@@ -222,12 +222,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d4dcc7856da3c95509a2d9/execution-documents/69d5098a31a5a9442fc58586/3ac60d7f-0f5f-4582-a46e-776867a44259-Export Commercial Invoice - Excel_XQAMZLCL042620188M (CI).xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621733M",
-    "exportsInvoiceValue": 2994072.61,
-    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a16933b13d85ff6760ed4b5/3347a29b-9772-4186-9e43-f002394fabda-Commercial Invoice_XQAMZFCL052621733M CI USD.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL052620957M",
     "exportsInvoiceValue": 60337.35,
     "shipper": "metis learning solutions pvt ltd",
@@ -352,6 +346,12 @@
     "exportsInvoiceValue": 2648.8,
     "shipper": "utl shipping / noatum logistcs",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ebb8a1727fd8815071fd8/execution-documents/6a1ebb94d41bbcc926a3633d/dfdd6045-5b0a-4339-9bd3-0cd1358aa8ff-CI XQAMZAIR0626178070 (utl shipping noatum logistcs).XLSX"
+  },
+  {
+    "quoteId": "XQFCL052621090",
+    "exportsInvoiceValue": 23100.0,
+    "shipper": "Quad 8 LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fb418e71494d88551bd7dc/execution-documents/69fe46a870e413fbb83c122a/b987488e-2586-42d6-9ce9-47e7dfbc752c-Import Commercial Invoice - Excel_XQFCL052621090 (CI).xlsx"
   },
   {
     "quoteId": "XQAMZAIR0526176510",
