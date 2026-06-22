@@ -204,6 +204,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698b240f68f6f2c1cf527d11/execution-documents/6a1dc842fa24ef5a350db781/8429df58-e81b-4eb2-8a9b-d5e60f7b6bab-Commercial Invoice_XQAMZLCL062621913M (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620778M",
+    "exportsInvoiceValue": 23922.34,
+    "shipper": "Amay International LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b4f26e368c0968cce937f0/bookings-docs/69ef53d16207228df4249300/c196c2a2-891e-4c7b-8871-e79c99a74459.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052621001M",
     "exportsInvoiceValue": 30510.0,
     "shipper": "apl",
@@ -238,6 +244,18 @@
     "exportsInvoiceValue": 87779.5,
     "shipper": "JF Home Leisure",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69732cd95f6af3beceae3ea6/execution-documents/69e77566d8406ad903574e77/8e3266cc-7763-4f19-a237-2e10500796c4-Commercial Invoice_XQFCL042620656.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052620999M",
+    "exportsInvoiceValue": 642.2,
+    "shipper": "ahesanali kadival",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/execution-documents/69f83ef479b64274da520e60/05456d83-56d5-49a4-a562-f30147d075f8-Export Commercial Invoice - Excel_XQAMZLCL052620999M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052620961M",
+    "exportsInvoiceValue": 1916.0,
+    "shipper": "care well impex",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f455ccfaf166477bf2b148/execution-documents/69f4575ceccd3cf8455642c3/edaf0d13-601b-4450-94b9-3ff7f06cbd7d-Export Commercial Invoice - Excel_XQAMZLCL052620961M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621293M",
@@ -298,6 +316,18 @@
     "exportsInvoiceValue": 33995.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f96c39311d77925edf45/6f0cd1c6-d040-4112-9ba5-e2c2643b6592-Import Commercial Invoice - Excel_XQAMZLCL052621280M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620144M",
+    "exportsInvoiceValue": 70459.2,
+    "shipper": "kanodia global pvt. ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689a446d5bdd9006e17a845b/execution-documents/69d535fd44be43223c2df813/c99aec43-e85b-43fb-a707-6521ebc03d7b-Commercial Invoice-KG-26-27-0020(ZESTT LLC) PO  6170820 CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621324M",
+    "exportsInvoiceValue": 14492.5,
+    "shipper": "bharat adwani",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/execution-documents/6a04484553c43c748f01cddb/a6c2bd40-61bf-4a91-aba7-8eebfc0514b5-Import Commercial Invoice - Excel_XQAMZLCL052621324M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621559M",
@@ -394,12 +424,6 @@
     "exportsInvoiceValue": 24325.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a02f9ce39311d77925f2b84/f4c3ada4-609e-423a-8773-1a5b6805eb38-Import Commercial Invoice - Excel_XQAMZLCL052621282M ci.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620778M",
-    "exportsInvoiceValue": 23922.34,
-    "shipper": "Amay International LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b4f26e368c0968cce937f0/execution-documents/69ef53d16207228df4249300/ac0931c4-8d77-4dc9-9033-b053c5a32993-HTS Code Commercial_Invoice_111_Boxes_FEB-2026- CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620712M",
