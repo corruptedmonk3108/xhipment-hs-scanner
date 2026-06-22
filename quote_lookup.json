@@ -66,6 +66,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878e4745a64de1ec89db325/execution-documents/69fdc422bf0ed98a3ef5c079/b593bc6b-dedc-4d33-b9c4-04c99f161cd3-CI XQAMZAIR0526170297 (the others beauty co ltd).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620593M",
+    "exportsInvoiceValue": 7152.0,
+    "shipper": "shubham swami_bobby",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6944099cd92ae2ba7369ee1d/execution-documents/69e31e5187b7d882be365630/1d762507-ff30-465f-a48b-50470407fa0c-Export Commercial Invoice - Excel_XQAMZLCL042620593M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621057M",
     "exportsInvoiceValue": 1107.73,
     "shipper": "akash neelam",
