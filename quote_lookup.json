@@ -408,10 +408,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8867c09617ba3cd25a4e6/bookings-docs/69e892d92102107a00ff0b08/05acad75-53c4-4e5a-b17a-b09ab5b99d12.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052620952M",
+    "exportsInvoiceValue": 6540.0,
+    "shipper": "metallic elegance",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68640815c470e72ac1adeede/execution-documents/69f8b20199b0db3178f7a00c/d060feb9-360c-473f-b4b5-e6978f9cab46-Export Commercial Invoice - Excel_XQAMZLCL052620952M.xlsx"
+  },
+  {
     "quoteId": "XQLCL042620790",
     "exportsInvoiceValue": 1351.0,
     "shipper": "Srinivasa Textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefa754924d68dd2776614/e76befb3-0488-45ca-a416-6f14a4ed0e8d-Export Commercial Invoice - Excel_XQLCL042620790 CI.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL052621038M",
+    "exportsInvoiceValue": 43350.0,
+    "shipper": "tna solutions",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f9a52476df0537f968228e/execution-documents/69f9d96531c7bf5d7c18282e/592a50b7-8178-4ffa-b2f4-da86249e0495-Import Commercial Invoice - Excel_XQAMZLCL052621038M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620668M",
