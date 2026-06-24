@@ -186,12 +186,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6746d608b0ff45f2bd71d5be/bookings-docs/6a301ac5208d78976092ced2/a79b8e59-b0e2-49f1-a2c2-b2a7fd050f64.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621053M",
-    "exportsInvoiceValue": 3584.02,
-    "shipper": "bja trading limited t/a birkdale sales",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/execution-documents/69f9f978b7b37edc1919146c/2030f476-99f2-453a-81c7-1e3307213cf0-Export Commercial Invoice - Excel_XQAMZLCL052621053M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621039M",
     "exportsInvoiceValue": 19500.0,
     "shipper": "Kanishka home bedding",
@@ -298,12 +292,6 @@
     "exportsInvoiceValue": 3112.52,
     "shipper": "LEAFORNA",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/69eadb9116996238bfb2e856/b5db00ce-4bbd-4106-9dd7-bdaa248350ff-Export Commercial Invoice - Excel_XQAMZLCL042620709M (CI).xls"
-  },
-  {
-    "quoteId": "XQAMZLCL042620778M",
-    "exportsInvoiceValue": 23922.34,
-    "shipper": "Amay International LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b4f26e368c0968cce937f0/bookings-docs/69ef53d16207228df4249300/c196c2a2-891e-4c7b-8871-e79c99a74459.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621248M",
@@ -450,6 +438,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ebb8a1727fd8815071fd8/execution-documents/6a1ebb94d41bbcc926a3633d/dfdd6045-5b0a-4339-9bd3-0cd1358aa8ff-CI XQAMZAIR0626178070 (utl shipping noatum logistcs).XLSX"
   },
   {
+    "quoteId": "XQAMZFCL052621246M",
+    "exportsInvoiceValue": 22180.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/bookings-docs/6a01d43bfb49b8557a1ac632/1d765c17-c812-4979-9fa0-7031798da7d0.xlsx"
+  },
+  {
     "quoteId": "XQFCL052621090",
     "exportsInvoiceValue": 23100.0,
     "shipper": "Quad 8 LLC",
@@ -466,12 +460,6 @@
     "exportsInvoiceValue": 1076.98,
     "shipper": "harrow business services ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a1803d54b442c144a4e63ca/935d29ac-6c94-4e98-92ff-2565a1a5d1b5-CI XQAMZAIR0526176477 (harrow business services ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZFCL052621246M",
-    "exportsInvoiceValue": 22180.0,
-    "shipper": "apl",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a01d43bfb49b8557a1ac632/3e88b997-620b-4397-906f-79fac7545a45-Import Commercial Invoice - Excel_XQAMZFCL052621246M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621190M",
@@ -532,6 +520,12 @@
     "exportsInvoiceValue": 43350.0,
     "shipper": "tna solutions",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f9a52476df0537f968228e/execution-documents/69f9d96531c7bf5d7c18282e/592a50b7-8178-4ffa-b2f4-da86249e0495-Import Commercial Invoice - Excel_XQAMZLCL052621038M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621053M",
+    "exportsInvoiceValue": 3584.02,
+    "shipper": "bja trading limited t/a birkdale sales",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/bookings-docs/69f9f978b7b37edc1919146c/9c0f7a1c-4437-478b-be3a-22b840722145.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620668M",
