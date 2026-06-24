@@ -180,6 +180,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a0216715b391f868fa7dd94/e757b33a-59cf-466d-829b-ed6822db81db-EXPORT Commercial Invoice_XQAMZLCL052621262M CI new.XLSX"
   },
   {
+    "quoteId": "XQAMZAIR0626181784",
+    "exportsInvoiceValue": 32113.71,
+    "shipper": "SPACE GOATS",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6746d608b0ff45f2bd71d5be/bookings-docs/6a301ac5208d78976092ced2/a79b8e59-b0e2-49f1-a2c2-b2a7fd050f64.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621053M",
     "exportsInvoiceValue": 3584.02,
     "shipper": "bja trading limited t/a birkdale sales",
