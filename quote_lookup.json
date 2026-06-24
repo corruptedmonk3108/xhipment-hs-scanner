@@ -240,6 +240,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/execution-documents/69ef1dcc567bba830dca313a/7594c9f4-d6e3-4b4b-919b-c1eb2b989a7d-EXPORT Commercial Invoice_XQAMZLCL042620783M.XLSX"
   },
   {
+    "quoteId": "XQAMZLCL042620421M",
+    "exportsInvoiceValue": 6166.0,
+    "shipper": "(texstyle godwon) garuda textiles pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d9f817237d14e1c7becbd6/execution-documents/69de3a54694a90713a120eb8/d92655c9-789e-4b49-b138-0d79c138a253-Export Commercial Invoice - Excel_XQAMZLCL042620421M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620057M",
+    "exportsInvoiceValue": 929.0,
+    "shipper": "hornbills international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cd12d44426d5368c6739ba/execution-documents/69ce6e2ae22d4f77d735de25/58b4aaee-7e0f-46ef-9bdd-c366155e8c81-Export Commercial Invoice - Excel_XQAMZLCL042620057M (CI).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620752M",
     "exportsInvoiceValue": 3601.8,
     "shipper": "mr. tamilselvan",
@@ -282,6 +294,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a07215937469e54c778241d/5a806743-c6d0-4ae0-a5c0-4ffba11840fa-Export Commercial Invoice - Excel_XQAMZLCL052621420M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620709M",
+    "exportsInvoiceValue": 3112.52,
+    "shipper": "LEAFORNA",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/69eadb9116996238bfb2e856/b5db00ce-4bbd-4106-9dd7-bdaa248350ff-Export Commercial Invoice - Excel_XQAMZLCL042620709M (CI).xls"
+  },
+  {
     "quoteId": "XQAMZLCL042620778M",
     "exportsInvoiceValue": 23922.34,
     "shipper": "Amay International LLC",
@@ -294,6 +312,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69306717df9ba73ff2810597/execution-documents/6a01e29ac2989cd4f09f0ba1/1fa2876e-aaac-4d68-9a36-765ff13c3a34-Export Commercial Invoice - Excel_XQAMZLCL052621248M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620851M",
+    "exportsInvoiceValue": 1957.0,
+    "shipper": "extend",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=663f4fd75f08e5954b4ed023/execution-documents/69f6f1d3300109203a4436d9/7a68bc25-772c-44d7-b300-39764b4f1781-Export Commercial Invoice - Excel_XQAMZLCL042620851M CI.XLS"
+  },
+  {
     "quoteId": "XQAMZLCL042620188M",
     "exportsInvoiceValue": 2496.0,
     "shipper": "phoenix medicaments private limited",
@@ -304,6 +328,12 @@
     "exportsInvoiceValue": 60337.35,
     "shipper": "metis learning solutions pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/69f49488653f94ece1e61495/44454a80-70b7-430b-8b46-5d6df3411996-Export Commercial Invoice - Excel_XQAMZFCL052620957M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620883M",
+    "exportsInvoiceValue": 5550.0,
+    "shipper": "bkp metal concepts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67af9022780d9bca7bbae697/execution-documents/69f97913ac1b0120f7277823/e7b07fe5-2f35-4935-8763-73c55974b020-Signed & Scanned Export Commercial Invoice_XQAMZLCL042620883M (CI).xlsx"
   },
   {
     "quoteId": "XQLCL032619481",
@@ -346,6 +376,12 @@
     "exportsInvoiceValue": 1188.0,
     "shipper": "calzette",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6a0dde3b16334dd9eb708630/ef1757aa-59ff-49d9-8f91-39b76e4c148a-EXPORT Commercial Invoice_XQAMZLCL052621560M CI new one.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL042620695M",
+    "exportsInvoiceValue": 10043.0,
+    "shipper": "fibertec gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8867c09617ba3cd25a4e6/bookings-docs/69e892d92102107a00ff0b08/a66c68c2-7675-43a7-a4f2-c2dfaf399d2a.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0626177749",
@@ -478,12 +514,6 @@
     "exportsInvoiceValue": 9304.5,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a0c60a28c0655a2ab66ff81/9b28fc40-6dbc-4d32-9f1a-5198ccbcf48a-Import Commercial Invoice - Excel_XQAMZLCL052621511M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620695M",
-    "exportsInvoiceValue": 10043.0,
-    "shipper": "fibertec gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8867c09617ba3cd25a4e6/bookings-docs/69e892d92102107a00ff0b08/05acad75-53c4-4e5a-b17a-b09ab5b99d12.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052620952M",
