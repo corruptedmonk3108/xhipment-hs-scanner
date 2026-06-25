@@ -366,12 +366,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6a0dde3b16334dd9eb708630/ef1757aa-59ff-49d9-8f91-39b76e4c148a-EXPORT Commercial Invoice_XQAMZLCL052621560M CI new one.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL042620695M",
-    "exportsInvoiceValue": 10043.0,
-    "shipper": "fibertec gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8867c09617ba3cd25a4e6/bookings-docs/69e892d92102107a00ff0b08/a66c68c2-7675-43a7-a4f2-c2dfaf399d2a.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0626177749",
     "exportsInvoiceValue": 10000.0,
     "shipper": "dns overseas",
@@ -532,6 +526,18 @@
     "exportsInvoiceValue": 45707.0,
     "shipper": "rig cosmetics limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/execution-documents/69e788e8c663e423636e72eb/fb0ae7a4-be96-4110-8148-0cbd138abf52-Export Commercial Invoice - Excel_XQAMZFCL042620668M (CI).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621750M",
+    "exportsInvoiceValue": 34170.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a168d1cf8ac747b9b4ce9c2/4660af2a-0376-4a69-ab5e-7c79ec20ba2c-Import Commercial Invoice - Excel_XQAMZLCL052621750M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621432M",
+    "exportsInvoiceValue": 44174.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082d78f0013b437e32d87d/934d92b0-707d-4e35-bcf5-960f659c4c85-Import Commercial Invoice - Excel_XQAMZLCL052621432M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621460M",
