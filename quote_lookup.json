@@ -348,6 +348,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69732cd95f6af3beceae3ea6/execution-documents/69e77566d8406ad903574e77/8e3266cc-7763-4f19-a237-2e10500796c4-Commercial Invoice_XQFCL042620656.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626182655",
+    "exportsInvoiceValue": 2259.6,
+    "shipper": "richard lockett",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a351b73dcad6f1336be7a5f/execution-documents/6a351b75dcad6f1336be7a88/047ecc51-5dfa-48c9-925a-77dc0ff1fe30-CI XQAMZAIR0626182655 (richard lockett).XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL052620961M",
     "exportsInvoiceValue": 1916.0,
     "shipper": "care well impex",
@@ -364,6 +370,42 @@
     "exportsInvoiceValue": 3491.0,
     "shipper": "eleatz sustainable (opc) private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c1351956294be6fde5f5ba/execution-documents/69ca68a95bab6c16ff4a8af4/ecd9ace6-955d-4f90-819f-15d9ee02c7c2-EXPORT Commercial Invoice_XQAMZLCL032619856M CI new.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626182352",
+    "exportsInvoiceValue": 3530.05,
+    "shipper": "paul richmond",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68909492d1102c88bb6711dc/execution-documents/6a33c6c154b239a7f6ac951f/833920d8-6bfe-436f-908e-f8870f70e3ef-CI XQAMZAIR0626182352 (paul richmond).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626182529",
+    "exportsInvoiceValue": 4416.0,
+    "shipper": "supriva c/o fulfilx",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68cd2344b365708730c78a95/execution-documents/6a33fc1b3d1915a60d600bfe/26d0b05d-e75b-4917-b812-2c4850d94d89-CI XQAMZAIR0626182529 (supriva co fulfilx).XLSX"
+  },
+  {
+    "quoteId": "XQAIR062622460",
+    "exportsInvoiceValue": 58297.96,
+    "shipper": "Rainbow Chalk Markers Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a35206513a3460a0c7e3f22/b9ce7667-8262-4f4f-aede-73e84782a674-Commercial Invoice US STAR-QESPBRN4CAM5U and STAR-UA6GRWXZW4BWW up.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626182728",
+    "exportsInvoiceValue": 2006.7,
+    "shipper": "irshad patel",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ba78a010d6f433436e5d74/execution-documents/6a352d410e50a94ba4f709cc/da160fe7-e6f2-4e38-a0f5-be8410203057-DI XQAMZAIR0626182728 (Irshad patel).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626182566",
+    "exportsInvoiceValue": 5788.0,
+    "shipper": "James White",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/6a343953e3d823d44a70388f/5c159626-a823-45f4-a278-de44aa89dfc6-CI XQAMZAIR0626182566 (James White).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626180915",
+    "exportsInvoiceValue": 8832.0,
+    "shipper": "group55",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2b30e707873701aa7e2144/execution-documents/6a2b30eb07873701aa7e2172/43eb1ba9-aa49-4816-8a2c-3aaea30726f6-CI XQAMZAIR0626180915 (group55).XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621151M",
