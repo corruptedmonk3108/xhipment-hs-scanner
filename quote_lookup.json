@@ -600,6 +600,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082d78f0013b437e32d87d/934d92b0-707d-4e35-bcf5-960f659c4c85-Import Commercial Invoice - Excel_XQAMZLCL052621432M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621211M",
+    "exportsInvoiceValue": 749.95,
+    "shipper": "bharat adwani",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/execution-documents/6a018e4faf3c2ecbd1a7e3dd/27f2c215-84b4-4b11-bd58-515a6c8cca3d-Export Commercial Invoice - Excel_XQAMZLCL052621211M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062621960M",
+    "exportsInvoiceValue": 21358.0,
+    "shipper": "movemate gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1eeae41431206c98325a50/execution-documents/6a1efbc7f38b6c34d1447f87/454c168b-1941-4183-ba03-129dd7e9ee8d-Commercial Invoice_XQAMZLCL062621960M CI.xlsx"
+  },
+  {
     "quoteId": "XQLCL042620666",
     "exportsInvoiceValue": 22780.8,
     "shipper": "DelightLoop",
