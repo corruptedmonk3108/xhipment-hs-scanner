@@ -84,10 +84,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a056d0aed48ddaf6ea967b9/fcea71cf-91ef-488e-a897-5d64cc3de3de-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621560M",
-    "exportsInvoiceValue": 1188.0,
-    "shipper": "calzette",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/bookings-docs/6a0dde3b16334dd9eb708630/9586c29b-3fea-4d7b-9b32-1ca6e9c69c07.XLSX"
+    "quoteId": "XQAMZLCL052621450M",
+    "exportsInvoiceValue": 7036.0,
+    "shipper": "wrizty home creation",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f9fbf6cb390407c032071a/bookings-docs/6a0c150c26ba15108dd45889/bde48e6f-a0d7-496c-ac97-7d496d67c2fc.xls"
   },
   {
     "quoteId": "XQLCL042620598",
@@ -264,24 +264,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/bookings-docs/69f83ef479b64274da520e60/0ab13b0d-1b60-48e5-86f2-2339b95300a2.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621408M",
-    "exportsInvoiceValue": 252.0,
-    "shipper": "sunitt halai",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a06d8429d8dbbc0e324471f/execution-documents/6a06dc0c9d8dbbc0e3247391/8a129ed9-9a24-4d7b-bf35-86403380882c-Export Commercial Invoice - Excel_XQAMZLCL052621408M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621121M",
-    "exportsInvoiceValue": 1814.0,
-    "shipper": "kyzen media ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fc71b5c8a4314d74bcf5af/execution-documents/69fc834a920e20acf4cd4628/35b8e3b9-c68e-4215-9773-dfec145f2d9e-Export Commercial Invoice - Excel_XQAMZLCL052621121M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621420M",
-    "exportsInvoiceValue": 2581.76,
-    "shipper": "henry watson's potteries ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a07215937469e54c778241d/5a806743-c6d0-4ae0-a5c0-4ffba11840fa-Export Commercial Invoice - Excel_XQAMZLCL052621420M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620709M",
     "exportsInvoiceValue": 3112.52,
     "shipper": "LEAFORNA",
@@ -426,12 +408,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/execution-documents/6a04484553c43c748f01cddb/a6c2bd40-61bf-4a91-aba7-8eebfc0514b5-Import Commercial Invoice - Excel_XQAMZLCL052621324M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621559M",
-    "exportsInvoiceValue": 1336.0,
-    "shipper": "calzette",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6a0ddd922093da4fe52378e7/6aabdbe9-1ee9-4344-9075-a76c4e139675-EXPORT Commercial Invoice_XQAMZLCL052621559M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0626181196",
     "exportsInvoiceValue": 1.0,
     "shipper": "f139 kailash vaibhav estate",
@@ -558,12 +534,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/bookings-docs/69f9f978b7b37edc1919146c/9c0f7a1c-4437-478b-be3a-22b840722145.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621450M",
-    "exportsInvoiceValue": 7036.0,
-    "shipper": "wrizty home creation",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f9fbf6cb390407c032071a/execution-documents/6a0c150c26ba15108dd45889/083d74e0-7da4-496c-a84e-02ece03b1bf2-Export Commercial Invoice - Excel_XQAMZLCL052621450M UP.xls"
-  },
-  {
     "quoteId": "XQAMZLCL052621674M",
     "exportsInvoiceValue": 20112.0,
     "shipper": "s a enterprises",
@@ -604,12 +574,6 @@
     "exportsInvoiceValue": 22780.8,
     "shipper": "DelightLoop",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690f081b2b9caaf6f15cf8bc/execution-documents/69e84856de23fd9cb662ba6c/5e419092-3cc4-40f3-804e-78738feabdb0-Commercial_Invoice_English_USD CI new.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL062622014M",
-    "exportsInvoiceValue": 4839.7,
-    "shipper": "wills international ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689619a5ef8b79c9d9f71629/execution-documents/6a215a298c2a019cf09297e7/90cf2f1e-49f5-43a2-9bf4-63dd73bfee1d-Export Commercial Invoice - Excel_XQAMZLCL062622014M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620338M",
