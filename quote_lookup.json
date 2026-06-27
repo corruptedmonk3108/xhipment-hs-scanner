@@ -300,12 +300,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67af9022780d9bca7bbae697/execution-documents/69f97913ac1b0120f7277823/e7b07fe5-2f35-4935-8763-73c55974b020-Signed & Scanned Export Commercial Invoice_XQAMZLCL042620883M (CI).xlsx"
   },
   {
-    "quoteId": "XQLCL032619481",
-    "exportsInvoiceValue": 8472.7,
-    "shipper": "Yogasana",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69afc21a6fd51c32d92282a7/bookings-docs/69afdaf5dd6ae8ec24d0c617/34576be8-767d-4802-99b8-defafee6a38e.xls"
-  },
-  {
     "quoteId": "XQFCL042620656",
     "exportsInvoiceValue": 87779.5,
     "shipper": "JF Home Leisure",
