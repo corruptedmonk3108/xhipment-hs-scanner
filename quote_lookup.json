@@ -54,12 +54,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682c6da7cfe9713fe31f6698/execution-documents/6a0702a382a446b7e98e891b/351964f7-75c1-4dc0-9d87-aabcd7c6f4a7-Export Commercial Invoice - Excel_XQAMZLCL052621414M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620338M",
-    "exportsInvoiceValue": 2954.0,
-    "shipper": "iqra trading corp.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d8dc78f7b643533803717f/bookings-docs/69d8e59bf9087108e16f5a7b/8a8be259-a464-4f4c-a387-d262ce77458d.xls"
-  },
-  {
     "quoteId": "XQAIR052621692",
     "exportsInvoiceValue": 17225.76,
     "shipper": "JF Home Leisure",
@@ -316,12 +310,6 @@
     "exportsInvoiceValue": 2496.0,
     "shipper": "phoenix medicaments private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d4dcc7856da3c95509a2d9/execution-documents/69d5098a31a5a9442fc58586/3ac60d7f-0f5f-4582-a46e-776867a44259-Export Commercial Invoice - Excel_XQAMZLCL042620188M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL052620957M",
-    "exportsInvoiceValue": 60337.35,
-    "shipper": "metis learning solutions pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/69f49488653f94ece1e61495/44454a80-70b7-430b-8b46-5d6df3411996-Export Commercial Invoice - Excel_XQAMZFCL052620957M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620883M",
@@ -622,6 +610,12 @@
     "exportsInvoiceValue": 4839.7,
     "shipper": "wills international ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689619a5ef8b79c9d9f71629/execution-documents/6a215a298c2a019cf09297e7/90cf2f1e-49f5-43a2-9bf4-63dd73bfee1d-Export Commercial Invoice - Excel_XQAMZLCL062622014M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620338M",
+    "exportsInvoiceValue": 2954.0,
+    "shipper": "iqra trading corp.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d8dc78f7b643533803717f/bookings-docs/69d8e59bf9087108e16f5a7b/5d9aa9f3-16f7-48e9-84e4-8a1e707fa5a4.xls"
   },
   {
     "quoteId": "XQLCL042620803",
