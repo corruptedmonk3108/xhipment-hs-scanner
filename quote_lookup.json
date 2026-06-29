@@ -624,6 +624,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/execution-documents/6a0182199fc1822fc0b3203e/0208ed09-e38d-400a-9104-09ad061379de-Export Commercial Invoice - Excel_XQAMZLCL052621191M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620857M",
+    "exportsInvoiceValue": 1416.0,
+    "shipper": "rao fariyad ali",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/execution-documents/69fc62f7d3ce24a315cc4591/d58b30ce-6528-4fda-9a77-caee527f0df4-Export Commercial Invoice - Excel_XQAMZLCL042620857M (CI new updated).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621433M",
     "exportsInvoiceValue": 22539.0,
     "shipper": "Madan Mohan textiles",
@@ -672,6 +678,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a1431ee699e27d30761177c/9b945480-bd72-4f83-965c-00461a04fda8-Destination Invoice_XQAMZLCL052621674M CI.xls"
   },
   {
+    "quoteId": "XQAMZLCL042620782M",
+    "exportsInvoiceValue": 4108.0,
+    "shipper": "rajendra bhavsar",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f8c6fac30d819240c91dc5/execution-documents/69f8713117c0ecbe3877a3a8/434fb65c-7d67-458b-8042-b9430a62be37-Export Commercial Invoice - Excel_XQAMZLCL042620782M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621201M",
+    "exportsInvoiceValue": 2212.26,
+    "shipper": "just for you designs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697a187306029821d6b6d0a9/execution-documents/6a01edfda76a4ef95ae3fd2e/6876dbc3-82b1-4cf7-801f-a327c2b00b22-Export Commercial Invoice - Excel_XQAMZLCL052621201M (1) CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL042620668M",
     "exportsInvoiceValue": 45707.0,
     "shipper": "rig cosmetics limited",
@@ -702,6 +720,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1eeae41431206c98325a50/execution-documents/6a1efbc7f38b6c34d1447f87/454c168b-1941-4183-ba03-129dd7e9ee8d-Commercial Invoice_XQAMZLCL062621960M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622150M",
+    "exportsInvoiceValue": 56838.9,
+    "shipper": "Sidney Trading Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=681b39147d041b1c288c144b/execution-documents/6a27ce0b76c46e16cb40caea/830e52c0-1253-4203-a477-8a830f14c122-Export Commercial Invoice - Excel_XQAMZLCL062622150M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL042620511M",
+    "exportsInvoiceValue": 100240.25,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/69df682aef4e6fd6ecb477e4/8074bbaf-0282-4219-872f-a27afebee0fc-Export Commercial Invoice - Excel_XQAMZFCL042620511M (CI).xlsx"
+  },
+  {
     "quoteId": "XQLCL042620666",
     "exportsInvoiceValue": 22780.8,
     "shipper": "DelightLoop",
@@ -718,6 +748,12 @@
     "exportsInvoiceValue": 17295.0,
     "shipper": "sri venkatesh aromas",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621660M",
+    "exportsInvoiceValue": 4078.04,
+    "shipper": "DE Distribution",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a155200cc8fc99f9fe71a9e/244645ab-fed8-46fc-9c26-afabf6b156ba-EXPORT Commercial Invoice_XQAMZLCL052621660M CI new.XLSX"
   },
   {
     "quoteId": "XQAMZLCL032619395M",
