@@ -540,6 +540,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/6a2c0652190c203565f934fc/b4b56fac-74d9-4570-8cc8-0db7cd5147d6-(IOR) DI XQAMZAIR0626181196 (f139 kailash vaibhav estate).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621152M",
+    "exportsInvoiceValue": 121637.28,
+    "shipper": "tamannah creatio",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/bookings-docs/69fec01e2c7bec0e3d89aa5e/70afdbbc-ec9c-4447-8901-a7a9a4f59d3f.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621027M",
     "exportsInvoiceValue": 900.0,
     "shipper": "pure gliss ltd",
