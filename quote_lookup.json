@@ -96,10 +96,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69735da02302f7c382ef2ca1/execution-documents/6a041e6fda4f030becd5f6b8/50c402de-6bae-4bcb-962c-03334b3d1147-Commercial Invoice_XQAMZLCL052621328M UP.pdf"
   },
   {
-    "quoteId": "XQLCL042620598",
-    "exportsInvoiceValue": 309.6,
-    "shipper": "Mensa Brands",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6415ade063d6dda7f17d9e5f/execution-documents/69e345c26cafc55c57d7c60d/b1b6d253-fe4f-4c84-929d-099d02e1cad5-Export destination Invoice - AGO - S003 (1) UPP.xls"
+    "quoteId": "XQAMZLCL052621255M",
+    "exportsInvoiceValue": 17140.82,
+    "shipper": "5kind (xhipment warehouse)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a036b4ca92a748008677e9d/58fb20f3-9e43-490d-9796-4adf22d60d6d-Commercial Invoice_XQAMZLCL052621255M (1) (1).pdf"
   },
   {
     "quoteId": "XQAMZLCL042620593M",
@@ -234,6 +234,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/6a2908038f4c8011db010af5/0a95f5da-601c-4fd7-96f5-e3218cc7ffd3-Commercial Invoice_XQAMZLCL062622173M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062621922M",
+    "exportsInvoiceValue": 14193.98,
+    "shipper": "5kind (xhipment warehouse)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a1dd8c54c82bdb0dba1f8e2/faf1e923-fa5a-4b67-888f-4f20c9c0a397-Invoice_PRMR-2026-55_BW CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622282M",
+    "exportsInvoiceValue": 7601.92,
+    "shipper": "Rustins Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68763c2255f5b7bd2576a4c3/execution-documents/6a2bf71b356a92a4987896f4/3d6a9c86-127c-4d06-be92-ec589d251f50-Export Commercial Invoice - Excel_XQAMZLCL062622282M CI new.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0626181784",
     "exportsInvoiceValue": 32113.71,
     "shipper": "SPACE GOATS",
@@ -274,6 +286,18 @@
     "exportsInvoiceValue": 108.0,
     "shipper": "pearl craft",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6934707fa2614a41e9100803/execution-documents/69f099a80efcfd44e33db5f1/a3654b32-083f-4345-aa14-f8b175351c57-Export Commercial Invoice - Excel_XQAMZLCL042620781M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621854M",
+    "exportsInvoiceValue": 5456.64,
+    "shipper": "3Idee EU",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f251acea9a17d52670d39e/execution-documents/6a197e17c58457413f06bb7b/feaa47f5-4251-446a-83cc-77e16a261959-Commercial Invoice_XQAMZLCL052621854M (1) (2).pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL062622482M",
+    "exportsInvoiceValue": 23615.28,
+    "shipper": "elisabeth edwards",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3689d0e003d985c86270c8/execution-documents/6a368ca7f1a997f3b47c65f8/2d0597b0-fc27-41cf-8a83-95d3bf866eb8-Export Commercial Invoice - Excel_XQAMZLCL062622482M (2) CI.xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621300M",
