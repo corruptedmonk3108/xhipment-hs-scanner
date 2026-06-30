@@ -534,6 +534,30 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a13dca75efbc76857dac218/338ac6ce-cf21-48de-897e-7015312ba90b-Export Commercial Invoice - Excel_XQAMZLCL052621622M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626183716",
+    "exportsInvoiceValue": 705.0,
+    "shipper": "creative jam enterprises ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a3ba16fcfe3443694b0d0e5/e58809b3-bcd1-4afa-a967-549a4edcb66b-CI XQAMZAIR0626183716 (creative jam enterprises ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626183234",
+    "exportsInvoiceValue": 1131.54,
+    "shipper": "benross marketing ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32b8f00219e173780b7fca/execution-documents/6a392e6cbbb17ecce5ab3f11/85c9d574-4571-41d2-b522-d91e459535ed-CI XQAMZAIR0626183234 (benross marketing ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626183378",
+    "exportsInvoiceValue": 470.4,
+    "shipper": "cwd - mypond",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f8b1881048d8608344cab9/execution-documents/6a3a3d13b8c89f43bfa46adc/c3993210-04a4-44d5-91b7-561b946255fa-CI XQAMZAIR0626183378 (cwd - mypond).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626183536",
+    "exportsInvoiceValue": 2364.0,
+    "shipper": "opro international ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a3a8d039f50b72ec0b12f13/ea169aed-6448-4cac-842e-cd82712b6c73-CI XQAMZAIR0626183536 (opro international ltd).XLSX"
+  },
+  {
     "quoteId": "XQAMZAIR0626181634",
     "exportsInvoiceValue": 1608.57,
     "shipper": "Solino Home",
