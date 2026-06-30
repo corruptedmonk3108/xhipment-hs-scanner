@@ -6,12 +6,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697d22213f25977dd57281d7/execution-documents/69d898389fd4c1056120df45/b3deaddc-7007-4843-aeec-d1d332928661-Export Commercial Invoice - Excel_XQAMZLCL042620322M.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0626182208",
-    "exportsInvoiceValue": 374.0,
-    "shipper": "mujahid diwan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32a8570219e173780b599d/execution-documents/6a32a85a0219e173780b59c6/bb66da0f-ec4e-4c0b-9661-1f68eb6892c6-CI XQAMZAIR0626182208 (mujahid diwan).XLSX"
-  },
-  {
     "quoteId": "XQAIR062622333",
     "exportsInvoiceValue": 3797.0,
     "shipper": "Kenzen Ventures Limited",
@@ -42,40 +36,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a01ea42c2989cd4f0a2ff59/c9f0c2c8-48d2-4292-8fd6-80bba3908595-Export Commercial Invoice - Excel_XQFCL052621254.xls"
   },
   {
-    "quoteId": "XQAMZAIR0526176154",
-    "exportsInvoiceValue": 3283.62,
-    "shipper": "pai skincare",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16f9995a8c5da8bdfedb62/execution-documents/6a16f99b5a8c5da8bdfedb88/ba2d75b7-5289-4f54-ac8e-4104a2427294-CI XQAMZAIR0526176154 (pai skincare).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621414M",
     "exportsInvoiceValue": 4500.0,
     "shipper": "vegolution india pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682c6da7cfe9713fe31f6698/execution-documents/6a0702a382a446b7e98e891b/351964f7-75c1-4dc0-9d87-aabcd7c6f4a7-Export Commercial Invoice - Excel_XQAMZLCL052621414M.xlsx"
   },
   {
-    "quoteId": "XQAIR052621692",
-    "exportsInvoiceValue": 17225.76,
-    "shipper": "JF Home Leisure",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69732cd95f6af3beceae3ea6/execution-documents/6a1a584a4954aca71f7a851f/4901b5ff-0b38-4065-a4c3-8bd8b2859290-CI XQAIR052621692 (JF Home Leisure) (2).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620588M",
     "exportsInvoiceValue": 7380.0,
     "shipper": "brass city",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f6b845a3b8dc8806e55a87/execution-documents/69e5e8764deae341ada0b2c8/a483f7ec-c294-4d51-9d6c-711abdf0a196-Export Commercial Invoice - Excel_XQAMZLCL042620588M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626182107",
-    "exportsInvoiceValue": 6696.0,
-    "shipper": "bec group",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6971f26b8dbf99da0c8250bc/execution-documents/6a3276c7678f940c4522c3cf/938e3d39-dd81-4731-922a-9b42cf6cd9b5-CI XQAMZAIR0626182107 (bec group).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626180892",
-    "exportsInvoiceValue": 369.35,
-    "shipper": "passionforperfume",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/execution-documents/6a2b0fb2e01cd5211d09a12f/862d31bc-46ba-488d-8552-14c7c9025146-CI XQAMZAIR0626180892 (passionforperfume).XLSX"
   },
   {
     "quoteId": "XQAMZFCL052621382M",
@@ -606,6 +576,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/bookings-docs/69fec01e2c7bec0e3d89aa5e/70afdbbc-ec9c-4447-8901-a7a9a4f59d3f.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622353M",
+    "exportsInvoiceValue": 3960.0,
+    "shipper": "PURE CLINICA",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e7f67ec5e77288b0d0bc3c/execution-documents/6a30f8deaa18b9a09a2d73ee/6a4e87bc-ae8b-431b-836d-6f62902a569d-Export Commercial Invoice - Excel_XQAMZLCL062622353M CI.xlsx"
+  },
+  {
+    "quoteId": "XQLCL062622473",
+    "exportsInvoiceValue": 5550.0,
+    "shipper": "DE Distribution",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a354e38ff747ec4cd91bc7a/afd7b1b0-fc9c-4a49-9ada-cb8e64e9016d-Export Commercial Invoice - Excel_XQLCL062622473 CI new.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052621246M",
     "exportsInvoiceValue": 22180.0,
     "shipper": "apl",
@@ -684,6 +666,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/execution-documents/69fc62f7d3ce24a315cc4591/d58b30ce-6528-4fda-9a77-caee527f0df4-Export Commercial Invoice - Excel_XQAMZLCL042620857M (CI new updated).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620663M",
+    "exportsInvoiceValue": 2526.0,
+    "shipper": "priis trading",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=693126bb7af44cae0e2c4c31/execution-documents/69e7606dd8c8207353226b5a/1c819518-cd62-42e0-8fac-f987886eab24-Export Commercial Invoice - Excel_XQAMZLCL042620663M (CI) new.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621433M",
     "exportsInvoiceValue": 22539.0,
     "shipper": "Madan Mohan textiles",
@@ -742,6 +730,18 @@
     "exportsInvoiceValue": 2212.26,
     "shipper": "just for you designs",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697a187306029821d6b6d0a9/execution-documents/6a01edfda76a4ef95ae3fd2e/6876dbc3-82b1-4cf7-801f-a327c2b00b22-Export Commercial Invoice - Excel_XQAMZLCL052621201M (1) CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622395M",
+    "exportsInvoiceValue": 2864.64,
+    "shipper": "tarlu ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2a6d849ba028ce508c0fe0/execution-documents/6a327c9bcf04037e78b65df1/5d0c83ec-3aa1-47fc-8a83-e2af6156e59f-Export Commercial Invoice - Excel_XQAMZLCL062622395M CI.xlsx"
+  },
+  {
+    "quoteId": "XQLCL062622021",
+    "exportsInvoiceValue": 5837.91,
+    "shipper": "Vinrish Consultants LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e60ee56a923efec1d7050f/execution-documents/6a216d6677553c2650e7751d/e75efc1d-fea7-481d-af62-0bd1dd5a503b-Export Commercial Invoice - Excel_XQLCL062622021 CI.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620668M",
