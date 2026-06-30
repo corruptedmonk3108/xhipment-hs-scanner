@@ -378,12 +378,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68521cab2fb860a75762b6d5/execution-documents/69f0f3533a441875759e1c1a/c65e589e-ea99-4f6f-bf96-17aef6292b25-EXPORT Commercial Invoice_XQAMZLCL042620752M (2) CI.xls"
   },
   {
-    "quoteId": "XQFCL042620558",
-    "exportsInvoiceValue": 11163.52,
-    "shipper": "Matissa ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e09607e065e4de1f819838/execution-documents/69e1ff5ef6fe27dba945ebf0/521baca0-a3be-40a4-9d33-cc572b8925f5-Export Commercial Invoice - Excel_XQFCL042620558 (CI).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620595M",
     "exportsInvoiceValue": 20907.47,
     "shipper": "rv international",
@@ -400,6 +394,18 @@
     "exportsInvoiceValue": 432.0,
     "shipper": "bilal ahmad",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69568090bb6a139210849712/execution-documents/6a056aae866a1e5e248a84d0/d063337b-f50c-4247-949a-73a094a986d0-Export Commercial Invoice - Excel_XQAMZLCL052621371M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621519M",
+    "exportsInvoiceValue": 28291.18,
+    "shipper": "hosley india pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6916e6dd493a8fe03548badc/execution-documents/6a0dc10af56c3c4b3205e28e/c5d50f5b-9ae4-4db6-ae0c-5692014c899b-Import Commercial Invoice - Excel_XQAMZFCL052621519M CI.xls"
+  },
+  {
+    "quoteId": "XQAMZAIR0626182192",
+    "exportsInvoiceValue": 1134.0,
+    "shipper": "nera enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a329982c0d9ef7d6a2a043b/execution-documents/6a329986c0d9ef7d6a2a0468/b5376a74-f1cf-46f9-94b1-08c160686cea-Commercial Invoice_XQAMZAIR0626182192 (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620709M",
@@ -436,6 +442,12 @@
     "exportsInvoiceValue": 7722.0,
     "shipper": "fashionking brands pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a08a4bb96832a7a0583941a/feafb07e-e351-4cdc-a44c-645df5354c8a-EXPORT Commercial Invoice_XQAMZLCL052621415M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626181939",
+    "exportsInvoiceValue": 20422.37,
+    "shipper": "d-51, nangal dewat, vasant kunj,",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a31460a922d3f7530320704/c2552e2a-f73d-4525-b398-7cb4aeb6ce9f-Invoice.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620883M",
@@ -568,12 +580,6 @@
     "exportsInvoiceValue": 121637.28,
     "shipper": "tamannah creatio",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/bookings-docs/69fec01e2c7bec0e3d89aa5e/70afdbbc-ec9c-4447-8901-a7a9a4f59d3f.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621027M",
-    "exportsInvoiceValue": 900.0,
-    "shipper": "pure gliss ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68adc4d767c497f85b6dff39/execution-documents/69f8bc21172d1423752c5916/3f458ae7-811b-4dc2-bd06-493836dcfde8-Export Commercial Invoice - Excel_XQAMZLCL052621027M (1).xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621246M",
