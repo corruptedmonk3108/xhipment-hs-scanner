@@ -414,12 +414,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a0d64d0a5568201b6841485/f0fa5fd6-84e9-483e-ad89-3fcd45add877.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620188M",
-    "exportsInvoiceValue": 2496.0,
-    "shipper": "phoenix medicaments private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d4dcc7856da3c95509a2d9/execution-documents/69d5098a31a5a9442fc58586/3ac60d7f-0f5f-4582-a46e-776867a44259-Export Commercial Invoice - Excel_XQAMZLCL042620188M (CI).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621415M",
     "exportsInvoiceValue": 7722.0,
     "shipper": "fashionking brands pvt ltd",
@@ -618,6 +612,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a354e38ff747ec4cd91bc7a/afd7b1b0-fc9c-4a49-9ada-cb8e64e9016d-Export Commercial Invoice - Excel_XQLCL062622473 CI new.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621452M",
+    "exportsInvoiceValue": 3100.8,
+    "shipper": "ankit mukeshbhai garg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690ca0876f1965bc6dcea409/execution-documents/6a0c1c4b049820e6986c1faf/5c3a494b-839a-4dce-b0b6-e888bbbb7399-FDA certificate _XQAMZLCL052621452M.pdf"
+  },
+  {
     "quoteId": "XQAMZFCL052621246M",
     "exportsInvoiceValue": 22180.0,
     "shipper": "apl",
@@ -640,12 +640,6 @@
     "exportsInvoiceValue": 1920.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a0c60f48c0655a2ab672f73/04e7efdc-88c6-44cd-8730-8e89c08397b1-Import Commercial Invoice - Excel_XQAMZLCL052621512M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQFCL052621090",
-    "exportsInvoiceValue": 23100.0,
-    "shipper": "Quad 8 LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fb418e71494d88551bd7dc/execution-documents/69fe46a870e413fbb83c122a/b987488e-2586-42d6-9ce9-47e7dfbc752c-Import Commercial Invoice - Excel_XQFCL052621090 (CI).xlsx"
   },
   {
     "quoteId": "XQFCL042620497",
@@ -720,16 +714,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a0c60a28c0655a2ab66ff81/9b28fc40-6dbc-4d32-9f1a-5198ccbcf48a-Import Commercial Invoice - Excel_XQAMZLCL052621511M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621381M",
+    "exportsInvoiceValue": 14050.72,
+    "shipper": "m/s al-habeebi international (ahi)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b5c49d5e131672d63ac575/execution-documents/6a058c3edcc4a22a139f3922/29b4f1b2-6dea-4e73-a1d3-c929b7d7d5c9-Export Commercial Invoice - Excel_XQAMZLCL052621381M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621130M",
+    "exportsInvoiceValue": 3406.03,
+    "shipper": "edgeup ventures llc",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/6a014963c57591e1bfd8c373/8bf6f692-5a8f-4852-be8a-614f9e621ece-Export Commercial Invoice - Excel_XQAMZLCL052621130M (CI).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052620952M",
     "exportsInvoiceValue": 6540.0,
     "shipper": "metallic elegance",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68640815c470e72ac1adeede/execution-documents/69f8b20199b0db3178f7a00c/d060feb9-360c-473f-b4b5-e6978f9cab46-Export Commercial Invoice - Excel_XQAMZLCL052620952M.xlsx"
-  },
-  {
-    "quoteId": "XQLCL042620790",
-    "exportsInvoiceValue": 1351.0,
-    "shipper": "Srinivasa Textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63e76b56c7e74cc6d3b3919b/execution-documents/69eefa754924d68dd2776614/e76befb3-0488-45ca-a416-6f14a4ed0e8d-Export Commercial Invoice - Excel_XQLCL042620790 CI.xls"
   },
   {
     "quoteId": "XQAMZLCL052621038M",
@@ -826,12 +826,6 @@
     "exportsInvoiceValue": 22780.8,
     "shipper": "DelightLoop",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690f081b2b9caaf6f15cf8bc/execution-documents/69e84856de23fd9cb662ba6c/5e419092-3cc4-40f3-804e-78738feabdb0-Commercial_Invoice_English_USD CI new.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL042620338M",
-    "exportsInvoiceValue": 2954.0,
-    "shipper": "iqra trading corp.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d8dc78f7b643533803717f/bookings-docs/69d8e59bf9087108e16f5a7b/5d9aa9f3-16f7-48e9-84e4-8a1e707fa5a4.xls"
   },
   {
     "quoteId": "XQLCL042620803",
