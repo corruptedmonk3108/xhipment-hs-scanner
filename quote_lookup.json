@@ -24,12 +24,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a056cb3ed48ddaf6ea944b0/740f19c7-a3fb-4fd1-93c0-5983ad5c22e7-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0626181794",
-    "exportsInvoiceValue": 7782.0,
-    "shipper": "persis limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a301c4d57f863d6df74cc0e/execution-documents/6a301c5057f863d6df74cc37/4711f8a9-7041-4cfe-9fbe-7b86bcc2e03f-CI XQAMZAIR0626181794 (persis limited).xlsx"
-  },
-  {
     "quoteId": "XQFCL052621254",
     "exportsInvoiceValue": 47872.59,
     "shipper": "Imagimake",
@@ -222,12 +216,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b47f450c90a07394ce2567/execution-documents/6a3244681934fc3c88f58641/58424e77-3dd0-4a03-b777-941040b2bbd5-Export Commercial Invoice - Excel_XQAMZLCL062622381M.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0626181784",
-    "exportsInvoiceValue": 32113.71,
-    "shipper": "SPACE GOATS",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6746d608b0ff45f2bd71d5be/bookings-docs/6a301ac5208d78976092ced2/a79b8e59-b0e2-49f1-a2c2-b2a7fd050f64.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621039M",
     "exportsInvoiceValue": 19500.0,
     "shipper": "Kanishka home bedding",
@@ -360,18 +348,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a167e4392317fbde311ca66/00a4af8d-5513-4328-a711-4162cee2ca6f-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620752M",
-    "exportsInvoiceValue": 3601.8,
-    "shipper": "mr. tamilselvan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68521cab2fb860a75762b6d5/execution-documents/69f0f3533a441875759e1c1a/c65e589e-ea99-4f6f-bf96-17aef6292b25-EXPORT Commercial Invoice_XQAMZLCL042620752M (2) CI.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL042620595M",
-    "exportsInvoiceValue": 20907.47,
-    "shipper": "rv international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a9dc317ed5c15c4038daab/bookings-docs/69e347c95e29891771726800/8c93e378-c6d5-41ca-9e98-84f7f00afefc.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052620999M",
     "exportsInvoiceValue": 642.2,
     "shipper": "ahesanali kadival",
@@ -454,6 +430,18 @@
     "exportsInvoiceValue": 20422.37,
     "shipper": "d-51, nangal dewat, vasant kunj,",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a31460a922d3f7530320704/c2552e2a-f73d-4525-b398-7cb4aeb6ce9f-Invoice.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620595M",
+    "exportsInvoiceValue": 20907.47,
+    "shipper": "rv international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a9dc317ed5c15c4038daab/bookings-docs/69e347c95e29891771726800/74d815e1-fddb-4755-af7f-82a7e57103f8.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621765M",
+    "exportsInvoiceValue": 44342.0,
+    "shipper": "Arrowhead exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64427e65dd743bd4c1ef5891/execution-documents/6a16b732623a58c96c8f4261/b2b47421-bc04-4372-94e1-687cc3e1be01-Export Commercial Invoice - Excel_XQAMZLCL052621765M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620883M",
@@ -562,6 +550,12 @@
     "exportsInvoiceValue": 2364.0,
     "shipper": "opro international ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a3a8d039f50b72ec0b12f13/ea169aed-6448-4cac-842e-cd82712b6c73-CI XQAMZAIR0626183536 (opro international ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL042620752M",
+    "exportsInvoiceValue": 3601.8,
+    "shipper": "mr. tamilselvan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68521cab2fb860a75762b6d5/bookings-docs/69f0f3533a441875759e1c1a/f02a099f-b1ca-43e3-b156-69307df7d9b9.xls"
   },
   {
     "quoteId": "XQAMZAIR0626181634",
