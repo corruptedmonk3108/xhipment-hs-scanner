@@ -546,12 +546,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68cd2344b365708730c78a95/execution-documents/6a33fc1b3d1915a60d600bfe/26d0b05d-e75b-4917-b812-2c4850d94d89-CI XQAMZAIR0626182529 (supriva co fulfilx).XLSX"
   },
   {
-    "quoteId": "XQAIR062622460",
-    "exportsInvoiceValue": 58297.96,
-    "shipper": "Rainbow Chalk Markers Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a35206513a3460a0c7e3f22/b9ce7667-8262-4f4f-aede-73e84782a674-Commercial Invoice US STAR-QESPBRN4CAM5U and STAR-UA6GRWXZW4BWW up.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0626182728",
     "exportsInvoiceValue": 2006.7,
     "shipper": "irshad patel",
@@ -798,6 +792,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/6a014963c57591e1bfd8c373/8bf6f692-5a8f-4852-be8a-614f9e621ece-Export Commercial Invoice - Excel_XQAMZLCL052621130M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626184775",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a3f7783808f7f3c0d98ba93/b4fda1fe-b262-497c-8fbe-39a0143c2780-DI XQAMZAIR0626184775 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626184930",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a410017351f69777e6e2719/989f7ffa-c951-43f9-8dc4-bcf0f003a04a-DI XQAMZAIR0626184930 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626183494",
+    "exportsInvoiceValue": 3924.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a3a7c259f50b72ec0aaad26/eeb2b37d-543e-413d-9591-7048e756f710-CI XQAMZAIR0626183494 (fashionking brands pvt ltd).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052620952M",
     "exportsInvoiceValue": 6540.0,
     "shipper": "metallic elegance",
@@ -850,6 +862,12 @@
     "exportsInvoiceValue": 14492.5,
     "shipper": "bharat adwani",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/bookings-docs/6a04484553c43c748f01cddb/cccf0e9d-0a79-454c-a03b-609dbff5df85.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621402M",
+    "exportsInvoiceValue": 6552.0,
+    "shipper": "brass city",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f6b845a3b8dc8806e55a87/execution-documents/6a0c10571f20c4d26917df0a/affb06f8-e5d0-40a1-961a-9e265ff9a4f4-Export Commercial Invoice - Excel_XQAMZLCL052621402M CI.xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620668M",
@@ -916,6 +934,42 @@
     "exportsInvoiceValue": 22780.8,
     "shipper": "DelightLoop",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690f081b2b9caaf6f15cf8bc/execution-documents/69e84856de23fd9cb662ba6c/5e419092-3cc4-40f3-804e-78738feabdb0-Commercial_Invoice_English_USD CI new.xls"
+  },
+  {
+    "quoteId": "XQAMZAIR0626184487",
+    "exportsInvoiceValue": 1340.4,
+    "shipper": "uk specials limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664ffd81de20df268e31/6e8168b1-1348-4c91-9d69-c0e39a43be8d.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626182180",
+    "exportsInvoiceValue": 8990.17,
+    "shipper": "PAWEL LIPSZYC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a3294d8c0d9ef7d6a29d734/50659e11-eced-4ee6-9987-bc4078706643-CI XQAMZAIR0626182180 (PAWEL LIPSZYC).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626184491",
+    "exportsInvoiceValue": 936.12,
+    "shipper": "uk specials limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d6651885bd2966a408aec/e0e1bf74-acf0-475f-8ada-f7d7de9d3815.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626184451",
+    "exportsInvoiceValue": 1246.2,
+    "shipper": "uk specials limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664d885bd2966a4089dd/a6eba142-4845-40bf-8ef4-04b0542b95d2.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626184472",
+    "exportsInvoiceValue": 936.12,
+    "shipper": "uk specials limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664f222acf87e4106ad0/7995a307-819b-414b-be6f-8282c0352769.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626184462",
+    "exportsInvoiceValue": 1185.36,
+    "shipper": "uk specials limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664e943d80da42593c3d/5b4945b5-a976-4d31-8a7d-a05f9adb2b72.XLSX"
   },
   {
     "quoteId": "XQLCL042620803",
