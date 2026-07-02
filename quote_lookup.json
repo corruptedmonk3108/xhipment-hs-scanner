@@ -234,6 +234,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b47f450c90a07394ce2567/execution-documents/6a3244681934fc3c88f58641/58424e77-3dd0-4a03-b777-941040b2bbd5-Export Commercial Invoice - Excel_XQAMZLCL062622381M.xlsx"
   },
   {
+    "quoteId": "XQFCL062622052",
+    "exportsInvoiceValue": 139759.74,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a229d6e4955a727a2d4291a/8d0cf529-e93b-481d-8575-e51f6ed40f2c-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQFCL052621478",
+    "exportsInvoiceValue": 57560.44,
+    "shipper": "Imagimake",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a0c6eb98128992b0694ffb4/b7005a42-a964-432d-a549-415e19e9f4b1-Export Commercial Invoice - Excel_XQFCL052621478 (1).xls"
+  },
+  {
+    "quoteId": "XQAMZFCL052621777M",
+    "exportsInvoiceValue": 125154.18,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a17d8f38109ab1aba6c8be7/212b95be-ad78-4da3-a931-05789b62e609-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621039M",
     "exportsInvoiceValue": 19500.0,
     "shipper": "Kanishka home bedding",
@@ -292,6 +310,24 @@
     "exportsInvoiceValue": 10080.0,
     "shipper": "LUPOL LIMITED",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9b7abef49384cc31a80b4/execution-documents/6a2fbeb9fd6e22fece7f4c29/8f00963b-cb95-45a2-b4b7-f7d4c12f2373-Export Commercial Invoice - Excel_XQAMZLCL062622331M (1).xlsx"
+  },
+  {
+    "quoteId": "XQFCL052621860",
+    "exportsInvoiceValue": 35353.8,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a198ed49a11a664bf239f9e/8541db77-cd5a-4d0b-a2ce-ddc3e7cdfaba-Import Commercial Invoice - Excel_XQFCL052621860.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626183251",
+    "exportsInvoiceValue": 14214.78,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a39435480e4a68dff148a20/5a1da785-e223-47e2-a2e5-01694d467746-CI XQAMZAIR0626183251 (Sljivo Trading GmbH).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626183545",
+    "exportsInvoiceValue": 14253.89,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a3a8f03a1c7ebe00b3a9365/e6e0ae92-7205-41ff-bfff-8b1db5dd0076-CI XQAMZAIR0626183545 (Sljivo Trading GmbH).xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621300M",
