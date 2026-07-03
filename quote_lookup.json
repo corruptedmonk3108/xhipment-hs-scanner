@@ -426,6 +426,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a167e4392317fbde311ca66/00a4af8d-5513-4328-a711-4162cee2ca6f-Invoice No.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620333M",
+    "exportsInvoiceValue": 2448.0,
+    "shipper": "a k textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801ff14e3cf117117744c3e/execution-documents/69e1aa62fce523fd0a5247c9/4f4ce204-1d9f-4d9b-bc04-3f31df299107-Export Commercial Invoice - Excel_XQAMZLCL042620333M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620741M",
+    "exportsInvoiceValue": 26444.0,
+    "shipper": "khalique sons international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b6921039b3c34c8325082b/execution-documents/69f2d5677063fddb6869db7b/9a14be4b-8367-41f3-bdf1-80398e9fe608-Export Commercial Invoice - Excel_XQAMZLCL042620741M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620459M",
+    "exportsInvoiceValue": 1072.4,
+    "shipper": "GOELX Global",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64218ac42bb4a6f985ade39f/execution-documents/69ddefe92b6461863c41bce4/3d730540-0b3f-40f0-8ddd-ff54cb6bb449-Export Commercial Invoice - Excel_XQAMZLCL042620459M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621371M",
     "exportsInvoiceValue": 432.0,
     "shipper": "bilal ahmad",
