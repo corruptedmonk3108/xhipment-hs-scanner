@@ -6,10 +6,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697d22213f25977dd57281d7/execution-documents/69d898389fd4c1056120df45/b3deaddc-7007-4843-aeec-d1d332928661-Export Commercial Invoice - Excel_XQAMZLCL042620322M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621331M",
+    "exportsInvoiceValue": 10235.49,
+    "shipper": "swamy",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685259ba5e5b446183dd2e91/execution-documents/6a057321866a1e5e248ad154/9076a6dc-5787-4981-b031-a725073e6237-Export Commercial Invoice - Excel_XQAMZLCL052621331M.xlsx"
+  },
+  {
     "quoteId": "XQAIR062622333",
     "exportsInvoiceValue": 3797.0,
     "shipper": "Kenzen Ventures Limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ab5ddfb8f128eb29a734a6/execution-documents/6a2fe34e35e870a63c17b645/f80768ae-740e-43ba-b535-0822e5159ac7-CI XQAIR062622333 (Kenzen Ventures Limited).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621377M",
+    "exportsInvoiceValue": 619.41,
+    "shipper": "fuzail ahmed",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/execution-documents/6a0579488716f9a97d97459e/858358ab-96c4-4562-a01e-8f49fc77d3c8-Export Commercial Invoice - Excel_XQAMZLCL052621377M UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621197M",
@@ -90,10 +102,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/execution-documents/6a0aed68282ca71710e78cbe/d47070a7-7d6a-4fc4-9d02-42217215fbd8-EXPORT Commercial Invoice_XQAMZLCL052621447M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL042620593M",
-    "exportsInvoiceValue": 7152.0,
-    "shipper": "shubham swami_bobby",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6944099cd92ae2ba7369ee1d/execution-documents/69e31e5187b7d882be365630/1d762507-ff30-465f-a48b-50470407fa0c-Export Commercial Invoice - Excel_XQAMZLCL042620593M.xlsx"
+    "quoteId": "XQAMZLCL052620999M",
+    "exportsInvoiceValue": 642.2,
+    "shipper": "ahesanali kadival",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/bookings-docs/69f83ef479b64274da520e60/3db49f6f-9586-4fd1-b325-196651e4958c.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621199M",
@@ -252,6 +264,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a17d8f38109ab1aba6c8be7/212b95be-ad78-4da3-a931-05789b62e609-Invoice No.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL032619922M",
+    "exportsInvoiceValue": 4320.0,
+    "shipper": "dries moens",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a34ea70137b9a3843d2d5c/execution-documents/69ca48634b5f182940d8d13d/56705aac-39b0-47ca-811e-ce353660212d-Export Commercial Invoice - Excel_XQAMZLCL032619922M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621492M",
+    "exportsInvoiceValue": 9782.19,
+    "shipper": "preet patel",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f077448f83a5ac5b9e2f16/execution-documents/6a0c284803172033c6a3a424/ce3bcc08-f832-46d6-b3f7-10249367a544-Export Commercial Invoice - Excel_XQAMZLCL052621492M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621401M",
+    "exportsInvoiceValue": 15340.0,
+    "shipper": "om ethnic wear",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0646b56ddb6539c26b494b/execution-documents/6a06bb7108be2e4ea7897bbd/3a21aac1-07b4-4160-bed1-4b799b9f2e0f-Export Commercial Invoice - Excel_XQAMZLCL052621401M.xls"
+  },
+  {
     "quoteId": "XQAMZLCL052621033M",
     "exportsInvoiceValue": 4730.88,
     "shipper": "ekabhumi superfood private limited",
@@ -396,12 +426,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a167e4392317fbde311ca66/00a4af8d-5513-4328-a711-4162cee2ca6f-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052620999M",
-    "exportsInvoiceValue": 642.2,
-    "shipper": "ahesanali kadival",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/bookings-docs/69f83ef479b64274da520e60/0ab13b0d-1b60-48e5-86f2-2339b95300a2.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621371M",
     "exportsInvoiceValue": 432.0,
     "shipper": "bilal ahmad",
@@ -478,12 +502,6 @@
     "exportsInvoiceValue": 20422.37,
     "shipper": "d-51, nangal dewat, vasant kunj,",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a31460a922d3f7530320704/c2552e2a-f73d-4525-b398-7cb4aeb6ce9f-Invoice.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620595M",
-    "exportsInvoiceValue": 20907.47,
-    "shipper": "rv international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a9dc317ed5c15c4038daab/bookings-docs/69e347c95e29891771726800/74d815e1-fddb-4755-af7f-82a7e57103f8.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621765M",
@@ -768,12 +786,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082db4f0013b437e33017e/8618f876-7e5e-465e-834f-d001f1896cb0-Import Commercial Invoice - Excel_XQAMZLCL052621433M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621644M",
-    "exportsInvoiceValue": 68253.5,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a11818e404f74edf9422513/37ea6e17-90c6-4dfa-b318-cbc38cc233fe-Import Commercial Invoice - Excel_XQAMZFCL052621644M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621511M",
     "exportsInvoiceValue": 9304.5,
     "shipper": "Madan Mohan textiles",
@@ -1018,5 +1030,11 @@
     "exportsInvoiceValue": 1041.327693,
     "shipper": "nikkispride",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69690ec9cc74cfaca0029f49/execution-documents/6a00277259947daa2076744f/9d0b19a6-5917-4249-9a10-1a9d48831591-Export Commercial Invoice - Excel_XQAMZLCL052621058M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL052621715",
+    "exportsInvoiceValue": 5078.5,
+    "shipper": "JR Solutions",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6900d58d764bea0ac869eeb1/execution-documents/6a15bd702acb42c0838926a1/2b62f875-71b7-45a3-91f4-5c993d52c759-Export Commercial Invoice - Excel_XQLCL052621715 (CI).xls"
   }
 ]
