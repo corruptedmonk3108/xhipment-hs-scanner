@@ -348,18 +348,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a0324c93071955849b1625c/6023a40e-ae82-4091-a01b-b7611672b774-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620423M",
-    "exportsInvoiceValue": 1499.4,
-    "shipper": "amuillam ai",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=695d3763020c823b061296e7/execution-documents/69e1c62c126fd2794d3da25b/b20a8854-1fd6-4d88-825e-92930c451141-Export Commercial Invoice - Excel_XQAMZLCL042620423M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620607M",
-    "exportsInvoiceValue": 5405.832823,
-    "shipper": "viaterra gear",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa39f7756c7f4294ebf90a/execution-documents/69e391886b8318c14916f793/338f8c4b-1a67-47a4-abc0-19dfcfd6c938-Import Commercial Invoice - Excel_XQAMZLCL042620607M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620783M",
     "exportsInvoiceValue": 404.0,
     "shipper": "gera industries",
@@ -612,6 +600,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697a187306029821d6b6d0a9/execution-documents/6a01ee1cc2989cd4f0a30e3f/9b7ea8e6-11df-4503-9347-ff1b8e4e3d8f-Export Commercial Invoice - Excel_XQAMZLCL052621202M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620594M",
+    "exportsInvoiceValue": 1504.85,
+    "shipper": "yashoda ajit rai",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6979ba8343201368c2d2adb3/execution-documents/69e32c1f6cafc55c57d2dd8d/d4aedaa6-58b1-42bb-acbd-752b7a685ec2-Export Commercial Invoice - Excel_XQAMZLCL042620594M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052621246M",
     "exportsInvoiceValue": 22180.0,
     "shipper": "apl",
@@ -730,6 +724,12 @@
     "exportsInvoiceValue": 3924.0,
     "shipper": "fashionking brands pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a3a7c259f50b72ec0aaad26/eeb2b37d-543e-413d-9591-7048e756f710-CI XQAMZAIR0626183494 (fashionking brands pvt ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621193M",
+    "exportsInvoiceValue": 1197.0,
+    "shipper": "Delphi Leather",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bfec928bb33ef411fecaa8/execution-documents/6a0333d7f3c988067d7b7f3c/62dac7f7-0ff7-4a21-ad10-2af19482185d-Export Commercial Invoice - Excel_XQAMZLCL052621193M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052620952M",
