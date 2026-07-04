@@ -258,6 +258,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=695016d6dc0630691abd2c0b/execution-documents/69fc2fd8d57ef6bca50782de/acee506a-ed19-4155-8bfa-60cccfa3ad82-Export Commercial Invoice - Excel_XQAMZLCL052621033M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL042620783M",
+    "exportsInvoiceValue": 404.0,
+    "shipper": "gera industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/bookings-docs/69ef1dcc567bba830dca313a/215c74af-b2c7-4c46-89c3-4dce5728e5f0.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621184M",
     "exportsInvoiceValue": 395884.1089,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
@@ -322,12 +328,6 @@
     "exportsInvoiceValue": 147663.98,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a0324c93071955849b1625c/6023a40e-ae82-4091-a01b-b7611672b774-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620783M",
-    "exportsInvoiceValue": 404.0,
-    "shipper": "gera industries",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/execution-documents/69ef1dcc567bba830dca313a/7594c9f4-d6e3-4b4b-919b-c1eb2b989a7d-EXPORT Commercial Invoice_XQAMZLCL042620783M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621153M",
@@ -418,6 +418,12 @@
     "exportsInvoiceValue": 19500.0,
     "shipper": "Kanishka home bedding",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bbee1122d4ab1fc4725031/bookings-docs/69faee45130f9cecb68e613b/334ebf3c-987e-4128-a5dd-b563b0ce25d8.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621324M",
+    "exportsInvoiceValue": 14492.5,
+    "shipper": "bharat adwani",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/bookings-docs/6a04484553c43c748f01cddb/f201973a-71c2-4ca1-94d5-cd76466cce3a.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620883M",
@@ -700,12 +706,6 @@
     "exportsInvoiceValue": 5837.91,
     "shipper": "Vinrish Consultants LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e60ee56a923efec1d7050f/execution-documents/6a216d6677553c2650e7751d/e75efc1d-fea7-481d-af62-0bd1dd5a503b-Export Commercial Invoice - Excel_XQLCL062622021 CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621324M",
-    "exportsInvoiceValue": 14492.5,
-    "shipper": "bharat adwani",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/bookings-docs/6a04484553c43c748f01cddb/cccf0e9d-0a79-454c-a03b-609dbff5df85.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621402M",
