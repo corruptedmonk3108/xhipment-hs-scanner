@@ -36,12 +36,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682c6da7cfe9713fe31f6698/execution-documents/6a0702a382a446b7e98e891b/351964f7-75c1-4dc0-9d87-aabcd7c6f4a7-Export Commercial Invoice - Excel_XQAMZLCL052621414M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620588M",
-    "exportsInvoiceValue": 7380.0,
-    "shipper": "brass city",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f6b845a3b8dc8806e55a87/execution-documents/69e5e8764deae341ada0b2c8/a483f7ec-c294-4d51-9d6c-711abdf0a196-Export Commercial Invoice - Excel_XQAMZLCL042620588M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL052621382M",
     "exportsInvoiceValue": 135890.9,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -276,12 +270,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=695016d6dc0630691abd2c0b/execution-documents/69fc2fd8d57ef6bca50782de/acee506a-ed19-4155-8bfa-60cccfa3ad82-Export Commercial Invoice - Excel_XQAMZLCL052621033M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620611M",
-    "exportsInvoiceValue": 532.0,
-    "shipper": "vira enterprise",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a19f307c9664f613a04858/execution-documents/69e5b5ceef6c4bce14d5cb23/9b086969-5024-4d79-b6fc-7fcfcb761685-EXPORT Commercial Invoice_XQAMZLCL042620611M (CI) new.XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL052621184M",
     "exportsInvoiceValue": 395884.1089,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
@@ -444,12 +432,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bbee1122d4ab1fc4725031/bookings-docs/69faee45130f9cecb68e613b/334ebf3c-987e-4128-a5dd-b563b0ce25d8.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620709M",
-    "exportsInvoiceValue": 3112.52,
-    "shipper": "LEAFORNA",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/69eadb9116996238bfb2e856/b5db00ce-4bbd-4106-9dd7-bdaa248350ff-Export Commercial Invoice - Excel_XQAMZLCL042620709M (CI).xls"
-  },
-  {
     "quoteId": "XQAMZLCL042620883M",
     "exportsInvoiceValue": 5550.0,
     "shipper": "bkp metal concepts",
@@ -526,12 +508,6 @@
     "exportsInvoiceValue": 5108.0,
     "shipper": "yash punjabi",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a13dca75efbc76857dac218/338ac6ce-cf21-48de-897e-7015312ba90b-Export Commercial Invoice - Excel_XQAMZLCL052621622M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620752M",
-    "exportsInvoiceValue": 3601.8,
-    "shipper": "mr. tamilselvan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68521cab2fb860a75762b6d5/bookings-docs/69f0f3533a441875759e1c1a/f02a099f-b1ca-43e3-b156-69307df7d9b9.xls"
   },
   {
     "quoteId": "XQAMZLCL052621463M",
@@ -816,10 +792,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1eeae41431206c98325a50/execution-documents/6a1efbc7f38b6c34d1447f87/454c168b-1941-4183-ba03-129dd7e9ee8d-Commercial Invoice_XQAMZLCL062621960M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621059M",
+    "exportsInvoiceValue": 5774.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/69fa05253ede1fed16d4142e/280cadfe-e35a-4f3f-9e93-9605dc9c29bb-Export Commercial Invoice - Excel_XQAMZLCL052621059M (CI).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622150M",
     "exportsInvoiceValue": 56838.9,
     "shipper": "Sidney Trading Limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=681b39147d041b1c288c144b/execution-documents/6a27ce0b76c46e16cb40caea/830e52c0-1253-4203-a477-8a830f14c122-Export Commercial Invoice - Excel_XQAMZLCL062622150M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621305M",
+    "exportsInvoiceValue": 2030.0,
+    "shipper": "saahil enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68061727c219cf9fae7a8b61/execution-documents/6a05730ade1d9eaa7c0c5051/92fea2f8-419a-47c5-baeb-04c6268eb358-Export Commercial Invoice - Excel_XQAMZLCL052621305M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622515M",
