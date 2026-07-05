@@ -642,24 +642,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/6a014963c57591e1bfd8c373/8bf6f692-5a8f-4852-be8a-614f9e621ece-Export Commercial Invoice - Excel_XQAMZLCL052621130M (CI).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0626184775",
-    "exportsInvoiceValue": 8000.0,
-    "shipper": "maa bhagwati ethnic llp",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a3f7783808f7f3c0d98ba93/b4fda1fe-b262-497c-8fbe-39a0143c2780-DI XQAMZAIR0626184775 (maa bhagwati ethnic llp).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626184930",
-    "exportsInvoiceValue": 8000.0,
-    "shipper": "maa bhagwati ethnic llp",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a410017351f69777e6e2719/989f7ffa-c951-43f9-8dc4-bcf0f003a04a-DI XQAMZAIR0626184930 (maa bhagwati ethnic llp).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626183494",
-    "exportsInvoiceValue": 3924.0,
-    "shipper": "fashionking brands pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a3a7c259f50b72ec0aaad26/eeb2b37d-543e-413d-9591-7048e756f710-CI XQAMZAIR0626183494 (fashionking brands pvt ltd).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621193M",
     "exportsInvoiceValue": 1197.0,
     "shipper": "Delphi Leather",
