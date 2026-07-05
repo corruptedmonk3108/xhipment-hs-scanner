@@ -468,6 +468,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c320a08e946c0d2915daaf/execution-documents/69cdfe8d36369c883229c768/0328601e-f2b9-4f04-9591-190dc03e8d6a-Export Commercial Invoice - Excel_XQAMZLCL042620051M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL052621670M",
+    "exportsInvoiceValue": 108892.64,
+    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a141ca4c91bf1ad8e765f42/a6e15275-3690-49ac-9057-f9c2d3995a3e-Destination Invoice_XQAMZFCL052621670M CI.xls"
+  },
+  {
     "quoteId": "XQFCL042620656",
     "exportsInvoiceValue": 87779.5,
     "shipper": "JF Home Leisure",
