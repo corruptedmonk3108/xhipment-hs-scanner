@@ -120,6 +120,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/bookings-docs/69f83ef479b64274da520e60/3db49f6f-9586-4fd1-b325-196651e4958c.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622112M",
+    "exportsInvoiceValue": 158197.0,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a26942e2cfb1a1f9ff87550/d4994e3d-a169-469c-86ba-ff73e70db782-Import Commercial Invoice - Excel_XQAMZFCL062622112M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621746M",
     "exportsInvoiceValue": 25904.0,
     "shipper": "Madan Mohan textiles",
@@ -288,6 +294,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/bookings-docs/69ef1dcc567bba830dca313a/215c74af-b2c7-4c46-89c3-4dce5728e5f0.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622114M",
+    "exportsInvoiceValue": 158991.68,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a2694b937e2b7e3ad3733f8/c68711ad-b11d-469a-9305-6107a4b1dee3-Import Commercial Invoice - Excel_XQAMZFCL062622114M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621184M",
     "exportsInvoiceValue": 395884.1089,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
@@ -304,12 +316,6 @@
     "exportsInvoiceValue": 108.0,
     "shipper": "pearl craft",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6934707fa2614a41e9100803/execution-documents/69f099a80efcfd44e33db5f1/a3654b32-083f-4345-aa14-f8b175351c57-Export Commercial Invoice - Excel_XQAMZLCL042620781M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621854M",
-    "exportsInvoiceValue": 5456.64,
-    "shipper": "3Idee EU",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f251acea9a17d52670d39e/execution-documents/6a197e17c58457413f06bb7b/feaa47f5-4251-446a-83cc-77e16a261959-Commercial Invoice_XQAMZLCL052621854M (1) (2).pdf"
   },
   {
     "quoteId": "XQAMZLCL062622482M",
@@ -346,6 +352,12 @@
     "exportsInvoiceValue": 14253.89,
     "shipper": "Sljivo Trading GmbH",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a3a8f03a1c7ebe00b3a9365/e6e0ae92-7205-41ff-bfff-8b1db5dd0076-CI XQAMZAIR0626183545 (Sljivo Trading GmbH).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL032619284M",
+    "exportsInvoiceValue": 11432.4,
+    "shipper": "vilora",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a53e45a6368aa3a4cfedb8/execution-documents/69a6a104de6a23b6fb8eb00f/7c177c5c-a1c7-4fc6-8296-a61a0572e13d-Export Commercial Invoice - Excel_XQAMZLCL032619284M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621153M",
@@ -426,6 +438,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/execution-documents/6a11b79515e641f40f74f1ac/aa3e5684-fbca-4115-8d21-f9b54a1ddeb7-Import Commercial Invoice - Excel_XQAMZLCL052621654M CI new.xlsx"
   },
   {
+    "quoteId": "XQLCL062622021",
+    "exportsInvoiceValue": 5837.91,
+    "shipper": "Vinrish Consultants LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e60ee56a923efec1d7050f/bookings-docs/6a216d6677553c2650e7751d/5875a4aa-fc79-4d38-8a09-551f9cd6bae8.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052620974M",
+    "exportsInvoiceValue": 6000.0,
+    "shipper": "desiboardgames india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/69f584b02fa9be36a80004f4/d31cbfd2-59c1-4063-bdd6-a4c89a174b5e-Export Commercial Invoice - Excel_XQAMZLCL052620974M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620851M",
     "exportsInvoiceValue": 1957.0,
     "shipper": "extend",
@@ -448,6 +472,12 @@
     "exportsInvoiceValue": 7722.0,
     "shipper": "fashionking brands pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a08a4bb96832a7a0583941a/feafb07e-e351-4cdc-a44c-645df5354c8a-EXPORT Commercial Invoice_XQAMZLCL052621415M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL042620084M",
+    "exportsInvoiceValue": 3200.0,
+    "shipper": "de-aartico",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6824444c70b716831ae38d01/execution-documents/69d4c5d59a5d00688e0fe33a/c75ac71c-d5e5-4e6a-b6fa-914357757b3f-Export Commercial Invoice - Excel_XQAMZLCL042620084M CI.xls"
   },
   {
     "quoteId": "XQAMZLCL052621765M",
@@ -732,12 +762,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2a6d849ba028ce508c0fe0/execution-documents/6a327c9bcf04037e78b65df1/5d0c83ec-3aa1-47fc-8a83-e2af6156e59f-Export Commercial Invoice - Excel_XQAMZLCL062622395M CI.xlsx"
   },
   {
-    "quoteId": "XQLCL062622021",
-    "exportsInvoiceValue": 5837.91,
-    "shipper": "Vinrish Consultants LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e60ee56a923efec1d7050f/execution-documents/6a216d6677553c2650e7751d/e75efc1d-fea7-481d-af62-0bd1dd5a503b-Export Commercial Invoice - Excel_XQLCL062622021 CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621402M",
     "exportsInvoiceValue": 6552.0,
     "shipper": "brass city",
@@ -754,12 +778,6 @@
     "exportsInvoiceValue": 44174.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a082d78f0013b437e32d87d/934d92b0-707d-4e35-bcf5-960f659c4c85-Import Commercial Invoice - Excel_XQAMZLCL052621432M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062621960M",
-    "exportsInvoiceValue": 21358.0,
-    "shipper": "movemate gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1eeae41431206c98325a50/execution-documents/6a1efbc7f38b6c34d1447f87/454c168b-1941-4183-ba03-129dd7e9ee8d-Commercial Invoice_XQAMZLCL062621960M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621059M",
@@ -880,12 +898,6 @@
     "exportsInvoiceValue": 17295.0,
     "shipper": "sri venkatesh aromas",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621660M",
-    "exportsInvoiceValue": 4078.04,
-    "shipper": "DE Distribution",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a155200cc8fc99f9fe71a9e/244645ab-fed8-46fc-9c26-afabf6b156ba-EXPORT Commercial Invoice_XQAMZLCL052621660M CI new.XLSX"
   },
   {
     "quoteId": "XQAMZFCL042620511M",
