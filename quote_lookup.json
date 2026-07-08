@@ -180,28 +180,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a16881592317fbde31231bc/87816e4c-c46d-458b-8207-301334688ab8-Import Commercial Invoice - Excel_XQAMZLCL052621745M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621488M",
-    "exportsInvoiceValue": 4109.0,
-    "shipper": "nikilko2017 ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a1696a3fe8334b0d22dd3f3/41485728-1228-452e-a8d0-44b6267615ca-Commercial Invoice_XQAMZLCL052621488M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621387M",
-    "exportsInvoiceValue": 6884.24,
-    "shipper": "nikilko2017 ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a05958ef267a039c1494b17/3cd88119-a52e-464b-a7b6-3ec31c24b423-Commercial Invoice_XQAMZLCL052621387M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621922M",
     "exportsInvoiceValue": 14193.98,
     "shipper": "5kind (xhipment warehouse)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a1dd8c54c82bdb0dba1f8e2/faf1e923-fa5a-4b67-888f-4f20c9c0a397-Invoice_PRMR-2026-55_BW CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622381M",
-    "exportsInvoiceValue": 13530.0,
-    "shipper": "UKRAINIAN GOODS LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b47f450c90a07394ce2567/execution-documents/6a3244681934fc3c88f58641/58424e77-3dd0-4a03-b777-941040b2bbd5-Export Commercial Invoice - Excel_XQAMZLCL062622381M.xlsx"
   },
   {
     "quoteId": "XQFCL052621478",
@@ -264,12 +246,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3689d0e003d985c86270c8/execution-documents/6a368ca7f1a997f3b47c65f8/2d0597b0-fc27-41cf-8a83-95d3bf866eb8-Export Commercial Invoice - Excel_XQAMZLCL062622482M (2) CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622536M",
-    "exportsInvoiceValue": 5550.0,
-    "shipper": "Rose and Caramel Limited (SEND)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b5f1fd1967c7914f75209f/execution-documents/6a3a50acc13868b8dff46340/c5a4da04-238a-4e08-806f-8eb756492734-Export Commercial Invoice - Excel_XQAMZLCL062622536M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622331M",
     "exportsInvoiceValue": 10080.0,
     "shipper": "LUPOL LIMITED",
@@ -312,12 +288,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64e996b33f6b16436ceb8294/execution-documents/69fb02ff4ccc9feb8b25af58/0e506962-d4c8-4654-a4bb-19fa8f113317-Export Commercial Invoice - Excel_XQAMZLCL052621056M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621678M",
-    "exportsInvoiceValue": 132164.58,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a1448e706473a986093ebf7/72deda89-16c0-43a2-bece-02677fcf8dbc-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620333M",
     "exportsInvoiceValue": 2448.0,
     "shipper": "a k textiles",
@@ -354,12 +324,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ac11d37fc2add2ce5c68da/execution-documents/6a141e26dd5de1e3afc529a3/17a2b7b5-7bf6-4460-8bb5-43f304868924-WWH 01 Dt.xls"
   },
   {
-    "quoteId": "XQAMZLCL052621324M",
-    "exportsInvoiceValue": 14492.5,
-    "shipper": "bharat adwani",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/bookings-docs/6a04484553c43c748f01cddb/f201973a-71c2-4ca1-94d5-cd76466cce3a.xlsx"
-  },
-  {
     "quoteId": "XQLCL062622464",
     "exportsInvoiceValue": 6178.0,
     "shipper": "Rustins Ltd",
@@ -388,12 +352,6 @@
     "exportsInvoiceValue": 6000.0,
     "shipper": "desiboardgames india",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/69f584b02fa9be36a80004f4/d31cbfd2-59c1-4063-bdd6-a4c89a174b5e-Export Commercial Invoice - Excel_XQAMZLCL052620974M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620851M",
-    "exportsInvoiceValue": 1957.0,
-    "shipper": "extend",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=663f4fd75f08e5954b4ed023/execution-documents/69f6f1d3300109203a4436d9/7a68bc25-772c-44d7-b300-39764b4f1781-Export Commercial Invoice - Excel_XQAMZLCL042620851M CI.XLS"
   },
   {
     "quoteId": "XQAMZLCL052621503M",
@@ -666,12 +624,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/bookings-docs/69f9f978b7b37edc1919146c/9c0f7a1c-4437-478b-be3a-22b840722145.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621739M",
-    "exportsInvoiceValue": 147308.48,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a167e4392317fbde311ca66/ce8f5815-b941-496c-a241-c2708da8f0ed.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621674M",
     "exportsInvoiceValue": 20112.0,
     "shipper": "s a enterprises",
@@ -736,12 +688,6 @@
     "exportsInvoiceValue": 2030.0,
     "shipper": "saahil enterprises",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68061727c219cf9fae7a8b61/execution-documents/6a05730ade1d9eaa7c0c5051/92fea2f8-419a-47c5-baeb-04c6268eb358-Export Commercial Invoice - Excel_XQAMZLCL052621305M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622515M",
-    "exportsInvoiceValue": 22116.14,
-    "shipper": "Cobra Industries Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664d96bbd1a3a6a836c1e063/execution-documents/6a393cd780e4a68dff1449ab/5269ddcc-d363-48f2-98f2-d12d99f04028-Export Commercial Invoice - Excel_XQAMZLCL062622515M UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621220M",
