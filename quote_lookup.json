@@ -234,12 +234,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0646b56ddb6539c26b494b/execution-documents/6a06bb7108be2e4ea7897bbd/3a21aac1-07b4-4160-bed1-4b799b9f2e0f-Export Commercial Invoice - Excel_XQAMZLCL052621401M.xls"
   },
   {
-    "quoteId": "XQAMZLCL042620783M",
-    "exportsInvoiceValue": 404.0,
-    "shipper": "gera industries",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/bookings-docs/69ef1dcc567bba830dca313a/215c74af-b2c7-4c46-89c3-4dce5728e5f0.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL062622114M",
     "exportsInvoiceValue": 158991.68,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -558,6 +552,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6979ba8343201368c2d2adb3/execution-documents/69e32c1f6cafc55c57d2dd8d/d4aedaa6-58b1-42bb-acbd-752b7a685ec2-Export Commercial Invoice - Excel_XQAMZLCL042620594M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052620976M",
+    "exportsInvoiceValue": 2400.0,
+    "shipper": "desiboardgames india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/69f584cf5e6ec83ecdd196b1/b5f9ee7c-523f-453d-b9ec-8eff1eddb6fc-Export Commercial Invoice - Excel_XQAMZLCL052620976M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621505M",
     "exportsInvoiceValue": 33200.0,
     "shipper": "butterfly edufields pvt ltd",
@@ -642,6 +642,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bfec928bb33ef411fecaa8/execution-documents/6a0333d7f3c988067d7b7f3c/62dac7f7-0ff7-4a21-ad10-2af19482185d-Export Commercial Invoice - Excel_XQAMZLCL052621193M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062621896M",
+    "exportsInvoiceValue": 6660.0,
+    "shipper": "yash punjabi",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a1d3ca2658a998a4c735f4a/5b22aeec-f03a-4d08-ad99-a2bf476a7ea8-Export Commercial Invoice - Excel_XQAMZLCL062621896M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL062622008M",
     "exportsInvoiceValue": 146295.18,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -688,6 +694,12 @@
     "exportsInvoiceValue": 2864.64,
     "shipper": "tarlu ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2a6d849ba028ce508c0fe0/execution-documents/6a327c9bcf04037e78b65df1/5d0c83ec-3aa1-47fc-8a83-e2af6156e59f-Export Commercial Invoice - Excel_XQAMZLCL062622395M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621677M",
+    "exportsInvoiceValue": 1943.7,
+    "shipper": "knit king apparels",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ecb343e28e3e98a3105a05/execution-documents/6a15529dcc8fc99f9fe72134/7d9e5364-18dc-4705-9508-c3c67f8bb2de-Export Commercial Invoice - Excel_XQAMZLCL052621677M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621402M",
@@ -750,12 +762,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c7c4e3f89361baca25978a/execution-documents/6a056cb6ed48ddaf6ea95d7f/70847cb7-85ab-4762-8576-a7c7cbc38fa6-Export Commercial Invoice - Excel_XQAMZLCL052621379M (CI to upload).xlsx"
   },
   {
-    "quoteId": "XQLCL042620666",
-    "exportsInvoiceValue": 22780.8,
-    "shipper": "DelightLoop",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690f081b2b9caaf6f15cf8bc/execution-documents/69e84856de23fd9cb662ba6c/5e419092-3cc4-40f3-804e-78738feabdb0-Commercial_Invoice_English_USD CI new.xls"
-  },
-  {
     "quoteId": "XQAMZAIR0626184487",
     "exportsInvoiceValue": 1340.4,
     "shipper": "uk specials limited",
@@ -808,6 +814,12 @@
     "exportsInvoiceValue": 188786.74,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a1697f892317fbde3153fe9/5e6a186b-a432-4862-886b-4a8ea4bd0c35.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621233M",
+    "exportsInvoiceValue": 15207.0,
+    "shipper": "indian handicraft exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/execution-documents/6a030955d6a715f18941c925/11235d60-c77e-4d42-adda-840fb70526e2-IHE-01-2026-27.xls"
   },
   {
     "quoteId": "XQAMZLCL052621657M",
