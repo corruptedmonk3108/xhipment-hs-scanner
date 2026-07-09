@@ -102,12 +102,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/execution-documents/6a0aed68282ca71710e78cbe/d47070a7-7d6a-4fc4-9d02-42217215fbd8-EXPORT Commercial Invoice_XQAMZLCL052621447M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL052620999M",
-    "exportsInvoiceValue": 642.2,
-    "shipper": "ahesanali kadival",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/bookings-docs/69f83ef479b64274da520e60/3db49f6f-9586-4fd1-b325-196651e4958c.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL062622112M",
     "exportsInvoiceValue": 158197.0,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -468,12 +462,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6884bcc19c0651c6763e1e3f/execution-documents/69d4f1051461eb7dfef39489/1a71a242-669c-429b-a9cf-af0f223d70cf-Export Commercial Invoice - Excel_XQAMZLCL042620189M (1) CI.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621738M",
-    "exportsInvoiceValue": 182792.58,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a167dff13d85ff67606e1bd/37567797-2d82-452c-ab4b-ab11bd2ba0a7.xlsx"
-  },
-  {
     "quoteId": "XQLCL052621771",
     "exportsInvoiceValue": 2945.0,
     "shipper": "Aramex / Global Transportation Services Pvt Ltd (Delhi)",
@@ -666,6 +654,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f6b845a3b8dc8806e55a87/execution-documents/6a0c10571f20c4d26917df0a/affb06f8-e5d0-40a1-961a-9e265ff9a4f4-Export Commercial Invoice - Excel_XQAMZLCL052621402M CI.xlsx"
   },
   {
+    "quoteId": "XQFCL052621822",
+    "exportsInvoiceValue": 95525.42,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a193cfbc62748188781da30/d82d1b9e-5816-481d-9687-710e25cb9f48-Commercial invoice Walmart Sri Venkatesh Aromas LLC KE U.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626185126",
+    "exportsInvoiceValue": 6256.0,
+    "shipper": "farhan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6819f708b326f93fa2eba6e6/execution-documents/6a421baed17bf0103c3d29ad/e50fce13-d700-4ef2-bf3f-a2d6d6365656-CI XQAMZAIR0626185126 (Farhan).pdf"
+  },
+  {
     "quoteId": "XQAMZLCL052621750M",
     "exportsInvoiceValue": 34170.0,
     "shipper": "Madan Mohan textiles",
@@ -772,6 +772,12 @@
     "exportsInvoiceValue": 15207.0,
     "shipper": "indian handicraft exports",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/execution-documents/6a030955d6a715f18941c925/11235d60-c77e-4d42-adda-840fb70526e2-IHE-01-2026-27.xls"
+  },
+  {
+    "quoteId": "XQFCL052621822",
+    "exportsInvoiceValue": 95525.42,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a193cfbc62748188781da30/e17c8610-b9e9-4615-b640-c5a9101880e9-Commercial invoice FBA Sri Venkatesh Aromas LLC 15651 KE (SEA) 136 UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621657M",
