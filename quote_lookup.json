@@ -24,6 +24,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67adbc6871d65403d02e06ae/execution-documents/6a0579488716f9a97d97459e/858358ab-96c4-4562-a01e-8f49fc77d3c8-Export Commercial Invoice - Excel_XQAMZLCL052621377M UP.xlsx"
   },
   {
+    "quoteId": "XQLCL062621919",
+    "exportsInvoiceValue": 4584.23,
+    "shipper": "Value Retail",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6401a1dcd2b0e3b274efdaf8/bookings-docs/6a200e4f3c78027afe8c7903/f2a16f5f-779e-4a42-b0f7-b91fd0d1bd36.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621677M",
+    "exportsInvoiceValue": 1943.7,
+    "shipper": "knit king apparels",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ecb343e28e3e98a3105a05/bookings-docs/6a15529dcc8fc99f9fe72134/fb71a3ef-9751-46b5-8690-7e85e32685c1.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621375M",
     "exportsInvoiceValue": 7338.0,
     "shipper": "aava india",
@@ -108,6 +120,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a26942e2cfb1a1f9ff87550/d4994e3d-a169-469c-86ba-ff73e70db782-Import Commercial Invoice - Excel_XQAMZFCL062622112M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621586M",
+    "exportsInvoiceValue": 6897.407528,
+    "shipper": "Bizeev LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a0ee09778bcccc271b43e03/000bdcbe-73eb-4d8f-b65e-23eb0a4dd15b-A.xls"
+  },
+  {
     "quoteId": "XQAMZLCL052621746M",
     "exportsInvoiceValue": 25904.0,
     "shipper": "Madan Mohan textiles",
@@ -172,12 +190,6 @@
     "exportsInvoiceValue": 26091.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a16881592317fbde31231bc/87816e4c-c46d-458b-8207-301334688ab8-Import Commercial Invoice - Excel_XQAMZLCL052621745M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062621922M",
-    "exportsInvoiceValue": 14193.98,
-    "shipper": "5kind (xhipment warehouse)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a1dd8c54c82bdb0dba1f8e2/faf1e923-fa5a-4b67-888f-4f20c9c0a397-Invoice_PRMR-2026-55_BW CI.xlsx"
   },
   {
     "quoteId": "XQFCL052621478",
@@ -270,12 +282,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a53e45a6368aa3a4cfedb8/execution-documents/69a6a104de6a23b6fb8eb00f/7c177c5c-a1c7-4fc6-8296-a61a0572e13d-Export Commercial Invoice - Excel_XQAMZLCL032619284M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621153M",
-    "exportsInvoiceValue": 35755.0,
-    "shipper": "Carmel Organics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/execution-documents/69fdc115a669e77f94b7a059/1feda13a-4628-4680-81be-32abf6fe6589-Export Commercial Invoice - Excel_XQAMZLCL052621153M UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621056M",
     "exportsInvoiceValue": 975.5,
     "shipper": "HRIDAY INDUSTRY",
@@ -322,12 +328,6 @@
     "exportsInvoiceValue": 6178.0,
     "shipper": "Rustins Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68763c2255f5b7bd2576a4c3/execution-documents/6a352a240e50a94ba4f6efd5/4d680a17-3c6b-4d18-b34c-1a53eb2aaad1-Export Commercial Invoice - Excel_XQLCL062622464 CI.xlsx"
-  },
-  {
-    "quoteId": "XQLCL062621919",
-    "exportsInvoiceValue": 4584.23,
-    "shipper": "Value Retail",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6401a1dcd2b0e3b274efdaf8/execution-documents/6a200e4f3c78027afe8c7903/324e9117-5243-4912-b1c4-eb7f23bae362-Export Commercial Invoice - Excel_XQLCL062621919 (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621654M",
@@ -622,12 +622,6 @@
     "exportsInvoiceValue": 2864.64,
     "shipper": "tarlu ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2a6d849ba028ce508c0fe0/execution-documents/6a327c9bcf04037e78b65df1/5d0c83ec-3aa1-47fc-8a83-e2af6156e59f-Export Commercial Invoice - Excel_XQAMZLCL062622395M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621677M",
-    "exportsInvoiceValue": 1943.7,
-    "shipper": "knit king apparels",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ecb343e28e3e98a3105a05/execution-documents/6a15529dcc8fc99f9fe72134/7d9e5364-18dc-4705-9508-c3c67f8bb2de-Export Commercial Invoice - Excel_XQAMZLCL052621677M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621402M",
