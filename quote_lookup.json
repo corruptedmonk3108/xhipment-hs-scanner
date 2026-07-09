@@ -276,6 +276,30 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a3a8f03a1c7ebe00b3a9365/e6e0ae92-7205-41ff-bfff-8b1db5dd0076-CI XQAMZAIR0626183545 (Sljivo Trading GmbH).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0726186420",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/bookings-docs/6a45173680f5bf82c9197c34/a457da6c-36f1-4f6f-8f3c-87c21a663763.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626178024",
+    "exportsInvoiceValue": 6158.64,
+    "shipper": "lative colours of fashion",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837d1f508d6c0fb873055f/execution-documents/6a1eafcfd41bbcc9269e5cc5/b3c38c5f-7bd1-4ab5-b6da-7625fb7acd22-CI XQAMZAIR0626178024 (lative colours of fashion).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0626179526",
+    "exportsInvoiceValue": 2908.0,
+    "shipper": "goodcare pharma private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ce362a220a8948b7d41153/execution-documents/6a26a7e459df76a71fced610/1d4ea587-c624-4292-9116-22ee9bd265f0-CI XQAMZAIR0626179526 (goodcare pharma private limited).xlsx"
+  },
+  {
+    "quoteId": "XQAIR062622607",
+    "exportsInvoiceValue": 153.0,
+    "shipper": "kavita narayanan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6911d47237b9050de969b7ea/execution-documents/6a3cd7dc885bd2966a16c0e2/c309b255-9e56-4c76-8d8f-44549fd80615-CI XQAIR062622607 (kavita narayanan).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL032619284M",
     "exportsInvoiceValue": 11432.4,
     "shipper": "vilora",
