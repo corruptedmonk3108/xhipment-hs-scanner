@@ -54,6 +54,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a1934f457c38631e587d272/362c1fd9-a13f-488c-b983-a2b4a0a77e65-Import Commercial Invoice - Excel_XQAMZFCL052621821M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062621917M",
+    "exportsInvoiceValue": 36348.34,
+    "shipper": "Tapes n More",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a1d8e317b6544e36cc2cc9b/41c3cdbc-87a3-45c8-abd5-a1df14f885f9-GSEXPO2526022 Import Invoice (1) UPP.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052621789M",
     "exportsInvoiceValue": 157021.38,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -292,12 +298,6 @@
     "exportsInvoiceValue": 11432.4,
     "shipper": "vilora",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a53e45a6368aa3a4cfedb8/execution-documents/69a6a104de6a23b6fb8eb00f/7c177c5c-a1c7-4fc6-8296-a61a0572e13d-Export Commercial Invoice - Excel_XQAMZLCL032619284M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621056M",
-    "exportsInvoiceValue": 975.5,
-    "shipper": "HRIDAY INDUSTRY",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64e996b33f6b16436ceb8294/execution-documents/69fb02ff4ccc9feb8b25af58/0e506962-d4c8-4654-a4bb-19fa8f113317-Export Commercial Invoice - Excel_XQAMZLCL052621056M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620333M",
@@ -850,5 +850,23 @@
     "exportsInvoiceValue": 5078.5,
     "shipper": "JR Solutions",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6900d58d764bea0ac869eeb1/execution-documents/6a15bd702acb42c0838926a1/2b62f875-71b7-45a3-91f4-5c993d52c759-Export Commercial Invoice - Excel_XQLCL052621715 (CI).xls"
+  },
+  {
+    "quoteId": "XQAMZLCL052621374M",
+    "exportsInvoiceValue": 3150.0,
+    "shipper": "desiboardgames india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/6a0567f2de1d9eaa7c0806d6/5ae6087c-f8c6-400e-acf1-34629d9f923f-Export Commercial Invoice - Excel_XQAMZLCL052621374M (CI).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620704M",
+    "exportsInvoiceValue": 10886.4,
+    "shipper": "loyora play pvt. ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/execution-documents/69eb3aaa35afbb22b3e98658/2fcf35d8-d8cf-4041-bab3-43f221eecc73-EXPORT Commercial Invoice_XQAMZLCL042620704M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621413M",
+    "exportsInvoiceValue": 85560.0,
+    "shipper": "pranav engineering",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69baaaedb710a84cc3430421/execution-documents/6a0ad2746a8f2b0b684b4620/d038f30d-e885-4fbf-908d-6b53aa618d61-Export Commercial Invoice - Excel_XQAMZFCL052621413M CI.xlsx"
   }
 ]
