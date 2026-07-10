@@ -126,6 +126,36 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a16887713d85ff6760ba948/a1b1a189-537e-45f9-a2ba-fb5e5b86b87b-Import Commercial Invoice - Excel_XQAMZLCL052621746M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626185908",
+    "exportsInvoiceValue": 450.34,
+    "shipper": "shadow foam",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a43959f50c5a92709dfdb1e/execution-documents/6a4395a43009b49651ad2ca4/cd63cf35-c861-4aff-b4c0-b74be7559a10-CI XQAMZAIR0626185908 (shadow foam).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0726187486",
+    "exportsInvoiceValue": 924.75,
+    "shipper": "creative jam enterprises ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a4aca89418a3d7efc95d5d2/04c7879a-9bde-49e9-a4c9-2b71dd326a76-CI XQAMZAIR0726187486 (creative jam enterprises ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0626185897",
+    "exportsInvoiceValue": 325.27,
+    "shipper": "shadow foam",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a43959f50c5a92709dfdb1e/bookings-docs/6a4395a250c5a92709dfdb8d/eb2fb555-3aa1-4417-be3e-3454a15faa22.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0726186793",
+    "exportsInvoiceValue": 1500.0,
+    "shipper": "will tomlinson",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4666d7331dddfa11c022ff/execution-documents/6a4666d9331dddfa11c02328/86569290-a96c-4988-bfe0-fd106c290ab7-CI XQAMZAIR0726186793 (will tomlinson).XLSX"
+  },
+  {
+    "quoteId": "XQAIR072622843",
+    "exportsInvoiceValue": 5790.53,
+    "shipper": "James White",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/6a465c99920599222815a64a/085f30fd-acc3-4c94-a4b8-a51681ce816f-CI XQAIR072622843 (James White).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621487M",
     "exportsInvoiceValue": 5092.12,
     "shipper": "LEAFORNA",
