@@ -228,6 +228,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0646b56ddb6539c26b494b/execution-documents/6a06bb7108be2e4ea7897bbd/3a21aac1-07b4-4160-bed1-4b799b9f2e0f-Export Commercial Invoice - Excel_XQAMZLCL052621401M.xls"
   },
   {
+    "quoteId": "XQAMZLCL042620891M",
+    "exportsInvoiceValue": 2940.0,
+    "shipper": "sharks success marketing enterprises inc.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=693fe749fac042e47afd31d0/execution-documents/69f1a54465ea62905308a6a7/be02b713-d321-42c5-b924-0c0715d4759c-Import Commercial Invoice - Excel_XQAMZLCL042620891M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620260M",
+    "exportsInvoiceValue": 42.0,
+    "shipper": "kalaimani ramachandran",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f908c27f0b14c7f50ee483/execution-documents/69da321f0ac9fc442c736bd4/ca549d38-bff8-4392-bcb8-dbf61397f043-Export Commercial Invoice - Excel_XQAMZLCL042620260M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL062622114M",
     "exportsInvoiceValue": 158991.68,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -250,6 +262,12 @@
     "exportsInvoiceValue": 108.0,
     "shipper": "pearl craft",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6934707fa2614a41e9100803/execution-documents/69f099a80efcfd44e33db5f1/a3654b32-083f-4345-aa14-f8b175351c57-Export Commercial Invoice - Excel_XQAMZLCL042620781M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620750M",
+    "exportsInvoiceValue": 15345.0,
+    "shipper": "mediaa minds",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677b9d4ed2c6de9d30d3850e/execution-documents/69f98f320e0c04de9a63dd45/b7c93849-f2a0-443e-87d1-24d2b41e9add-EXPORT Commercial Invoice_XQAMZLCL042620750M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622482M",
@@ -708,12 +726,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664e943d80da42593c3d/5b4945b5-a976-4d31-8a7d-a05f9adb2b72.XLSX"
   },
   {
-    "quoteId": "XQFCL062622052",
-    "exportsInvoiceValue": 139759.74,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a229d6e4955a727a2d4291a/62b31682-a7bb-42e9-9139-41b21f2d023d.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621233M",
     "exportsInvoiceValue": 15207.0,
     "shipper": "indian handicraft exports",
@@ -736,12 +748,6 @@
     "exportsInvoiceValue": 122125.46,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a16983d92317fbde31571f1/1422d2a8-dbda-4b51-bb2a-77ee8aa635c8-Import Commercial Invoice - Excel_XQAMZFCL052621760M.xlsx"
-  },
-  {
-    "quoteId": "XQLCL042620803",
-    "exportsInvoiceValue": 17295.0,
-    "shipper": "sri venkatesh aromas",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685648a3aeeca15adc7fddf6/execution-documents/69ef39db66719d1ff2b5381f/621735a3-e74f-4b74-8b1e-5711cc64b140-Commercial invoice Sri Venkatesh Aromas LLC SVA LLC MP (San group) 001 (1).xlsx"
   },
   {
     "quoteId": "XQAMZFCL042620511M",
