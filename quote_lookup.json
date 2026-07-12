@@ -336,6 +336,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/execution-documents/6a1686b6fe8334b0d22d4605/9cf3b992-c966-4bdd-88c6-d61f618f2b94-Import Commercial Invoice - Excel_XQAMZLCL052621740M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622143M",
+    "exportsInvoiceValue": 30520.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a27c7c6a979e4b459790efd/f4e981ef-6d83-4d31-93a6-6527e843a140-Import Commercial Invoice - Excel_XQAMZFCL062622143M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621332M",
+    "exportsInvoiceValue": 2296.63,
+    "shipper": "swamy",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685259ba5e5b446183dd2e91/execution-documents/6a05733ade1d9eaa7c0c532c/6fc48db9-fd77-4aac-8f3c-302452ed4bdb-Export Commercial Invoice - Excel_XQAMZLCL052621332M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620333M",
     "exportsInvoiceValue": 2448.0,
     "shipper": "a k textiles",
