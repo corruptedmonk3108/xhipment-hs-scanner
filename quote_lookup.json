@@ -396,6 +396,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e60ee56a923efec1d7050f/bookings-docs/6a216d6677553c2650e7751d/5875a4aa-fc79-4d38-8a09-551f9cd6bae8.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622037M",
+    "exportsInvoiceValue": 116531.0,
+    "shipper": "matras exporters",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6a229af75c45fec494888aa1/a08dcf8c-392b-4bb4-a4d7-9c399d41c06f-Excel Invoice -  ME2627-0023 CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052620974M",
     "exportsInvoiceValue": 6000.0,
     "shipper": "desiboardgames india",
