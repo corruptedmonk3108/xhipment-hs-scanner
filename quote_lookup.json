@@ -726,6 +726,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e24ba89b1b30c04a92a66f/execution-documents/6a0ff7fb281f9b282cca2790/3f3dd5a2-f18b-4fd3-8346-a35210ed1654-Export Commercial Invoice - Excel_XQLCL052621597 CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622056M",
+    "exportsInvoiceValue": 8462.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a26b1de7e73458300fd4d30/1f960740-e22c-4ee6-8882-25eab7585cd9-Import Commercial Invoice - Excel_XQAMZLCL062622056M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622057M",
+    "exportsInvoiceValue": 3045.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a22a1b6b58989979878b12f/e9d543b0-fda9-4c0a-8707-0cad90ba2035-Consolidated-CI (9) MMT.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621751M",
     "exportsInvoiceValue": 16773.0,
     "shipper": "Madan Mohan textiles",
