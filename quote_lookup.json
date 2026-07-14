@@ -654,6 +654,30 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63be58037afd2bee40041ae5/execution-documents/6a0ae50beba24ddb30f771d2/2fadd722-8735-4916-a06c-39a3e0f4d74b-Export Commercial Invoice - Excel_XQAMZLCL052621376M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622204M",
+    "exportsInvoiceValue": 3193.6,
+    "shipper": "jay ranpariya",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=650445f8ee7b4c905be7266c/execution-documents/6a2a69ee9ba028ce508bbc46/5d336f09-c527-43a2-a4ad-950fc4e3a579-Export Commercial Invoice - Excel_XQAMZLCL062622204M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622323M",
+    "exportsInvoiceValue": 162899.5,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a2fa1f0fd6e22fece78d17f/49854f96-aaaa-490b-bfb6-d3ace50b089c-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622060M",
+    "exportsInvoiceValue": 82482.1,
+    "shipper": "seer udyog",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a21de6400483dd069c121ba/execution-documents/6a22c9c6d6d8f1a51dd66bc6/55bffdff-1bb8-428a-898c-1c0a7a50567c-Import Commercial Invoice - Excel_XQAMZLCL062622060M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622336M",
+    "exportsInvoiceValue": 124745.06,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a2ffdff36c215aefb60a0a4/2a92317d-c33c-43f3-873a-c149449e80d8-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621202M",
     "exportsInvoiceValue": 174.6,
     "shipper": "just for you designs",
