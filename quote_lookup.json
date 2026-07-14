@@ -162,6 +162,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67daee4008b181b40a1eb8e2/execution-documents/6a0e978890a74f200d4252e3/f61afa96-3b11-4cfb-95fc-cc215f5efa0d-Export Commercial Invoice - Excel_XQAMZLCL052621565M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL032619284M",
+    "exportsInvoiceValue": 11432.4,
+    "shipper": "vilora",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a53e45a6368aa3a4cfedb8/bookings-docs/69a6a104de6a23b6fb8eb00f/40e90ba1-6316-469d-9fbf-ed3cbe6cae75.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620704M",
+    "exportsInvoiceValue": 10886.4,
+    "shipper": "loyora play pvt. ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/bookings-docs/69eb3aaa35afbb22b3e98658/0b78c0c3-1528-4337-b350-ff70e59c691d.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620539M",
+    "exportsInvoiceValue": 3109.07,
+    "shipper": "bikaji foods international  limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df90c00cea47474ce68d4b/execution-documents/69e09fa19fadb85ec5f59c4f/8f9d0e84-52e4-4b7e-a399-6f4e5feefdaf-Export Commercial Invoice - Excel_XQAMZLCL042620539M (CI).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621487M",
     "exportsInvoiceValue": 5092.12,
     "shipper": "LEAFORNA",
@@ -270,6 +288,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677b9d4ed2c6de9d30d3850e/execution-documents/69f98f320e0c04de9a63dd45/b7c93849-f2a0-443e-87d1-24d2b41e9add-EXPORT Commercial Invoice_XQAMZLCL042620750M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621448M",
+    "exportsInvoiceValue": 1500.0,
+    "shipper": "mart exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=693d9bcb038fafccc3aa1691/execution-documents/6a0ab65c48e051f47a306b00/6f4bb57b-1dd6-48ab-ab31-0d8e1e62fc0a-Export Commercial Invoice - Excel_XQAMZLCL052621448M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL052621475M",
+    "exportsInvoiceValue": 1236.59,
+    "shipper": "care well impex",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f455ccfaf166477bf2b148/bookings-docs/6a0ae8a7282ca71710e6fd62/d8c550f8-3b23-4b45-aa50-f6d26d798d96.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0726186420",
     "exportsInvoiceValue": 8000.0,
     "shipper": "maa bhagwati ethnic llp",
@@ -300,12 +330,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d7c4185e116cc33d630495/execution-documents/69cf86c147094f99afec0448/73ad3b09-14c9-4292-853d-cd47534e73be-Export Commercial Invoice - Excel_XQAMZLCL042620086M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL032619284M",
-    "exportsInvoiceValue": 11432.4,
-    "shipper": "vilora",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a53e45a6368aa3a4cfedb8/execution-documents/69a6a104de6a23b6fb8eb00f/7c177c5c-a1c7-4fc6-8296-a61a0572e13d-Export Commercial Invoice - Excel_XQAMZLCL032619284M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052620984M",
     "exportsInvoiceValue": 9169.0,
     "shipper": "tribal trail llp",
@@ -328,6 +352,24 @@
     "exportsInvoiceValue": 2296.63,
     "shipper": "swamy",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685259ba5e5b446183dd2e91/execution-documents/6a05733ade1d9eaa7c0c532c/6fc48db9-fd77-4aac-8f3c-302452ed4bdb-Export Commercial Invoice - Excel_XQAMZLCL052621332M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621666M",
+    "exportsInvoiceValue": 8262.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a14532942792d63af0e0491/c49b1232-55ad-4735-a281-4a9490a32152-Import Commercial Invoice - Excel_XQAMZLCL052621666M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621474M",
+    "exportsInvoiceValue": 2859.5,
+    "shipper": "leo international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e3617cdf7f9a0a30b67d9f/execution-documents/6a0b45023b081f5be14228d1/6e59d860-9d92-49b3-bae1-78f1d5c10202-Import Commercial Invoice - Excel_XQAMZLCL052621474M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621564M",
+    "exportsInvoiceValue": 4731.4,
+    "shipper": "vaibhav",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684d47010c96bb63e5a43614/execution-documents/6a0eb411f0154ffb468f500d/dd00a090-a158-4008-84e8-6f2fbc49bcbb-Import Commercial Invoice - Excel_XQAMZLCL052621564M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620333M",
@@ -378,6 +420,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/69f584b02fa9be36a80004f4/d31cbfd2-59c1-4063-bdd6-a4c89a174b5e-Export Commercial Invoice - Excel_XQAMZLCL052620974M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621596M",
+    "exportsInvoiceValue": 8400.0,
+    "shipper": "ubicon",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67dc8e4dd471d022cfd17452/execution-documents/6a0f1cddf2841a1a6aeefd15/547ad0c6-6ab0-43e3-a496-6b85cb3fe180-Export Commercial Invoice - Excel_XQAMZLCL052621596M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621764M",
+    "exportsInvoiceValue": 8559.62,
+    "shipper": "dom ventas india pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a168475fe8334b0d22d3651/execution-documents/6a16e1d35f803fcc66c292a5/2ac7be27-1d47-4cae-85cc-4d751d133079-Import Commercial Invoice - Excel_XQAMZLCL052621764M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620084M",
     "exportsInvoiceValue": 3200.0,
     "shipper": "de-aartico",
@@ -388,6 +442,12 @@
     "exportsInvoiceValue": 12798.6,
     "shipper": "spider corporation pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d8d683ebe35fe79e239017/bookings-docs/69d8e518ebe35fe79e28d738/bd1665aa-0457-4cd4-abcf-97ac6bc224e9.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621655M",
+    "exportsInvoiceValue": 5122.5,
+    "shipper": "yutika natural private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6836e4797a60102afc8782a9/execution-documents/6a11b789d73317ac66a9a2bc/bf2c535d-9d68-4aa8-9dbc-11db8520e87c-Export Commercial Invoice - Excel_XQAMZLCL052621655M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620051M",
@@ -418,6 +478,18 @@
     "exportsInvoiceValue": 95525.42,
     "shipper": "Katyani Exports (SVA Organics)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a193cfbc62748188781da30/1be79176-725e-4d4d-a8f2-fe6b914b76d1-Commercial invoice FBA Sri Venkatesh Aromas LLC 15651 KE (SEA) 137 UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621742M",
+    "exportsInvoiceValue": 12240.0,
+    "shipper": "sabah khan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/6a16ab8b12b79fd5b08993bf/8f50dad1-c3c6-46e4-a131-9519d566b98d-Import Commercial Invoice - Excel_XQAMZLCL052621742M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621823M",
+    "exportsInvoiceValue": 5378.4,
+    "shipper": "cravium gourmet private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c7f5533090171811a9d0fd/execution-documents/6a1fc2f8ea9625bb819bf198/dade9828-7985-4af4-96c6-d2e276723962-Export Commercial Invoice - Excel_XQAMZLCL052621823M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622115M",
@@ -472,6 +544,24 @@
     "exportsInvoiceValue": 36348.34,
     "shipper": "Tapes n More",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/bookings-docs/6a1d8e317b6544e36cc2cc9b/fbd5160f-a972-454e-97f6-4bc477ae4d2f.xls"
+  },
+  {
+    "quoteId": "XQAMZFCL062622009M",
+    "exportsInvoiceValue": 42283.32,
+    "shipper": "metis learning solutions pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a21355425611f8b625e4524/1cabd187-6572-4465-9f62-80c57d79c394-Export Commercial Invoice - Excel_XQAMZFCL062622009M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL052621673M",
+    "exportsInvoiceValue": 52341.6,
+    "shipper": "metis learning solutions pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a1435dfe340a7c022ff6c5e/2f649f83-72de-407d-8432-2a3f39ff4664-Export Commercial Invoice - Excel_XQAMZFCL052621673M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621219M",
+    "exportsInvoiceValue": 8490.84,
+    "shipper": "ganpati exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0077dbe27ffcee22b00d2f/execution-documents/6a01a9e2214a04a1a3266071/a6f3f6ba-c768-4ea4-a7f8-545f38c61212-Export Commercial Invoice - Excel_XQAMZLCL052621219M UP.xls"
   },
   {
     "quoteId": "XQAMZLCL052621622M",
@@ -762,12 +852,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68909492d1102c88bb6711dc/execution-documents/6a4f6bb69f57aac4e7359069/226985df-e559-479d-9deb-ba1c8210f0eb-CI XQAMZAIR0726188550 (paul richmond).XLSX"
   },
   {
-    "quoteId": "XQAMZFCL042620511M",
-    "exportsInvoiceValue": 100240.25,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/bookings-docs/69df682aef4e6fd6ecb477e4/47545a2c-4eb5-45ed-a181-bb24d7b564ee.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621457M",
     "exportsInvoiceValue": 21520.0,
     "shipper": "royal kraft overseas",
@@ -802,12 +886,6 @@
     "exportsInvoiceValue": 3150.0,
     "shipper": "desiboardgames india",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/6a0567f2de1d9eaa7c0806d6/5ae6087c-f8c6-400e-acf1-34629d9f923f-Export Commercial Invoice - Excel_XQAMZLCL052621374M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620704M",
-    "exportsInvoiceValue": 10886.4,
-    "shipper": "loyora play pvt. ltd.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/execution-documents/69eb3aaa35afbb22b3e98658/2fcf35d8-d8cf-4041-bab3-43f221eecc73-EXPORT Commercial Invoice_XQAMZLCL042620704M CI.xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621413M",
