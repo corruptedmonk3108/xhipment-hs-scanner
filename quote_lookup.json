@@ -36,22 +36,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6401a1dcd2b0e3b274efdaf8/bookings-docs/6a200e4f3c78027afe8c7903/f2a16f5f-779e-4a42-b0f7-b91fd0d1bd36.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621763M",
-    "exportsInvoiceValue": 2000.0,
-    "shipper": "rao fariyad ali",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/execution-documents/6a16c0ee7c7ad7dafa43ab8d/145db543-72ad-4086-a044-04cba4f07f1a-Destination Invoice_XQAMZLCL052621763M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621677M",
     "exportsInvoiceValue": 1943.7,
     "shipper": "knit king apparels",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ecb343e28e3e98a3105a05/bookings-docs/6a15529dcc8fc99f9fe72134/fb71a3ef-9751-46b5-8690-7e85e32685c1.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621333M",
-    "exportsInvoiceValue": 2520.0,
-    "shipper": "neem india products pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cbd1210800ee00f9771345/execution-documents/6a056a8e866a1e5e248a7f7d/03077bb9-5d00-4be5-ac56-d14b6db781fa-Export Commercial Invoice - Excel_XQAMZLCL052621333M (CI).xlsx"
+    "quoteId": "XQAMZLCL042620539M",
+    "exportsInvoiceValue": 3109.07,
+    "shipper": "bikaji foods international  limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df90c00cea47474ce68d4b/bookings-docs/69e09fa19fadb85ec5f59c4f/ad55cbdb-a719-48c8-a347-ac7205846f2f.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052620998M",
@@ -150,12 +144,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689b12721e6c34a11c3896da/execution-documents/6a265349afafdea8f620ea42/e324b363-8cf8-4a29-bddc-433c6c77fee6-EXPORT Commercial Invoice_XQAMZLCL062622095M CI.xlsx"
   },
   {
-    "quoteId": "XQAIR072622843",
-    "exportsInvoiceValue": 5790.53,
-    "shipper": "James White",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/6a465c99920599222815a64a/085f30fd-acc3-4c94-a4b8-a51681ce816f-CI XQAIR072622843 (James White).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621565M",
     "exportsInvoiceValue": 7684.95,
     "shipper": "vivek deepak dipani",
@@ -174,16 +162,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/bookings-docs/69eb3aaa35afbb22b3e98658/0b78c0c3-1528-4337-b350-ff70e59c691d.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620539M",
-    "exportsInvoiceValue": 3109.07,
-    "shipper": "bikaji foods international  limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df90c00cea47474ce68d4b/execution-documents/69e09fa19fadb85ec5f59c4f/8f9d0e84-52e4-4b7e-a399-6f4e5feefdaf-Export Commercial Invoice - Excel_XQAMZLCL042620539M (CI).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621487M",
     "exportsInvoiceValue": 5092.12,
     "shipper": "LEAFORNA",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/6a0c0cbfc614450aa638e473/b5122098-6bba-4b8d-ac76-7ae9cdf0981c-Export Commercial Invoice - Excel_XQAMZLCL052621487M CI.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL052621333M",
+    "exportsInvoiceValue": 2520.0,
+    "shipper": "neem india products pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cbd1210800ee00f9771345/bookings-docs/6a056a8e866a1e5e248a7f7d/e76adfa7-6b5b-44e9-9a2e-9ea5adc39e83.xlsx"
   },
   {
     "quoteId": "XQAMZLCL032619922M",
@@ -274,6 +262,18 @@
     "exportsInvoiceValue": 1640.16,
     "shipper": "angiplast private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d7c4185e116cc33d630495/execution-documents/69cf86c147094f99afec0448/73ad3b09-14c9-4292-853d-cd47534e73be-Export Commercial Invoice - Excel_XQAMZLCL042620086M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062621910M",
+    "exportsInvoiceValue": 31072.94,
+    "shipper": "detilish rugs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/6a1d8fc997c592a394228024/363efcce-7cc3-4635-9795-e02b227d0db6-Copy of XQAMZFCL062621910M_INVOICE CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621763M",
+    "exportsInvoiceValue": 2000.0,
+    "shipper": "rao fariyad ali",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/bookings-docs/6a16c0ee7c7ad7dafa43ab8d/f6681465-757e-43ec-a610-b0cdd4f1984f.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052620984M",
@@ -736,24 +736,6 @@
     "exportsInvoiceValue": 1036.32,
     "shipper": "k & k aromatics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c7c4e3f89361baca25978a/execution-documents/6a056cb6ed48ddaf6ea95d7f/70847cb7-85ab-4762-8576-a7c7cbc38fa6-Export Commercial Invoice - Excel_XQAMZLCL052621379M (CI to upload).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626184451",
-    "exportsInvoiceValue": 1246.2,
-    "shipper": "uk specials limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664d885bd2966a4089dd/a6eba142-4845-40bf-8ef4-04b0542b95d2.XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0626184472",
-    "exportsInvoiceValue": 936.12,
-    "shipper": "uk specials limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664f222acf87e4106ad0/7995a307-819b-414b-be6f-8282c0352769.XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0626184462",
-    "exportsInvoiceValue": 1185.36,
-    "shipper": "uk specials limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6889308fd473340094f3b825/bookings-docs/6a3d664e943d80da42593c3d/5b4945b5-a976-4d31-8a7d-a05f9adb2b72.XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621233M",
