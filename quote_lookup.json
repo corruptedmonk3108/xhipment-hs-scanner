@@ -90,12 +90,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/6a0c729bb91b40da9d70258a/7102f33c-f09f-424b-8e0e-8065adf68d1c-Copy of XQAMZFCL052621498M_INVOICE CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621665M",
-    "exportsInvoiceValue": 8679.6,
-    "shipper": "paul brothers my stationery mart",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ba7483e6f4605346989cf9/execution-documents/6a140ea24302a9669bdb02f5/c6301c00-dcc3-4e32-b1eb-ff4c85a86d0c-Export Commercial Invoice - Excel_XQAMZLCL052621665M CI.xls"
-  },
-  {
     "quoteId": "XQAMZAIR0626185897",
     "exportsInvoiceValue": 325.27,
     "shipper": "shadow foam",
@@ -124,12 +118,6 @@
     "exportsInvoiceValue": 10886.4,
     "shipper": "loyora play pvt. ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/bookings-docs/69eb3aaa35afbb22b3e98658/0b78c0c3-1528-4337-b350-ff70e59c691d.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621487M",
-    "exportsInvoiceValue": 5092.12,
-    "shipper": "LEAFORNA",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/6a0c0cbfc614450aa638e473/b5122098-6bba-4b8d-ac76-7ae9cdf0981c-Export Commercial Invoice - Excel_XQAMZLCL052621487M CI.xls"
   },
   {
     "quoteId": "XQAMZLCL052621333M",
@@ -286,12 +274,6 @@
     "exportsInvoiceValue": 1072.4,
     "shipper": "GOELX Global",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64218ac42bb4a6f985ade39f/execution-documents/69ddefe92b6461863c41bce4/3d730540-0b3f-40f0-8ddd-ff54cb6bb449-Export Commercial Invoice - Excel_XQAMZLCL042620459M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL052621519M",
-    "exportsInvoiceValue": 28291.18,
-    "shipper": "hosley india pvt. ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6916e6dd493a8fe03548badc/execution-documents/6a0dc10af56c3c4b3205e28e/c5d50f5b-9ae4-4db6-ae0c-5692014c899b-Import Commercial Invoice - Excel_XQAMZFCL052621519M CI.xls"
   },
   {
     "quoteId": "XQLCL062622464",
@@ -462,12 +444,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a13dca75efbc76857dac218/338ac6ce-cf21-48de-897e-7015312ba90b-Export Commercial Invoice - Excel_XQAMZLCL052621622M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621291M",
-    "exportsInvoiceValue": 3072.0,
-    "shipper": "alv manufacturing company",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698eef3d6c400421e97e3831/execution-documents/6a0448680acc3c4daba3f77e/2750d1f4-88eb-4292-9a79-14e72721f68a-Import Commercial Invoice - Excel_XQAMZLCL052621291M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL062622326M",
     "exportsInvoiceValue": 148876.28,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -544,6 +520,12 @@
     "exportsInvoiceValue": 124745.06,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a2ffdff36c215aefb60a0a4/2a92317d-c33c-43f3-873a-c149449e80d8-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621665M",
+    "exportsInvoiceValue": 8679.6,
+    "shipper": "paul brothers my stationery mart",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ba7483e6f4605346989cf9/bookings-docs/6a140ea24302a9669bdb02f5/a31347a1-511a-4d18-b12b-4e85480e5b8c.xls"
   },
   {
     "quoteId": "XQAMZLCL052620976M",
