@@ -414,12 +414,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c34b8b91b40da9d604da7/bookings-docs/6a0d719d6c27c60ec9750301/03022f17-2532-4a94-b28f-221ed9195127.xlsx"
   },
   {
-    "quoteId": "XQFCL042620656",
-    "exportsInvoiceValue": 87779.5,
-    "shipper": "JF Home Leisure",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69732cd95f6af3beceae3ea6/execution-documents/69e77566d8406ad903574e77/8e3266cc-7763-4f19-a237-2e10500796c4-Commercial Invoice_XQFCL042620656.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL052621403M",
     "exportsInvoiceValue": 127605.0,
     "shipper": "kent ro systems limited",
@@ -460,6 +454,12 @@
     "exportsInvoiceValue": 129922.0,
     "shipper": "gautam international",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c9371640b40e220f568b39/execution-documents/6a21411b867e2992f218c521/ed061288-9dab-483e-8df3-74eafa8e527b-EXPORT Commercial Invoice_XQAMZFCL062621928M UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621741M",
+    "exportsInvoiceValue": 4404.0,
+    "shipper": "amit bhandari",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6711e173101051070927f1b1/execution-documents/6a1685e213d85ff6760b9258/815f972c-5400-4824-9bcd-d03cdd241f8d-Export Commercial Invoice - Excel_XQAMZLCL052621741M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621622M",
@@ -532,6 +532,12 @@
     "exportsInvoiceValue": 124745.06,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a2ffdff36c215aefb60a0a4/2a92317d-c33c-43f3-873a-c149449e80d8-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622175M",
+    "exportsInvoiceValue": 8164.47,
+    "shipper": "caterpillar signs pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a2a7ac05d9a9e3f8ee6cfda/02bd3ed6-27da-419e-9d2a-cfa5fcbd856d-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622175M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621665M",
