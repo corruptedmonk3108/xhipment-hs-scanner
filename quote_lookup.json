@@ -60,10 +60,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698d441475ab4194d75e9835/execution-documents/6a217e261a21b5fd1d4fd975/700c0f09-2503-49bc-9633-8b296a56bd08-Commercial Invoice_XQAMZLCL062622013M (3).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0626185993",
+    "exportsInvoiceValue": 540.0,
+    "shipper": "voll sante",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=661d2f0e696e180b57ddc53c/bookings-docs/6a43b70374fccde39a9e3746/8fa5eeb3-3583-46a1-b9dc-e0f20b37f116.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622013M",
     "exportsInvoiceValue": 44310.0,
     "shipper": "shreeram online",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698d441475ab4194d75e9835/execution-documents/6a217e261a21b5fd1d4fd975/e21f29f7-e98f-490c-b80d-5b10a6f3a169-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622013M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726187400",
+    "exportsInvoiceValue": 576.0,
+    "shipper": "MASOFTA INC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a463bded73956c31be5a750/bookings-docs/6a48e433d952c19593a0e5fa/32828b53-d86b-4de8-8ed7-40141c3980ef.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726186505",
+    "exportsInvoiceValue": 447.52,
+    "shipper": "satyam",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4212fc351f69777e7c61dc/execution-documents/6a4548e62b3c1250ebd690c3/50be82d6-0192-4971-b7d6-6d76c95dc391-CI XQAMZAIR0726186505 (satyam).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621586M",
@@ -478,12 +496,6 @@
     "exportsInvoiceValue": 2400.0,
     "shipper": "desiboardgames india",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/69f584cf5e6ec83ecdd196b1/b5f9ee7c-523f-453d-b9ec-8eff1eddb6fc-Export Commercial Invoice - Excel_XQAMZLCL052620976M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621505M",
-    "exportsInvoiceValue": 33200.0,
-    "shipper": "butterfly edufields pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68370c625aa0e5bb683499c1/execution-documents/6a0d4b66d5a4a542281551fe/2a62652a-4c13-4c50-a13b-a69342252436-Export Commercial Invoice - Excel_XQAMZLCL052621505M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620528M",
