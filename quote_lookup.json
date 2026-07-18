@@ -6,16 +6,40 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a168475fe8334b0d22d3651/execution-documents/6a16e1d35f803fcc66c292a5/c8bd47bd-bc78-45a3-94b2-a9873e79356e-CI_PL (1).xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062621893M",
+    "exportsInvoiceValue": 119752.04,
+    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a1d380b50fe035d1a6ebf9b/8b7aecd1-00ec-40c9-ac0e-2033b39ddd36-Destination Invoice_XQAMZFCL062621893M (CI- 2).xls"
+  },
+  {
     "quoteId": "XQLCL062622278",
     "exportsInvoiceValue": 27870.0,
     "shipper": "Tru Tension ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68dd12c90b210c0cc578858c/bookings-docs/6a327bb77010091f8f3dc98f/49e53bda-c8f8-4d12-b8bb-a0f64df8d744.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062621893M",
+    "exportsInvoiceValue": 119752.04,
+    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a1d380b50fe035d1a6ebf9b/02106f28-ba35-4807-aa27-5293d0f56fbb-Destination Invoice_XQAMZFCL062621893M (1) CI 26-27-1.xls"
+  },
+  {
     "quoteId": "XQAMZLCL052621417M",
     "exportsInvoiceValue": 2094.4,
     "shipper": "aa canvas company",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68265f8fb52bc5e7c0146e74/bookings-docs/6a0a9c95f22015ba9b03c9d1/3984d5be-c514-4a75-ba09-c7afde0321a0.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621680M",
+    "exportsInvoiceValue": 2288.0,
+    "shipper": "anshul c/o fba sunny sadh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68287776586fa2a9a7251d9c/execution-documents/6a1920c1853850def35e7b74/d19f5d71-cba4-47a5-afdf-e20cc796223e-Destination Invoice_XQAMZLCL052621680M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622286M",
+    "exportsInvoiceValue": 11840.2,
+    "shipper": "arvind and company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2b7fbbf6dc422c6ef53d63/execution-documents/6a2c026e190c203565f915ef/1b11d0bb-7a78-4f18-8c37-24a663a7380a-invoice 398 excel 95059060 CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620539M",
@@ -208,24 +232,6 @@
     "exportsInvoiceValue": 1236.59,
     "shipper": "care well impex",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f455ccfaf166477bf2b148/bookings-docs/6a0ae8a7282ca71710e6fd62/d8c550f8-3b23-4b45-aa50-f6d26d798d96.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726186420",
-    "exportsInvoiceValue": 8000.0,
-    "shipper": "maa bhagwati ethnic llp",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/bookings-docs/6a45173680f5bf82c9197c34/a457da6c-36f1-4f6f-8f3c-87c21a663763.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626178024",
-    "exportsInvoiceValue": 6158.64,
-    "shipper": "lative colours of fashion",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837d1f508d6c0fb873055f/execution-documents/6a1eafcfd41bbcc9269e5cc5/b3c38c5f-7bd1-4ab5-b6da-7625fb7acd22-CI XQAMZAIR0626178024 (lative colours of fashion).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626179526",
-    "exportsInvoiceValue": 2908.0,
-    "shipper": "goodcare pharma private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ce362a220a8948b7d41153/execution-documents/6a26a7e459df76a71fced610/1d4ea587-c624-4292-9116-22ee9bd265f0-CI XQAMZAIR0626179526 (goodcare pharma private limited).xlsx"
   },
   {
     "quoteId": "XQAIR062622607",
@@ -426,12 +432,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a92863026c685ceb2fac7b/execution-documents/6a06c3cca769f287c930f104/4858ef5b-edf8-4675-82e5-5a636c206ee2-INVOICE NO.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL062621917M",
-    "exportsInvoiceValue": 36348.34,
-    "shipper": "Tapes n More",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/bookings-docs/6a1d8e317b6544e36cc2cc9b/fbd5160f-a972-454e-97f6-4bc477ae4d2f.xls"
-  },
-  {
     "quoteId": "XQAMZFCL062622009M",
     "exportsInvoiceValue": 42283.32,
     "shipper": "metis learning solutions pvt ltd",
@@ -478,12 +478,6 @@
     "exportsInvoiceValue": 3866.0,
     "shipper": "ajay jain",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=672a28d7dbfa634b146b703e/execution-documents/69f8b47799b0db3178f7a30e/35ce953f-4148-49d5-b4b4-da8fc761118c-Export Commercial Invoice - Excel_XQAMZLCL052620973M ci.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726187886",
-    "exportsInvoiceValue": 14623.66,
-    "shipper": "Sljivo Trading GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a4d05634edd6ec8e67afbe6/aa6ff9ea-b548-4971-be0d-e8fcee1a321b-CI XQAMZAIR0726187886 (Sljivo Trading GmbH).xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622188M",
@@ -598,12 +592,6 @@
     "exportsInvoiceValue": 2212.26,
     "shipper": "just for you designs",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697a187306029821d6b6d0a9/execution-documents/6a01edfda76a4ef95ae3fd2e/6876dbc3-82b1-4cf7-801f-a327c2b00b22-Export Commercial Invoice - Excel_XQAMZLCL052621201M (1) CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626185126",
-    "exportsInvoiceValue": 6256.0,
-    "shipper": "farhan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6819f708b326f93fa2eba6e6/execution-documents/6a421baed17bf0103c3d29ad/e50fce13-d700-4ef2-bf3f-a2d6d6365656-CI XQAMZAIR0626185126 (Farhan).pdf"
   },
   {
     "quoteId": "XQAMZLCL062622037M",
