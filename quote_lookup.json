@@ -42,6 +42,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2b7fbbf6dc422c6ef53d63/execution-documents/6a2c026e190c203565f915ef/1b11d0bb-7a78-4f18-8c37-24a663a7380a-invoice 398 excel 95059060 CI.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622087M",
+    "exportsInvoiceValue": 46692.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a241894bd7ee577781e3507/f3c77850-36b0-4205-b23a-621bdda2c546.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL042620539M",
     "exportsInvoiceValue": 3109.07,
     "shipper": "bikaji foods international  limited",
@@ -58,6 +64,12 @@
     "exportsInvoiceValue": 26035.32,
     "shipper": "H.R INDUSTRIES",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=666a8286d25637405b0e926e/execution-documents/69f9593913554d0fd48e1b61/3307d4bd-53ef-40f5-9002-09662f33464c-Export Commercial Invoice - Excel_XQAMZLCL052620998M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622087M",
+    "exportsInvoiceValue": 46692.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a241894bd7ee577781e3507/103d9b9c-9aba-43d7-b2a4-355315ddca48-AL-268(2026) - HTS Invoice.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622013M",
@@ -124,6 +136,18 @@
     "exportsInvoiceValue": 180.0,
     "shipper": "global contract packers ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3a512cc13868b8dff4963b/execution-documents/6a50ae6494089d6d1152da6d/534d5c34-7e1b-46a7-a309-6eca251006aa-CI XQAMZAIR0726188874 (global contract packers ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZFCL062622087M",
+    "exportsInvoiceValue": 46692.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a241894bd7ee577781e3507/c99f03f3-6bae-49c6-a6a3-48bd38a559c5-INV WHF-07 171 BOX - TAX INV.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622097M",
+    "exportsInvoiceValue": 108774.38,
+    "shipper": "tamannah creatio",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/execution-documents/6a2666893641657863aab49c/68e99d57-57cc-45b5-abe4-1e8d2341be75-Export Commercial Invoice - Excel_XQAMZLCL062622097M UP.xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621498M",
