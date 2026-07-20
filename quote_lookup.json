@@ -84,6 +84,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698d441475ab4194d75e9835/execution-documents/6a217e261a21b5fd1d4fd975/ad1feeb0-15e8-4c39-98cb-709a09fede1d-Commercial Invoice_XQAMZLCL062622013M (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062621890M",
+    "exportsInvoiceValue": 3140.62,
+    "shipper": "LEAFORNA",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/6a1d2c8fc9b44ecc55ba59d1/d8e89b18-1e01-4838-805f-99d768f24347-Export Commercial Invoice - Excel_XQAMZLCL062621890M (CI new).xls"
+  },
+  {
     "quoteId": "XQAMZLCL052621211M",
     "exportsInvoiceValue": 749.95,
     "shipper": "bharat adwani",
@@ -102,10 +108,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698d441475ab4194d75e9835/execution-documents/6a217e261a21b5fd1d4fd975/e013180b-3848-4eb2-a938-0ad80eac3bbc-Commercial Invoice_XQAMZLCL062622013M (4).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621256M",
+    "exportsInvoiceValue": 17737.6,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a01ec7ffb49b8557a29a5ce/e317d636-f871-4ea1-9fe3-5f968a21bd7a.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0626185993",
     "exportsInvoiceValue": 540.0,
     "shipper": "voll sante",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=661d2f0e696e180b57ddc53c/bookings-docs/6a43b70374fccde39a9e3746/8fa5eeb3-3583-46a1-b9dc-e0f20b37f116.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622210M",
+    "exportsInvoiceValue": 17057.52,
+    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a2a9090310c67b25e582183/173924ce-f2b0-4382-be9b-96622e9abfa9-Commercial Invoice_XQAMZLCL062622210M (2) (1) CI.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0726187400",
@@ -358,12 +376,6 @@
     "exportsInvoiceValue": 8400.0,
     "shipper": "ubicon",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67dc8e4dd471d022cfd17452/execution-documents/6a0f1cddf2841a1a6aeefd15/547ad0c6-6ab0-43e3-a496-6b85cb3fe180-Export Commercial Invoice - Excel_XQAMZLCL052621596M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621256M",
-    "exportsInvoiceValue": 17737.6,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a01ec7ffb49b8557a29a5ce/179b1d16-aa04-4a24-8778-98e9f6314a00-INV ED-02 NF 168 BOX - Tax Inv.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621256M",
@@ -648,12 +660,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c7c4e3f89361baca25978a/execution-documents/6a056cb6ed48ddaf6ea95d7f/70847cb7-85ab-4762-8576-a7c7cbc38fa6-Export Commercial Invoice - Excel_XQAMZLCL052621379M (CI to upload).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0726188550",
-    "exportsInvoiceValue": 4593.95,
-    "shipper": "paul richmond",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68909492d1102c88bb6711dc/execution-documents/6a4f6bb69f57aac4e7359069/226985df-e559-479d-9deb-ba1c8210f0eb-CI XQAMZAIR0726188550 (paul richmond).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL052621659M",
     "exportsInvoiceValue": 1949.0,
     "shipper": "DE Distribution",
@@ -664,18 +670,6 @@
     "exportsInvoiceValue": 21520.0,
     "shipper": "royal kraft overseas",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e38e817e82eb8c407e7946/execution-documents/6a0ac91d1d1cf9ad261c2119/d7fa320d-6f74-4b4e-bd4c-61c471c0ddba-Import Commercial Invoice - Excel_XQAMZLCL052621457M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626185967",
-    "exportsInvoiceValue": 10206.0,
-    "shipper": "emre baymar",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a43a9018afd425f55cb3618/bookings-docs/6a43a9038afd425f55cb3641/fe7ca6bd-5229-42d3-968e-6e1a56a2275a.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726188013",
-    "exportsInvoiceValue": 1425.12,
-    "shipper": "philip lawes",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e275c6f41aa69bdced6f4/execution-documents/6a4e275e6f41aa69bdced722/5cbadde8-1554-407d-a9ab-fcc24d8aec28-CI XQAMZAIR0726188013 (philip lawes).xlsx"
   },
   {
     "quoteId": "XQLCL052621715",
@@ -694,24 +688,6 @@
     "exportsInvoiceValue": 85560.0,
     "shipper": "pranav engineering",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69baaaedb710a84cc3430421/execution-documents/6a0ad2746a8f2b0b684b4620/d038f30d-e885-4fbf-908d-6b53aa618d61-Export Commercial Invoice - Excel_XQAMZFCL052621413M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0626183906",
-    "exportsInvoiceValue": 864.0,
-    "shipper": "candice carstensen",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3bd169f08734eaa29476d3/execution-documents/6a3bd16ea7d119b223d05be2/86187bb6-1dd5-42f4-9887-a415fce11671-CI XQAMZAIR0626183906 (candice carstensen).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0726187676",
-    "exportsInvoiceValue": 1812.64,
-    "shipper": "benross marketing ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32b8f00219e173780b7fca/execution-documents/6a4babc3524bdda05aa369a8/7fcf9285-107a-45fd-9e11-74b71a4d69a3-CI XQAMZAIR0726187676 (benross marketing ltd).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726188294",
-    "exportsInvoiceValue": 4446.0,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a4e86b452d8d3d11f841d72/9fa8b16c-3297-4476-bec2-40566c634933-CI XQAMZAIR0726188294 (matthias christian).XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621755M",
