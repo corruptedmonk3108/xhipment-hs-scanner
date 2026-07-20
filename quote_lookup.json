@@ -72,6 +72,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a241894bd7ee577781e3507/103d9b9c-9aba-43d7-b2a4-355315ddca48-AL-268(2026) - HTS Invoice.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622097M",
+    "exportsInvoiceValue": 108774.38,
+    "shipper": "tamannah creatio",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/bookings-docs/6a2666893641657863aab49c/a3c1f8cd-0ed1-487d-b3c0-dfde2ebe1794.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622013M",
     "exportsInvoiceValue": 44310.0,
     "shipper": "shreeram online",
@@ -142,12 +148,6 @@
     "exportsInvoiceValue": 46692.0,
     "shipper": "wagon home furnishing",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a241894bd7ee577781e3507/c99f03f3-6bae-49c6-a6a3-48bd38a559c5-INV WHF-07 171 BOX - TAX INV.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622097M",
-    "exportsInvoiceValue": 108774.38,
-    "shipper": "tamannah creatio",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6895a2fb947f5a9eed9aa1b5/execution-documents/6a2666893641657863aab49c/68e99d57-57cc-45b5-abe4-1e8d2341be75-Export Commercial Invoice - Excel_XQAMZLCL062622097M UP.xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621498M",
