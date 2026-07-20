@@ -144,6 +144,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a4e86b4e57a461610050980/a50d99f7-bc68-4ba2-9ba2-feac9a14cb48-CI XQAMZAIR0726188312 (matthias christian).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622122M",
+    "exportsInvoiceValue": 13214.0,
+    "shipper": "nikilko2017 ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a26c318e3c10069d950b396/47fa1a19-ccf6-4cae-9c29-cd4bd3d6682a-Commercial Invoice_XQAMZLCL062622122M.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0726189239",
     "exportsInvoiceValue": 19372.0,
     "shipper": "adam obeid",
@@ -172,6 +178,12 @@
     "exportsInvoiceValue": 31072.94,
     "shipper": "detilish rugs",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/6a0c729bb91b40da9d70258a/7102f33c-f09f-424b-8e0e-8065adf68d1c-Copy of XQAMZFCL052621498M_INVOICE CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622123M",
+    "exportsInvoiceValue": 7644.0,
+    "shipper": "5kind (xhipment warehouse)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a26c362771f61b8d279aa34/636ec007-47d4-4c57-bb9a-92bbcf56436c-Commercial Invoice_XQAMZLCL062622123M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZAIR0726188304",
@@ -226,6 +238,12 @@
     "exportsInvoiceValue": 2520.0,
     "shipper": "neem india products pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cbd1210800ee00f9771345/bookings-docs/6a056a8e866a1e5e248a7f7d/e76adfa7-6b5b-44e9-9a2e-9ea5adc39e83.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL042620528M",
+    "exportsInvoiceValue": 20155.22,
+    "shipper": "wishcare",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df78e6318ad0a323658a75/bookings-docs/69df87b845380e0053407e00/3be937c9-8cea-4c72-8bc2-fa363aac973f.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620891M",
@@ -574,12 +592,6 @@
     "exportsInvoiceValue": 2400.0,
     "shipper": "desiboardgames india",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a1870631ea9b392cf89a3a/execution-documents/69f584cf5e6ec83ecdd196b1/b5f9ee7c-523f-453d-b9ec-8eff1eddb6fc-Export Commercial Invoice - Excel_XQAMZLCL052620976M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL042620528M",
-    "exportsInvoiceValue": 20155.22,
-    "shipper": "wishcare",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df78e6318ad0a323658a75/execution-documents/69df87b845380e0053407e00/6353b2b7-7315-4a12-82b8-7c10e5f19039-Consolidated-CI (6) Wish care CI.xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622186M",
