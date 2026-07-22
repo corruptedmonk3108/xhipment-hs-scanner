@@ -354,12 +354,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a423e626dfd15b94aa77e2d/d5d2e509-d4f8-4e1f-9306-fae3afd05751-Commercial_Invoice_XQAMZFCL062622660M CI.xlsx"
   },
   {
-    "quoteId": "XQLCL062622464",
-    "exportsInvoiceValue": 6178.0,
-    "shipper": "Rustins Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68763c2255f5b7bd2576a4c3/execution-documents/6a352a240e50a94ba4f6efd5/4d680a17-3c6b-4d18-b34c-1a53eb2aaad1-Export Commercial Invoice - Excel_XQLCL062622464 CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623118M",
     "exportsInvoiceValue": 1466.4,
     "shipper": "gina woolman",
