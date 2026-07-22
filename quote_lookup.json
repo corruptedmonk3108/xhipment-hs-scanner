@@ -144,12 +144,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3a512cc13868b8dff4963b/execution-documents/6a50ae6494089d6d1152da6d/534d5c34-7e1b-46a7-a309-6eca251006aa-CI XQAMZAIR0726188874 (global contract packers ltd).XLSX"
   },
   {
-    "quoteId": "XQAMZFCL062622087M",
-    "exportsInvoiceValue": 46692.0,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a241894bd7ee577781e3507/4b9c2dbd-59da-45bb-857c-cc07e0c9d6e0.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL052621498M",
     "exportsInvoiceValue": 31072.94,
     "shipper": "detilish rugs",
@@ -216,12 +210,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cbd1210800ee00f9771345/bookings-docs/6a056a8e866a1e5e248a7f7d/e76adfa7-6b5b-44e9-9a2e-9ea5adc39e83.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622616M",
-    "exportsInvoiceValue": 2391.0,
-    "shipper": "t & d pharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/6a3cfdb6fd81de20df192c85/b2aa811d-a8b1-4757-a771-15acb3321291-Commercial Invoice_XQAMZLCL062622616M (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL042620891M",
     "exportsInvoiceValue": 2940.0,
     "shipper": "sharks success marketing enterprises inc.",
@@ -262,18 +250,6 @@
     "exportsInvoiceValue": 1000.09,
     "shipper": "the herbal earth",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0357fea92a74800862f636/bookings-docs/6a047c7d45bb59a2073776f4/4c690a41-83d3-48d6-9b3d-f64a39e06e61.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621730M",
-    "exportsInvoiceValue": 15093.0,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a15abba387fbeacf773b114/b1c5c6c7-5cb2-42df-9a23-8017058e1289-INV WHF-06 296 BOX - IMPORT UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621730M",
-    "exportsInvoiceValue": 15093.0,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a15abba387fbeacf773b114/5dd8f840-fa5c-4238-a454-d964132bb6ca-INV ED-03 NF 135 BOX - Tax Inv.xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622141M",
@@ -408,10 +384,46 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a423e626dfd15b94aa77e2d/d5d2e509-d4f8-4e1f-9306-fae3afd05751-Commercial_Invoice_XQAMZFCL062622660M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622616M",
+    "exportsInvoiceValue": 2391.0,
+    "shipper": "t & d pharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/bookings-docs/6a3cfdb6fd81de20df192c85/3d5f2084-4ac2-4173-acb3-b3de70752dca.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623118M",
     "exportsInvoiceValue": 1466.4,
     "shipper": "gina woolman",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a503e7d94089d6d1145a88f/execution-documents/6a54e45ac05f9b35601bbd8c/6f707c85-c12f-446e-8f56-f8251353e0e5-Export Commercial Invoice - Excel_XQAMZLCL072623118M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622087M",
+    "exportsInvoiceValue": 46692.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a241894bd7ee577781e3507/8a380595-61c4-4f1e-a2e9-6778fab3d7b6.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622276M",
+    "exportsInvoiceValue": 12040.0,
+    "shipper": "tawa one wood handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/execution-documents/6a2bdb9ae3db9500ee649546/131bdc0a-03aa-419f-bb3b-24e463fa7903-Destination Invoice_XQAMZLCL062622276M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622144M",
+    "exportsInvoiceValue": 38192.0,
+    "shipper": "velantic global llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e26a9b9b1b30c04a96fdec/execution-documents/6a27c1d55b09e3ce7e1266eb/d5a38e89-31b4-4393-8bb2-8e82f4e663ca-Import Commercial Invoice - Excel_XQAMZLCL062622144M CI new.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622649M",
+    "exportsInvoiceValue": 1224.0,
+    "shipper": "rukshan warnacula",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6983783595512a7f43d91747/execution-documents/6a3e28cab40da5dad678da3b/e0174ccf-8d47-4665-9bf6-30cf629a0f6d-EXPORT Commercial Invoice_XQAMZLCL062622649M (2).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL052621874M",
+    "exportsInvoiceValue": 39903.78,
+    "shipper": "Amay International LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b4f26e368c0968cce937f0/execution-documents/6a1d16d8a1cf171a0ec5d8ae/62eb3d90-058b-454a-bc4f-771be92fbc92-Import Commercial Invoice - Excel_XQAMZLCL052621874M (1) CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL042620339M",
@@ -438,10 +450,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690ca0876f1965bc6dcea409/bookings-docs/6a0c1c4b049820e6986c1faf/3fc70538-3d23-4876-b6d2-59df6c2fce73.csv"
   },
   {
+    "quoteId": "XQAMZLCL052621730M",
+    "exportsInvoiceValue": 15093.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a15abba387fbeacf773b114/9b8d8801-3eed-4a8f-bd6e-fd2f8db7560f.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL052621403M",
     "exportsInvoiceValue": 127605.0,
     "shipper": "kent ro systems limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a92863026c685ceb2fac7b/execution-documents/6a06c3cca769f287c930f104/8d01970f-630c-4ae4-9579-fb05c2b51d58-INVOICE NO.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621730M",
+    "exportsInvoiceValue": 15093.0,
+    "shipper": "wagon home furnishing",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a15abba387fbeacf773b114/bb1c7d4e-ad09-43a3-a052-c04d31bbc24b.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062621942M",
+    "exportsInvoiceValue": 4625.4,
+    "shipper": "hwc trading ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a1eae7c1a2b06e9ca293e4a/f6e4c5d7-e102-41f6-bdf1-018f9c98d6e5-Export Commercial Invoice - Excel_XQAMZLCL062621942M CI.xlsx"
   },
   {
     "quoteId": "XQAMZFCL052621403M",
@@ -484,6 +514,12 @@
     "exportsInvoiceValue": 148876.28,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a2fa32d761fc3d22a09cfda/3930abb9-0ca9-4b09-9782-21e8fd326c0d-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072622856M",
+    "exportsInvoiceValue": 25460.0,
+    "shipper": "greenhof gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4533a22b3c1250ebd3e3ae/execution-documents/6a4766ca2af8f26b8d5a4f9b/e9f1a2d8-f0c5-4092-86bc-61dd951e147b-Destination Invoice_XQAMZFCL072622856M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622123M",
