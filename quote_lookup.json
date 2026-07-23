@@ -570,6 +570,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4783cc2af8f26b8d5da40d/execution-documents/6a47864eb8aa9ffcb9177970/21990de4-65c4-49c5-a164-0c5f08a950df-Export Commercial Invoice - Excel_XQAMZLCL072622860M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062621892M",
+    "exportsInvoiceValue": 2377.2,
+    "shipper": "quickshine ltd c/o sae logistics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e22f019e8ca7ed78f9b783/execution-documents/6a1d2cedc9b44ecc55ba6850/33a365a4-d34a-4d4b-8c23-0993827f9aa5-EXPORT Commercial Invoice_XQAMZLCL062621892M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL052621846M",
+    "exportsInvoiceValue": 4750.2,
+    "shipper": "tyre glider ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a06d4186407f684fc96e153/execution-documents/6a19633fc396242b3a5cd93e/13e403d9-98a0-44e8-afc5-380a513b3e54-Export Commercial Invoice - Excel_XQAMZLCL052621846M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622056M",
     "exportsInvoiceValue": 8462.0,
     "shipper": "Madan Mohan textiles",
