@@ -450,6 +450,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65bc067b4a5c43fae71ec0f7/execution-documents/6a0f1b9378bcccc271bc40ab/3f4f4c32-1a54-40ca-9482-ee579695f6a4-Export Commercial Invoice - Excel_XQAMZLCL052621540M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621701M",
+    "exportsInvoiceValue": 2791.6,
+    "shipper": "paffy industries pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef5d0e04490cd45d188289/execution-documents/6a159bf55902030eda1d4ba8/554155a2-b48f-41dc-9ad9-14f2bfd566bc-Export Commercial Invoice - Excel_XQAMZLCL052621701M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062621935M",
+    "exportsInvoiceValue": 26118.48,
+    "shipper": "malani impex inc",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c18928b1a4b600d46633e2/execution-documents/6a1ea11b8e1d03bcd0f914f7/7b9dd08d-3ddb-4805-a5d9-a682b4247675-MANDALA LIFE ART INV MI 78.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622616M",
     "exportsInvoiceValue": 2391.0,
     "shipper": "t & d pharma",
