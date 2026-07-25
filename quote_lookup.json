@@ -546,12 +546,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a15abba387fbeacf773b114/9b8d8801-3eed-4a8f-bd6e-fd2f8db7560f.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL052621403M",
-    "exportsInvoiceValue": 127605.0,
-    "shipper": "kent ro systems limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a92863026c685ceb2fac7b/execution-documents/6a06c3cca769f287c930f104/8d01970f-630c-4ae4-9579-fb05c2b51d58-INVOICE NO.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621730M",
     "exportsInvoiceValue": 15093.0,
     "shipper": "wagon home furnishing",
@@ -562,12 +556,6 @@
     "exportsInvoiceValue": 4625.4,
     "shipper": "hwc trading ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a1eae7c1a2b06e9ca293e4a/f6e4c5d7-e102-41f6-bdf1-018f9c98d6e5-Export Commercial Invoice - Excel_XQAMZLCL062621942M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL052621403M",
-    "exportsInvoiceValue": 127605.0,
-    "shipper": "kent ro systems limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a92863026c685ceb2fac7b/execution-documents/6a06c3cca769f287c930f104/4858ef5b-edf8-4675-82e5-5a636c206ee2-INVOICE NO.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621496M",
