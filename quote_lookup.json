@@ -48,12 +48,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/execution-documents/6a241894bd7ee577781e3507/103d9b9c-9aba-43d7-b2a4-355315ddca48-AL-268(2026) - HTS Invoice.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621506M",
-    "exportsInvoiceValue": 2460.0,
-    "shipper": "chirag art and craft",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c34b8b91b40da9d604da7/bookings-docs/6a0d719d6c27c60ec9750301/67743ff6-6ef0-4004-b7ed-64658f5ac4a3.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621890M",
     "exportsInvoiceValue": 3140.62,
     "shipper": "LEAFORNA",
@@ -534,12 +528,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a56497e6b6e7816be17c901/4a10f702-9b69-4b9c-adeb-ca934ca0bd61-CI XQAMZAIR0726189919 (PAWEL LIPSZYC).XLSX"
   },
   {
-    "quoteId": "XQAMZLCL052621612M",
-    "exportsInvoiceValue": 26797.0,
-    "shipper": "alvaaz bin talha",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6589317d6468b5b1e1c5b2d8/bookings-docs/6a105d4de392d59a789e5a19/b9724ceb-c291-4383-9c95-6d9e94d780f4.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621927M",
     "exportsInvoiceValue": 29850.0,
     "shipper": "royal kraft overseas",
@@ -556,6 +544,30 @@
     "exportsInvoiceValue": 8517.6,
     "shipper": "mg creations",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f9ee930a7d11ab45f5f277/execution-documents/6a19358857c38631e5882f67/dccec5fd-9635-4374-af74-4e4c5cc0cabe-CDFLLC-COTTON TOWEL- INVOICE INVOICE - 11-2026-27 UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622498M",
+    "exportsInvoiceValue": 157743.8,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a38ca2a2b1f7065c97873df/10e08420-3aa9-411b-a010-40e59f6d5b4f-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726191360",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a5f21116c920e613d8eb351/6f7d0924-54fd-4158-8b2e-408b50435b94-DI XQAMZAIR0726191360 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAIR072623227",
+    "exportsInvoiceValue": 225.97,
+    "shipper": "bharat bansal",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fbf9a8e317f730b0ac0b3e/execution-documents/6a58ab76c70de840bec16fa7/deb2bf8e-a8d5-4ac4-b43f-2334cfb035a0-CI XQAIR072623227 (bharat bansal).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726188990",
+    "exportsInvoiceValue": 188.0,
+    "shipper": "bilal ahmad khan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6988b81fbad4ff349735eabf/bookings-docs/6a510161530d65f09543bdcb/f853efd4-4ad6-4fb6-8487-6deb35717b52.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622947M",
