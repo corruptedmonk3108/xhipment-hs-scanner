@@ -360,6 +360,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65ebfe1840ae489b155dfe16/execution-documents/6a2ff8a9701f8dabcb5e782f/28b49a21-0a6b-445e-bd44-376ba6295aa7-Export Inv_26-0366 UP.pdf"
   },
   {
+    "quoteId": "XQAMZLCL052621857M",
+    "exportsInvoiceValue": 556.8,
+    "shipper": "anshul c/o fba sunny sadh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6858f7aa113ed56177cb2833/bookings-docs/6a21191c4930f5eaf93c4ed2/0c9de761-5149-4717-ae74-7c48cb5bfd82.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621466M",
     "exportsInvoiceValue": 8543.05,
     "shipper": "caterpillar signs pvt. ltd",
@@ -442,6 +448,18 @@
     "exportsInvoiceValue": 116531.0,
     "shipper": "matras exporters",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/6a229af75c45fec494888aa1/f89db49d-016d-4745-8554-2819ac636905.xlsx"
+  },
+  {
+    "quoteId": "XQLCL052621690",
+    "exportsInvoiceValue": 5823.11,
+    "shipper": "Aramex / Global Transportation Services Pvt Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669fe7632fbf3f0d5b0f30d9/execution-documents/6a1532a2cc8fc99f9fe5aa7a/9ef5f9e3-4e54-4af5-8421-0f2c1460fe8c-Import Commercial Invoice - Excel_XQLCL052621690 (CI).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622319M",
+    "exportsInvoiceValue": 18086.95652,
+    "shipper": "salvi international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2ecc3946dab413cabcdebd/execution-documents/6a30dc94ef8237cd53ad8c5a/c3a30ca1-a81a-45f4-bc05-ef2d05538bd1-EXP36 US_comm CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622616M",
