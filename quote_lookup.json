@@ -348,6 +348,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a438689bd254ff1d02da367/2d15add1-2b52-40c6-ab8e-b93c2ec0f00b-Export Commercial Invoice - Excel_XQAMZLCL062622757M (CI).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622457M",
+    "exportsInvoiceValue": 76664.0,
+    "shipper": "muqeem and brothers pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/6a351f19dfafa402deff2b80/81624ec0-d15d-4257-96e8-6a36aa9943c4-INV_MB-2627-0119_Under GST_XQAMZLCL062622457M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622335M",
+    "exportsInvoiceValue": 177129.13,
+    "shipper": "Parts World LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65ebfe1840ae489b155dfe16/execution-documents/6a2ff8a9701f8dabcb5e782f/28b49a21-0a6b-445e-bd44-376ba6295aa7-Export Inv_26-0366 UP.pdf"
+  },
+  {
     "quoteId": "XQAMZLCL052621466M",
     "exportsInvoiceValue": 8543.05,
     "shipper": "caterpillar signs pvt. ltd",
