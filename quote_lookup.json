@@ -60,12 +60,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/bookings-docs/6a018e4faf3c2ecbd1a7e3dd/9c4186b5-bbe5-4db2-a6eb-58d443f4624a.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621173M",
-    "exportsInvoiceValue": 7344.8,
-    "shipper": "m/s taran enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fe379db229f97f2aae7f1d/bookings-docs/69fec59c4e0a443de31aeb9a/941eb0a8-2bc6-4ab9-8231-85e8c17d3e21.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622182M",
     "exportsInvoiceValue": 9922.0,
     "shipper": "Games to Get Ltd",
@@ -208,12 +202,6 @@
     "exportsInvoiceValue": 1384.6,
     "shipper": "migani crafts and exports pvt. ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f6356c5d810b2cc9ff2585/execution-documents/6a1a72a970227a0d93e4c7fd/2986b8f0-e021-49ae-ba9d-36f407e13ea7-Export Commercial Invoice - Excel_XQAMZLCL052621853M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621184M",
-    "exportsInvoiceValue": 395884.1089,
-    "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f0f1e6068dcc233f0fb232/execution-documents/69ff2c5a6f3b9a5411acd06c/80e7fdad-a667-4418-8260-734231609d81-US_489_KHTPL_300 UP.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072622977M",
@@ -570,6 +558,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6988b81fbad4ff349735eabf/bookings-docs/6a510161530d65f09543bdcb/f853efd4-4ad6-4fb6-8487-6deb35717b52.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0726191106",
+    "exportsInvoiceValue": 1499.1,
+    "shipper": "yogesh dawar",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5de74074b88b9e7f6bbaf0/execution-documents/6a5de74474b88b9e7f6bbb27/b42ecdfb-a84f-414a-810c-f63a0db3555f-CI XQAMZAIR0726191106 (yogesh dawar).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072622947M",
     "exportsInvoiceValue": 1814.0,
     "shipper": "kyzen media ltd",
@@ -706,12 +700,6 @@
     "exportsInvoiceValue": 8164.47,
     "shipper": "caterpillar signs pvt. ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a2a7ac05d9a9e3f8ee6cfda/02bd3ed6-27da-419e-9d2a-cfa5fcbd856d-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622175M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072622860M",
-    "exportsInvoiceValue": 3116.12,
-    "shipper": "the quilted bear ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4783cc2af8f26b8d5da40d/execution-documents/6a47864eb8aa9ffcb9177970/21990de4-65c4-49c5-a164-0c5f08a950df-Export Commercial Invoice - Excel_XQAMZLCL072622860M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062621892M",
