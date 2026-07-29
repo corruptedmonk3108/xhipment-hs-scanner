@@ -12,12 +12,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a1d380b50fe035d1a6ebf9b/8b7aecd1-00ec-40c9-ac0e-2033b39ddd36-Destination Invoice_XQAMZFCL062621893M (CI- 2).xls"
   },
   {
-    "quoteId": "XQLCL062622278",
-    "exportsInvoiceValue": 27870.0,
-    "shipper": "Tru Tension ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68dd12c90b210c0cc578858c/bookings-docs/6a327bb77010091f8f3dc98f/49e53bda-c8f8-4d12-b8bb-a0f64df8d744.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL062621893M",
     "exportsInvoiceValue": 119752.04,
     "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
@@ -456,12 +450,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c18928b1a4b600d46633e2/execution-documents/6a1ea11b8e1d03bcd0f914f7/7b9dd08d-3ddb-4805-a5d9-a682b4247675-MANDALA LIFE ART INV MI 78.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622319M",
-    "exportsInvoiceValue": 18086.95652,
-    "shipper": "salvi international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2ecc3946dab413cabcdebd/execution-documents/6a30dc94ef8237cd53ad8c5a/c3a30ca1-a81a-45f4-bc05-ef2d05538bd1-EXP36 US_comm CI.xlsx"
-  },
-  {
     "quoteId": "XQLCL052621690",
     "exportsInvoiceValue": 5823.11,
     "shipper": "Aramex / Global Transportation Services Pvt Ltd",
@@ -490,12 +478,6 @@
     "exportsInvoiceValue": 38192.0,
     "shipper": "velantic global llp",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e26a9b9b1b30c04a96fdec/execution-documents/6a27c1d55b09e3ce7e1266eb/d5a38e89-31b4-4393-8bb2-8e82f4e663ca-Import Commercial Invoice - Excel_XQAMZLCL062622144M CI new.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622649M",
-    "exportsInvoiceValue": 1224.0,
-    "shipper": "rukshan warnacula",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6983783595512a7f43d91747/execution-documents/6a3e28cab40da5dad678da3b/e0174ccf-8d47-4665-9bf6-30cf629a0f6d-EXPORT Commercial Invoice_XQAMZLCL062622649M (2).XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621874M",
@@ -780,10 +762,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a54c098bd9ea6a86e987645/b60c2353-cd89-4484-96e4-b96235539b5c-Import Commercial Invoice - Excel_XQAMZFCL072623110M CI new.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622319M",
+    "exportsInvoiceValue": 18086.95652,
+    "shipper": "salvi international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2ecc3946dab413cabcdebd/bookings-docs/6a30dc94ef8237cd53ad8c5a/3ca0849f-0e59-4041-a9eb-6ace5edae569.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622175M",
     "exportsInvoiceValue": 8164.47,
     "shipper": "caterpillar signs pvt. ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a2a7ac05d9a9e3f8ee6cfda/02bd3ed6-27da-419e-9d2a-cfa5fcbd856d-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622175M (CI).xlsx"
+  },
+  {
+    "quoteId": "XQFCL062622397",
+    "exportsInvoiceValue": 52065.02,
+    "shipper": "Formbench GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68306da843c20a23d55fa8c7/execution-documents/6a3287e4c0d9ef7d6a24d2cb/b62f8214-f448-46d2-a344-eb490e21c22e-Commercial Invoice_XQFCL062622397 UP.pdf"
   },
   {
     "quoteId": "XQAMZLCL052621846M",
