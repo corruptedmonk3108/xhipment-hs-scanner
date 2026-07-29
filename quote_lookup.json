@@ -84,12 +84,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a44d6b05bc4ea77e5872dd7/7d25916b-8727-4c1e-bab7-8978ee757ace-EXPORT Commercial Invoice_XQAMZLCL072622796M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL062622182M",
-    "exportsInvoiceValue": 9922.0,
-    "shipper": "Games to Get Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68496cd30cc098423b114625/execution-documents/6a2932c0433a317a85689d45/13a3a368-bb9a-4531-90ff-1d7c06ea0f59-Export Commercial Invoice - Excel_XQAMZLCL062622182M (CI).xlsb"
-  },
-  {
     "quoteId": "XQAMZLCL062621961M",
     "exportsInvoiceValue": 1250.75,
     "shipper": "manuscript pen company ltd",
@@ -612,12 +606,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a15abba387fbeacf773b114/bb1c7d4e-ad09-43a3-a052-c04d31bbc24b.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062621942M",
-    "exportsInvoiceValue": 4625.4,
-    "shipper": "hwc trading ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a1eae7c1a2b06e9ca293e4a/f6e4c5d7-e102-41f6-bdf1-018f9c98d6e5-Export Commercial Invoice - Excel_XQAMZLCL062621942M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621496M",
     "exportsInvoiceValue": 3037.0,
     "shipper": "farooq alam",
@@ -862,12 +850,6 @@
     "exportsInvoiceValue": 3406.03,
     "shipper": "edgeup ventures llc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/6a014963c57591e1bfd8c373/8bf6f692-5a8f-4852-be8a-614f9e621ece-Export Commercial Invoice - Excel_XQAMZLCL052621130M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622577M",
-    "exportsInvoiceValue": 2145.0,
-    "shipper": "astro imaging guides",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3bc2db4348674246d8746a/execution-documents/6a3be98ea7d119b223e1a9e1/3e4345da-fd5a-4ad3-82df-cf0ece754b6d-EXPORT Commercial Invoice_XQAMZLCL062622577M (CI).XLSX"
   },
   {
     "quoteId": "XQFCLST072622840",
