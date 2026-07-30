@@ -84,12 +84,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ef3bc4b71045651f6e3a2/execution-documents/6a1efc335276198c12a13790/c587f77d-e242-418d-9529-b616eb082e7c-Export Commercial Invoice - Excel_XQAMZLCL062621961M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0726189226",
-    "exportsInvoiceValue": 2159.46,
-    "shipper": "adam obeid",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a525bbb134b6524c5d55b86/execution-documents/6a525bbe134b6524c5d55bab/ddc75540-a2f9-480c-9320-1f8ec12641a7-CI XQAMZAIR0726189226 (adam obeid).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL052621675M",
     "exportsInvoiceValue": 4146.33,
     "shipper": "deepika dhiman",
@@ -112,12 +106,6 @@
     "exportsInvoiceValue": 375.0,
     "shipper": "Holmdale Print",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a54e62accd7a0f410cb61a/execution-documents/6a3e60ec6c193b3bd4649e67/9d7ba234-ecff-4206-a21c-f3a575f343f3-Export Commercial Invoice - Excel_XQAMZLCL062622664M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726188304",
-    "exportsInvoiceValue": 3762.0,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a4e86b42cd2b2f92117f91e/b4fa7ae4-3105-423c-aa7a-63e997804f8d-CI XQAMZAIR0726188304 (matthias christian).XLSX"
   },
   {
     "quoteId": "XQAMZLCL062622321M",
@@ -672,12 +660,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68287776586fa2a9a7251d9c/execution-documents/6a3017c757f863d6df748f2e/59094875-253b-45a0-847b-de9a28f51c65-Destination Invoice_XQAMZLCL062622245M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL062622163M",
-    "exportsInvoiceValue": 55399.0,
-    "shipper": "rig cosmetics limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/bookings-docs/6a296efd481202d52fc339ab/fdfc2419-ae73-4705-93e2-ffef5b2875f6.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622208M",
     "exportsInvoiceValue": 46731.0,
     "shipper": "Carmel Organics",
@@ -772,6 +754,12 @@
     "exportsInvoiceValue": 3406.03,
     "shipper": "edgeup ventures llc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/6a014963c57591e1bfd8c373/8bf6f692-5a8f-4852-be8a-614f9e621ece-Export Commercial Invoice - Excel_XQAMZLCL052621130M (CI).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL062622163M",
+    "exportsInvoiceValue": 55399.0,
+    "shipper": "rig cosmetics limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/bookings-docs/6a296efd481202d52fc339ab/bbeb1ebd-a068-49a0-ac35-4342c3f6a870.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621551M",
