@@ -114,6 +114,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4533a22b3c1250ebd3e3ae/bookings-docs/6a4766ca2af8f26b8d5a4f9b/232e1122-d60e-4b2b-81e2-d07d35b8df04.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622163M",
+    "exportsInvoiceValue": 55399.0,
+    "shipper": "rig cosmetics limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/bookings-docs/6a296efd481202d52fc339ab/090f49fc-447e-43f8-8c9b-d1f6b1d52c6f.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621551M",
+    "exportsInvoiceValue": 674.1,
+    "shipper": "fimex international limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0d956216334dd9eb4fa637/bookings-docs/6a0ed9e11838690b3ecfef73/91232c8d-26b2-44fd-8d7f-52b51e42aeea.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL062621901M",
+    "exportsInvoiceValue": 61400.0,
+    "shipper": "muqeem and brothers pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/6a23904245db0e291deff478/61fa9115-3237-433c-a1b7-0eb14e03f652-INV_MB-2627-0118_Under GST_XQAMZLCL062621901M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621675M",
     "exportsInvoiceValue": 4146.33,
     "shipper": "deepika dhiman",
@@ -736,18 +754,6 @@
     "exportsInvoiceValue": 3406.03,
     "shipper": "edgeup ventures llc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5927e05aeff8e8727fa0/execution-documents/6a014963c57591e1bfd8c373/8bf6f692-5a8f-4852-be8a-614f9e621ece-Export Commercial Invoice - Excel_XQAMZLCL052621130M (CI).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622163M",
-    "exportsInvoiceValue": 55399.0,
-    "shipper": "rig cosmetics limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df5077a6f49bc04d9764e1/bookings-docs/6a296efd481202d52fc339ab/bbeb1ebd-a068-49a0-ac35-4342c3f6a870.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621551M",
-    "exportsInvoiceValue": 674.1,
-    "shipper": "fimex international limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0d956216334dd9eb4fa637/execution-documents/6a0ed9e11838690b3ecfef73/3bacba76-1039-4dea-8ba6-82fd569bc3b5-EXPORT Commercial Invoice_XQAMZLCL052621551M CI new.XLSX"
   },
   {
     "quoteId": "XQAMZLCL042620782M",
