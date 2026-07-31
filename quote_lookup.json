@@ -96,10 +96,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a44d6b05bc4ea77e5872dd7/7d25916b-8727-4c1e-bab7-8978ee757ace-EXPORT Commercial Invoice_XQAMZLCL072622796M.XLSX"
   },
   {
+    "quoteId": "XQAMZAIR0726192031",
+    "exportsInvoiceValue": 2120.4,
+    "shipper": "Prestige Pets",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6125142729fe58e4210f1d/execution-documents/6a6125182729fe58e4210fab/1977aaee-941b-4878-bb9f-ed0268de3aea-DI XQAMZAIR0726192031 (Prestige Pets).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062621961M",
     "exportsInvoiceValue": 1250.75,
     "shipper": "manuscript pen company ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ef3bc4b71045651f6e3a2/execution-documents/6a1efc335276198c12a13790/c587f77d-e242-418d-9529-b616eb082e7c-Export Commercial Invoice - Excel_XQAMZLCL062621961M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726192214",
+    "exportsInvoiceValue": 896.0,
+    "shipper": "jack deboo",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d7846b32c06081c8eb4994/bookings-docs/6a61f9a2e1b6e79b5f30bd29/6b3e5957-b631-47b4-b586-0a532b788bd2.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726192477",
+    "exportsInvoiceValue": 1842.72,
+    "shipper": "antony mckittrick",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6254b43e307eb3be3add65/execution-documents/6a6254b63e307eb3be3add8e/26fab3f6-8148-4dc2-9a3a-de9954d06370-CI XQAMZAIR0726192477 (antony mckittrick).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621675M",
