@@ -6,22 +6,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16f9995a8c5da8bdfedb62/execution-documents/6a1936398b42c70328c716c9/297042b0-f598-47c1-987f-1938db0b45c0-Export Commercial Invoice - Excel_XQAMZLCL052621824M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL062621893M",
-    "exportsInvoiceValue": 119752.04,
-    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a1d380b50fe035d1a6ebf9b/8b7aecd1-00ec-40c9-ac0e-2033b39ddd36-Destination Invoice_XQAMZFCL062621893M (CI- 2).xls"
-  },
-  {
     "quoteId": "XQAMZLCL072623239M",
     "exportsInvoiceValue": 21170.71,
     "shipper": "millbank trading uk limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698dab3ff1f1ee58570f5efe/execution-documents/6a58ecb2e8146ec038615709/4241eed3-9fff-4de3-bf21-bc6bd608d440-Export Commercial Invoice - Excel_XQAMZLCL072623239M UP.xls"
-  },
-  {
-    "quoteId": "XQAMZFCL062621893M",
-    "exportsInvoiceValue": 119752.04,
-    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a1d380b50fe035d1a6ebf9b/02106f28-ba35-4807-aa27-5293d0f56fbb-Destination Invoice_XQAMZFCL062621893M (1) CI 26-27-1.xls"
   },
   {
     "quoteId": "XQAMZLCL052621417M",
@@ -118,6 +106,12 @@
     "exportsInvoiceValue": 1842.72,
     "shipper": "antony mckittrick",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6254b43e307eb3be3add65/execution-documents/6a6254b63e307eb3be3add8e/26fab3f6-8148-4dc2-9a3a-de9954d06370-CI XQAMZAIR0726192477 (antony mckittrick).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072622856M",
+    "exportsInvoiceValue": 25460.0,
+    "shipper": "greenhof gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4533a22b3c1250ebd3e3ae/bookings-docs/6a4766ca2af8f26b8d5a4f9b/232e1122-d60e-4b2b-81e2-d07d35b8df04.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621675M",
@@ -556,12 +550,6 @@
     "exportsInvoiceValue": 2592.0,
     "shipper": "swish global golf ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3679dee003d985c86229d4/execution-documents/6a368a1af1a997f3b4799fc3/686671eb-6cfd-4ae7-abe7-6048f75ab864-Export Commercial Invoice - Excel_XQAMZLCL062622481M CI new.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072622856M",
-    "exportsInvoiceValue": 25460.0,
-    "shipper": "greenhof gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4533a22b3c1250ebd3e3ae/execution-documents/6a4766ca2af8f26b8d5a4f9b/e9f1a2d8-f0c5-4092-86bc-61dd951e147b-Destination Invoice_XQAMZFCL072622856M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621623M",
