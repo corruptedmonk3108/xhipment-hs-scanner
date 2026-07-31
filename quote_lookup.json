@@ -12,6 +12,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a1d380b50fe035d1a6ebf9b/8b7aecd1-00ec-40c9-ac0e-2033b39ddd36-Destination Invoice_XQAMZFCL062621893M (CI- 2).xls"
   },
   {
+    "quoteId": "XQAMZLCL072623239M",
+    "exportsInvoiceValue": 21170.71,
+    "shipper": "millbank trading uk limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698dab3ff1f1ee58570f5efe/execution-documents/6a58ecb2e8146ec038615709/4241eed3-9fff-4de3-bf21-bc6bd608d440-Export Commercial Invoice - Excel_XQAMZLCL072623239M UP.xls"
+  },
+  {
     "quoteId": "XQAMZFCL062621893M",
     "exportsInvoiceValue": 119752.04,
     "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
@@ -30,6 +36,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2b7fbbf6dc422c6ef53d63/execution-documents/6a2c026e190c203565f915ef/1b11d0bb-7a78-4f18-8c37-24a663a7380a-invoice 398 excel 95059060 CI.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622539M",
+    "exportsInvoiceValue": 165323.0,
+    "shipper": "Wyldsson Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a3a69ed460623bcf84d74e6/25533c50-46f0-4e4d-a56d-1e5dee017a69-Export Commercial Invoice - Excel_XQAMZFCL062622539M.pdf"
+  },
+  {
     "quoteId": "XQAMZFCL062622647M",
     "exportsInvoiceValue": 30355.0,
     "shipper": "apl",
@@ -46,6 +58,12 @@
     "exportsInvoiceValue": 8163.8,
     "shipper": "bja trading limited t/a birkdale sales",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/execution-documents/6a3be7aca7d119b223e17e61/5205c836-af47-490d-82aa-a22db2194291-Export Commercial Invoice - Excel_XQAMZLCL062622587M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL062622279",
+    "exportsInvoiceValue": 88112.3181,
+    "shipper": "TK Logistics Solutions",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669b5a441c7962187e4bf1ba/execution-documents/6a2be840d451b556cc474676/80004de8-e825-49d1-893d-342a81861dac-Export Commercial Invoice - Excel_XQLCL062622280 (1).xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622370M",
@@ -100,12 +118,6 @@
     "exportsInvoiceValue": 43930.88,
     "shipper": "metis learning solutions pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a4b859041c4d47d9d0b6c63/a75b78e1-1b0e-4d40-9150-b488261ff6a9-Export Commercial Invoice - Excel_XQAMZFCL072622914M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622664M",
-    "exportsInvoiceValue": 375.0,
-    "shipper": "Holmdale Print",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65a54e62accd7a0f410cb61a/execution-documents/6a3e60ec6c193b3bd4649e67/9d7ba234-ecff-4206-a21c-f3a575f343f3-Export Commercial Invoice - Excel_XQAMZLCL062622664M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622321M",
@@ -180,12 +192,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696cc4b1d014f8d986f20d7e/execution-documents/6a27c4f09fdae49bb29c8cb5/fb2a1533-0568-48f5-918d-993d096d2c34-Export Commercial Invoice - Excel_XQAMZLCL062622136M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072622977M",
-    "exportsInvoiceValue": 122902.0,
-    "shipper": "Well Made Gifts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66312a95075abb31b85ab94d/execution-documents/6a4e23bbdfba9e5f443c015c/840ba75f-402e-4310-bbbf-7a5291987c42-Export Commercial Invoice - Excel_XQAMZFCL072622977M CI new.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622413M",
     "exportsInvoiceValue": 19527.0,
     "shipper": "nostalgic-art merchandising gmbh",
@@ -216,12 +222,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0357fea92a74800862f636/bookings-docs/6a047c7d45bb59a2073776f4/4c690a41-83d3-48d6-9b3d-f64a39e06e61.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL062622141M",
-    "exportsInvoiceValue": 30370.0,
-    "shipper": "apl",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a27ba01f17d25d1f681fdc7/11769161-33cb-4063-ba06-13612764a2e8-Import Commercial Invoice - Excel_XQAMZFCL062622141M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052620969M",
     "exportsInvoiceValue": 375.0,
     "shipper": "global leather exim",
@@ -244,12 +244,6 @@
     "exportsInvoiceValue": 2881.47,
     "shipper": "the white willow",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65e5c508d1a68555c88b4fda/execution-documents/6a214f0e8c2a019cf091e49a/942c407f-8ea9-407a-bba5-00eebfb263af-Import Commercial Invoice - Excel_XQAMZLCL062621988M (1) UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622363M",
-    "exportsInvoiceValue": 163780.94,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a31296dfbb5d341a82dd7df/9736678a-134b-4587-b59d-063329b5d8d5-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622457M",
@@ -322,12 +316,6 @@
     "exportsInvoiceValue": 5865.516867,
     "shipper": "m/s . dhingra textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f7613a6e7ee5489055c984/execution-documents/6a056a5e866a1e5e248a7b89/f6e0fd45-5042-4115-b387-b5d16fcfec11-Commercial Invoice_2.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622660M",
-    "exportsInvoiceValue": 349685.71,
-    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a423e626dfd15b94aa77e2d/d5d2e509-d4f8-4e1f-9306-fae3afd05751-Commercial_Invoice_XQAMZFCL062622660M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621504M",
@@ -624,12 +612,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a2a7ac05d9a9e3f8ee6cfda/02bd3ed6-27da-419e-9d2a-cfa5fcbd856d-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622175M (CI).xlsx"
   },
   {
-    "quoteId": "XQFCL062622397",
-    "exportsInvoiceValue": 52065.02,
-    "shipper": "Formbench GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68306da843c20a23d55fa8c7/execution-documents/6a3287e4c0d9ef7d6a24d2cb/b62f8214-f448-46d2-a344-eb490e21c22e-Commercial Invoice_XQFCL062622397 UP.pdf"
-  },
-  {
     "quoteId": "XQAMZLCL062622306M",
     "exportsInvoiceValue": 12062.0,
     "shipper": "washid ali",
@@ -688,12 +670,6 @@
     "exportsInvoiceValue": 43071.0,
     "shipper": "nutreelife",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f8a11a1048d8608341978d/execution-documents/6a3bf03da9fbf8ba425a59fb/69e8df5f-eb79-4c1f-b99d-be7c2beaf57e-EXPORT Commercial Invoice_XQAMZFCL062622589M (CI).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL052621846M",
-    "exportsInvoiceValue": 4750.2,
-    "shipper": "tyre glider ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a06d4186407f684fc96e153/execution-documents/6a19633fc396242b3a5cd93e/13e403d9-98a0-44e8-afc5-380a513b3e54-Export Commercial Invoice - Excel_XQAMZLCL052621846M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0726186582",
