@@ -168,6 +168,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a4b859041c4d47d9d0b6c63/a75b78e1-1b0e-4d40-9150-b488261ff6a9-Export Commercial Invoice - Excel_XQAMZFCL072622914M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622252M",
+    "exportsInvoiceValue": 13764.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a2bf34ae3db9500ee65f2c8/3d0f10ee-a3f5-4b0f-9cb9-85e0199589f3-Export Commercial Invoice - Excel_XQAMZLCL062622252M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622275M",
+    "exportsInvoiceValue": 3198.0,
+    "shipper": "mnh overseas",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b5bb80c8bc318ec7949560/execution-documents/6a2c13c4dd546a22b0eb08bf/03192339-8865-4fb1-9ca5-aa5aed9a0122-Import Commercial Invoice - Excel_XQAMZLCL062622275M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622137M",
+    "exportsInvoiceValue": 3275.543478,
+    "shipper": "ignite global ventures",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687f915776a42f554ef53073/execution-documents/6a27f61a364647964ef28b42/fd16fc00-b21b-4f25-9a1c-f11861b19081-Export Commercial Invoice - Excel_XQAMZLCL062622137M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622321M",
     "exportsInvoiceValue": 20845.46,
     "shipper": "Madan Mohan textiles",
@@ -178,6 +196,12 @@
     "exportsInvoiceValue": 144927.88,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a4e303edfba9e5f443cf9bb/99963e15-8058-43f2-8211-f93930501d9c-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622434M",
+    "exportsInvoiceValue": 11322.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a34d3e133f1225ee6c3c3f9/8c1b10f8-a0d9-432b-84c5-f2b4130af0ff-Export Commercial Invoice - Excel_XQAMZLCL062622434M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622321M",
@@ -220,6 +244,12 @@
     "exportsInvoiceValue": 2934.782609,
     "shipper": "hnh estore",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ffab5f61bf3e1067073cc9/execution-documents/6a2a997c036ef5f997fcee37/c4279d42-f48c-4287-8a14-819f6a89c6d1-Export Commercial Invoice - Excel_XQAMZLCL062622213M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622448M",
+    "exportsInvoiceValue": 14160.0,
+    "shipper": "Sutram Creations",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c926046d1bac3d2152c43c/execution-documents/6a34e4cac34831770612a6b7/a2ddf287-a37c-4f6b-b5e5-4b4cb00a9aaf-Invoice_100_2 UP.xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622513M",
