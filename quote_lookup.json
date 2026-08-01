@@ -108,12 +108,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6254b43e307eb3be3add65/execution-documents/6a6254b63e307eb3be3add8e/26fab3f6-8148-4dc2-9a3a-de9954d06370-CI XQAMZAIR0726192477 (antony mckittrick).xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072622856M",
-    "exportsInvoiceValue": 25460.0,
-    "shipper": "greenhof gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4533a22b3c1250ebd3e3ae/bookings-docs/6a4766ca2af8f26b8d5a4f9b/232e1122-d60e-4b2b-81e2-d07d35b8df04.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL062622163M",
     "exportsInvoiceValue": 55399.0,
     "shipper": "rig cosmetics limited",
@@ -130,6 +124,30 @@
     "exportsInvoiceValue": 61400.0,
     "shipper": "muqeem and brothers pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/6a23904245db0e291deff478/61fa9115-3237-433c-a1b7-0eb14e03f652-INV_MB-2627-0118_Under GST_XQAMZLCL062621901M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622272M",
+    "exportsInvoiceValue": 13910.36,
+    "shipper": "global hub llc",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69730102e29b7115621da1c6/execution-documents/6a2bec25356a92a49877b2b0/b11243c9-82b9-437f-b34d-18d9e434bf44-Export Commercial Invoice - Excel_XQAMZLCL062622272M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621292M",
+    "exportsInvoiceValue": 6825.52,
+    "shipper": "mayank bathla",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69298be8e2901d9dd706f3a6/execution-documents/6a0434171800e9320820041f/81922c1f-6b24-42ae-9143-a2c3f7687dac-Export Commercial Invoice - Excel_XQAMZLCL052621292M (2).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622036M",
+    "exportsInvoiceValue": 2160.0,
+    "shipper": "caleb quinones",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66daae11ba1a5a9fc766ca77/execution-documents/6a27bae2015465ee5b18ccc0/0b538288-b0f2-43c7-b9dc-35f5f5f627e8-Export Commercial Invoice - Excel_XQAMZLCL062622036M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621395M",
+    "exportsInvoiceValue": 13504.32,
+    "shipper": "Cotton Clinic",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a0702afa65adb5a82de974e/a7a993bf-d616-48dc-b379-29e86a0ed3ee-Import Commercial Invoice - Excel_XQAMZLCL052621395M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621675M",
@@ -438,18 +456,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a4e86b752d8d3d11f841e75/46ece217-760c-481f-82b8-4bec2997e65f-CI XQAMZAIR0726188323 (matthias christian).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0726191157",
-    "exportsInvoiceValue": 1593.0,
-    "shipper": "andrew bryson",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a10af88f4829d4f43cc397d/execution-documents/6a5dfcfbc47b1718ec9d5e10/f7fc9e84-8e55-4b2b-82fb-c7dfb9011048-CI XQAMZAIR0726191157 (andrew bryson).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726191422",
-    "exportsInvoiceValue": 2908.68,
-    "shipper": "opro international ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/bookings-docs/6a5f342a5fb2dcca5f3b4635/fdb415ce-3596-45d2-bae4-5535104aac95.XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL062621927M",
     "exportsInvoiceValue": 29850.0,
     "shipper": "royal kraft overseas",
@@ -496,12 +502,6 @@
     "exportsInvoiceValue": 3100.8,
     "shipper": "ankit mukeshbhai garg",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690ca0876f1965bc6dcea409/bookings-docs/6a0c1c4b049820e6986c1faf/3fc70538-3d23-4876-b6d2-59df6c2fce73.csv"
-  },
-  {
-    "quoteId": "XQAMZAIR0726192006",
-    "exportsInvoiceValue": 1573.6,
-    "shipper": "paul richmond",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68909492d1102c88bb6711dc/execution-documents/6a60e13d9b7bbbef6b2d385c/b8f53bb0-1e84-498b-98b1-2c76ebd1e47f-CI XQAMZAIR0726192006 (paul richmond).XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621730M",
