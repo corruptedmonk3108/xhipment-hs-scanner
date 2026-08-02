@@ -300,6 +300,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0357fea92a74800862f636/bookings-docs/6a047c7d45bb59a2073776f4/4c690a41-83d3-48d6-9b3d-f64a39e06e61.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622359M",
+    "exportsInvoiceValue": 4041.73913,
+    "shipper": "Bizeev LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a31159ea9e0f48a5afa0a5d/e9087427-a9bc-474f-bcfb-386f8f23c1bb-A.xls"
+  },
+  {
     "quoteId": "XQAMZLCL052620969M",
     "exportsInvoiceValue": 375.0,
     "shipper": "global leather exim",
@@ -316,6 +322,12 @@
     "exportsInvoiceValue": 2904.2,
     "shipper": "paffy industries pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef5d0e04490cd45d188289/execution-documents/6a159bd9387fbeacf7732a6d/bab95a29-0a11-4379-a394-64cdb24b672c-Export Commercial Invoice - Excel_XQAMZLCL052621699M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622450M",
+    "exportsInvoiceValue": 3888.0,
+    "shipper": "alv manufacturing company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698eef3d6c400421e97e3831/execution-documents/6a38dfe65ef892785d594ed4/af82d666-2d82-4bbd-afbb-5581540a92c1-Import Commercial Invoice - Excel_XQAMZLCL062622450M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062621988M",
