@@ -972,6 +972,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6a3917b2bbb17ecce5a99fe8/16e77d91-d2c1-4aef-bf44-ce36f4058981-Excel Invoice -  ME2627-0026 (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062621937M",
+    "exportsInvoiceValue": 8250.0,
+    "shipper": "future handmade",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a79e7397943e96874cb38/execution-documents/6a2140ee25611f8b6262b58d/5e86824b-afe7-45e1-924d-29dfb00bf32b-Import Commercial Invoice - Excel_XQAMZLCL062621937M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622121M",
+    "exportsInvoiceValue": 3202.47,
+    "shipper": "pravinkhatik",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686b92c71602d6330b8555a0/execution-documents/6a27a902b72dbdb0ec565478/9e31e0f8-b728-400f-aa26-24f4ebb2ab62-Import Commercial Invoice - Excel_XQAMZLCL062622121M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621584M",
+    "exportsInvoiceValue": 896.33,
+    "shipper": "best deal export",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/execution-documents/6a0ffff870a13184d08d39b8/1ad63754-66b9-4386-a5f7-355440ea5937-Export Commercial Invoice - Excel_XQAMZLCL052621584M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621379M",
     "exportsInvoiceValue": 1036.32,
     "shipper": "k & k aromatics",
