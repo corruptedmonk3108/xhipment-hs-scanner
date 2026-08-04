@@ -234,12 +234,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef5d0e04490cd45d188289/execution-documents/6a159bd9387fbeacf7732a6d/bab95a29-0a11-4379-a394-64cdb24b672c-Export Commercial Invoice - Excel_XQAMZLCL052621699M (1).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622450M",
-    "exportsInvoiceValue": 3888.0,
-    "shipper": "alv manufacturing company",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698eef3d6c400421e97e3831/execution-documents/6a38dfe65ef892785d594ed4/af82d666-2d82-4bbd-afbb-5581540a92c1-Import Commercial Invoice - Excel_XQAMZLCL062622450M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621988M",
     "exportsInvoiceValue": 2881.47,
     "shipper": "the white willow",
@@ -288,12 +282,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a0afb7d13063ec692f09fd4/08e40d93-5107-4b45-90cc-0cebb7f78f02-Signed & Scanned Export Commercial Invoice_XQAMZLCL052621466M (2) Ci.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621104M",
-    "exportsInvoiceValue": 3494.5,
-    "shipper": "Delphi Leather",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bfec928bb33ef411fecaa8/execution-documents/6a056d65ed48ddaf6ea98e9f/c7d2b2f8-1f47-4f4d-93ac-727cdc7c63de-Destination Invoice_XQAMZLCL052621104M (CI).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622206M",
     "exportsInvoiceValue": 9152.02,
     "shipper": "global hub llc",
@@ -322,12 +310,6 @@
     "exportsInvoiceValue": 162447.34,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a421128b37ab43b2be5b0e4/93ebad10-266c-42a6-a7bd-ef24844438d4-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622747M",
-    "exportsInvoiceValue": 21000.0,
-    "shipper": "bharat adwani",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/execution-documents/6a4387c8bd254ff1d02dd26b/4fb69e1b-58df-40a1-aedd-6df4cc39b295-Import Commercial Invoice - Excel_XQAMZLCL062622747M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623146M",
@@ -436,12 +418,6 @@
     "exportsInvoiceValue": 6075.0,
     "shipper": "Kenzen Ventures Limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ab5ddfb8f128eb29a734a6/execution-documents/6a562fa80901ac0aba10597c/31bb6c56-0b1a-4cb6-8754-6bffcd95ad5f-CI XQAIR072623156 (Kenzen Ventures Limited).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726188323",
-    "exportsInvoiceValue": 4104.0,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a4e86b752d8d3d11f841e75/46ece217-760c-481f-82b8-4bec2997e65f-CI XQAMZAIR0726188323 (matthias christian).xlsx"
   },
   {
     "quoteId": "XQFCL062622641",
@@ -618,12 +594,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e2cf933e7fafd9befbc1bd/execution-documents/6a281d439e1f4cfab09dbbb8/a736328e-0dec-4947-84d2-8604aabe1b0e-Export Commercial Invoice - Excel_XQAMZLCL062622164M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622486M",
-    "exportsInvoiceValue": 2520.0,
-    "shipper": "MEKALSUTA MARKETING",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6476f4329fdb098a16af304b/execution-documents/6a38c7ba2b1f7065c977fe68/6b03972b-134d-4ee1-8dd3-938b084a615e-Export Commercial Invoice - Excel_XQAMZLCL062622486M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621994M",
     "exportsInvoiceValue": 31589.13043,
     "shipper": "templar publishers and distributors",
@@ -754,12 +724,6 @@
     "exportsInvoiceValue": 46731.0,
     "shipper": "Carmel Organics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/bookings-docs/6a2b99ca7fec0a43195f73c6/b7846845-5301-4a39-9df5-18e1f7894c63.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072622810M",
-    "exportsInvoiceValue": 17910.0,
-    "shipper": "sam clarke",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69aadea51cf88f3933482faf/execution-documents/6a451734b9e2041baeef221c/56312250-0aa2-4c40-a713-74a53e18eb16-Export Commercial Invoice - Excel_XQAMZLCL072622810M (CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622606M",
@@ -988,6 +952,36 @@
     "exportsInvoiceValue": 896.33,
     "shipper": "best deal export",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/execution-documents/6a0ffff870a13184d08d39b8/1ad63754-66b9-4386-a5f7-355440ea5937-Export Commercial Invoice - Excel_XQAMZLCL052621584M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622764M",
+    "exportsInvoiceValue": 13879.5,
+    "shipper": "anaya agate",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68284257b3fb02d788de8a29/execution-documents/6a44ad56a3acea81c571d85c/c55aa2de-8801-48ea-8243-2461e92cca94-Import Commercial Invoice - Excel_XQAMZLCL062622764M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622810M",
+    "exportsInvoiceValue": 17910.0,
+    "shipper": "sam clarke",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69aadea51cf88f3933482faf/bookings-docs/6a451734b9e2041baeef221c/97dfc074-8996-4e3f-b3ef-2b1e7ed7bc6f.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622747M",
+    "exportsInvoiceValue": 21000.0,
+    "shipper": "bharat adwani",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/bookings-docs/6a4387c8bd254ff1d02dd26b/a684762c-fb68-4321-ab2e-50a5932b127a.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622486M",
+    "exportsInvoiceValue": 2520.0,
+    "shipper": "MEKALSUTA MARKETING",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6476f4329fdb098a16af304b/bookings-docs/6a38c7ba2b1f7065c977fe68/39b24091-369a-490e-8f9b-bf0677181f1b.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622450M",
+    "exportsInvoiceValue": 3888.0,
+    "shipper": "alv manufacturing company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698eef3d6c400421e97e3831/bookings-docs/6a38dfe65ef892785d594ed4/39cc575d-718a-4eaf-94af-bf92cd13b967.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621379M",
