@@ -762,12 +762,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a168d96f8ac747b9b4d1d73/e46305e2-2314-4579-a647-aa27809889f4-Import Commercial Invoice - Excel_XQAMZLCL052621751M CI.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622535M",
-    "exportsInvoiceValue": 5122.5,
-    "shipper": "yutika natural private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6836e4797a60102afc8782a9/execution-documents/6a3a511d39ca78edde1a9f32/512fef5a-26ef-40b8-b691-20e95fa62a2c-Export Commercial Invoice - Excel_XQAMZLCL062622535M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622480M",
     "exportsInvoiceValue": 5786.0,
     "shipper": "ankit mukeshbhai garg",
@@ -988,6 +982,18 @@
     "exportsInvoiceValue": 1036.32,
     "shipper": "k & k aromatics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c7c4e3f89361baca25978a/execution-documents/6a056cb6ed48ddaf6ea95d7f/70847cb7-85ab-4762-8576-a7c7cbc38fa6-Export Commercial Invoice - Excel_XQAMZLCL052621379M (CI to upload).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622318M",
+    "exportsInvoiceValue": 27108.72,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a2f98b43f602ede025a8f76/0f5f7f32-6ae9-4911-b1f7-d2491dc118fe-CI Destination Invoice_XQAMZLCL062622318M (1).xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622535M",
+    "exportsInvoiceValue": 5122.5,
+    "shipper": "yutika natural private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6836e4797a60102afc8782a9/bookings-docs/6a3a511d39ca78edde1a9f32/ebb364d8-d6e6-4f43-b4a9-cca50a098aae.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621457M",
