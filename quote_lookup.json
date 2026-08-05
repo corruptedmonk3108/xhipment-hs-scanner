@@ -138,12 +138,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69298be8e2901d9dd706f3a6/execution-documents/6a0434171800e9320820041f/81922c1f-6b24-42ae-9143-a2c3f7687dac-Export Commercial Invoice - Excel_XQAMZLCL052621292M (2).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622036M",
-    "exportsInvoiceValue": 2160.0,
-    "shipper": "caleb quinones",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66daae11ba1a5a9fc766ca77/execution-documents/6a27bae2015465ee5b18ccc0/0b538288-b0f2-43c7-b9dc-35f5f5f627e8-Export Commercial Invoice - Excel_XQAMZLCL062622036M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621395M",
     "exportsInvoiceValue": 13504.32,
     "shipper": "Cotton Clinic",
@@ -246,10 +240,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696cc4b1d014f8d986f20d7e/execution-documents/6a27c4f09fdae49bb29c8cb5/fb2a1533-0568-48f5-918d-993d096d2c34-Export Commercial Invoice - Excel_XQAMZLCL062622136M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622344M",
+    "exportsInvoiceValue": 1627.5,
+    "shipper": "leather forever",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696a0cb7bba46b2c32ac09f5/execution-documents/6a3216b5563a230fec4e4a47/58c0e3eb-da0a-4fb0-ad22-c026a1930fb5-Export Commercial Invoice - Excel_XQAMZLCL062622344M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622413M",
     "exportsInvoiceValue": 19527.0,
     "shipper": "nostalgic-art merchandising gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b907326a5b02aab5bfe481/execution-documents/6a339c207185be95d63813af/90183acf-dfd1-4b02-a9f6-5f915edae2b9-Commercial Invoice_XQAMZLCL062622413M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622731M",
+    "exportsInvoiceValue": 25574.0,
+    "shipper": "everse",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a8f1e43996ff342b87d9d/execution-documents/6a44b18ad5d1a06424ffb27c/f3d7e221-2bbd-44a5-8d4a-ead0c620c38d-Export Commercial Invoice - Excel_XQAMZLCL062622731M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622036M",
+    "exportsInvoiceValue": 2160.0,
+    "shipper": "caleb quinones",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66daae11ba1a5a9fc766ca77/bookings-docs/6a27bae2015465ee5b18ccc0/c8ed6cb8-f544-4952-9221-61e897387a3e.xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622645M",
@@ -496,12 +508,6 @@
     "exportsInvoiceValue": 225.97,
     "shipper": "bharat bansal",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fbf9a8e317f730b0ac0b3e/execution-documents/6a58ab76c70de840bec16fa7/deb2bf8e-a8d5-4ac4-b43f-2334cfb035a0-CI XQAIR072623227 (bharat bansal).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621857M",
-    "exportsInvoiceValue": 556.8,
-    "shipper": "anshul c/o fba sunny sadh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6858f7aa113ed56177cb2833/bookings-docs/6a21191c4930f5eaf93c4ed2/2a87ad2a-8051-4f6a-9d41-578678841ae9.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622215M",
