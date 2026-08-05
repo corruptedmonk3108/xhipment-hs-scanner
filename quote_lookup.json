@@ -282,12 +282,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a31159ea9e0f48a5afa0a5d/e9087427-a9bc-474f-bcfb-386f8f23c1bb-A.xls"
   },
   {
-    "quoteId": "XQAMZLCL052621699M",
-    "exportsInvoiceValue": 2904.2,
-    "shipper": "paffy industries pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef5d0e04490cd45d188289/execution-documents/6a159bd9387fbeacf7732a6d/bab95a29-0a11-4379-a394-64cdb24b672c-Export Commercial Invoice - Excel_XQAMZLCL052621699M (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621988M",
     "exportsInvoiceValue": 2881.47,
     "shipper": "the white willow",
@@ -370,12 +364,6 @@
     "exportsInvoiceValue": 852.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a55fe20cf97249785fbebe0/a38d3bec-0bd6-4e96-8120-b863e385c54c-Import Commercial Invoice - Excel_XQAMZLCL072623146M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621200M",
-    "exportsInvoiceValue": 1900.34,
-    "shipper": "just for you designs",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697a187306029821d6b6d0a9/execution-documents/6a01ede3c2989cd4f0a30c04/5f72e507-5560-453e-a5bb-1fa463ec04fa-Export Commercial Invoice - Excel_XQAMZLCL052621200M (CI).xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621370M",
@@ -522,12 +510,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690ca0876f1965bc6dcea409/bookings-docs/6a0c1c4b049820e6986c1faf/3fc70538-3d23-4876-b6d2-59df6c2fce73.csv"
   },
   {
-    "quoteId": "XQAMZLCL052621730M",
-    "exportsInvoiceValue": 15093.0,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a15abba387fbeacf773b114/9b8d8801-3eed-4a8f-bd6e-fd2f8db7560f.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622317M",
     "exportsInvoiceValue": 10258.0,
     "shipper": "hwc trading ltd",
@@ -538,12 +520,6 @@
     "exportsInvoiceValue": 21040.0,
     "shipper": "s a enterprises",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a3532640e50a94ba4f7491f/2f353dbd-ee3e-4b2d-84bd-b8cd040d633d-Export Commercial Invoice - Excel_XQAMZLCL062622467M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL052621730M",
-    "exportsInvoiceValue": 15093.0,
-    "shipper": "wagon home furnishing",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c81d2dd3e8a690c5a54711/bookings-docs/6a15abba387fbeacf773b114/bb1c7d4e-ad09-43a3-a052-c04d31bbc24b.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622273M",
@@ -592,12 +568,6 @@
     "exportsInvoiceValue": 5108.0,
     "shipper": "yash punjabi",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a13dca75efbc76857dac218/338ac6ce-cf21-48de-897e-7015312ba90b-Export Commercial Invoice - Excel_XQAMZLCL052621622M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622364M",
-    "exportsInvoiceValue": 30520.0,
-    "shipper": "apl",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a312eb4cf88c989db955b18/acbf7dca-f4e5-4295-9e85-59a5d7ac61a6-Import Commercial Invoice - Excel_XQAMZFCL062622364M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622084M",
@@ -918,12 +888,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/bookings-docs/6a438cfbbd254ff1d032ea8f/e20fff33-e465-4767-833e-01a16edd6f20.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062621961M",
-    "exportsInvoiceValue": 1250.75,
-    "shipper": "manuscript pen company ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ef3bc4b71045651f6e3a2/bookings-docs/6a1efc335276198c12a13790/7c2f8ef8-8486-4b3b-bd4e-b48d27ef553e.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL072623099M",
     "exportsInvoiceValue": 182802.72,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -982,12 +946,6 @@
     "exportsInvoiceValue": 13879.5,
     "shipper": "anaya agate",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68284257b3fb02d788de8a29/execution-documents/6a44ad56a3acea81c571d85c/c55aa2de-8801-48ea-8243-2461e92cca94-Import Commercial Invoice - Excel_XQAMZLCL062622764M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072622810M",
-    "exportsInvoiceValue": 17910.0,
-    "shipper": "sam clarke",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69aadea51cf88f3933482faf/bookings-docs/6a451734b9e2041baeef221c/97dfc074-8996-4e3f-b3ef-2b1e7ed7bc6f.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622747M",
