@@ -1,11 +1,5 @@
 [
   {
-    "quoteId": "XQAMZLCL052621824M",
-    "exportsInvoiceValue": 47509.68,
-    "shipper": "pai skincare",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16f9995a8c5da8bdfedb62/execution-documents/6a1936398b42c70328c716c9/297042b0-f598-47c1-987f-1938db0b45c0-Export Commercial Invoice - Excel_XQAMZLCL052621824M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622207M",
     "exportsInvoiceValue": 3069.0,
     "shipper": "mediaa minds",
@@ -270,6 +264,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a3e1d1c9d5af9c0666c0a6c/82cdb870-6139-44b5-bac0-4b92f92f149e-Invoice No.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621824M",
+    "exportsInvoiceValue": 47509.68,
+    "shipper": "pai skincare",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16f9995a8c5da8bdfedb62/bookings-docs/6a1936398b42c70328c716c9/20f2756c-f55f-4e2a-bd20-77ade6f6a6bb.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621360M",
     "exportsInvoiceValue": 1000.09,
     "shipper": "the herbal earth",
@@ -388,12 +388,6 @@
     "exportsInvoiceValue": 52157.61,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a4784af2af8f26b8d5dc253/8a896269-7b8d-427c-a080-73638cd3ae17-Export Commercial Invoice - Excel_XQAMZLCL072622858M.xlsm"
-  },
-  {
-    "quoteId": "XQLCL052621690",
-    "exportsInvoiceValue": 5823.11,
-    "shipper": "Aramex / Global Transportation Services Pvt Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669fe7632fbf3f0d5b0f30d9/bookings-docs/6a1532a2cc8fc99f9fe5aa7a/314d24c7-0802-45e2-8ca6-ea579d65b709.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622500M",
