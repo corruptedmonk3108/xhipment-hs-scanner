@@ -378,12 +378,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a3a97a4460623bcf85d62c1/2a46c334-c033-495d-9de8-41453d11b3c9-Import Commercial Invoice - Excel_XQAMZLCL062622366M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621701M",
-    "exportsInvoiceValue": 2791.6,
-    "shipper": "paffy industries pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef5d0e04490cd45d188289/execution-documents/6a159bf55902030eda1d4ba8/554155a2-b48f-41dc-9ad9-14f2bfd566bc-Export Commercial Invoice - Excel_XQAMZLCL052621701M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621935M",
     "exportsInvoiceValue": 26118.48,
     "shipper": "malani impex inc",
