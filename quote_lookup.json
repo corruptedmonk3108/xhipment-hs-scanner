@@ -252,12 +252,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16f9995a8c5da8bdfedb62/bookings-docs/6a1936398b42c70328c716c9/20f2756c-f55f-4e2a-bd20-77ade6f6a6bb.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621360M",
-    "exportsInvoiceValue": 1000.09,
-    "shipper": "the herbal earth",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0357fea92a74800862f636/bookings-docs/6a047c7d45bb59a2073776f4/4c690a41-83d3-48d6-9b3d-f64a39e06e61.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621069M",
     "exportsInvoiceValue": 8517.6,
     "shipper": "mg creations",
@@ -414,12 +408,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a3a97a4460623bcf85d62c1/2a46c334-c033-495d-9de8-41453d11b3c9-Import Commercial Invoice - Excel_XQAMZLCL062622366M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062621935M",
-    "exportsInvoiceValue": 26118.48,
-    "shipper": "malani impex inc",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c18928b1a4b600d46633e2/execution-documents/6a1ea11b8e1d03bcd0f914f7/7b9dd08d-3ddb-4805-a5d9-a682b4247675-MANDALA LIFE ART INV MI 78.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072622858M",
     "exportsInvoiceValue": 52157.61,
     "shipper": "Solino Home",
@@ -496,6 +484,18 @@
     "exportsInvoiceValue": 29850.0,
     "shipper": "royal kraft overseas",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e38e817e82eb8c407e7946/bookings-docs/6a26553f53eefbc416d938c1/ca19b9ca-d126-46aa-9cea-f8eeae9f7096.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623196M",
+    "exportsInvoiceValue": 1463.04,
+    "shipper": "etail ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ad968fb7f83df6a6311bee/execution-documents/6a575b762eba7501473a1558/0ebb3f98-6ce1-4e12-8448-f6c02de18bdf-Export Commercial Invoice - Excel_XQAMZLCL072623196M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726194687",
+    "exportsInvoiceValue": 7076.4,
+    "shipper": "joss barton",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b289ec0199aa126358969/6a6b28a0c0199aa12635899c/Commercial Invoice.XLSX"
   },
   {
     "quoteId": "XQFCL062622641",
