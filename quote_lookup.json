@@ -54,12 +54,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669b5a441c7962187e4bf1ba/execution-documents/6a2be840d451b556cc474676/80004de8-e825-49d1-893d-342a81861dac-Export Commercial Invoice - Excel_XQLCL062622280 (1).xlsx"
   },
   {
-    "quoteId": "XQAMZFCL062622370M",
-    "exportsInvoiceValue": 11590.0,
-    "shipper": "Cobra Industries Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664d96bbd1a3a6a836c1e063/execution-documents/6a31579b1675428d224dc256/e81c2e70-8a61-48a0-bbba-63080fd3bcac-Export Commercial Invoice - Excel_XQAMZFCL062622370M.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL062622365M",
     "exportsInvoiceValue": 30395.0,
     "shipper": "apl",
@@ -282,12 +276,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f0f1e6068dcc233f0fb232/execution-documents/6a48e77e555a4c8412a6c9a8/d8de5878-4709-4993-9b0e-ad5dc546c9be-Import Commercial Invoice - Excel_XQAMZLCL072622890M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062621988M",
-    "exportsInvoiceValue": 2881.47,
-    "shipper": "the white willow",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65e5c508d1a68555c88b4fda/execution-documents/6a214f0e8c2a019cf091e49a/942c407f-8ea9-407a-bba5-00eebfb263af-Import Commercial Invoice - Excel_XQAMZLCL062621988M (1) UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622564M",
     "exportsInvoiceValue": 14456.19,
     "shipper": "SK\u00a0GROUP",
@@ -334,12 +322,6 @@
     "exportsInvoiceValue": 11858.24,
     "shipper": "Rainbow Chalk Markers Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a60cea4270c0f485af0ce38/55be4dbb-cdd0-4f41-957e-05f3cc6e03be-CI XQAMZAIR0726191995 (Rainbow Chalk Markers Ltd).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622457M",
-    "exportsInvoiceValue": 76664.0,
-    "shipper": "muqeem and brothers pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/6a351f19dfafa402deff2b80/81624ec0-d15d-4257-96e8-6a36aa9943c4-INV_MB-2627-0119_Under GST_XQAMZLCL062622457M (1).xlsx"
   },
   {
     "quoteId": "XQAMZAIR0826195778",
@@ -474,12 +456,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e413565ea673446d57cf4/execution-documents/6a4e413765ea673446d57d1a/2d5d1e33-6150-450c-8355-61a2dae895a2-CI XQAMZAIR0726188129 (trade counter distribution).XLSX"
   },
   {
-    "quoteId": "XQAMZLCL062621927M",
-    "exportsInvoiceValue": 29850.0,
-    "shipper": "royal kraft overseas",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e38e817e82eb8c407e7946/bookings-docs/6a26553f53eefbc416d938c1/ca19b9ca-d126-46aa-9cea-f8eeae9f7096.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623196M",
     "exportsInvoiceValue": 1463.04,
     "shipper": "etail ltd",
@@ -592,12 +568,6 @@
     "exportsInvoiceValue": 5108.0,
     "shipper": "yash punjabi",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a13dca75efbc76857dac218/338ac6ce-cf21-48de-897e-7015312ba90b-Export Commercial Invoice - Excel_XQAMZLCL052621622M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622084M",
-    "exportsInvoiceValue": 52875.0,
-    "shipper": "Bluemoon Homes",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6a2fe9bfb51167448089d255/6a39e7f9-e9f8-4ed6-aaa8-40b37caf2ff7-Export Commercial Invoice -26-27_004 - us inv.xlsx"
   },
   {
     "quoteId": "XQLCL062622445",
