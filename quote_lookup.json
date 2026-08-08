@@ -204,12 +204,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a3937145fdeef5f445c1344/dcfc7023-3b20-4b5d-b4c8-83f9ad9955b6-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621853M",
-    "exportsInvoiceValue": 1384.6,
-    "shipper": "migani crafts and exports pvt. ltd.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f6356c5d810b2cc9ff2585/execution-documents/6a1a72a970227a0d93e4c7fd/2986b8f0-e021-49ae-ba9d-36f407e13ea7-Export Commercial Invoice - Excel_XQAMZLCL052621853M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622136M",
     "exportsInvoiceValue": 9515.52,
     "shipper": "global hub llc",
@@ -378,12 +372,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a55fe20cf97249785fbebe0/a38d3bec-0bd6-4e96-8120-b863e385c54c-Import Commercial Invoice - Excel_XQAMZLCL072623146M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621370M",
-    "exportsInvoiceValue": 5865.516867,
-    "shipper": "m/s . dhingra textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f7613a6e7ee5489055c984/execution-documents/6a056a5e866a1e5e248a7b89/f6e0fd45-5042-4115-b387-b5d16fcfec11-Commercial Invoice_2.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622366M",
     "exportsInvoiceValue": 6461.56,
     "shipper": "Cotton Clinic",
@@ -544,12 +532,6 @@
     "exportsInvoiceValue": 53010.86,
     "shipper": "caterpillar signs pvt. ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a2a7e53f7f45471429652be/a2391247-6b72-41d0-9ae1-fe91be5e67f1-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622139M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062621902M",
-    "exportsInvoiceValue": 10861.04,
-    "shipper": "Aarush International",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653899e79e77bb218ca94725/execution-documents/6a1eb353d41bbcc9269e70cd/739e59fc-2996-4638-a9b0-6e85e9ea192a-Export Commercial Invoice - Excel_XQAMZLCL062621902M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622324M",
