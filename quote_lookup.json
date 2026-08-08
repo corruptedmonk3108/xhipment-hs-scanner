@@ -438,12 +438,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66312a95075abb31b85ab94d/execution-documents/6a684ed56551a70f6d9f97db/53237491-2dad-4c35-b645-80cdbdcb47f2-Export Commercial Invoice - Excel_XQAMZLCL072623540M.xls"
   },
   {
-    "quoteId": "XQAMZLCL062622144M",
-    "exportsInvoiceValue": 38192.0,
-    "shipper": "velantic global llp",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e26a9b9b1b30c04a96fdec/execution-documents/6a27c1d55b09e3ce7e1266eb/d5a38e89-31b4-4393-8bb2-8e82f4e663ca-Import Commercial Invoice - Excel_XQAMZLCL062622144M CI new.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622643M",
     "exportsInvoiceValue": 7670.0,
     "shipper": "s a enterprises",
