@@ -516,6 +516,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696f725e3736fc7b2a5e14d0/execution-documents/6a2024d2f462a59e14b16ef2/aab09b9d-b58a-4331-bad2-9d07f1a5cb0a-Export Commercial Invoice - Excel_XQAMZLCL062621952M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072622949M",
+    "exportsInvoiceValue": 12025.2,
+    "shipper": "hwc trading ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a4cd26b481585cc10963afe/1235de72-db0c-4a43-84ea-bbaf946c30bf-Export Commercial Invoice - Excel_XQAMZLCL072622949M.xlsx"
+  },
+  {
     "quoteId": "XQAIR072623227",
     "exportsInvoiceValue": 225.97,
     "shipper": "bharat bansal",
