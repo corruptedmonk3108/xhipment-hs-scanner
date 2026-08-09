@@ -1086,6 +1086,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a4e32ff65ea673446d46559/355dca2a-dc6d-4536-bd30-75c4ac593fdd-Export Commercial Invoice - Excel_XQLCL072622970.xls"
   },
   {
+    "quoteId": "XQAMZLCL072623439M",
+    "exportsInvoiceValue": 48491.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63517ebd9a4d7a1e429102/a2e1bbcd-d921-4aac-a2a9-a48938893c55-Import Commercial Invoice - Excel_XQAMZLCL072623439M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621379M",
     "exportsInvoiceValue": 1036.32,
     "shipper": "k & k aromatics",
