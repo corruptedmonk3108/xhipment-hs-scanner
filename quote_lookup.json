@@ -720,6 +720,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/execution-documents/6a3a5a7e9f50b72ec08b98ee/16622e10-e9c7-435c-a838-1e6658a33672-Export Commercial Invoice - Excel_XQAMZLCL062622538M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622599M",
+    "exportsInvoiceValue": 6612.0,
+    "shipper": "muhammad talha yousaf",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cba66fc86af54d9e759e81/execution-documents/6a3cc529083d510021a8d952/d2c50f3c-f642-42de-83ea-52fc5a0a6d75-Export Commercial Invoice - Excel_XQAMZLCL062622599M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622306M",
     "exportsInvoiceValue": 12062.0,
     "shipper": "washid ali",
@@ -756,10 +762,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68287776586fa2a9a7251d9c/execution-documents/6a3017c757f863d6df748f2e/59094875-253b-45a0-847b-de9a28f51c65-Destination Invoice_XQAMZLCL062622245M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622662M",
+    "exportsInvoiceValue": 20806.18,
+    "shipper": "anwar khursheed",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682c6d4a1f1b1e403646d7e9/execution-documents/6a3f8e1e808f7f3c0d9e33db/d3e73bab-6e79-4442-adcb-76baee0c0012-Import_Commercial_Invoice_XQAMZLCL062622662M_REPAIRED.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622208M",
     "exportsInvoiceValue": 46731.0,
     "shipper": "Carmel Organics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/bookings-docs/6a2b99ca7fec0a43195f73c6/b7846845-5301-4a39-9df5-18e1f7894c63.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622554M",
+    "exportsInvoiceValue": 500.25,
+    "shipper": "shakti hnco",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699411493830010e2ac1e944/execution-documents/6a3b78d3a890735b4c687ca6/02623405-bf5d-4457-92b1-9c74bd24271f-Export_Commercial_Invoice_REPAIRED.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0726193712",
