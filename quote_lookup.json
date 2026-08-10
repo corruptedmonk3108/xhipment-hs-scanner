@@ -336,12 +336,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a3d08a4885bd2966a33e887/460a051c-1eb0-48cf-bae9-40718ebecbe3-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621624M",
-    "exportsInvoiceValue": 4000.0,
-    "shipper": "ahaamag private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6885c58de87f34f2df01c2c5/execution-documents/6a15655184ef13846d840fe5/fea12fa4-3f71-4751-8472-aa5bdb95ff92-Import Commercial Invoice - Excel_XQAMZLCL052621624M.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0726192951",
     "exportsInvoiceValue": 4682.0,
     "shipper": "PAWEL LIPSZYC",
@@ -1150,6 +1144,12 @@
     "exportsInvoiceValue": 2937.42,
     "shipper": "sohal brothers",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=688cbb71051defcbf91b8491/execution-documents/6a6d86760ec5c9899bdacf24/de6f891c-ecdf-4c4d-b17a-2211d9d7faab-CI XQAMZAIR0826195302 (sohal brothers).xls"
+  },
+  {
+    "quoteId": "XQAMZFCL072623031M",
+    "exportsInvoiceValue": 71335.98,
+    "shipper": "\"srinivasa se home private limited\"",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e491ce57a461610ff1f2a/execution-documents/6a4f87a2eeb93a70a78dd7b1/8ad69f20-4261-43fe-a676-598c14bf30cc-DESTI_INV_NO_099_2026-27.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622318M",
