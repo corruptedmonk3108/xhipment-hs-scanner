@@ -18,18 +18,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68265f8fb52bc5e7c0146e74/bookings-docs/6a0a9c95f22015ba9b03c9d1/3984d5be-c514-4a75-ba09-c7afde0321a0.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622286M",
-    "exportsInvoiceValue": 11840.2,
-    "shipper": "arvind and company",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2b7fbbf6dc422c6ef53d63/execution-documents/6a2c026e190c203565f915ef/1b11d0bb-7a78-4f18-8c37-24a663a7380a-invoice 398 excel 95059060 CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622539M",
-    "exportsInvoiceValue": 165323.0,
-    "shipper": "Wyldsson Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a3a69ed460623bcf84d74e6/25533c50-46f0-4e4d-a56d-1e5dee017a69-Export Commercial Invoice - Excel_XQAMZFCL062622539M.pdf"
-  },
-  {
     "quoteId": "XQAMZFCL062622647M",
     "exportsInvoiceValue": 30355.0,
     "shipper": "apl",
@@ -238,12 +226,6 @@
     "exportsInvoiceValue": 47509.68,
     "shipper": "pai skincare",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16f9995a8c5da8bdfedb62/bookings-docs/6a1936398b42c70328c716c9/20f2756c-f55f-4e2a-bd20-77ade6f6a6bb.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621069M",
-    "exportsInvoiceValue": 8517.6,
-    "shipper": "mg creations",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f9ee930a7d11ab45f5f277/bookings-docs/6a19358857c38631e5882f67/69b0bd63-93d0-43e4-aae6-d360aa630eaf.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622359M",
@@ -1150,6 +1132,18 @@
     "exportsInvoiceValue": 71335.98,
     "shipper": "\"srinivasa se home private limited\"",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e491ce57a461610ff1f2a/execution-documents/6a4f87a2eeb93a70a78dd7b1/8ad69f20-4261-43fe-a676-598c14bf30cc-DESTI_INV_NO_099_2026-27.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726192938",
+    "exportsInvoiceValue": 343.7,
+    "shipper": "mashkoor",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=681b8f6531f9361aba3bee35/execution-documents/6a65d9af9880b08e6a4cf750/d97cf42b-68a1-47dc-837d-ed699d3b389d-CI XQAMZAIR0726192938 (mashkoor).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0726195135",
+    "exportsInvoiceValue": 1482.93,
+    "shipper": "d-51, nangal dewat, vasant kunj,",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a6c940482761a19767814dd/15a1f204-fcf6-4198-bdab-60a5f09b760e-Commercial_Invoice_XQAMZAIR0726195135_REPAIRED.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622318M",
