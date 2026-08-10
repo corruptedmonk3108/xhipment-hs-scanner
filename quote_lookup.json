@@ -1092,10 +1092,64 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63517ebd9a4d7a1e429102/a2e1bbcd-d921-4aac-a2a9-a48938893c55-Import Commercial Invoice - Excel_XQAMZLCL072623439M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826195813",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a706a53fa914fb911465265/d3b00110-7201-49b6-9ccf-6dbd0bb642d8-DI XQAMZAIR0826195813 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0826196841",
+    "exportsInvoiceValue": 5208.0,
+    "shipper": "ena goyal",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677e7320415956b8212dd01f/execution-documents/6a72d7588ac15bec23bc22cf/a1b6807e-34e9-4c03-9e00-32da54dc3b6f-DI XQAMZAIR0826196841 (ena goyal).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621379M",
     "exportsInvoiceValue": 1036.32,
     "shipper": "k & k aromatics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c7c4e3f89361baca25978a/execution-documents/6a056cb6ed48ddaf6ea95d7f/70847cb7-85ab-4762-8576-a7c7cbc38fa6-Export Commercial Invoice - Excel_XQAMZLCL052621379M (CI to upload).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726193015",
+    "exportsInvoiceValue": 1057.25,
+    "shipper": "MASOFTA INC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a463bded73956c31be5a750/execution-documents/6a6646dc12ae2ff055a89b35/bf07f1de-8b8b-418d-add8-02570447bede-CI XQAMZAIR0726193015 (MASOFTA INC).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726193060",
+    "exportsInvoiceValue": 15090.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a66f4cf1cdd79672dfaf273/24a14c00-2da3-4c00-a1d6-7f3d0ca6cc8b-CI XQAMZAIR0726193060 (fashionking brands pvt ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726193172",
+    "exportsInvoiceValue": 457.2,
+    "shipper": "master fab",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f3079fcb391be7a69d008d/execution-documents/6a67142f1fa1a5110690fe96/48aef0c0-1a3d-446d-a278-933d70e18156-CI XQAMZAIR0726193172 (master fab).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726193687",
+    "exportsInvoiceValue": 1161.0,
+    "shipper": "honestri",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a686c6fa26643af19ce83f3/bookings-docs/6a686c73a26643af19ce8432/1b6e715d-034d-4354-912b-8868d8492424.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0726193818",
+    "exportsInvoiceValue": 1510.0,
+    "shipper": "shubham swami",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65b375889f95a0791ea2b9b2/execution-documents/6a689fda57f11fc87ece390b/5eecc6a0-8b90-4b96-b162-1136b6ac3a01-CI XQAMZAIR0726193818 (shubham swami).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0726195124",
+    "exportsInvoiceValue": 8000.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/bookings-docs/6a6c916682761a197677f45b/0875928d-f926-41a0-b825-d07bc9de1f5f.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0826195302",
+    "exportsInvoiceValue": 2937.42,
+    "shipper": "sohal brothers",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=688cbb71051defcbf91b8491/execution-documents/6a6d86760ec5c9899bdacf24/de6f891c-ecdf-4c4d-b17a-2211d9d7faab-CI XQAMZAIR0826195302 (sohal brothers).xls"
   },
   {
     "quoteId": "XQAMZLCL062622318M",
