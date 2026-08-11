@@ -174,6 +174,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6d8b45ccb349360a2e0013/execution-documents/6a6d8b49ccb349360a2e0041/ced06932-64ae-415d-8344-f53b6ad45ec9-CI XQAMZAIR0826195317 (a.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623118M",
+    "exportsInvoiceValue": 1466.4,
+    "shipper": "gina woolman",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a503e7d94089d6d1145a88f/execution-documents/6a54e45ac05f9b35601bbd8c/6f707c85-c12f-446e-8f56-f8251353e0e5-Export Commercial Invoice - Excel_XQAMZLCL072623118M CI.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL062622700M",
     "exportsInvoiceValue": 178901.92,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -382,12 +388,6 @@
     "exportsInvoiceValue": 57263.53,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a2f9ab63f602ede025ace0b/c1bfce9e-bdb8-48c8-af33-e9d70db52e21-Import Commercial Invoice - Excel_XQAMZLCL062622320M CI 2.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623540M",
-    "exportsInvoiceValue": 4005.54,
-    "shipper": "Well Made Gifts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66312a95075abb31b85ab94d/execution-documents/6a684ed56551a70f6d9f97db/53237491-2dad-4c35-b645-80cdbdcb47f2-Export Commercial Invoice - Excel_XQAMZLCL072623540M.xls"
   },
   {
     "quoteId": "XQAMZLCL062622643M",
@@ -706,12 +706,6 @@
     "exportsInvoiceValue": 12062.0,
     "shipper": "washid ali",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=658718bd6468b5b1e1ad4c3b/execution-documents/6a2d37183a4a6e502cde61d6/889e3490-d7f3-471c-b092-4bee2fb2ff86-Import Commercial Invoice - Excel_XQAMZLCL062622306M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622485M",
-    "exportsInvoiceValue": 86419.0,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a3cd258885bd2966a165fd0/eb2df14e-dde9-40c6-9642-5b60eb6fe295-Export Commercial Invoice - Excel_XQAMZFCL062622485M CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622553M",
