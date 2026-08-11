@@ -174,6 +174,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a34d3e133f1225ee6c3c3f9/8c1b10f8-a0d9-432b-84c5-f2b4130af0ff-Export Commercial Invoice - Excel_XQAMZLCL062622434M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072622805M",
+    "exportsInvoiceValue": 8680.3,
+    "shipper": "luxmi tea company pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/execution-documents/6a4508ba49128c8193353c2c/8cc336e9-e923-4d23-9940-013c923c5934-Export Commercial Invoice - Excel_XQAMZLCL072622805M.xlsx"
+  },
+  {
+    "quoteId": "XQFCL072623269",
+    "exportsInvoiceValue": 67852.71,
+    "shipper": "Imagimake",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a5b71daee85ea23f9c350fa/23e0f2ac-715e-4d35-b949-72bb9c733248-Export Commercial Invoice - Excel_XQFCL072623269.xls"
+  },
+  {
     "quoteId": "XQAMZFCL062622700M",
     "exportsInvoiceValue": 178901.92,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
