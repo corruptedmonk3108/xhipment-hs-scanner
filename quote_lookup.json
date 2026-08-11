@@ -156,6 +156,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687f915776a42f554ef53073/execution-documents/6a27f61a364647964ef28b42/fd16fc00-b21b-4f25-9a1c-f11861b19081-Export Commercial Invoice - Excel_XQAMZLCL062622137M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621499M",
+    "exportsInvoiceValue": 14245.0,
+    "shipper": "rak fitness consumer private limited,",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0448d89fa74d95078dc524/execution-documents/6a0c5c6b8128992b0691de70/9b4d5405-f07a-44d1-ae75-ed872f601d90-Export Commercial Invoice - Excel_XQAMZLCL052621499M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL072622981M",
     "exportsInvoiceValue": 144927.88,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -1146,6 +1152,36 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a6c940482761a19767814dd/15a1f204-fcf6-4198-bdab-60a5f09b760e-Commercial_Invoice_XQAMZAIR0726195135_REPAIRED.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072622846M",
+    "exportsInvoiceValue": 2700.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a473f4f807ae969640eb220/6bee316f-a08e-4fad-80fa-766e5cb1e6f9-Export Commercial Invoice - Excel_XQAMZLCL072622846M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622160M",
+    "exportsInvoiceValue": 12461.4,
+    "shipper": "indian handicraft exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/execution-documents/6a2bc2f8ce651496556843b0/323b387b-0db8-426b-898f-429b81fbf7c4-IHE-02-2026-27 UP.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622034M",
+    "exportsInvoiceValue": 5215.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a22ce0e9d4a926830e884d4/c64df395-ce2b-4499-9deb-5c0abdd4b5e1-Export Commercial Invoice - Excel_XQAMZLCL062622034M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622042M",
+    "exportsInvoiceValue": 9000.0,
+    "shipper": "shubham swami_bobby",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6944099cd92ae2ba7369ee1d/execution-documents/6a22b8dfb69dfd98c4a8585f/0f803788-7944-4877-b52c-a904bf4a7226-Import Commercial Invoice - Excel_XQAMZLCL062622042M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622408M",
+    "exportsInvoiceValue": 2640.0,
+    "shipper": "ubicon",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67dc8e4dd471d022cfd17452/execution-documents/6a33ec0efeb6cd924b54017a/84ad5309-955c-495b-8b75-7478bbf0962c-Export Commercial Invoice - Excel_XQAMZLCL062622408M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622318M",
     "exportsInvoiceValue": 27108.72,
     "shipper": "Madan Mohan textiles",
@@ -1162,6 +1198,18 @@
     "exportsInvoiceValue": 3202.47,
     "shipper": "pravinkhatik",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686b92c71602d6330b8555a0/execution-documents/6a27a902b72dbdb0ec565478/240f576c-20fb-4f78-a5a8-3ec41edb9138-CI Destination Invoice_XQAMZLCL062622121M (2).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622407M",
+    "exportsInvoiceValue": 67320.24,
+    "shipper": "bala murugan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f312bfe86e64c45c312fce/execution-documents/6a34d3a6e3d823d44a73ed65/962832b0-9d33-4a44-a34f-7c6a7c2a9489-Export Commercial Invoice - Excel_XQAMZLCL062622407M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622214M",
+    "exportsInvoiceValue": 40656.08,
+    "shipper": "Taram Textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64674ac285847d10f2c693e8/execution-documents/6a2cfe732898a0d7d8fbf41e/2ab5dba2-6899-47e8-b3ea-a051f87d0365-Import Commercial Invoice - Excel_XQAMZLCL062622214M.xls"
   },
   {
     "quoteId": "XQAMZLCL052621457M",
