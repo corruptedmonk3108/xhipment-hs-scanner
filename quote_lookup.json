@@ -180,6 +180,66 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a503e7d94089d6d1145a88f/execution-documents/6a54e45ac05f9b35601bbd8c/6f707c85-c12f-446e-8f56-f8251353e0e5-Export Commercial Invoice - Excel_XQAMZLCL072623118M CI.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622748M",
+    "exportsInvoiceValue": 17933.22,
+    "shipper": "poonam gupta",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8d9d9815736311225dc8e/bookings-docs/6a44ad78a3acea81c571dd7e/4523d531-21d0-45b2-af0a-60d550b4f56d.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622005M",
+    "exportsInvoiceValue": 2832.580435,
+    "shipper": "pragati industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a210280a998ed0eec84496b/bookings-docs/6a21048ea998ed0eec845cc5/cf00f708-8767-4488-8003-571fd2c72b9e.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622917M",
+    "exportsInvoiceValue": 20958.0,
+    "shipper": "uppfylla ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=688a1c38a7ba0eab96f1c733/execution-documents/6a4b5ac03e28b22be73e6971/7d18639e-59ac-466a-8db2-000dcaa313ac-Export Commercial Invoice - Excel_XQAMZLCL072622917M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL072623256",
+    "exportsInvoiceValue": 17143.0,
+    "shipper": "DE Distribution",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b04bdb91cce9e613a69cc7/execution-documents/6a5db44af23ca19f0c35b8d4/c42917d4-1dea-43f4-bcd0-87792e75e417-Export Commercial Invoice - Excel_XQLCL072623256.xlsx"
+  },
+  {
+    "quoteId": "XQLCL072623358",
+    "exportsInvoiceValue": 15024.6,
+    "shipper": "Rose and Caramel Limited (non-SEND)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a57539d4ab796588cd6890/execution-documents/6a60b5850e815e7bca89f557/a9408773-0201-4bd9-a29f-281082c91d68-Export Commercial Invoice - Excel_XQLCL072623358.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622551M",
+    "exportsInvoiceValue": 2250.07,
+    "shipper": "mars outpost limted",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3a86f4a1c7ebe00b30e6c1/execution-documents/6a3ad369460623bcf860ebc6/17fe0710-777f-49e0-b546-ff9c48bd89e4-Export Commercial Invoice - Excel_XQAMZLCL062622551M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622429M",
+    "exportsInvoiceValue": 10091.0,
+    "shipper": "hwc trading ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a33ea8e3d1915a60d585dde/8c7dd8ce-05ba-48de-b52b-765b230fe3e1-Export Commercial Invoice - Excel_XQAMZLCL062622429M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623686M",
+    "exportsInvoiceValue": 2684.96,
+    "shipper": "henry watson's potteries ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a6c9b5a0b210b310fa0534f/15e23171-9303-44b2-9b96-b94e8f2dfd97-Export Commercial Invoice - Excel_XQAMZLCL072623686M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622469M",
+    "exportsInvoiceValue": 3898.0,
+    "shipper": "hwc trading ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a353c8013a3460a0c8fbcfa/0080b589-c2ac-471a-83db-1ce7b7f0da1f-EXPORT Commercial Invoice_XQAMZLCL062622469M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL072623373M",
+    "exportsInvoiceValue": 5722.0,
+    "shipper": "market centre na",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690a98c4c3f3a48206104066/execution-documents/6a61bcdd4eb2d5cce2e64289/cf486613-2f39-4630-ba18-49baecd9556d-EXPORT Commercial Invoice_XQAMZLCL072623373M.XLSX"
+  },
+  {
     "quoteId": "XQAMZFCL062622700M",
     "exportsInvoiceValue": 178901.92,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -246,12 +306,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a31159ea9e0f48a5afa0a5d/e9087427-a9bc-474f-bcfb-386f8f23c1bb-A.xls"
   },
   {
-    "quoteId": "XQAMZLCL062622036M",
-    "exportsInvoiceValue": 2160.0,
-    "shipper": "caleb quinones",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66daae11ba1a5a9fc766ca77/bookings-docs/6a27bae2015465ee5b18ccc0/569c9f31-e54b-4344-8a8b-76498ce95f83.xlsx"
-  },
-  {
     "quoteId": "XQLCL062622280",
     "exportsInvoiceValue": 2869.440459,
     "shipper": "TK Logistics Solutions",
@@ -262,12 +316,6 @@
     "exportsInvoiceValue": 380510.4333,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f0f1e6068dcc233f0fb232/execution-documents/6a48e77e555a4c8412a6c9a8/d8de5878-4709-4993-9b0e-ad5dc546c9be-Import Commercial Invoice - Excel_XQAMZLCL072622890M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622564M",
-    "exportsInvoiceValue": 14456.19,
-    "shipper": "SK\u00a0GROUP",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64dc59247d10a0e9715cc0b8/execution-documents/6a3bad6fcfe3443694b5d855/7c213c78-f84b-45f8-a350-d0f967c0a746-Import Commercial Invoice - Excel_XQAMZLCL062622564M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062621894M",
@@ -396,12 +444,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a3e1bc69d5af9c0666bca95/162c3ca5-347a-4d42-809f-db8a73a3ded6-Export Commercial Invoice - Excel_XQAMZLCL062622643M.xls"
   },
   {
-    "quoteId": "XQAMZLCL072623234M",
-    "exportsInvoiceValue": 5948.72,
-    "shipper": "tru tension",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a58c4c4a8e1577b2cd1caa2/execution-documents/6a58d11ffe3afc7c0fdde351/ee9b8224-c865-4aad-bcbb-8af0e9a2be38-Export Commercial Invoice - Excel_XQAMZLCL072623234M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622320M",
     "exportsInvoiceValue": 57263.53,
     "shipper": "Madan Mohan textiles",
@@ -496,12 +538,6 @@
     "exportsInvoiceValue": 20548.72,
     "shipper": "millbank trading uk limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698dab3ff1f1ee58570f5efe/execution-documents/6a5f5af8a6f2723a91d4f086/04ed55c5-887d-4cf1-8a1d-aebd2a80f962-Commercial Invoice_XQAMZLCL072623326M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL062622005M",
-    "exportsInvoiceValue": 2832.580435,
-    "shipper": "pragati industries",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a210280a998ed0eec84496b/execution-documents/6a21048ea998ed0eec845cc5/a6d867fb-2b76-4cc2-989c-e41e39085d2a-Export Commercial Invoice - Excel_XQAMZLCL062622005M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622215M",
@@ -624,22 +660,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6711e173101051070927f1b1/execution-documents/6a351e90d1d5a3a96b8c32c9/599e26df-4a02-4c47-a77d-9ca182bafc55-Export Commercial Invoice - Excel_XQAMZLCL062622442M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072623145M",
-    "exportsInvoiceValue": 62803.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a55fd9fcf97249785fba53e/05ed3bf2-3e01-4802-b165-3a13094c852d-Import Commercial Invoice - Excel_XQAMZFCL072623145M (73).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622477M",
     "exportsInvoiceValue": 8081.72,
     "shipper": "lsd lifestyle",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a36677fe003d985c85e9b33/31a60eee-250d-4e67-b933-eeae4a6103db-Export Commercial Invoice - Excel_XQAMZLCL062622477M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623145M",
-    "exportsInvoiceValue": 62803.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a55fd9fcf97249785fba53e/887f3cfc-d7af-4e75-a502-3a8201d85477-Import Commercial Invoice - Excel_XQAMZFCL072623145M (1) 67.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0726192797",
@@ -654,40 +678,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64427e65dd743bd4c1ef5891/bookings-docs/6a16b732623a58c96c8f4261/fefd88ce-5ac1-41ff-bfe2-eb6be371d3e9.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072623145M",
-    "exportsInvoiceValue": 62803.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a55fd9fcf97249785fba53e/8d8e1a2c-f6ee-4044-b779-015c6b398972-Import Commercial Invoice - Excel_XQAMZFCL072623145M CI 60.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0726193008",
     "exportsInvoiceValue": 468.0,
     "shipper": "safestore self storage",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a663cd2ca6350034b83720d/execution-documents/6a664667ca6350034b837a8f/a565291b-35f8-45c3-bdca-f324801c5b87-CI XQAMZAIR0726193008 (safestore self storage).XLSX"
-  },
-  {
-    "quoteId": "XQAMZFCL072623110M",
-    "exportsInvoiceValue": 66240.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a54c098bd9ea6a86e987645/6a691a1b-1ec3-4aab-a88d-69ecfa2c9a06-INVOICE  PACKING LIST 065 TEXAS LINEN NORTH EAST CI 65.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623110M",
-    "exportsInvoiceValue": 66240.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a54c098bd9ea6a86e987645/842f033a-134c-424c-8424-8f89ca1dfbc3-INVOICE  PACKING LIST 068 THREAD SPREAD NORTH EAST CI 68.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623110M",
-    "exportsInvoiceValue": 66240.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a54c098bd9ea6a86e987645/bcfb5607-5124-41bd-b4a4-cd71d3eed946-INVOICE  PACKING LIST 066 MAYFAIR LINEN NORTH EAST (1) 066.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623110M",
-    "exportsInvoiceValue": 66240.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a54c098bd9ea6a86e987645/b60c2353-cd89-4484-96e4-b96235539b5c-Import Commercial Invoice - Excel_XQAMZFCL072623110M CI new.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622538M",
@@ -784,12 +778,6 @@
     "exportsInvoiceValue": 2256.63,
     "shipper": "rao fariyad ali",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/execution-documents/6a4d3a623aa56862fd0a3ba0/319b7ea3-333a-4cdc-a11a-b15197f677c2-Export Commercial Invoice - Excel_XQAMZLCL072622936M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622748M",
-    "exportsInvoiceValue": 17933.22,
-    "shipper": "poonam gupta",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8d9d9815736311225dc8e/execution-documents/6a44ad78a3acea81c571dd7e/6a669f31-8e5a-4ca9-9fc4-87d66d42a6b5-Export Commercial Invoice - Excel_XQAMZLCL062622748M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622745M",
