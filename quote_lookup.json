@@ -84,12 +84,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a0702afa65adb5a82de974e/a7a993bf-d616-48dc-b379-29e86a0ed3ee-Import Commercial Invoice - Excel_XQAMZLCL052621395M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072622914M",
-    "exportsInvoiceValue": 43930.88,
-    "shipper": "metis learning solutions pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a4b859041c4d47d9d0b6c63/a75b78e1-1b0e-4d40-9150-b488261ff6a9-Export Commercial Invoice - Excel_XQAMZFCL072622914M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622252M",
     "exportsInvoiceValue": 13764.0,
     "shipper": "ashok & company",
@@ -214,12 +208,6 @@
     "exportsInvoiceValue": 32059.07,
     "shipper": "wetrade limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de58ce3019621d6a51146/execution-documents/6a708d644de6619c46231661/a2f3cd6c-19f8-404e-af8f-34887b9b2e89-Export Commercial Invoice - Excel_XQLCL082623756.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL062622700M",
-    "exportsInvoiceValue": 178901.92,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a421190b37ab43b2be5d70b/f2f1de7f-166d-460e-ab74-35e56c973e53-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622213M",
@@ -370,12 +358,6 @@
     "exportsInvoiceValue": 2684.96,
     "shipper": "henry watson's potteries ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/bookings-docs/6a6c9b5a0b210b310fa0534f/0c07bd88-b6a0-4374-99da-a59fe103e341.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622366M",
-    "exportsInvoiceValue": 6461.56,
-    "shipper": "Cotton Clinic",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a3a97a4460623bcf85d62c1/2a46c334-c033-495d-9de8-41453d11b3c9-Import Commercial Invoice - Excel_XQAMZLCL062622366M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623392M",
@@ -790,12 +772,6 @@
     "exportsInvoiceValue": 332.77,
     "shipper": "harrow business services ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a6229f69500082b3dbf224c/9b080554-8ea0-42fd-9eb2-6fd639c14d91-CI XQAMZAIR0726192448 (harrow business services ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0726192415",
-    "exportsInvoiceValue": 332.77,
-    "shipper": "harrow business services ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6a6229f13e307eb3be3a3f7a/217d4983-2c10-472c-b6c9-94bd3410d36f-CI XQAMZAIR0726192415 (harrow business services ltd).XLSX"
   },
   {
     "quoteId": "XQAMZLCL052621130M",
