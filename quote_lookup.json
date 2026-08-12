@@ -222,12 +222,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a33ea8e3d1915a60d585dde/8c7dd8ce-05ba-48de-b52b-765b230fe3e1-Export Commercial Invoice - Excel_XQAMZLCL062622429M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623686M",
-    "exportsInvoiceValue": 2684.96,
-    "shipper": "henry watson's potteries ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a6c9b5a0b210b310fa0534f/15e23171-9303-44b2-9b96-b94e8f2dfd97-Export Commercial Invoice - Excel_XQAMZLCL072623686M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622469M",
     "exportsInvoiceValue": 3898.0,
     "shipper": "hwc trading ltd",
@@ -238,6 +232,18 @@
     "exportsInvoiceValue": 5722.0,
     "shipper": "market centre na",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690a98c4c3f3a48206104066/execution-documents/6a61bcdd4eb2d5cce2e64289/cf486613-2f39-4630-ba18-49baecd9556d-EXPORT Commercial Invoice_XQAMZLCL072623373M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL072623210M",
+    "exportsInvoiceValue": 2145.0,
+    "shipper": "PURE CLINICA",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e7f67ec5e77288b0d0bc3c/execution-documents/6a57bf392eba7501474c682a/ecb131bd-2d12-4141-9780-98186805fb33-Export Commercial Invoice - Excel_XQAMZLCL072623210M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL082623756",
+    "exportsInvoiceValue": 32059.07,
+    "shipper": "wetrade limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de58ce3019621d6a51146/execution-documents/6a708d644de6619c46231661/a2f3cd6c-19f8-404e-af8f-34887b9b2e89-Export Commercial Invoice - Excel_XQLCL082623756.xlsx"
   },
   {
     "quoteId": "XQAMZFCL062622700M",
@@ -408,10 +414,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a55fe20cf97249785fbebe0/a38d3bec-0bd6-4e96-8120-b863e385c54c-Import Commercial Invoice - Excel_XQAMZLCL072623146M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623299M",
+    "exportsInvoiceValue": 3749.66,
+    "shipper": "the quilted bear ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4783cc2af8f26b8d5da40d/execution-documents/6a5e1c9751b244be5045958d/d5fc2b6e-40e1-45bb-8ef1-66ecf47af556-EXPORT Commercial Invoice_XQAMZLCL072623299M.XLSX"
+  },
+  {
+    "quoteId": "XQFCL072623114",
+    "exportsInvoiceValue": 26847.2,
+    "shipper": "caterpillar signs pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a54cc3fa1d21611ce28d59c/a7224d5c-0446-4623-8a36-7208d2275087-Commercial Invoice-Packing List-PO-5426-3A (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623686M",
+    "exportsInvoiceValue": 2684.96,
+    "shipper": "henry watson's potteries ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/bookings-docs/6a6c9b5a0b210b310fa0534f/0c07bd88-b6a0-4374-99da-a59fe103e341.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622366M",
     "exportsInvoiceValue": 6461.56,
     "shipper": "Cotton Clinic",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a3a97a4460623bcf85d62c1/2a46c334-c033-495d-9de8-41453d11b3c9-Import Commercial Invoice - Excel_XQAMZLCL062622366M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623392M",
+    "exportsInvoiceValue": 2671.2,
+    "shipper": "henry watson's potteries ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a620361d2d0f32d0ad4dd27/981c3902-1b64-41a7-8698-a78517a28b39-EXPORT Commercial Invoice_XQAMZLCL072623392M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL072622858M",
