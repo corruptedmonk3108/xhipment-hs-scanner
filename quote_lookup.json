@@ -876,12 +876,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6447694bbe4c894f7527e42a/execution-documents/6a44f8cd90335204cabc0857/2b8fe935-698d-4b23-aee0-8ed1d9289f08-Export Commercial Invoice - Excel_XQAMZLCL062622734M.xls"
   },
   {
-    "quoteId": "XQAMZLCL062622494M",
-    "exportsInvoiceValue": 71793.0,
-    "shipper": "matras exporters",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6a3917b2bbb17ecce5a99fe8/16e77d91-d2c1-4aef-bf44-ce36f4058981-Excel Invoice -  ME2627-0026 (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062621937M",
     "exportsInvoiceValue": 8250.0,
     "shipper": "future handmade",
