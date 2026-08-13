@@ -114,6 +114,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67938f142de0c7e4dec3711d/execution-documents/6a609e5e0e815e7bca7fd584/8c28d4b7-e7eb-4a52-8ef8-771a28c3bd0f-Commercial Invoice_XQAMZLCL072623353M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623103M",
+    "exportsInvoiceValue": 11047.28,
+    "shipper": "nikilko2017 ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a54ab4b1364404652e0ef5a/6714c441-ace1-4ed5-bfed-29dc516a24f3-Commercial Invoice_XQAMZLCL072623103M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621292M",
     "exportsInvoiceValue": 6825.52,
     "shipper": "mayank bathla",
