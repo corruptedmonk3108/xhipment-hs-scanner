@@ -138,6 +138,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64365aad23f62b68024496b2/execution-documents/6a0702afa65adb5a82de974e/a7a993bf-d616-48dc-b379-29e86a0ed3ee-Import Commercial Invoice - Excel_XQAMZLCL052621395M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622748M",
+    "exportsInvoiceValue": 17933.22,
+    "shipper": "poonam gupta",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8d9d9815736311225dc8e/bookings-docs/6a44ad78a3acea81c571dd7e/2553dfe5-2592-4cae-85cc-4e6bd4467664.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622252M",
     "exportsInvoiceValue": 13764.0,
     "shipper": "ashok & company",
@@ -190,12 +196,6 @@
     "exportsInvoiceValue": 1466.4,
     "shipper": "gina woolman",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a503e7d94089d6d1145a88f/execution-documents/6a54e45ac05f9b35601bbd8c/6f707c85-c12f-446e-8f56-f8251353e0e5-Export Commercial Invoice - Excel_XQAMZLCL072623118M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622748M",
-    "exportsInvoiceValue": 17933.22,
-    "shipper": "poonam gupta",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8d9d9815736311225dc8e/bookings-docs/6a44ad78a3acea81c571dd7e/4523d531-21d0-45b2-af0a-60d550b4f56d.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622005M",
@@ -294,12 +294,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a31159ea9e0f48a5afa0a5d/e9087427-a9bc-474f-bcfb-386f8f23c1bb-A.xls"
   },
   {
-    "quoteId": "XQLCL062622280",
-    "exportsInvoiceValue": 2869.440459,
-    "shipper": "TK Logistics Solutions",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669b5a441c7962187e4bf1ba/bookings-docs/6a2be850d451b556cc4749a2/05c85169-fb64-4e88-a04f-11fbe5857a51.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072622890M",
     "exportsInvoiceValue": 380510.4333,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
@@ -316,12 +310,6 @@
     "exportsInvoiceValue": 640.0,
     "shipper": "prozone systems warehouse",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65afef7dcd5cf974e1b43ea2/execution-documents/6a390c80396f19566d4718b8/cd06aa50-6d49-4173-8a22-8e6ae250e684-EXPORT Commercial Invoice_XQAMZLCL062622116M.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL062622399M",
-    "exportsInvoiceValue": 2088.96,
-    "shipper": "vivasvan international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff725967cd40aedb886bdf/execution-documents/6a32dd8d0219e173780bdd26/1c79a44c-7e8f-4734-ba2a-9a519d0aafe3-Export Commercial Invoice - Excel_XQAMZLCL062622399M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622749M",
@@ -408,22 +396,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a4784af2af8f26b8d5dc253/8a896269-7b8d-427c-a080-73638cd3ae17-Export Commercial Invoice - Excel_XQAMZLCL072622858M.xlsm"
   },
   {
-    "quoteId": "XQAMZLCL062622500M",
-    "exportsInvoiceValue": 9408.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a38d5ad3ee1618fd515826a/d99e3cc7-face-4d29-b72b-fee0a2e93035-Import Commercial Invoice - Excel_XQAMZLCL062622500M CI.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622671M",
     "exportsInvoiceValue": 32076.0,
     "shipper": "Carmel Organics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/execution-documents/6a3f65bff2825e0eb0b033be/dafaa54d-d741-4ae8-94fd-97b3d3e235e9-Export Commercial Invoice - Excel_XQAMZLCL062622671M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622643M",
-    "exportsInvoiceValue": 7670.0,
-    "shipper": "s a enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a3e1bc69d5af9c0666bca95/162c3ca5-347a-4d42-809f-db8a73a3ded6-Export Commercial Invoice - Excel_XQAMZLCL062622643M.xls"
   },
   {
     "quoteId": "XQAMZLCL062622669M",
@@ -492,22 +468,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a6c77a95f76a0ec8083858d/c14c443f-c852-4977-90c9-4a35c99638e1.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623161M",
-    "exportsInvoiceValue": 3118.3,
-    "shipper": "Cobra Industries Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664d96bbd1a3a6a836c1e063/execution-documents/6a5635c8931a78654700d77a/a5fb290e-71a5-4b6d-824e-dfaedee939b7-Export Commercial Invoice - Excel_XQAMZLCL072623161M UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622487M",
     "exportsInvoiceValue": 14512.0,
     "shipper": "Bluemoon Homes",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6a38e02c5ef892785d596542/682ebbc8-210a-425f-927f-259f0f11df0b-Export Commercial Invoice -26-27_005 - us inv.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623326M",
-    "exportsInvoiceValue": 20548.72,
-    "shipper": "millbank trading uk limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698dab3ff1f1ee58570f5efe/execution-documents/6a5f5af8a6f2723a91d4f086/04ed55c5-887d-4cf1-8a1d-aebd2a80f962-Commercial Invoice_XQAMZLCL072623326M.xls"
   },
   {
     "quoteId": "XQAMZLCL062622215M",
@@ -838,12 +802,6 @@
     "exportsInvoiceValue": 4736.0,
     "shipper": "sciencent industries",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685ea118ba5f044771d914f7/execution-documents/6a44b74911d42121e3b93460/3bc8f8b7-d82f-4de6-909c-597d30796447-Export Commercial Invoice - Excel_XQAMZLCL062622777M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622672M",
-    "exportsInvoiceValue": 10560.0,
-    "shipper": "Global Exim",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/bookings-docs/6a438cfbbd254ff1d032ea8f/e20fff33-e465-4767-833e-01a16edd6f20.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623099M",
