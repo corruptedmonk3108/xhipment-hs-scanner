@@ -126,6 +126,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69298be8e2901d9dd706f3a6/execution-documents/6a0434171800e9320820041f/81922c1f-6b24-42ae-9143-a2c3f7687dac-Export Commercial Invoice - Excel_XQAMZLCL052621292M (2).xlsx"
   },
   {
+    "quoteId": "XQAMZFCL062622765M",
+    "exportsInvoiceValue": 151994.0,
+    "shipper": "Wyldsson Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664217cb1560349e0a7f5818/execution-documents/6a464b64d73956c31bf4226f/11ab9bc3-90a6-4280-bef9-8866ef6f4abd-Export Commercial Invoice - Excel_XQAMZFCL062622765M.pdf"
+  },
+  {
     "quoteId": "XQAMZLCL052621395M",
     "exportsInvoiceValue": 13504.32,
     "shipper": "Cotton Clinic",
