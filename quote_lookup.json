@@ -66,12 +66,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653899e79e77bb218ca94725/execution-documents/6a3a7581460623bcf850fc77/c40036cf-a99d-42ed-8ee3-646007c29420-Import Commercial Invoice - Excel_XQAMZLCL062622262M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072622842M",
-    "exportsInvoiceValue": 4456.24,
-    "shipper": "tradestart gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6894813e084d16113412e5fb/execution-documents/6a46577f9205992228156eca/c6797266-94f4-4f5f-a7c4-8634aaa4e805-Commercial Invoice_XQAMZLCL072622842M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623104M",
     "exportsInvoiceValue": 12508.284,
     "shipper": "5kind (xhipment warehouse)",
@@ -142,6 +136,12 @@
     "exportsInvoiceValue": 17933.22,
     "shipper": "poonam gupta",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8d9d9815736311225dc8e/bookings-docs/6a44ad78a3acea81c571dd7e/2553dfe5-2592-4cae-85cc-4e6bd4467664.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622842M",
+    "exportsInvoiceValue": 4456.24,
+    "shipper": "tradestart gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6894813e084d16113412e5fb/bookings-docs/6a46577f9205992228156eca/4aebfbdc-1530-40f5-9701-168398ed4734.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622252M",
