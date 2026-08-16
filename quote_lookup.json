@@ -144,6 +144,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6894813e084d16113412e5fb/bookings-docs/6a46577f9205992228156eca/4aebfbdc-1530-40f5-9701-168398ed4734.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622422M",
+    "exportsInvoiceValue": 3801.99,
+    "shipper": "jignesh vekariya",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684c0e156d2b03137de84e2a/execution-documents/6a33eecdde62d18ff961acc8/dc768ff3-5357-4517-8963-0e85ef57e020-Import Commercial Invoice - Excel_XQAMZLCL062622422M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623235M",
+    "exportsInvoiceValue": 36865.62,
+    "shipper": "metis learning solutions pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a59bc3dfe3afc7c0fe87dd7/ada4d8e4-a0bb-4c1f-b3c3-6ec207a5c142-Export Commercial Invoice - Excel_XQAMZFCL072623235M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622252M",
     "exportsInvoiceValue": 13764.0,
     "shipper": "ashok & company",
@@ -174,6 +186,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0448d89fa74d95078dc524/execution-documents/6a0c5c6b8128992b0691de70/9b4d5405-f07a-44d1-ae75-ed872f601d90-Export Commercial Invoice - Excel_XQAMZLCL052621499M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL072623359M",
+    "exportsInvoiceValue": 139438.68,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a60b50a2a3149302ecba6b1/b7b3e058-cd58-4655-83a7-29095618ae02-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622434M",
     "exportsInvoiceValue": 11322.0,
     "shipper": "ashok & company",
@@ -196,6 +214,12 @@
     "exportsInvoiceValue": 1466.4,
     "shipper": "gina woolman",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a503e7d94089d6d1145a88f/execution-documents/6a54e45ac05f9b35601bbd8c/6f707c85-c12f-446e-8f56-f8251353e0e5-Export Commercial Invoice - Excel_XQAMZLCL072623118M CI.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622668M",
+    "exportsInvoiceValue": 10696.91,
+    "shipper": "hosley india pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6916e6dd493a8fe03548badc/execution-documents/6a3e714cd815e177b4673aef/f15343cb-5ed0-4939-b53e-ac5054c7ecad-Import Commercial Invoice - Excel_XQAMZLCL062622668M.xls"
   },
   {
     "quoteId": "XQAMZLCL062622005M",
