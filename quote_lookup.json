@@ -336,10 +336,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e6509fbb9395760f86f5a9/execution-documents/6a50a2f847470f068c6dbddc/cf027fec-c17d-4936-8e09-233906f87db0-Export Commercial Invoice - Excel_XQAMZLCL072623048M.xls"
   },
   {
+    "quoteId": "XQAMZLCL072623059M",
+    "exportsInvoiceValue": 1322.0,
+    "shipper": "r & sons",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c2a81686685bb559fe50c/execution-documents/6a50b83a94089d6d1157cadf/d0c36fda-8f05-4791-a5d8-d4a5ee983ce3-Export Commercial Invoice - Excel_XQAMZLCL072623059M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622359M",
     "exportsInvoiceValue": 4041.73913,
     "shipper": "Bizeev LLC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a31159ea9e0f48a5afa0a5d/e9087427-a9bc-474f-bcfb-386f8f23c1bb-A.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL072622902M",
+    "exportsInvoiceValue": 68190.34,
+    "shipper": "sohal brothers",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=688cbb71051defcbf91b8491/execution-documents/6a4b51909b7705eb1e6ecdcd/b2a0b6fb-f009-4a94-bb33-ffb67ef9c33b-Export Commercial Invoice - Excel_XQAMZLCL072622902M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL072622903M",
+    "exportsInvoiceValue": 46753.86,
+    "shipper": "m/s al-habeebi international (ahi)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b5c49d5e131672d63ac575/execution-documents/6a4b84d36f19aa2bdf65f6f7/98d52088-525c-44c8-877e-92fa85d00523-Export Commercial Invoice - Excel_XQAMZLCL072622903M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622890M",
