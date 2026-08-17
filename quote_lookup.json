@@ -360,10 +360,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b5c49d5e131672d63ac575/execution-documents/6a4b84d36f19aa2bdf65f6f7/98d52088-525c-44c8-877e-92fa85d00523-Export Commercial Invoice - Excel_XQAMZLCL072622903M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623437M",
+    "exportsInvoiceValue": 9604.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63503064c186786aeeaa71/01c7d3af-1be7-402a-b52b-a807ebb5d470-Import Commercial Invoice - Excel_XQAMZLCL072623437M.xls"
+  },
+  {
     "quoteId": "XQAMZLCL072622890M",
     "exportsInvoiceValue": 380510.4333,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f0f1e6068dcc233f0fb232/execution-documents/6a48e77e555a4c8412a6c9a8/d8de5878-4709-4993-9b0e-ad5dc546c9be-Import Commercial Invoice - Excel_XQAMZLCL072622890M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622488M",
+    "exportsInvoiceValue": 8067.84,
+    "shipper": "Tapes n More",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a38c374511568b3f26201e4/e636cde1-76c6-4a61-bd32-400e426ea272-Import Inoice GSEXPO2627005 (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623431M",
+    "exportsInvoiceValue": 10640.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6340ac867b3c7defabf1bd/d6fd91ff-4d8e-4819-a8aa-e254dfe5898e-Import Commercial Invoice - Excel_XQAMZLCL072623431M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622116M",
@@ -400,12 +418,6 @@
     "exportsInvoiceValue": 1102.5,
     "shipper": "creative jam enterprises ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6a705f3e8b85da582a8a5fde/9027e6ea-295d-4d4d-bed6-e4fff553220c-CI XQAMZAIR0826195778 (creative jam enterprises ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL062622206M",
-    "exportsInvoiceValue": 9152.02,
-    "shipper": "global hub llc",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696c78febf2855d9d2f7549c/execution-documents/6a2bec76e3db9500ee6543a1/1af23ad2-c4d5-4324-8b64-ef777d0b3921-Import Commercial Invoice - Excel_XQAMZLCL062622206M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0726192951",
@@ -582,12 +594,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a10507370538a366a44dc47/execution-documents/6a15491d22f5a333d8c21b4d/8c93c6b3-82bb-4661-81db-5412d0e8e3d8-Import Commercial Invoice - Excel_XQAMZLCL052621625M.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0826196010",
-    "exportsInvoiceValue": 2210.0,
-    "shipper": "one global commerce c/o gr freight",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a712457609a0f8295ff36ff/execution-documents/6a71245b609a0f8295ff3725/123a8c3c-2a66-4db7-9d92-65b632aea971-CI XQAMZAIR0826196010 (one global commerce co gr freight).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL052621622M",
     "exportsInvoiceValue": 5108.0,
     "shipper": "yash punjabi",
@@ -612,12 +618,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e2cf933e7fafd9befbc1bd/execution-documents/6a281d439e1f4cfab09dbbb8/a736328e-0dec-4947-84d2-8604aabe1b0e-Export Commercial Invoice - Excel_XQAMZLCL062622164M.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0826196565",
-    "exportsInvoiceValue": 5661.12,
-    "shipper": "joss barton",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b289ec0199aa126358969/execution-documents/6a71dc7731717346cc49de67/9bc0fb35-ca09-4031-af46-f872d2dd1754-CI XQAMZAIR0826196565 (joss barton).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL062621994M",
     "exportsInvoiceValue": 31589.13043,
     "shipper": "templar publishers and distributors",
@@ -628,24 +628,6 @@
     "exportsInvoiceValue": 1284.4,
     "shipper": "ahesanali kadival",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/execution-documents/6a2038d1a998ed0eec7a55fc/8aa47524-902d-4d0f-9f8d-c2910d73f8ca-Export Commercial Invoice - Excel_XQAMZLCL062621936M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0826197476",
-    "exportsInvoiceValue": 5788.8,
-    "shipper": "james white drinks",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a745178f54db779ecdbb38a/execution-documents/6a74517af54db779ecdbb3b0/fd027cae-de93-4618-8e5e-ed9732079d4b-CI XQAMZAIR0826197476 (james white drinks).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0726194759",
-    "exportsInvoiceValue": 800.0,
-    "shipper": "jonathan kempen",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b500322ce9a96f9628d65/execution-documents/6a6b500622ce9a96f9628d8e/2b37abd2-433f-41f9-b4a0-b1bdda18c4ea-CI XQAMZAIR0726194759 (jonathan kempen).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0826197252",
-    "exportsInvoiceValue": 570.2,
-    "shipper": "passionforperfume",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/bookings-docs/6a73571ee670c26820b83ad8/d866d15a-0f7d-41c8-a0c6-501c27d12767.XLSX"
   },
   {
     "quoteId": "XQAMZLCL062622119M",
