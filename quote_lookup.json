@@ -846,6 +846,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691ad95c8e3ed12a6fd5f12b/execution-documents/6a528bfde95fdaca0742ebee/214e6ff3-3684-41f1-8396-601fd4e72d5b-Export Commercial Invoice - Excel_XQAMZLCL072623090M.xls"
   },
   {
+    "quoteId": "XQAMZLCL062621937M",
+    "exportsInvoiceValue": 8250.0,
+    "shipper": "future handmade",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a79e7397943e96874cb38/bookings-docs/6a2140ee25611f8b6262b58d/a21bb7b9-8972-45aa-85d8-9cd962d0b858.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0726193712",
     "exportsInvoiceValue": 6448.0,
     "shipper": "delta / new leaf",
@@ -970,12 +976,6 @@
     "exportsInvoiceValue": 7948.66,
     "shipper": "Splenor Tools",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6447694bbe4c894f7527e42a/execution-documents/6a44f8cd90335204cabc0857/2b8fe935-698d-4b23-aee0-8ed1d9289f08-Export Commercial Invoice - Excel_XQAMZLCL062622734M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL062621937M",
-    "exportsInvoiceValue": 8250.0,
-    "shipper": "future handmade",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a79e7397943e96874cb38/execution-documents/6a2140ee25611f8b6262b58d/5e86824b-afe7-45e1-924d-29dfb00bf32b-Import Commercial Invoice - Excel_XQAMZLCL062621937M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL052621584M",
