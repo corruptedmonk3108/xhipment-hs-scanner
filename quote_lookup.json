@@ -216,12 +216,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7485ebc71937c660feab98/bookings-docs/6a7485eec71937c660feabc1/bb6415b6-9f89-4321-97c8-7c274768667f.XLSX"
   },
   {
-    "quoteId": "XQLCL082623756",
-    "exportsInvoiceValue": 32059.07,
-    "shipper": "wetrade limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de58ce3019621d6a51146/execution-documents/6a708d644de6619c46231661/a2f3cd6c-19f8-404e-af8f-34887b9b2e89-Export Commercial Invoice - Excel_XQLCL082623756.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0826197873",
     "exportsInvoiceValue": 2644.98,
     "shipper": "opro international ltd",
@@ -280,12 +274,6 @@
     "exportsInvoiceValue": 9625.0,
     "shipper": "Aadhikesh\u00a0Exports",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64ae91953e697333272f9a36/execution-documents/6a4e1685bbc4bcdf4d5f89a2/0b5e501d-7145-4ba7-ae1a-e873a3390a33-Commercial_Invoice_IN2US (4).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623048M",
-    "exportsInvoiceValue": 13244.5,
-    "shipper": "esse dew",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e6509fbb9395760f86f5a9/execution-documents/6a50a2f847470f068c6dbddc/cf027fec-c17d-4936-8e09-233906f87db0-Export Commercial Invoice - Excel_XQAMZLCL072623048M.xls"
   },
   {
     "quoteId": "XQAMZLCL072623059M",
@@ -532,12 +520,6 @@
     "exportsInvoiceValue": 936.0,
     "shipper": "qualcosa international private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e2cf933e7fafd9befbc1bd/execution-documents/6a2a9f4f4a1d77ceb4ab27f0/b315220b-d76e-4050-b40f-fa9807a7c90d-Export Commercial Invoice - Excel_XQAMZLCL062622215M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072622883M",
-    "exportsInvoiceValue": 22836.0,
-    "shipper": "BubbleBum USA LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68651427a873c8ff95289c6c/execution-documents/6a48e7e3418a3d7efc853152/952c0950-8d7c-4ea0-a8a1-fe48cff5c42c-Export Commercial Invoice - Excel_XQAMZFCL072622883M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623625M",
@@ -826,6 +808,12 @@
     "exportsInvoiceValue": 8684.0,
     "shipper": "hwc trading ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a5b18f5d3ea5bb167769c10/8039d091-9d98-441f-a455-9b72c10f39a3-Export Commercial Invoice - Excel_XQAMZLCL072623264M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623048M",
+    "exportsInvoiceValue": 13244.5,
+    "shipper": "esse dew",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e6509fbb9395760f86f5a9/bookings-docs/6a50a2f847470f068c6dbddc/598b80c6-c321-481e-afdd-a9ed6db37359.xls"
   },
   {
     "quoteId": "XQAMZLCL062622780M",
