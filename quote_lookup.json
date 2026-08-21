@@ -588,10 +588,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a424476f0c30aa3c454096c/9e3f0d7e-5425-43b6-a05e-e1d62de058ed-434-Commercial Invoice-Packing List-PO-5426-A.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622487M",
-    "exportsInvoiceValue": 14512.0,
-    "shipper": "Bluemoon Homes",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6a38e02c5ef892785d596542/682ebbc8-210a-425f-927f-259f0f11df0b-Export Commercial Invoice -26-27_005 - us inv.xlsx"
+    "quoteId": "XQAMZFCL072623262M",
+    "exportsInvoiceValue": 16703.62,
+    "shipper": "David Ricardo",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a45243a80f5bf82c919e58a/execution-documents/6a5d9befe2964e0970c30f01/7664f88d-8d56-425f-855e-a86d9e921992-Commercial_Invoice_XQAMZFCL072623262M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622153M",
+    "exportsInvoiceValue": 20857.0,
+    "shipper": "om ethnic wear",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0646b56ddb6539c26b494b/execution-documents/6a27e52355f3b647b446a9a7/ecfdd467-817f-429d-bab1-3ada01b2f3be-EXPORT Commercial Invoice_XQAMZLCL062622153M (2).XLSX"
   },
   {
     "quoteId": "XQAMZFCL072623625M",
