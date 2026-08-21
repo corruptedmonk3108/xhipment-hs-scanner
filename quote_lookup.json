@@ -294,6 +294,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1d61ed94b3d19ed6c20fa1/execution-documents/6a21affeba18bed338dff6b0/537b51ae-e0e9-4d2e-b02b-2a8bcdb467eb-Commercial Invoice_XQLCL062621903.xlsx"
   },
   {
+    "quoteId": "XQLCLST062622108",
+    "exportsInvoiceValue": 7912.5,
+    "shipper": "Ayra By AR LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2679f7c8d59bfbd1b142d6/execution-documents/6a268f1b757b0cd5b47f8ace/a44d08d2-1002-4b88-bc97-5b057d67770e-Destination_Invoice_XQLCLST062622108.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072622902M",
     "exportsInvoiceValue": 68190.34,
     "shipper": "sohal brothers",
