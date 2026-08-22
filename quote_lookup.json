@@ -648,6 +648,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/execution-documents/6a2fad14761fc3d22a0a79b6/9dcb72d5-7a16-4cd6-9444-00f5a56d4482-Import Commercial Invoice - Excel_XQAMZLCL062622324M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL052621584M",
+    "exportsInvoiceValue": 896.33,
+    "shipper": "best deal export",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/bookings-docs/6a0ffff870a13184d08d39b8/0e710244-aa95-4d46-96e8-e64c0853fc27.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623586M",
     "exportsInvoiceValue": 11552.0,
     "shipper": "e-m-c-direct gmbh & co. kg",
@@ -684,12 +690,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6979ef13127b35487782c7df/execution-documents/6a0d71366c27c60ec974e56d/fbc4fed3-8338-4233-b929-e9ad9296ba7d-Export Commercial Invoice - Excel_XQAMZLCL052621518M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622164M",
-    "exportsInvoiceValue": 5760.0,
-    "shipper": "qualcosa international private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e2cf933e7fafd9befbc1bd/execution-documents/6a281d439e1f4cfab09dbbb8/a736328e-0dec-4947-84d2-8604aabe1b0e-Export Commercial Invoice - Excel_XQAMZLCL062622164M.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL072623653M",
     "exportsInvoiceValue": 65696.0,
     "shipper": "Madan Mohan textiles",
@@ -700,12 +700,6 @@
     "exportsInvoiceValue": 31589.13043,
     "shipper": "templar publishers and distributors",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878ed58b73ff1f67555466f/execution-documents/6a20370ea998ed0eec7a4cfe/f15e3ea6-5c90-4a7b-8b04-cdfc20cf7443-Export Commercial Invoice - Excel_XQAMZLCL062621994M.XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL062621936M",
-    "exportsInvoiceValue": 1284.4,
-    "shipper": "ahesanali kadival",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/execution-documents/6a2038d1a998ed0eec7a55fc/8aa47524-902d-4d0f-9f8d-c2910d73f8ca-Export Commercial Invoice - Excel_XQAMZLCL062621936M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622119M",
@@ -952,12 +946,6 @@
     "exportsInvoiceValue": 7948.66,
     "shipper": "Splenor Tools",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6447694bbe4c894f7527e42a/execution-documents/6a44f8cd90335204cabc0857/2b8fe935-698d-4b23-aee0-8ed1d9289f08-Export Commercial Invoice - Excel_XQAMZLCL062622734M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL052621584M",
-    "exportsInvoiceValue": 896.33,
-    "shipper": "best deal export",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/execution-documents/6a0ffff870a13184d08d39b8/1ad63754-66b9-4386-a5f7-355440ea5937-Export Commercial Invoice - Excel_XQAMZLCL052621584M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622764M",
