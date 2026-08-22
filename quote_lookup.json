@@ -660,6 +660,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a688fa83ac7eb4acdea9b82/bookings-docs/6a69c3e07b3265dfb11ab4f6/88e314e3-af24-4a78-8b62-8553f28e9028.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622094M",
+    "exportsInvoiceValue": 2162.0,
+    "shipper": "extend",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=663f4fd75f08e5954b4ed023/execution-documents/6a2d15692898a0d7d800c1d3/56f41aad-d8d7-42ce-8f5f-722b71679697-Export Commercial Invoice - Excel_XQAMZLCL062622094M.XLS"
+  },
+  {
     "quoteId": "XQFCL072623036",
     "exportsInvoiceValue": 63788.76,
     "shipper": "Euphotic Labs Private Limited",
@@ -676,6 +682,12 @@
     "exportsInvoiceValue": 12010.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6353b6bd3a4e1b0c7a5f99/7500e829-7598-4f3a-937a-69ca73939c5a-Import Commercial Invoice - Excel_XQAMZLCL072623441M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622274M",
+    "exportsInvoiceValue": 10146.0,
+    "shipper": "woody24into7",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68072dbf4cc2575ea17bb258/execution-documents/6a2bd606ce651496556dae56/43cbb671-bb95-4100-b91e-c52e98bd51f3-Import Commercial Invoice - Excel_XQAMZLCL062622274M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623653M",
@@ -700,6 +712,24 @@
     "exportsInvoiceValue": 31589.13043,
     "shipper": "templar publishers and distributors",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6878ed58b73ff1f67555466f/execution-documents/6a20370ea998ed0eec7a4cfe/f15e3ea6-5c90-4a7b-8b04-cdfc20cf7443-Export Commercial Invoice - Excel_XQAMZLCL062621994M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL062622299M",
+    "exportsInvoiceValue": 6604.81,
+    "shipper": "f139 kailash vaibhav estate",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/6a2cedf496ef7597ac537825/ab469d71-728b-4988-b262-de22cf464b61-Import Commercial Invoice - Excel_XQAMZLCL062622299M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622244M",
+    "exportsInvoiceValue": 32415.0,
+    "shipper": "s a enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a2ac46abdddd41e426914f9/6dcf0b89-f943-47f3-aeb9-f4a1371b215e-Export Commercial Invoice - Excel_XQAMZLCL062622244M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622073M",
+    "exportsInvoiceValue": 27190.86957,
+    "shipper": "Xisco Enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6776681a7753ae7945b55497/execution-documents/6a296aa2bd73157942c25be7/64c79896-c692-45e7-a9b7-cd675f1855b5-Import Commercial Invoice - Excel_XQAMZLCL062622073M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622119M",
