@@ -1180,5 +1180,11 @@
     "exportsInvoiceValue": 5999.65,
     "shipper": "bhartiya handicrafts",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/execution-documents/6a57785da62663887dfeac37/a16a1bc3-e173-429a-a484-c8ba7816096f-Export Commercial Invoice - Excel_XQAMZLCL072623201M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623272M",
+    "exportsInvoiceValue": 106711.0,
+    "shipper": "matras exporters",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6a5dd75d74b88b9e7f5bdc38/62f0fc48-926e-4136-90de-45d98dd1064c-Excel_Invoice_ME2627-0032_REPAIRED (1).xlsx"
   }
 ]
