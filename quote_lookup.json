@@ -360,12 +360,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68072dbf4cc2575ea17bb258/execution-documents/6a2bd606ce651496556dae56/43cbb671-bb95-4100-b91e-c52e98bd51f3-Import Commercial Invoice - Excel_XQAMZLCL062622274M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622288M",
-    "exportsInvoiceValue": 1317.1,
-    "shipper": "arshad handicraft",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b3a08c7fe6644dc4678a90/execution-documents/6a2fd533a8465c7c74b4e9ab/052824af-7d52-4b29-9a7d-4bdb7f030496-Export Commercial Invoice - Excel_XQAMZLCL062622288M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622299M",
     "exportsInvoiceValue": 6604.81,
     "shipper": "f139 kailash vaibhav estate",
@@ -966,12 +960,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68763c2255f5b7bd2576a4c3/execution-documents/6a70b7e7609a0f8295fd505b/609596fe-4e27-409f-b909-b01938fe93a9-Export_Commercial_Invoice_XQAMZLCL082623768M_REPAIRED.xlsx"
   },
   {
-    "quoteId": "XQFCL062622641",
-    "exportsInvoiceValue": 34470.4,
-    "shipper": "caterpillar signs pvt. ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a424476f0c30aa3c454096c/9e3f0d7e-5425-43b6-a05e-e1d62de058ed-434-Commercial Invoice-Packing List-PO-5426-A.xlsx"
-  },
-  {
     "quoteId": "XQFCL072623036",
     "exportsInvoiceValue": 63788.76,
     "shipper": "Euphotic Labs Private Limited",
@@ -1186,5 +1174,47 @@
     "exportsInvoiceValue": 106711.0,
     "shipper": "matras exporters",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6a5dd75d74b88b9e7f5bdc38/62f0fc48-926e-4136-90de-45d98dd1064c-Excel_Invoice_ME2627-0032_REPAIRED (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0826201208",
+    "exportsInvoiceValue": 4896.0,
+    "shipper": "jonathan francis",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8334b3f176715f6e481120/execution-documents/6a8334b5f176715f6e481167/eec844d0-5ebc-47d0-a8a8-649a0a18fef3-CI XQAMZAIR0826201208 (jonathan francis).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0826201455",
+    "exportsInvoiceValue": 6048.0,
+    "shipper": "nutreelife",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f8a11a1048d8608341978d/execution-documents/6a8431c1533375f8041a56a0/d2c4fb3e-9d5c-4c2f-b741-6d0a0cf54422-CI XQAMZAIR0826201455 (nutreelife).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0826201384",
+    "exportsInvoiceValue": 1349.38,
+    "shipper": "WeTrade Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ec66958f83a5ac5b746eae/execution-documents/6a84269add0fe3f2321d4517/d55b29df-bb7c-4807-b800-27f5ef276605-CI XQAMZAIR0826201384 (WeTrade Limited).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0826201592",
+    "exportsInvoiceValue": 2091.24,
+    "shipper": "joss barton",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b289ec0199aa126358969/execution-documents/6a845184d55839f68dd63b10/601f0659-265e-49b8-b0ce-ee11156fd676-CI XQAMZAIR0826201592 (joss barton).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL062622288M",
+    "exportsInvoiceValue": 1317.1,
+    "shipper": "arshad handicraft",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b3a08c7fe6644dc4678a90/bookings-docs/6a2fd533a8465c7c74b4e9ab/8f886196-df62-4b60-b8d1-2fd3d2224061.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0826201449",
+    "exportsInvoiceValue": 1609.29,
+    "shipper": "stephensons online ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6a842ea9533375f80414f2f9/75f678b9-245e-4827-8395-61e98d22988e-CI XQAMZAIR0826201449 (stephensons online ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623347M",
+    "exportsInvoiceValue": 7000.0,
+    "shipper": "Bluemoon Homes",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6a6094d563e646158bdaf449/f3677cbf-a8f9-4e4f-95ec-e116a8751dd3-US Invoice -26-27_006.xls"
   }
 ]
