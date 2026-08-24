@@ -1156,5 +1156,29 @@
     "exportsInvoiceValue": 6133.62,
     "shipper": "matthias christian",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a79e20ee35789ca9e8834fc/2e7b6545-653d-40c5-95ac-43cc68fbc921-IOR CI XQAMZAIR0826198842 (matthias christian).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622966M",
+    "exportsInvoiceValue": 6956.0,
+    "shipper": "metallic elegance",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68640815c470e72ac1adeede/execution-documents/6a4f30eb52d8d3d11f8f18a2/571cb2e0-1444-446c-a1b8-28d3879b5b64-EXPORT Commercial Invoice_XQAMZLCL072622966M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623150M",
+    "exportsInvoiceValue": 28264.0,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a588a7ab30d70bbe15ec9d5/78a71231-03f8-4e3c-8dcf-6357e97f66dd-Export Commercial Invoice - Excel_XQAMZLCL072623150M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622261M",
+    "exportsInvoiceValue": 19044.0,
+    "shipper": "archie enterprise",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/6a2bc281ce6514965568013e/ae90dfd3-a68c-46d4-af4a-44865e9fd6a8.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623201M",
+    "exportsInvoiceValue": 5999.65,
+    "shipper": "bhartiya handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/execution-documents/6a57785da62663887dfeac37/a16a1bc3-e173-429a-a484-c8ba7816096f-Export Commercial Invoice - Excel_XQAMZLCL072623201M.xlsx"
   }
 ]
