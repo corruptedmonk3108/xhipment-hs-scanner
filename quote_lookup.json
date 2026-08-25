@@ -78,24 +78,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a634567867b3c7defb1956a/aee4c3f2-666d-4934-9b78-e6f2fefa40f5-Import Commercial Invoice - Excel_XQAMZFCL072623435M UP.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072623503M",
-    "exportsInvoiceValue": 121798.3,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a672d81beb56690fcbafcc8/9c33c2a2-b0fa-4993-9292-f81fb5dba1d4-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623504M",
-    "exportsInvoiceValue": 141818.22,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a672df7d4745f47022149c7/6328b080-9dbb-41c7-994e-7713ba6c273d-Invoice No.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623625M",
-    "exportsInvoiceValue": 115565.96,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6afc96f318c34106d34805/382fdbd0-15db-4141-990b-120530b91497-Invoice No.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL072623653M",
     "exportsInvoiceValue": 65696.0,
     "shipper": "Madan Mohan textiles",
@@ -1198,5 +1180,23 @@
     "exportsInvoiceValue": 159467.46,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6afdc6f318c34106d37f84/e54b3562-0ab2-40fb-bae7-cf13ae6474ca-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623503M",
+    "exportsInvoiceValue": 121798.3,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a672d81beb56690fcbafcc8/974ed74f-2383-4e1e-9284-be1e51d39cb3.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623504M",
+    "exportsInvoiceValue": 141818.22,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a672df7d4745f47022149c7/866a810e-7312-4793-b46e-32841a577223.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623625M",
+    "exportsInvoiceValue": 115565.96,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a6afc96f318c34106d34805/9cc6aec5-2d8d-4fb3-9b77-d12e42371c56.xlsx"
   }
 ]
