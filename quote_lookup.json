@@ -636,12 +636,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68284257b3fb02d788de8a29/execution-documents/6a44ad56a3acea81c571d85c/c55aa2de-8801-48ea-8243-2461e92cca94-Import Commercial Invoice - Excel_XQAMZLCL062622764M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622767M",
-    "exportsInvoiceValue": 15000.0,
-    "shipper": "b s exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a439b4092515c31a4b5af65/execution-documents/6a4b4738354bfa3637fd4b9a/0b056e2f-f53f-49e6-af38-842c157167b4-Import Commercial Invoice - Excel_XQAMZLCL062622767M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622777M",
     "exportsInvoiceValue": 4736.0,
     "shipper": "sciencent industries",
@@ -822,12 +816,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a54ab4b1364404652e0ef5a/6714c441-ace1-4ed5-bfed-29dc516a24f3-Commercial Invoice_XQAMZLCL072623103M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623104M",
-    "exportsInvoiceValue": 12508.284,
-    "shipper": "5kind (xhipment warehouse)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a54ab6b1364404652e0f33f/7fbe4fb0-869a-4a6d-bf8d-290f8d6ed3a7-Commercial Invoice_XQAMZLCL072623104M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623105M",
     "exportsInvoiceValue": 6034.2464,
     "shipper": "3Idee EU",
@@ -844,12 +832,6 @@
     "exportsInvoiceValue": 20771.2,
     "shipper": "movemate gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1eeae41431206c98325a50/execution-documents/6a5a57ad265d44588f102bb0/f5940665-33ed-47e8-8351-b426f231e3f3-Commercial Invoice_XQAMZLCL072623260M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623353M",
-    "exportsInvoiceValue": 19360.56,
-    "shipper": "Creano GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67938f142de0c7e4dec3711d/execution-documents/6a609e5e0e815e7bca7fd584/8c28d4b7-e7eb-4a52-8ef8-771a28c3bd0f-Commercial Invoice_XQAMZLCL072623353M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623431M",
@@ -898,12 +880,6 @@
     "exportsInvoiceValue": 16237.5,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6b4856d1f3bf00bf447852/bcfbf439-0c24-479b-b47a-bd551999f4f0-Import Commercial Invoice - Excel_XQAMZLCL072623651M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL082623768M",
-    "exportsInvoiceValue": 2827.63,
-    "shipper": "Rustins Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68763c2255f5b7bd2576a4c3/execution-documents/6a70b7e7609a0f8295fd505b/609596fe-4e27-409f-b909-b01938fe93a9-Export_Commercial_Invoice_XQAMZLCL082623768M_REPAIRED.xlsx"
   },
   {
     "quoteId": "XQFCL072623036",
@@ -1110,12 +1086,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/6a2bc281ce6514965568013e/ae90dfd3-a68c-46d4-af4a-44865e9fd6a8.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623201M",
-    "exportsInvoiceValue": 5999.65,
-    "shipper": "bhartiya handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/execution-documents/6a57785da62663887dfeac37/a16a1bc3-e173-429a-a484-c8ba7816096f-Export Commercial Invoice - Excel_XQAMZLCL072623201M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623272M",
     "exportsInvoiceValue": 106711.0,
     "shipper": "matras exporters",
@@ -1198,5 +1168,17 @@
     "exportsInvoiceValue": 115565.96,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a6afc96f318c34106d34805/9cc6aec5-2d8d-4fb3-9b77-d12e42371c56.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622767M",
+    "exportsInvoiceValue": 15000.0,
+    "shipper": "b s exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a439b4092515c31a4b5af65/bookings-docs/6a4b4738354bfa3637fd4b9a/5c0a13ff-9c94-42b0-85af-1a20df9c8238.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623201M",
+    "exportsInvoiceValue": 5999.65,
+    "shipper": "bhartiya handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/bookings-docs/6a57785da62663887dfeac37/a425811e-36b5-44f5-aa11-fc6ae78c725e.xlsx"
   }
 ]
