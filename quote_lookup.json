@@ -852,12 +852,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b2abe9afc035cf658d5186/bookings-docs/6a4f8634eeb93a70a78da827/10ee4b51-e060-4843-8ff7-32942f384db5.xlsx"
   },
   {
-    "quoteId": "XQFCL072623114",
-    "exportsInvoiceValue": 26847.2,
-    "shipper": "caterpillar signs pvt. ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a54cc3fa1d21611ce28d59c/a7224d5c-0446-4623-8a36-7208d2275087-Commercial Invoice-Packing List-PO-5426-3A (1).xlsx"
-  },
-  {
     "quoteId": "XQFCL072623266",
     "exportsInvoiceValue": 57175.31,
     "shipper": "Imagimake",
@@ -930,22 +924,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a60ce97e198a017e62f4dd2/d291afa0-e423-4994-b342-66309d98614b-CI XQAMZAIR0726191984 (Rainbow Chalk Markers Ltd).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0826200451",
-    "exportsInvoiceValue": 796.75,
-    "shipper": "passionforperfume",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/execution-documents/6a7f413eedabb041b1e9af77/45761acd-405a-41a0-bf3d-5f868b9690b0-CI XQAMZAIR0826200451 (passionforperfume).XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR0826198837",
     "exportsInvoiceValue": 5791.62,
     "shipper": "matthias christian",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a79e206e35789ca9e88337e/6af7c8e6-167e-416d-8711-95332e48bbec-IOR CI XQAMZAIR0826198837 (matthias christian).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0826200028",
-    "exportsInvoiceValue": 1815.66,
-    "shipper": "opro international ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a7dca6c2a81f78cfb91f18a/a5a3248c-4585-4d78-a8b0-9a81dde9c251-CI XQAMZAIR0826200028 (opro international ltd).XLSX"
   },
   {
     "quoteId": "XQAMZAIR0826195453",
@@ -954,28 +936,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a6e03d0191f7e564168f137/207bcd2f-c51b-4909-a081-cab575d45893-CI XQAMZAIR0826195453 (PAWEL LIPSZYC).xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0826199873",
-    "exportsInvoiceValue": 7693.32,
-    "shipper": "paul richmond",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68909492d1102c88bb6711dc/execution-documents/6a7d968294b0d91751faae70/fde3a405-fecc-4a41-88ae-1515437a6b14-CI XQAMZAIR0826199873 (paul richmond).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0826198576",
-    "exportsInvoiceValue": 378.0,
-    "shipper": "Hambli Limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=667afdbaa09e7172a8a2b98e/execution-documents/6a79a3dfe35789ca9e661ee9/9a198dae-5572-47b5-aa2f-bf4d29e50a2d-CI XQAMZAIR0826198576 (Hambli Limited).XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR0726188129",
     "exportsInvoiceValue": 536.64,
     "shipper": "trade counter distribution",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e413565ea673446d57cf4/execution-documents/6a4e413765ea673446d57d1a/2d5d1e33-6150-450c-8355-61a2dae895a2-CI XQAMZAIR0726188129 (trade counter distribution).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0826200091",
-    "exportsInvoiceValue": 5880.8,
-    "shipper": "joss barton",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b289ec0199aa126358969/execution-documents/6a7de9fd0074677f150b7ea9/d96ed8b2-4509-4b04-b125-5d766263fc04-CI XQAMZAIR0826200091 (joss barton).XLSX"
   },
   {
     "quoteId": "XQAMZAIR0826198800",
@@ -988,18 +952,6 @@
     "exportsInvoiceValue": 120.0,
     "shipper": "cwd - mypond",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f8b1881048d8608344cab9/execution-documents/6a7b115943f83f03ee62fd3d/48ba65c4-ed1c-4f45-a14f-59d3ab984786-IOR CI XQAMZAIR0826199159 (cwd - mypond).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0826197066",
-    "exportsInvoiceValue": 6787.0,
-    "shipper": "PAWEL LIPSZYC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a731b49f5fa5d4114b838cd/b2860889-312d-47b8-8f47-8714127cd4e2-CI XQAMZAIR0826197066 (PAWEL LIPSZYC).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0726191129",
-    "exportsInvoiceValue": 1766.4,
-    "shipper": "supriva c/o fulfilx",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68cd2344b365708730c78a95/execution-documents/6a5dea6b94bae38a81ab04dc/9f4882bb-2994-41ca-ae38-360d6f33b427-CI XQAMZAIR0726191129 (supriva co fulfilx).XLSX"
   },
   {
     "quoteId": "XQAMZAIR0726193712",
