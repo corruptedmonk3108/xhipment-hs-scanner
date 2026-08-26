@@ -1014,12 +1014,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/bookings-docs/6a79e2051fd769fe2e74a741/7451cee7-39fc-4f90-8b16-266ff0919ad4.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0826198842",
-    "exportsInvoiceValue": 6133.62,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6a79e20ee35789ca9e8834fc/2e7b6545-653d-40c5-95ac-43cc68fbc921-IOR CI XQAMZAIR0826198842 (matthias christian).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072622966M",
     "exportsInvoiceValue": 6956.0,
     "shipper": "metallic elegance",
