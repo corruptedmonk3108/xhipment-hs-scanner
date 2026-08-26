@@ -1180,5 +1180,41 @@
     "exportsInvoiceValue": 5842.2,
     "shipper": "chai guys",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698b240f68f6f2c1cf527d11/execution-documents/6a7c262271e0aa969fc3cf20/4d0d7a54-4390-4103-9067-889e1dc241aa-Export Commercial Invoice - Excel_XQAMZLCL082624054M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623428M",
+    "exportsInvoiceValue": 34681.99,
+    "shipper": "Tapes n More",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a63679decdf55c384d94bbc/de77ddcb-6975-497a-8094-362d4ac1bea2-Import INV & PL GSEXPO2627008.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623434M",
+    "exportsInvoiceValue": 79650.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63458a03a2ef58354d6deb/0c3abd5f-576b-4a87-ba0b-737b7a09f67e-Import Commercial Invoice - Excel_XQAMZFCL072623434M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623436M",
+    "exportsInvoiceValue": 58968.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a634602867b3c7defb1fd70/8ae48504-5e04-43a0-b823-8f566c07194e-Import Commercial Invoice - Excel_XQAMZFCL072623436M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623654M",
+    "exportsInvoiceValue": 139524.72,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6b4c2ddea5ccb7f698eb3d/abc359ed-7134-4ae5-a512-4dfd57d91e81-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082623811M",
+    "exportsInvoiceValue": 31555.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a72dffdf601a40070dfe189/db953654-8910-466e-b69e-0caac8b74ce3-Import Commercial Invoice - Excel_XQAMZFCL082623811M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623434M",
+    "exportsInvoiceValue": 79650.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63458a03a2ef58354d6deb/33ddaa07-881a-4917-8a68-d6db69b83cfc-Import Commercial Invoice - Excel_XQAMZFCL072623434M.xlsx"
   }
 ]
