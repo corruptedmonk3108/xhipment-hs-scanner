@@ -282,12 +282,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67138db23a3b6c2fb9ffa857/execution-documents/6a2a7b151388e60f728d2780/e6767170-6995-4682-afc2-3a1e40ca520f-Export Commercial Invoice - Excel_XQAMZLCL062622205M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622207M",
-    "exportsInvoiceValue": 3069.0,
-    "shipper": "mediaa minds",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677b9d4ed2c6de9d30d3850e/bookings-docs/6a2a8808da3ca55ec5f31d7f/3e3d2a9e-ba89-49c9-9d86-8c330bcd75fb.XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL062622214M",
     "exportsInvoiceValue": 40656.08,
     "shipper": "Taram Textiles",
@@ -540,12 +534,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3fc95417c54cf80a7806ad/execution-documents/6a42276e33b61a811fb3cf20/3ec9bd64-97be-4293-bce2-0e4c7ac445ec-Export Commercial Invoice - Excel_XQAMZLCL062622689M.xls"
   },
   {
-    "quoteId": "XQAMZLCL062622691M",
-    "exportsInvoiceValue": 3024.0,
-    "shipper": "varad impex",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3fc95417c54cf80a7806ad/execution-documents/6a4232be38a0f924494eb3d6/1e5b6f7f-7df6-40a4-a68a-38695d19f6dd-Export Commercial Invoice - Excel_XQAMZLCL062622691M.xls"
-  },
-  {
     "quoteId": "XQAMZLCL062622705M",
     "exportsInvoiceValue": 28281.66,
     "shipper": "Amay International LLC",
@@ -562,12 +550,6 @@
     "exportsInvoiceValue": 2215.878261,
     "shipper": "alyna international private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff91d01c4b4c1ac2c9883c/execution-documents/6a437d204a7f842d29f1c0d2/afed251d-3bf4-4023-a7e7-8ef0b53b1e37-Export Commercial Invoice - Excel_XQAMZLCL062622714M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL062622731M",
-    "exportsInvoiceValue": 25574.0,
-    "shipper": "everse",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694a8f1e43996ff342b87d9d/execution-documents/6a44b18ad5d1a06424ffb27c/f3d7e221-2bbd-44a5-8d4a-ead0c620c38d-Export Commercial Invoice - Excel_XQAMZLCL062622731M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622732M",
