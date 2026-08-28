@@ -354,12 +354,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a36677fe003d985c85e9b33/31a60eee-250d-4e67-b933-eeae4a6103db-Export Commercial Invoice - Excel_XQAMZLCL062622477M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622480M",
-    "exportsInvoiceValue": 5786.0,
-    "shipper": "ankit mukeshbhai garg",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690ca0876f1965bc6dcea409/execution-documents/6a3692527e76110debe34688/1c4e6fbe-7eb4-45d0-beaa-91ce9475b879-Signed & Scanned Export Commercial Invoice_XQAMZLCL062622480M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622488M",
     "exportsInvoiceValue": 8067.84,
     "shipper": "Tapes n More",
@@ -532,12 +526,6 @@
     "exportsInvoiceValue": 6391.04,
     "shipper": "global hub llc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696cc4b1d014f8d986f20d7e/execution-documents/6a4517c1b9e2041baeef2645/aafd0f70-dfd3-47d7-be33-2f2aee7d8249-Export Commercial Invoice - Excel_XQAMZLCL072622808M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072622842M",
-    "exportsInvoiceValue": 4456.24,
-    "shipper": "tradestart gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6894813e084d16113412e5fb/bookings-docs/6a46577f9205992228156eca/4aebfbdc-1530-40f5-9701-168398ed4734.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622846M",
@@ -784,12 +772,6 @@
     "exportsInvoiceValue": 2860.0,
     "shipper": "PAWEL LIPSZYC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a6e03d0191f7e564168f137/207bcd2f-c51b-4909-a081-cab575d45893-CI XQAMZAIR0826195453 (PAWEL LIPSZYC).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0726188129",
-    "exportsInvoiceValue": 536.64,
-    "shipper": "trade counter distribution",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e413565ea673446d57cf4/execution-documents/6a4e413765ea673446d57d1a/2d5d1e33-6150-450c-8355-61a2dae895a2-CI XQAMZAIR0726188129 (trade counter distribution).XLSX"
   },
   {
     "quoteId": "XQAMZAIR0826198800",
@@ -1060,5 +1042,11 @@
     "exportsInvoiceValue": 10099.63986,
     "shipper": "pragati fashion pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca7cd8a3204eed6a5c1230/execution-documents/6a4b46759b7705eb1e68b891/c42ed9c5-b323-4304-906d-885473822ba4-Export Commercial Invoice - Excel_XQAMZLCL072622907M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL052621567M",
+    "exportsInvoiceValue": 844.7,
+    "shipper": "candor foods private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c4d7d30f4ad1c07b34b297/bookings-docs/6a0eb17af0154ffb468f1528/b3ea10ad-937b-4c31-a4dc-d48edd66c6bc.xlsx"
   }
 ]
