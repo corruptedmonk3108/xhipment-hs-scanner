@@ -12,12 +12,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a43f9dca1d34342f18fd1dc/a888678f-86f5-4f96-ad77-0b6230db4eca-Import Commercial Invoice - Excel_XQAMZFCL062622783M.xls"
   },
   {
-    "quoteId": "XQAMZFCL072623013M",
-    "exportsInvoiceValue": 41025.6,
-    "shipper": "metis learning solutions pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a4f5d65d06f8e0d189ad7fe/a990932e-e3a9-4935-baaa-c0b0d18134ea-Export Commercial Invoice - Excel_XQAMZFCL072623013M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072622912M",
     "exportsInvoiceValue": 599.72,
     "shipper": "mohd shahzaib",
@@ -264,12 +258,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a2ac46abdddd41e426914f9/6dcf0b89-f943-47f3-aeb9-f4a1371b215e-Export Commercial Invoice - Excel_XQAMZLCL062622244M.xls"
   },
   {
-    "quoteId": "XQAMZLCL062622262M",
-    "exportsInvoiceValue": 15278.24,
-    "shipper": "Aarush International",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653899e79e77bb218ca94725/execution-documents/6a3a7581460623bcf850fc77/c40036cf-a99d-42ed-8ee3-646007c29420-Import Commercial Invoice - Excel_XQAMZLCL062622262M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622274M",
     "exportsInvoiceValue": 10146.0,
     "shipper": "woody24into7",
@@ -360,12 +348,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a3bb70f4dc4aa71de8098b1/f94b9eb8-2586-4375-9f2e-4d5107558d57-Import Commercial Invoice - Excel_XQAMZLCL062622572M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622598M",
-    "exportsInvoiceValue": 10886.4,
-    "shipper": "Bizeev LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a436f78093d5df2b62c94bd/4794ec8c-4b1e-4785-8f36-0adee366ce5d-BIZEEV LLC GE-009.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622599M",
     "exportsInvoiceValue": 6612.0,
     "shipper": "muhammad talha yousaf",
@@ -412,12 +394,6 @@
     "exportsInvoiceValue": 5413.27,
     "shipper": "dom ventas india pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a43569e6e1c926a9e2aff2b/execution-documents/6a44b7f6a780f281494e3a3c/9ad6c4bf-2b90-43ac-a527-907cd323cb37-Export Commercial Invoice - Excel_XQAMZLCL062622749M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622764M",
-    "exportsInvoiceValue": 13879.5,
-    "shipper": "anaya agate",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68284257b3fb02d788de8a29/execution-documents/6a44ad56a3acea81c571d85c/c55aa2de-8801-48ea-8243-2461e92cca94-Import Commercial Invoice - Excel_XQAMZLCL062622764M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622781M",
