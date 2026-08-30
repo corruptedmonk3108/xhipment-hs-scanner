@@ -90,6 +90,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/bookings-docs/6a57785da62663887dfeac37/3c3cd27b-d5d3-4f2e-81c5-81a54945db97.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826200828",
+    "exportsInvoiceValue": 4569.48,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a82dcc0a182ed30aecf680e/25b44104-0bae-4ba6-a2e8-aaa7b73f1d51-CI XQAMZAIR0826200828 (Solino Home).xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL072623653M",
     "exportsInvoiceValue": 65696.0,
     "shipper": "Madan Mohan textiles",
