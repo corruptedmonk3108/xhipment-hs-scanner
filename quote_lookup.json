@@ -126,6 +126,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6979ef13127b35487782c7df/execution-documents/6a0d71366c27c60ec974e56d/fbc4fed3-8338-4233-b929-e9ad9296ba7d-Export Commercial Invoice - Excel_XQAMZLCL052621518M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826202662",
+    "exportsInvoiceValue": 4285.92,
+    "shipper": "d-51, nangal dewat, vasant kunj,",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a870a11065ce77263bc52f4/1c038567-97e8-4e08-b5ed-6bc070476f4f-CI XQAMZAIR0826202662 (d-51, nangal dewat, vasant kunj,).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621524M",
     "exportsInvoiceValue": 720.0,
     "shipper": "skr lifestyle goods",
