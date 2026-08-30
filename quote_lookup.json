@@ -132,6 +132,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e7392b9bf1902739330fb3/execution-documents/6a870a11065ce77263bc52f4/1c038567-97e8-4e08-b5ed-6bc070476f4f-CI XQAMZAIR0826202662 (d-51, nangal dewat, vasant kunj,).xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826200865",
+    "exportsInvoiceValue": 3071.43,
+    "shipper": "corium crafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d96a0cb7e92b0bb6fa2e7f/execution-documents/6a82eb662158e803af805eec/ca310909-bcf6-46ea-9ff3-2c873fa903b8-CI XQAMZAIR0826200865 (corium crafts).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL052621524M",
     "exportsInvoiceValue": 720.0,
     "shipper": "skr lifestyle goods",
@@ -190,6 +196,12 @@
     "exportsInvoiceValue": 1385.7,
     "shipper": "fotune trading & mining company",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=692305dba349422ab3709720/execution-documents/6a1ecbe9d41bbcc926a67aac/543719d4-b8dc-40e4-a903-1566757c8c52-Export Commercial Invoice - Excel_XQAMZLCL062621924M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623582M",
+    "exportsInvoiceValue": 46135.5,
+    "shipper": "BIOWEAVES RETAIL LLP",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6666c34a03e9e1801a16d7d1/execution-documents/6a69c80615369d3c8a7ebcf5/1640b207-f4da-4004-b000-64eeee8e3ea0-Export Commercial Invoice - Excel_XQAMZLCL072623582M.xlsm"
   },
   {
     "quoteId": "XQAMZLCL062621968M",
