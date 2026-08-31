@@ -60,12 +60,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6a60b5842a3149302ece62b3/199a83a8-5730-41ee-9cab-c8de8924d8a0.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072623432M",
-    "exportsInvoiceValue": 66671.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63428f867b3c7defb0e7f7/7b9de537-7d00-4524-87f7-eff211a8ed19-Import Commercial Invoice - Excel_XQAMZFCL072623432M.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL072623435M",
     "exportsInvoiceValue": 74805.0,
     "shipper": "Madan Mohan textiles",
@@ -208,12 +202,6 @@
     "exportsInvoiceValue": 15060.0,
     "shipper": "megadi network opc pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694770a132608c2b8a68d4ca/execution-documents/6a2164ce25611f8b6267937a/f7807f3d-130d-413f-9a77-a893f9b18415-Export Commercial Invoice - Excel_XQAMZLCL062621968M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062621991M",
-    "exportsInvoiceValue": 1282.5,
-    "shipper": "feyn foods (opc) private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a21027d808a43173d21797e/c0cc798d-d01c-4c4b-a4f9-523f0f1e2ff4-Export Commercial Invoice - Excel_XQAMZLCL062621991M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622034M",
@@ -414,10 +402,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ba85765ae692ed64b5fdd1/execution-documents/6a421496d17bf0103c37b3c6/d34404bd-6497-49b5-ac86-5f9ac843e912-Export Commercial Invoice - Excel_XQAMZLCL062622496M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622571M",
-    "exportsInvoiceValue": 10054.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a3bb6864dc4aa71de8060d4/753367ac-a39d-4c35-9a80-dc2f922fa500-Import Commercial Invoice - Excel_XQAMZLCL062622571M.xlsx"
+    "quoteId": "XQAMZAIR0826203136",
+    "exportsInvoiceValue": 33153.3,
+    "shipper": "jannis neumann",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a22d748de31b2284b2ea687/execution-documents/6a883236e0422d54f6d301d6/0bba9d5c-8c36-443b-afea-87d37434cf37-CI XQAMZAIR0826203136 (jannis neumann).XLSX"
   },
   {
     "quoteId": "XQAMZLCL062622572M",
