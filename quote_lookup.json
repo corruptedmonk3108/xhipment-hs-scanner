@@ -270,6 +270,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874ece8610057fe492efe26/execution-documents/6a2ea536b3c251d8a202c351/a445c4ff-9b54-4e95-8152-262ceb453110-Import Commercial Invoice - Excel_XQAMZLCL062622202M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826196559",
+    "exportsInvoiceValue": 1505.0,
+    "shipper": "saurabh gargatte",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f351199078e78014f22f16/execution-documents/6a71dbb06e9882c5284b8ca0/2cf9340a-961a-4a5a-a253-fe08669bba96-CI XQAMZAIR0826196559 (saurabh gargatte).XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL062622214M",
     "exportsInvoiceValue": 40656.08,
     "shipper": "Taram Textiles",
@@ -288,16 +294,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68072dbf4cc2575ea17bb258/execution-documents/6a2bd606ce651496556dae56/43cbb671-bb95-4100-b91e-c52e98bd51f3-Import Commercial Invoice - Excel_XQAMZLCL062622274M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826199357",
+    "exportsInvoiceValue": 18693.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a7c2a4b71e0aa969fc4098b/c6ea886b-5505-4e26-ac1a-a6c93150ca64-CI XQAMZAIR0826199357 (fashionking brands pvt ltd).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622299M",
     "exportsInvoiceValue": 6604.81,
     "shipper": "f139 kailash vaibhav estate",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6597d7baeaa5a9ad43b5cf35/execution-documents/6a2cedf496ef7597ac537825/ab469d71-728b-4988-b262-de22cf464b61-Import Commercial Invoice - Excel_XQAMZLCL062622299M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0826201611",
+    "exportsInvoiceValue": 600.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a8455f8fb19f4f30463f35b/62cb4f89-3ef7-47b3-8ef6-eb217ef390e2-DI XQAMZAIR0826201611 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622329M",
     "exportsInvoiceValue": 19679.28,
     "shipper": "metallic elegance",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68640815c470e72ac1adeede/execution-documents/6a3015c5f8edcabbe31c2456/f8cc4c08-a74a-4053-a080-677ecbf7c085-Export Commercial Invoice - Excel_XQAMZLCL062622329M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0826203077",
+    "exportsInvoiceValue": 600.0,
+    "shipper": "maa bhagwati ethnic llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a8828ee6926b3fac1edbe60/d3fc844f-8d01-463e-9d03-98a37a04b847-DI XQAMZAIR0826203077 (maa bhagwati ethnic llp).xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622377M",
@@ -324,6 +348,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67dc8e4dd471d022cfd17452/execution-documents/6a33ec0efeb6cd924b54017a/84ad5309-955c-495b-8b75-7478bbf0962c-Export Commercial Invoice - Excel_XQAMZLCL062622408M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL072623627M",
+    "exportsInvoiceValue": 140475.32,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6afcf6968c787be1f4b471/2708ffdc-eb4c-4754-aeaa-7a3098935370-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622413M",
     "exportsInvoiceValue": 19527.0,
     "shipper": "nostalgic-art merchandising gmbh",
@@ -342,10 +372,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d2dc29874cbed2d0d69ad0/execution-documents/6a33d6e93d1915a60d550912/aaa8e94a-2d8f-4f7e-8f12-650eb9066c3c-Export Commercial Invoice - Excel_XQAMZLCL062622425M.xlsm"
   },
   {
+    "quoteId": "XQAMZFCL072623677M",
+    "exportsInvoiceValue": 72904.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6c7bd9ae74c06b756ebcd7/cd19b562-bc7b-4a77-96ae-6cda2edeadbd-Import Commercial Invoice - Excel_XQAMZFCL072623677M (1).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622488M",
     "exportsInvoiceValue": 8067.84,
     "shipper": "Tapes n More",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a38c374511568b3f26201e4/e636cde1-76c6-4a61-bd32-400e426ea272-Import Inoice GSEXPO2627005 (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623677M",
+    "exportsInvoiceValue": 72904.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6c7bd9ae74c06b756ebcd7/a748a251-58cd-4f65-8b66-325147521671-Import Commercial Invoice - Excel_XQAMZFCL072623677M (2).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623677M",
+    "exportsInvoiceValue": 72904.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6c7bd9ae74c06b756ebcd7/21e54d11-9035-4b9a-9bee-08db33d3b9ba-Import Commercial Invoice - Excel_XQAMZFCL072623677M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082623827M",
+    "exportsInvoiceValue": 131709.02,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a73030c9eb089b5bcd0be19/a0d8ce5b-4be3-47cd-a953-bc348bc3eb30-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622495M",
