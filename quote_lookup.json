@@ -354,10 +354,46 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2ffb434c451c5f10e6e3da/execution-documents/6a30f7b7aa18b9a09a2d6115/333abd02-603d-475d-9b08-94e173b4b109-EXPORT_Commercial_Invoice_XQAMZLCL062622346M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622419M",
+    "exportsInvoiceValue": 2397.88,
+    "shipper": "saahil enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68061727c219cf9fae7a8b61/execution-documents/6a33dfc3e3d823d44a57e84c/b8450a31-9b11-48e7-b298-858a9ab27fb4-Export Commercial Invoice - Excel_XQAMZLCL062622419M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622420M",
+    "exportsInvoiceValue": 17902.2,
+    "shipper": "blue fox tools",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=651e9b1cbeb8da5b21fdd73d/execution-documents/6a33de5b38b92cdc7fbec83a/6f8e11c7-5041-411f-812a-d1d2b401e7b0-Export Commercial Invoice - Excel_XQAMZLCL062622420M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622421M",
+    "exportsInvoiceValue": 1220.0,
+    "shipper": "blue fox tools",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=651e9b1cbeb8da5b21fdd73d/execution-documents/6a33de493d1915a60d556581/71370e97-627c-46a6-94c0-530ae97520bd-Export Commercial Invoice - Excel_XQAMZLCL062622421M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622682M",
     "exportsInvoiceValue": 750.0,
     "shipper": "world wide creative",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ef7eddcd00da66abe00de7/execution-documents/6a3fb8d39c887f04d1b059c8/21856659-f9b5-4408-8485-0c6019d99b5e-Destination Invoice_XQAMZLCL062622682M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622441M",
+    "exportsInvoiceValue": 40320.0,
+    "shipper": "sabah khan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/6a364922e003d985c84fa319/eb6ae57c-f32a-4b1c-80a4-f6dfc1e46b2f-Import Commercial Invoice - Excel_XQAMZLCL062622441M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622492M",
+    "exportsInvoiceValue": 3315.2,
+    "shipper": "ajay jain",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=672a28d7dbfa634b146b703e/execution-documents/6a38e5d0a020129f8a5000c4/2422831c-0f18-4414-b560-f2b09e78fe86-Export Commercial Invoice - Excel_XQAMZLCL062622492M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622512M",
+    "exportsInvoiceValue": 40145.9212,
+    "shipper": "wishcare",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df78e6318ad0a323658a75/execution-documents/6a393284b96900a8f2906691/590b9032-a370-4f41-9e73-b1f5ebc755f5-Export_Commercial_Invoice_XQAMZLCL062622512M_REPAIRED.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622714M",
