@@ -654,16 +654,64 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a718fe3815fc21122f656d0/bca18707-c45c-4338-b77b-e869e73699b9-invoice_74647.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082624006M",
+    "exportsInvoiceValue": 7695.0,
+    "shipper": "t & d pharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/6a7a0b521bd6543fb8a57c41/a0cf74bd-7550-4c58-b822-4fdf627888cf-Commercial Invoice_XQAMZLCL082624006M (1).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL082624086M",
+    "exportsInvoiceValue": 5640.0,
+    "shipper": "cartamundi",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68a46f3f96799b214ebf29c1/execution-documents/6a7c74512f661bb49fcdea9e/ed410a53-dfe1-477c-82d4-bbe91c0ea589-Packing_List_Commercial_Invoice_XQAMZLCL082624086M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624253M",
+    "exportsInvoiceValue": 12638.0,
+    "shipper": "coming nature gmbh & co. kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a82e2227d7a6fea697778c6/execution-documents/6a85779792c2f90495989845/64a6f146-b43c-4e1f-a40e-7e8b41c3c584-Packing_List_Commercial_Invoice_XQAMZLCL082624253M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623628M",
+    "exportsInvoiceValue": 105924.12,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6afd6a968c787be1f4d768/a95f3194-3f24-44ee-8460-5f618fd46192-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624229M",
+    "exportsInvoiceValue": 288119.5,
+    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6a842288aba9540d80af65c7/7d64bba2-8507-4c2a-a42e-be5f69e663ee-Commercial_Invoice_XQAMZFCL082624229M.xlsx"
+  },
+  {
     "quoteId": "XQFCL072623036",
     "exportsInvoiceValue": 63788.76,
     "shipper": "Euphotic Labs Private Limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b2abe9afc035cf658d5186/bookings-docs/6a4f8634eeb93a70a78da827/10ee4b51-e060-4843-8ff7-32942f384db5.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622555M",
+    "exportsInvoiceValue": 177.26,
+    "shipper": "nirmiti somkuwar",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6818a770d6a2a4f8b1a9e346/execution-documents/6a3b7e7030051610f9bb0ff5/ed6bf85b-48df-4e8e-b08b-2b00f78b4ab2-EXPORT_Commercial_Invoice_XQAMZLCL062622555M_REPAIRED.xlsx"
+  },
+  {
     "quoteId": "XQFCL072623266",
     "exportsInvoiceValue": 57175.31,
     "shipper": "Imagimake",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a5b50a8f2469d330abd02ef/a6288e0c-28a9-4df3-b429-ac5e52a9b092-Export Commercial Invoice - Excel_XQFCL072623266.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622600M",
+    "exportsInvoiceValue": 103869.16,
+    "shipper": "indus cosmeceuticals pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69945b84bb0464a85e64a8ac/execution-documents/6a44a6e4a3acea81c56c29c6/b2f24ff5-80a0-466d-bd36-32bcb972e62e-Import Commercial Invoice - Excel_XQAMZLCL062622600M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622727M",
+    "exportsInvoiceValue": 792.0,
+    "shipper": "aroma exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65cf15fc6e15cf157db8469b/execution-documents/6a438ab533f0625c69338637/deae337d-fc20-4eef-a012-97a326f8f779-Export Commercial Invoice - Excel_XQAMZLCL062622727M.xlsx"
   },
   {
     "quoteId": "XQLCL052621618",
@@ -718,6 +766,36 @@
     "exportsInvoiceValue": 3241.39,
     "shipper": "Rainbow Chalk Markers Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a60ce97e198a017e62f4dd2/d291afa0-e423-4994-b342-66309d98614b-CI XQAMZAIR0726191984 (Rainbow Chalk Markers Ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622728M",
+    "exportsInvoiceValue": 464.0,
+    "shipper": "vibrant publishers and learning limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698d526fc4d7451dabd17860/execution-documents/6a434d912f7180b0278e8add/5656c17d-709f-4698-9115-4ede740cb7d7-Export_Commercial_Invoice_XQAMZLCL062622728M_REPAIRED.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623757M",
+    "exportsInvoiceValue": 12597.88,
+    "shipper": "nikilko2017 ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a70891d0449142651596929/cab75f8a-11ed-4217-835d-ceb3297b8806-invoice_74631.xlsx"
+  },
+  {
+    "quoteId": "XQFCL072622922",
+    "exportsInvoiceValue": 20000.0,
+    "shipper": "Tullycavy Barrel Co",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697b80ba286c5c6fdba3100e/execution-documents/6a54edbbe730e77b41d00338/3ad71c6f-a73a-449c-888f-e6055b82998a-Commercial Invoice_XQFCL072622922.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL072622790M",
+    "exportsInvoiceValue": 9321.2,
+    "shipper": "ncube impex",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a44c2fc11d42121e3ba241e/execution-documents/6a44c5e4cb86a8a4193381c1/ccb360b5-30a2-4cd4-8ffc-b11815488d81-Export Commercial Invoice - Excel_XQAMZLCL072622790M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623801M",
+    "exportsInvoiceValue": 403.0,
+    "shipper": "mahadev enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a50e9b55d836a7cfd2c3813/execution-documents/6a72105e792791bab227015b/2659cc06-c8b5-4c0a-869c-b257aea4dd92-XQAMZLCL082623801M CONSOLIDATED.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622966M",
