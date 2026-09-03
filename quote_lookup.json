@@ -198,12 +198,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f351199078e78014f22f16/execution-documents/6a71dbb06e9882c5284b8ca0/2cf9340a-961a-4a5a-a253-fe08669bba96-CI XQAMZAIR0826196559 (saurabh gargatte).XLSX"
   },
   {
-    "quoteId": "XQAMZLCL062622214M",
-    "exportsInvoiceValue": 40656.08,
-    "shipper": "Taram Textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64674ac285847d10f2c693e8/execution-documents/6a2cfe732898a0d7d8fbf41e/2ab5dba2-6899-47e8-b3ea-a051f87d0365-Import Commercial Invoice - Excel_XQAMZLCL062622214M.xls"
-  },
-  {
     "quoteId": "XQAMZLCL062622274M",
     "exportsInvoiceValue": 10146.0,
     "shipper": "woody24into7",
@@ -226,12 +220,6 @@
     "exportsInvoiceValue": 600.0,
     "shipper": "maa bhagwati ethnic llp",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a8828ee6926b3fac1edbe60/d3fc844f-8d01-463e-9d03-98a37a04b847-DI XQAMZAIR0826203077 (maa bhagwati ethnic llp).xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622377M",
-    "exportsInvoiceValue": 6000.0,
-    "shipper": "desiboardgames india",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a302d639c149c6905faa444/execution-documents/6a3386fec963808385781a68/102be21c-dc54-415f-8f50-58d28598e57f-Export Commercial Invoice - Excel_XQAMZLCL062622377M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622407M",
@@ -412,12 +400,6 @@
     "exportsInvoiceValue": 9121.33,
     "shipper": "delta / new leaf",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690b7faea346c7e7274e5335/execution-documents/6a8eaf606450d80774b48b1b/39affe48-b856-4908-99d5-7f08e4f89364-Commercial Invoice_XQAMZAIR0826204446.XLS"
-  },
-  {
-    "quoteId": "XQAMZLCL072623201M",
-    "exportsInvoiceValue": 5999.65,
-    "shipper": "bhartiya handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/bookings-docs/6a57785da62663887dfeac37/3d73558a-d6ed-4ebb-b94f-6e63cef0d11a.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0826202477",
@@ -652,6 +634,12 @@
     "exportsInvoiceValue": 8563.0,
     "shipper": "halm straws gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69735da02302f7c382ef2ca1/execution-documents/6a74499257d5578efb0fa369/f9974bd5-fd13-43e6-9ebe-cd30d4a6a015-Commercial Invoice_XQAMZLCL082623866M.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL072623201M",
+    "exportsInvoiceValue": 5999.65,
+    "shipper": "bhartiya handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/bookings-docs/6a57785da62663887dfeac37/d274f29a-ea7f-44e8-9c28-154108a38413.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623651M",
