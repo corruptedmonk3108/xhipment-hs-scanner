@@ -498,12 +498,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c2a81686685bb559fe50c/bookings-docs/6a50b83a94089d6d1157cadf/ec0e4a6b-9728-4d72-b55a-16f83a538dee.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623273M",
-    "exportsInvoiceValue": 1078.0,
-    "shipper": "kenova organics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5a6a33379f8c8b160d41ea/execution-documents/6a5f50e3a7d50d4de0dd850b/de84c7fd-4156-405c-af81-79eb2c71ae3d-Export Commercial Invoice - Excel_XQAMZLCL072623273M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623089M",
     "exportsInvoiceValue": 5164.28,
     "shipper": "amazing crafts world",
@@ -792,12 +786,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6a5dd75d74b88b9e7f5bdc38/62f0fc48-926e-4136-90de-45d98dd1064c-Excel_Invoice_ME2627-0032_REPAIRED (1).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622288M",
-    "exportsInvoiceValue": 1317.1,
-    "shipper": "arshad handicraft",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b3a08c7fe6644dc4678a90/bookings-docs/6a2fd533a8465c7c74b4e9ab/8f886196-df62-4b60-b8d1-2fd3d2224061.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623347M",
     "exportsInvoiceValue": 7000.0,
     "shipper": "Bluemoon Homes",
@@ -1024,5 +1012,47 @@
     "exportsInvoiceValue": 3069.0,
     "shipper": "mediaa minds",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677b9d4ed2c6de9d30d3850e/execution-documents/6a4d0b0ab77056fef38c9755/bfbf4bca-3578-4e30-a239-97500d6e3954-Export Commercial Invoice - Excel_XQAMZLCL072622957M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623019M",
+    "exportsInvoiceValue": 5184.0,
+    "shipper": "farhan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6819f708b326f93fa2eba6e6/execution-documents/6a50b97c6617180b7e3d5650/d4c1d8ee-f8f2-43b1-a300-747f42e44f27-Import Commercial Invoice - Excel_XQAMZLCL072623019M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL072623032M",
+    "exportsInvoiceValue": 6684.48,
+    "shipper": "\"srinivasa se home private limited\"",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4e491ce57a461610ff1f2a/execution-documents/6a4f97c0929c53d1770e9fd3/5cd90e7a-9b31-4bae-8a28-74cb133cfc4f-Signed_Export_Commercial_Invoice_XQAMZLCL072623032M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622288M",
+    "exportsInvoiceValue": 1317.1,
+    "shipper": "arshad handicraft",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b3a08c7fe6644dc4678a90/bookings-docs/6a2fd533a8465c7c74b4e9ab/07e62736-d52e-471b-bbda-65f0002bbf92.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623065M",
+    "exportsInvoiceValue": 2000.0,
+    "shipper": "forestis gallinaria",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65de0cf9067eee7d021d21ca/execution-documents/6a50cb310917135e98d87ea2/8a11a0ed-7fb6-4618-8076-b28d26ac08cf-Export Commercial Invoice - Excel_XQAMZLCL072623065M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623273M",
+    "exportsInvoiceValue": 1078.0,
+    "shipper": "kenova organics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5a6a33379f8c8b160d41ea/bookings-docs/6a5f50e3a7d50d4de0dd850b/7391eaea-d470-4752-8d34-b8428e656b07.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623047M",
+    "exportsInvoiceValue": 8640.0,
+    "shipper": "sabah khan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/6a504a8c6617180b7e2515e2/7f16731f-8310-4b47-8216-d381c122f265-Export Commercial Invoice - Excel_XQAMZLCL072623047M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622968M",
+    "exportsInvoiceValue": 1138.0,
+    "shipper": "ahesanali kadival",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/execution-documents/6a4e266c6f41aa69bdcec726/e733b577-204f-4464-a762-c7b2dc3c005f-Export Commercial Invoice - Excel_XQAMZLCL072622968M.xlsx"
   }
 ]
