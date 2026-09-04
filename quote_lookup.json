@@ -78,12 +78,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d96a0cb7e92b0bb6fa2e7f/execution-documents/6a82eb662158e803af805eec/ca310909-bcf6-46ea-9ff3-2c873fa903b8-CI XQAMZAIR0826200865 (corium crafts).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621539M",
-    "exportsInvoiceValue": 1440.65,
-    "shipper": "pawan kumar nirwani",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687466734f893c41e5462f60/execution-documents/6a0f1834f2841a1a6aeee8f6/f5d846d7-8617-4d34-aaa1-291d736aa5ee-Export Commercial Invoice - Excel_XQAMZLCL052621539M.xls"
-  },
-  {
     "quoteId": "XQAMZLCL052621640M",
     "exportsInvoiceValue": 10215.5,
     "shipper": "abdul khaliq metal crafts",
@@ -136,18 +130,6 @@
     "exportsInvoiceValue": 5215.0,
     "shipper": "ashok & company",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a22ce0e9d4a926830e884d4/c64df395-ce2b-4499-9deb-5c0abdd4b5e1-Export Commercial Invoice - Excel_XQAMZLCL062622034M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622047M",
-    "exportsInvoiceValue": 1599.1,
-    "shipper": "prime impex",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ff35e633fe1e4cba2da28/execution-documents/6a22866e6056b5eb8773e4aa/93067af1-2616-4239-962a-1ed49b620d4f-Export Commercial Invoice - Excel_XQAMZLCL062622047M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622073M",
-    "exportsInvoiceValue": 27190.86957,
-    "shipper": "Xisco Enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6776681a7753ae7945b55497/execution-documents/6a296aa2bd73157942c25be7/64c79896-c692-45e7-a9b7-cd675f1855b5-Import Commercial Invoice - Excel_XQAMZLCL062622073M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622094M",
