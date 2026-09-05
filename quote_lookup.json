@@ -6,6 +6,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6140eabe25c88f7d322571/execution-documents/6a644fa39d68e01b535ca215/c5870da4-d7ee-4eea-bffc-6ae285eb39f9-Export Commercial Invoice - Excel_XQAMZFCL072623455M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623166M",
+    "exportsInvoiceValue": 4306.0,
+    "shipper": "d v traders",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5637dbdee1d980acfbde1c/execution-documents/6a571845ca6f79eaa1be6750/1e1ba142-c175-4e26-b70e-31e9c6b12eaf-Export Commercial Invoice - Excel_XQAMZLCL072623166M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623316M",
+    "exportsInvoiceValue": 2016.0,
+    "shipper": "kaash enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685169edcec329812c09a014/execution-documents/6a5f3fbedb123634f2267da8/fa3e736f-569c-467a-979b-04ddc4c8f4ae-Export Commercial Invoice - Excel_XQAMZLCL072623316M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072622912M",
     "exportsInvoiceValue": 599.72,
     "shipper": "mohd shahzaib",
@@ -1030,5 +1042,59 @@
     "exportsInvoiceValue": 61502.94,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a64519a52b423147a69085f/1b4b66c6-a0ee-4712-8f13-ca3140b46ee4-Import Commercial Invoice - Excel_XQAMZLCL072623443M.xlsm"
+  },
+  {
+    "quoteId": "XQAMZFCL082623746M",
+    "exportsInvoiceValue": 47534.2,
+    "shipper": "metis learning solutions pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a70619cad092686dee8a8f2/4c5ef582-cdcb-49ee-889f-7f123f6ae56e-Export Commercial Invoice - Excel_XQAMZFCL082623746M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082623857M",
+    "exportsInvoiceValue": 176415.1,
+    "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a74240c3b49fc606550735c/2b68f19e-d219-4b0e-a37b-fd7df1a6009c-Destination Invoice_XQAMZFCL082623857M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL062622354M",
+    "exportsInvoiceValue": 720.0,
+    "shipper": "smitakart enterprises  c/o- priyansi jena",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a30f3f1aa18b9a09a2d285e/execution-documents/6a310800405ab7fecf12fbc4/59704b86-86a6-4b48-bc84-dfe92024af6c-Export_Commercial_Invoice_XQAMZLCL062622354M_REPAIRED (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622735M",
+    "exportsInvoiceValue": 3348.8,
+    "shipper": "vaibhav",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684d47010c96bb63e5a43614/execution-documents/6a45168e80f5bf82c919726f/cf269721-6a86-45fb-9d1e-d069dfca1ffd-Export Commercial Invoice - Excel_XQAMZLCL062622735M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622804M",
+    "exportsInvoiceValue": 8712.56,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a45081674e66a308a9542ac/38da5dd2-be67-410b-ac90-df132e861d58-Export Commercial Invoice - Excel_XQAMZLCL072622804M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622820M",
+    "exportsInvoiceValue": 2049.0,
+    "shipper": "f n industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3d3d10885bd2966a3d41a0/execution-documents/6a4618af00b4afb116ff7a10/97ee10e8-be6d-493a-a0b7-221be94ef1b0-Export_Commercial_Invoice_XQAMZLCL072622820M_REPAIRED.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624188M",
+    "exportsInvoiceValue": 133607.34,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a82aa23f9da908b0c0b73ed/864695d6-2e47-4c64-834a-87c1c69f7f6a-XQAMZFCL082624188M - NMK.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624252M",
+    "exportsInvoiceValue": 130203.86,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a842962dd0fe3f2321f0c7a/f8525d1a-b6fd-4861-81bb-2e6cec8005d9-XQAMZFCL082624252M - NMK.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622823M",
+    "exportsInvoiceValue": 15456.54,
+    "shipper": "VOYZZ INDIA PRIVATE LIMITED",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b8feedd3d470619b976a65/execution-documents/6a463ce5920599222809e730/c42d85dc-6343-40a6-ac56-045aef3004f6-EXPORT Commercial Invoice_XQAMZLCL072622823M.xlsx"
   }
 ]
