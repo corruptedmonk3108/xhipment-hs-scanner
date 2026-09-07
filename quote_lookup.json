@@ -246,10 +246,40 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874ece8610057fe492efe26/execution-documents/6a2ea536b3c251d8a202c351/a445c4ff-9b54-4e95-8152-262ceb453110-Import Commercial Invoice - Excel_XQAMZLCL062622202M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL082623974M",
+    "exportsInvoiceValue": 42491.16,
+    "shipper": "m/s sunlord apparels mfg.co.pvt.ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69907bfb2afeabd118fc1a74/execution-documents/6a79de781bd6543fb8a14de6/586bbb23-e00a-4504-bf8a-f950bbdaae2d-Import Commercial Invoice - Excel_XQAMZFCL082623974M.xls"
+  },
+  {
     "quoteId": "XQAMZAIR0826196559",
     "exportsInvoiceValue": 1505.0,
     "shipper": "saurabh gargatte",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f351199078e78014f22f16/execution-documents/6a71dbb06e9882c5284b8ca0/2cf9340a-961a-4a5a-a253-fe08669bba96-CI XQAMZAIR0826196559 (saurabh gargatte).XLSX"
+  },
+  {
+    "quoteId": "XQAMZFCL082623975M",
+    "exportsInvoiceValue": 42587.64,
+    "shipper": "m/s sunlord apparels mfg.co.pvt.ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69907bfb2afeabd118fc1a74/execution-documents/6a79de921bd6543fb8a14f74/371d2570-0905-4fdf-80ef-57c8938dfd17-Import Commercial Invoice - Excel_XQAMZFCL082623975M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL072622910M",
+    "exportsInvoiceValue": 6758.26,
+    "shipper": "sesa care",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6846d10c98d09badaca95a42/execution-documents/6a4b59cc08c40f0d83870900/646ce3eb-8951-4a80-8579-8df3a43604c3-Export Commercial Invoice - Excel_XQAMZLCL072622910M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622937M",
+    "exportsInvoiceValue": 4005.1,
+    "shipper": "matec industries private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ef6453d059a30d3ed020d4/execution-documents/6a4e2949dfba9e5f443c6011/4aec62c8-9993-430a-b753-99d895091d8c-Import Commercial Invoice - Excel_XQAMZLCL072622937M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623335M",
+    "exportsInvoiceValue": 11210.34,
+    "shipper": "jucofabs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5e397c3a385e7e1e008979/execution-documents/6a621d07915912089884d73b/cf322930-2e6f-483d-adb0-70e21bc56361-Export_Commercial_Invoice_XQAMZLCL072623335M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622274M",
@@ -264,10 +294,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6a7c2a4b71e0aa969fc4098b/c6ea886b-5505-4e26-ac1a-a6c93150ca64-CI XQAMZAIR0826199357 (fashionking brands pvt ltd).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622692M",
+    "exportsInvoiceValue": 1315.6,
+    "shipper": "divya singh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3fef56c9a6cf13aeb5b94e/execution-documents/6a4202ec2a1361ad9def8f07/cfd46f98-8991-4381-9a0f-b3099d49fabf-Export_Commercial_Invoice_XQAMZLCL062622692M_REPAIRED.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0826201611",
     "exportsInvoiceValue": 600.0,
     "shipper": "maa bhagwati ethnic llp",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=678f87ac93878fbfcf078c52/execution-documents/6a8455f8fb19f4f30463f35b/62cb4f89-3ef7-47b3-8ef6-eb217ef390e2-DI XQAMZAIR0826201611 (maa bhagwati ethnic llp).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623485M",
+    "exportsInvoiceValue": 31350.0,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a66f5b1606af3abe3566c39/b6847837-390f-4e94-96c1-3fbee1be69d3-Export Commercial Invoice - Excel_XQAMZLCL072623485M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0826203077",
