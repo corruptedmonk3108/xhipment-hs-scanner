@@ -36,22 +36,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a6704c1beb56690fcaffccc/5bba9940-afdf-4dda-8c68-d9d5c361b079-Destination Invoice_XQLCL072623493.xlsm"
   },
   {
-    "quoteId": "XQAMZFCL072623235M",
-    "exportsInvoiceValue": 36865.62,
-    "shipper": "metis learning solutions pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a59bc3dfe3afc7c0fe87dd7/ada4d8e4-a0bb-4c1f-b3c3-6ec207a5c142-Export Commercial Invoice - Excel_XQAMZFCL072623235M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623448M",
     "exportsInvoiceValue": 9701.4,
     "shipper": "wrizty home creation",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f9fbf6cb390407c032071a/execution-documents/6a67210e1f682fc7663ec7bf/90948344-504d-4a4a-8828-5d37f672ff63-INVOICE  WHC-02-2026-27 -COMMERCIAL.xls"
-  },
-  {
-    "quoteId": "XQAMZFCL072623285M",
-    "exportsInvoiceValue": 40139.9,
-    "shipper": "metis learning solutions pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a5df27c74b88b9e7f6d18ae/4f014108-8e5d-4943-832d-883a916bca98-Export Commercial Invoice - Excel_XQAMZFCL072623285M.xlsx"
   },
   {
     "quoteId": "XQFCL072623480",
@@ -532,6 +520,12 @@
     "exportsInvoiceValue": 106711.0,
     "shipper": "matras exporters",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/6a5dd75d74b88b9e7f5bdc38/1c9f6c9f-2d60-4674-89a1-00bc90672a5b.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623490M",
+    "exportsInvoiceValue": 17139.0,
+    "shipper": "mie creations",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6655808643535a0c94f01abe/execution-documents/6a670c661fa1a5110690a182/10698fb5-62b4-490b-a8d2-1ad9faaf13d4-Export Commercial Invoice - Excel_XQAMZLCL072623490M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0826203995",
