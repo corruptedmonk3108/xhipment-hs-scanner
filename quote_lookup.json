@@ -162,12 +162,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6401a1dcd2b0e3b274efdaf8/execution-documents/6a683fb0e986cd76b0c567fd/6bc83d62-6ccd-4a68-b2af-839940bebb76-Import Commercial Invoice - Excel_XQAMZLCL072623521M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621834M",
-    "exportsInvoiceValue": 1710.0,
-    "shipper": "feyn foods (opc) private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a1975d07a9044e8b03a07ae/96dd0b96-1e05-40db-81e0-42701ca9a483-Export Commercial Invoice - Excel_XQAMZLCL052621834M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL052621855M",
     "exportsInvoiceValue": 2832.0,
     "shipper": "aahil international",
