@@ -84,40 +84,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a66fd5786b7026810dbab53/f33b603e-fecd-4831-9e4e-07036abd4b51-Export Commercial Invoice - Excel_XQAMZLCL072623425M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623202M",
-    "exportsInvoiceValue": 17760.0,
-    "shipper": "sabah khan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/6a584661d2cff81540a7d977/b49ab41b-8de5-4d47-880b-e7f21e97338c-Export Commercial Invoice-11th invoice-NEW-IMPORT22_06_2026.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623532M",
     "exportsInvoiceValue": 761.4,
     "shipper": "chauhan rustam abdulbhai",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6957710c932514569105c17f/execution-documents/6a6833be27744e6266fb7758/6e0c80d9-8bd3-452f-9313-14cbb043e657-Export Commercial Invoice - Excel_XQAMZLCL072623532M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL042620703M",
-    "exportsInvoiceValue": 2124.0,
-    "shipper": "Home Decor Inc",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8c6cd0a47d0e5728e3720/execution-documents/69eca07cb0d516eef7426e17/f7763f90-6a5c-4c20-a6ce-c88d2966868c-Export Commercial Invoice - Excel_XQAMZLCL042620703M.xls"
-  },
-  {
     "quoteId": "XQAMZLCL072623535M",
     "exportsInvoiceValue": 40560.0,
     "shipper": "Global Exim",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/execution-documents/6a683fcf088688e9040e9b6d/2cc0ec79-ca11-4555-ab7d-15ae9b4876ae-Import Commercial Invoice - Excel_XQAMZLCL072623535M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623488M",
-    "exportsInvoiceValue": 67545.0,
-    "shipper": "picado home decors pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6970b3fd8b0830f8ef4f75dc/execution-documents/6a66fa4686b7026810d9754d/5e102f35-afa3-4561-a44e-dc024e93b5b5-INV NO.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623489M",
-    "exportsInvoiceValue": 29465.0,
-    "shipper": "picado home decors pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6970b3fd8b0830f8ef4f75dc/execution-documents/6a66fa1bb1df3976a3938a98/5f984e5f-a184-4b4b-bbf7-dac01d0cd61c-INV NO.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623610M",
@@ -148,12 +124,6 @@
     "exportsInvoiceValue": 64113.04,
     "shipper": "Katyani Exports (SVA Organics)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a6ad268c76c1d2b83f2f774/3d3687f0-2d84-49c5-972d-6a8dea229ab4-013 Invoice.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621640M",
-    "exportsInvoiceValue": 10215.5,
-    "shipper": "abdul khaliq metal crafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682610b4fb9cf4c8a2ce37ce/execution-documents/6a11ba4915e641f40f7baa42/00c14859-f979-40c2-b1d7-569fc1c361eb-Import Commercial Invoice - Excel_XQAMZLCL052621640M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623521M",
@@ -630,10 +600,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a840f0e2385f424e9eaaa41/dcbb1d9f-75c9-400c-9f18-c6644dfcf2e7-Import Commercial Invoice - Excel_XQFCL082624237.xls"
   },
   {
-    "quoteId": "XQAMZLCL072622935M",
-    "exportsInvoiceValue": 9625.0,
-    "shipper": "Aadhikesh\u00a0Exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64ae91953e697333272f9a36/execution-documents/6a4e1685bbc4bcdf4d5f89a2/0b5e501d-7145-4ba7-ae1a-e873a3390a33-Commercial_Invoice_IN2US (4).xlsx"
+    "quoteId": "XQAMZLCL072623202M",
+    "exportsInvoiceValue": 17760.0,
+    "shipper": "sabah khan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/bookings-docs/6a584661d2cff81540a7d977/2c8fb47d-f0da-470d-a414-8022e65fb17e.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623488M",
+    "exportsInvoiceValue": 67545.0,
+    "shipper": "picado home decors pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6970b3fd8b0830f8ef4f75dc/bookings-docs/6a66fa4686b7026810d9754d/4acfe95f-5195-4689-9b97-1366578d064a.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623489M",
+    "exportsInvoiceValue": 29465.0,
+    "shipper": "picado home decors pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6970b3fd8b0830f8ef4f75dc/bookings-docs/6a66fa1bb1df3976a3938a98/536db9b3-8551-477c-9152-6e9c26932851.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623676M",
@@ -700,12 +682,6 @@
     "exportsInvoiceValue": 8563.0,
     "shipper": "halm straws gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69735da02302f7c382ef2ca1/execution-documents/6a74499257d5578efb0fa369/f9974bd5-fd13-43e6-9ebe-cd30d4a6a015-Commercial Invoice_XQAMZLCL082623866M.pdf"
-  },
-  {
-    "quoteId": "XQAMZLCL072623201M",
-    "exportsInvoiceValue": 5999.65,
-    "shipper": "bhartiya handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f3d32669a0ea736cd22afc/bookings-docs/6a57785da62663887dfeac37/d274f29a-ea7f-44e8-9c28-154108a38413.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082623782M",
@@ -910,12 +886,6 @@
     "exportsInvoiceValue": 79650.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a63458a03a2ef58354d6deb/0c3abd5f-576b-4a87-ba0b-737b7a09f67e-Import Commercial Invoice - Excel_XQAMZFCL072623434M (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623436M",
-    "exportsInvoiceValue": 58968.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a634602867b3c7defb1fd70/8ae48504-5e04-43a0-b823-8f566c07194e-Import Commercial Invoice - Excel_XQAMZFCL072623436M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623654M",
