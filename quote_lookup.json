@@ -684,6 +684,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69735da02302f7c382ef2ca1/execution-documents/6a74499257d5578efb0fa369/f9974bd5-fd13-43e6-9ebe-cd30d4a6a015-Commercial Invoice_XQAMZLCL082623866M.pdf"
   },
   {
+    "quoteId": "XQAMZLCL072623349M",
+    "exportsInvoiceValue": 15000.0,
+    "shipper": "b s exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a439b4092515c31a4b5af65/execution-documents/6a631299c1b60cdb56c55d8f/d188303d-dd95-4752-82d7-5822bf876328-Import Commercial Invoice - Excel_XQAMZLCL072623349M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623456M",
+    "exportsInvoiceValue": 25504.0,
+    "shipper": "solidus lifesciences private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6381e5253d60a01834b44/execution-documents/6a69c8aa15369d3c8a81576c/c738f447-ba8c-4afe-a674-5e14b6a68f11-Import Commercial Invoice - Excel_XQAMZLCL072623456M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623520M",
+    "exportsInvoiceValue": 2590.681545,
+    "shipper": "alyna international private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff91d01c4b4c1ac2c9883c/execution-documents/6a68782f118967bdf2f2932d/7d52ce78-dc8c-46c8-a1ee-68802001c7b3-Export Commercial Invoice - Excel_XQAMZLCL072623520M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623782M",
     "exportsInvoiceValue": 12276.83,
     "shipper": "nikilko2017 ltd",
@@ -712,6 +730,12 @@
     "exportsInvoiceValue": 105924.12,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6afd6a968c787be1f4d768/a95f3194-3f24-44ee-8460-5f618fd46192-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623543M",
+    "exportsInvoiceValue": 10427.5,
+    "shipper": "AGF International",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6992e9dcf32c0588a5f713d8/execution-documents/6a6863c688d5bd5fbd5eed86/781b4eda-7cc8-41ab-a5bc-931d8aa932f9-Export Commercial Invoice - Excel_XQAMZLCL072623543M.xls"
   },
   {
     "quoteId": "XQAMZFCL082624229M",
@@ -748,6 +772,12 @@
     "exportsInvoiceValue": 20232.0,
     "shipper": "zeshane handicrafts",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ba85765ae692ed64b5fdd1/bookings-docs/6a1e8326998835be2ece6331/4ddb1879-17b2-4cd3-8926-0fb43ff479c5.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623630M",
+    "exportsInvoiceValue": 8794.309724,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a6b19ee45df1091f4c0eeb2/96e75921-2483-425a-adb5-a0da6f3d8703-Export Commercial Invoice - Excel_XQAMZLCL072623630M.xlsx"
   },
   {
     "quoteId": "XQLCL062621951",
