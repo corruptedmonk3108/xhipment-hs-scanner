@@ -438,12 +438,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8858ba336102e08167d8df/execution-documents/6a8884379ad582604af6a3d8/ed0a3d67-95e8-4611-bb1e-925773b417ca-Commercial Invoice_XQAMZLCL082624413M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL072623272M",
-    "exportsInvoiceValue": 106711.0,
-    "shipper": "matras exporters",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/6a5dd75d74b88b9e7f5bdc38/1c9f6c9f-2d60-4674-89a1-00bc90672a5b.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623490M",
     "exportsInvoiceValue": 17139.0,
     "shipper": "mie creations",
@@ -616,12 +610,6 @@
     "exportsInvoiceValue": 416.0,
     "shipper": "samad ahmad",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5b75304d9a3cf17e5812f8/execution-documents/6a5dc648f23ca19f0c38fede/e70315ee-f0b1-4c09-af65-0442c10a7ea1-Export Commercial Invoice - Excel_XQAMZLCL072623274M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623059M",
-    "exportsInvoiceValue": 1322.0,
-    "shipper": "r & sons",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c2a81686685bb559fe50c/bookings-docs/6a50b83a94089d6d1157cadf/ec0e4a6b-9728-4d72-b55a-16f83a538dee.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623676M",
