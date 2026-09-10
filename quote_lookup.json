@@ -120,12 +120,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6401a1dcd2b0e3b274efdaf8/execution-documents/6a683fb0e986cd76b0c567fd/6bc83d62-6ccd-4a68-b2af-839940bebb76-Import Commercial Invoice - Excel_XQAMZLCL072623521M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL052621855M",
-    "exportsInvoiceValue": 2832.0,
-    "shipper": "aahil international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cc9cee302a2e82ba396263/execution-documents/6a1e802a3166ec7a614b83d2/8f803351-f6fa-461e-9221-43a60eedc724-Export Commercial Invoice - Excel_XQAMZLCL052621855M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623582M",
     "exportsInvoiceValue": 46135.5,
     "shipper": "BIOWEAVES RETAIL LLP",
@@ -154,12 +148,6 @@
     "exportsInvoiceValue": 5215.0,
     "shipper": "ashok & company",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a22ce0e9d4a926830e884d4/c64df395-ce2b-4499-9deb-5c0abdd4b5e1-Export Commercial Invoice - Excel_XQAMZLCL062622034M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622094M",
-    "exportsInvoiceValue": 2162.0,
-    "shipper": "extend",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=663f4fd75f08e5954b4ed023/execution-documents/6a2d15692898a0d7d800c1d3/56f41aad-d8d7-42ce-8f5f-722b71679697-Export Commercial Invoice - Excel_XQAMZLCL062622094M.XLS"
   },
   {
     "quoteId": "XQAMZFCL082624030M",
@@ -238,12 +226,6 @@
     "exportsInvoiceValue": 19527.0,
     "shipper": "nostalgic-art merchandising gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b907326a5b02aab5bfe481/execution-documents/6a339c207185be95d63813af/90183acf-dfd1-4b02-a9f6-5f915edae2b9-Commercial Invoice_XQAMZLCL062622413M CI.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622488M",
-    "exportsInvoiceValue": 8067.84,
-    "shipper": "Tapes n More",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a38c374511568b3f26201e4/e636cde1-76c6-4a61-bd32-400e426ea272-Import Inoice GSEXPO2627005 (1).xlsx"
   },
   {
     "quoteId": "XQAMZFCL082623827M",
@@ -696,24 +678,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5e397c3a385e7e1e008979/bookings-docs/6a621d07915912089884d73b/114fb9a3-fa54-4d75-b14d-c7c9602f91a4.xlsx"
   },
   {
-    "quoteId": "XQLCL062621951",
-    "exportsInvoiceValue": 1560.3,
-    "shipper": "mariyam rashid",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a113835a2fa8e4d722b20a8/execution-documents/6a1ebee0aab344955a02cf36/b02395cc-a7bc-4723-a3d7-6852e1a8cd6f-Export Commercial Invoice - Excel_XQLCL062621951 (1).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL082624121M",
-    "exportsInvoiceValue": 54974.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/bookings-docs/6a7da96f84d3734037e0a611/34392280-058d-4a88-9692-a0f13bd66652.xlsx"
-  },
-  {
-    "quoteId": "XQLCL062622446",
-    "exportsInvoiceValue": 5463.0,
-    "shipper": "Sutram Creations",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c926046d1bac3d2152c43c/execution-documents/6a34dfb7c348317706108a0c/ee307193-646b-4b7a-9c74-cfcec38266ae-Invoice_101_2.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624490M",
     "exportsInvoiceValue": 4572.23,
     "shipper": "Rainbow Chalk Markers Ltd",
@@ -882,6 +846,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a8838c9e0422d54f6deaa51/19c8d7c3-6764-4b4c-ba55-ea8b5791c554-Export Commercial Invoice - Excel_XQAMZLCL082624400M.xls"
   },
   {
+    "quoteId": "XQAMZFCL082624121M",
+    "exportsInvoiceValue": 54974.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/bookings-docs/6a7da96f84d3734037e0a611/34c3ba79-b2bb-43cb-8844-884863a6ddcd.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL072623428M",
     "exportsInvoiceValue": 34681.99,
     "shipper": "Tapes n More",
@@ -946,12 +916,6 @@
     "exportsInvoiceValue": 1724.3,
     "shipper": "yutika natural private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6836e4797a60102afc8782a9/execution-documents/6a463e118bb5dd30a957349a/03d1df09-4b19-439a-9410-72bfe2eb86bb-Export Commercial Invoice - Excel_XQLCL072622803.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072622906M",
-    "exportsInvoiceValue": 9032.412965,
-    "shipper": "pragati fashion pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca7cd8a3204eed6a5c1230/execution-documents/6a4b4648b7dd3ac40268471c/e68840d0-03f0-4526-9c60-68473ee11afe-Export Commercial Invoice - Excel_XQAMZLCL072622906M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624505M",
