@@ -36,10 +36,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a6704c1beb56690fcaffccc/5bba9940-afdf-4dda-8c68-d9d5c361b079-Destination Invoice_XQLCL072623493.xlsm"
   },
   {
-    "quoteId": "XQFCL072623480",
-    "exportsInvoiceValue": 10258.9,
-    "shipper": "caterpillar signs pvt. ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a66eb3d1cdd79672df5f619/8c3fb023-be41-45e1-8f9c-94daa2763ba9-Commercial Invoice_XQFCL072623480 UP.pdf"
+    "quoteId": "XQAMZFCL082623811M",
+    "exportsInvoiceValue": 31555.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/bookings-docs/6a72dffdf601a40070dfe189/75820ca7-95ab-482b-9870-761c13225f76.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624290M",
+    "exportsInvoiceValue": 127909.66,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a855b86a9eb0a955f353bd3/3d01c359-435d-4ac6-b1fe-16ad86181686-XQAMZFCL082624290M ctd.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623374M",
+    "exportsInvoiceValue": 24776.0,
+    "shipper": "cerberus uk ltd c/o ezidrops ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a60ccec2e2fe5c7dbe8586b/execution-documents/6a61be045b39ce96efadc07c/24a066a3-b00a-4bc2-bab6-ee35268b047b-EXPORT Commercial Invoice_XQAMZLCL072623374M (1).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL082623750M",
+    "exportsInvoiceValue": 30103.5,
+    "shipper": "muqeem and brothers pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/6a7067b204491426514a99ff/75face59-c8f0-4c82-8ca5-f27c70fe68c4-INV_MB-2627-0159_Under GST_XQAMZLCL082623750M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623451M",
@@ -840,12 +858,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6b4c2ddea5ccb7f698eb3d/abc359ed-7134-4ae5-a512-4dfd57d91e81-Invoice No.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL082623811M",
-    "exportsInvoiceValue": 31555.0,
-    "shipper": "apl",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a72dffdf601a40070dfe189/db953654-8910-466e-b69e-0caac8b74ce3-Import Commercial Invoice - Excel_XQAMZFCL082623811M.xlsx"
-  },
-  {
     "quoteId": "XQLCL082623753",
     "exportsInvoiceValue": 6731.0,
     "shipper": "nutural world",
@@ -856,12 +868,6 @@
     "exportsInvoiceValue": 675.36,
     "shipper": "folkulture (mensa brands)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a21591e8c2a019cf0926c10/execution-documents/6a280086ea3c81706d926711/4e1b2d63-279e-4f6b-90d4-38ed7b49b523-Export Commercial Invoice - Excel_XQLCL062622158.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL072622812M",
-    "exportsInvoiceValue": 288.0,
-    "shipper": "minajbanu manjothi",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a451aae3b8cef897a19281a/execution-documents/6a45fb937ff6fbe3060ffa48/e92ff92e-436b-4d6a-a91e-8bc7c62a108a-Export Commercial Invoice - Excel_XQAMZLCL072622812M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622882M",
