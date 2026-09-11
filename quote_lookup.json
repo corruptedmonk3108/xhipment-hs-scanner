@@ -24,22 +24,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2e8d77deb6d30b3ea7608e/execution-documents/6a4ba70d9f05df358c3648c7/efef9732-d987-413d-8531-1103c6a16fad-Import Packing List - Excel_XQAMZLCL072622912M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623071M",
-    "exportsInvoiceValue": 2182.691258,
-    "shipper": "keshav international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a50dba6b3cb1bb7e3a2906f/execution-documents/6a50eae350b992ce26c497bd/d0d61b74-0f5d-4994-92a9-aa4221fcbe7d-Export Commercial Invoice - Excel_XQAMZLCL072623071M.xlsx"
-  },
-  {
     "quoteId": "XQLCL072623493",
     "exportsInvoiceValue": 32915.13,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a6704c1beb56690fcaffccc/5bba9940-afdf-4dda-8c68-d9d5c361b079-Destination Invoice_XQLCL072623493.xlsm"
-  },
-  {
-    "quoteId": "XQAMZLCL072623448M",
-    "exportsInvoiceValue": 9701.4,
-    "shipper": "wrizty home creation",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f9fbf6cb390407c032071a/execution-documents/6a67210e1f682fc7663ec7bf/90948344-504d-4a4a-8828-5d37f672ff63-INVOICE  WHC-02-2026-27 -COMMERCIAL.xls"
   },
   {
     "quoteId": "XQFCL072623480",
@@ -450,12 +438,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677d13d91b731bf79f059e39/execution-documents/6a66f6d0606af3abe3569d17/2402d07e-e73d-40f7-811e-05329b5644ff-Import Commercial Invoice - Excel_XQAMZLCL072623482M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622726M",
-    "exportsInvoiceValue": 1724.29,
-    "shipper": "manju",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=695d084206a8fcb4bd6d29bd/execution-documents/6a4270222f7180b02787811e/9031ebba-c085-4114-b6e3-8bfc295b4f40-Export Commercial Invoice - Excel_XQAMZLCL062622726M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624200M",
     "exportsInvoiceValue": 5874.0,
     "shipper": "Madan Mohan textiles",
@@ -850,6 +832,12 @@
     "exportsInvoiceValue": 54974.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/bookings-docs/6a7da96f84d3734037e0a611/34c3ba79-b2bb-43cb-8844-884863a6ddcd.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622726M",
+    "exportsInvoiceValue": 1724.29,
+    "shipper": "manju",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=695d084206a8fcb4bd6d29bd/bookings-docs/6a4270222f7180b02787811e/ef225ac3-3455-48e9-af82-84775714de22.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623428M",
