@@ -78,6 +78,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a60bcf80e815e7bca9173cd/execution-documents/6a6202a63e307eb3be3267dc/21d4c6bb-0eba-4eea-9b8f-f405c7c3b352-Export Commercial Invoice - Excel_XQAMZLCL072623390M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082623699M",
+    "exportsInvoiceValue": 6302.57,
+    "shipper": "hashcart india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65f9a5d71145aeca8b87e8ac/execution-documents/6a6d75307c0253f3559363b8/471910ad-17fd-49ed-b5c4-779a706e3252-Export_Commercial_Invoice_XQAMZLCL082623699M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623370M",
     "exportsInvoiceValue": 9652.5,
     "shipper": "s a enterprises",
@@ -90,10 +96,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a66fd5786b7026810dbab53/f33b603e-fecd-4831-9e4e-07036abd4b51-Export Commercial Invoice - Excel_XQAMZLCL072623425M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622315M",
+    "exportsInvoiceValue": 12461.4,
+    "shipper": "indian handicraft exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/execution-documents/6a4502b0d78c70534d9d3134/3829e43f-2077-420f-9e7f-7eb4a3d4b412-Export commercial invoice - excel.xls"
+  },
+  {
     "quoteId": "XQAMZLCL072623532M",
     "exportsInvoiceValue": 761.4,
     "shipper": "chauhan rustam abdulbhai",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6957710c932514569105c17f/execution-documents/6a6833be27744e6266fb7758/6e0c80d9-8bd3-452f-9313-14cbb043e657-Export Commercial Invoice - Excel_XQAMZLCL072623532M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622925M",
+    "exportsInvoiceValue": 1600.0,
+    "shipper": "desiboardgames india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a302d639c149c6905faa444/execution-documents/6a4ba0bd524bdda05a9dc1a5/33635a32-3186-4b63-b022-a906b032cfa2-Export Commercial Invoice - Excel_XQAMZLCL072622925M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623535M",
@@ -102,10 +120,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/execution-documents/6a683fcf088688e9040e9b6d/2cc0ec79-ca11-4555-ab7d-15ae9b4876ae-Import Commercial Invoice - Excel_XQAMZLCL072623535M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623249M",
+    "exportsInvoiceValue": 7398.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a5a01ee43692db5fb74dc19/d0c16309-a68f-4521-8ee9-7e2cdcfdfef3-Export Commercial Invoice - Excel_XQAMZLCL072623249M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623325M",
+    "exportsInvoiceValue": 10472.0,
+    "shipper": "loyora play pvt. ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/execution-documents/6a5f5e783388250835976c47/41be538f-e4b5-474d-9a05-d98d9a6fc2ea-Export Commercial Invoice - Excel_XQAMZLCL072623325M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623610M",
     "exportsInvoiceValue": 10252.0,
     "shipper": "Bluemoon Homes",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6a6ad46c6fa0e1f3e50e83f8/b3698174-6612-4b2c-a0b1-86479d0b5394-Export Commercial Invoice -26-27_007 US inv UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623483M",
+    "exportsInvoiceValue": 4500.0,
+    "shipper": "g & g global",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69abe2e3d4dba691b3f40707/execution-documents/6a675476088688e904fbc9bf/88d313d6-fcce-45cf-ae37-d91eeaa43dd6-Export Commercial Invoice - Excel_XQAMZLCL072623483M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0826200865",
