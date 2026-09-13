@@ -18,12 +18,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=685169edcec329812c09a014/execution-documents/6a5f3fbedb123634f2267da8/fa3e736f-569c-467a-979b-04ddc4c8f4ae-Export Commercial Invoice - Excel_XQAMZLCL072623316M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072622912M",
-    "exportsInvoiceValue": 599.72,
-    "shipper": "mohd shahzaib",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a2e8d77deb6d30b3ea7608e/execution-documents/6a4ba70d9f05df358c3648c7/efef9732-d987-413d-8531-1103c6a16fad-Import Packing List - Excel_XQAMZLCL072622912M.xlsx"
-  },
-  {
     "quoteId": "XQLCL072623493",
     "exportsInvoiceValue": 32915.13,
     "shipper": "Solino Home",
@@ -562,12 +556,6 @@
     "exportsInvoiceValue": 26269.35,
     "shipper": "satish",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6206ad9500082b3db6562e/execution-documents/6a644c339d68e01b535c832d/f9ea219a-8774-43aa-bcab-70d68a193d4c-INVOICEPACKINGLIST-SI-EX262700353.xlsx"
-  },
-  {
-    "quoteId": "XQFCLST082624110",
-    "exportsInvoiceValue": 42264.0,
-    "shipper": "Lockabox",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ab922f3a2205dd88733e89/execution-documents/6a82f385dabb6731ea573858/9242a540-a7ff-4d85-bd48-824c3551045d-Export Commercial Invoice - Excel_XQFCLST082624110 up.pdf"
   },
   {
     "quoteId": "XQAMZFCL072623454M",
