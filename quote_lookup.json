@@ -150,6 +150,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6846d10c98d09badaca95a42/bookings-docs/6a4b59cc08c40f0d83870900/ddd6312a-316f-4f60-b825-a1d453aa48f0.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082623844M",
+    "exportsInvoiceValue": 5332.0,
+    "shipper": "opro international ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6a733d69c091432054172097/02409712-7102-4e6b-8a9d-d400a9ddd567-Export Commercial Invoice - Excel_XQAMZLCL082623844M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623932M",
+    "exportsInvoiceValue": 1809.0,
+    "shipper": "Xcapism Learning Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a75db4a150422611711f2b8/execution-documents/6a75e1c7170bbbbb0e87050c/252c990e-3bd6-4213-ad2f-fe9bbf76ab10-Export Commercial Invoice - Excel_XQAMZLCL082623932M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623637M",
     "exportsInvoiceValue": 10800.0,
     "shipper": "tawa one wood handicrafts",
@@ -160,6 +172,12 @@
     "exportsInvoiceValue": 64113.04,
     "shipper": "Katyani Exports (SVA Organics)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a6ad268c76c1d2b83f2f774/3d3687f0-2d84-49c5-972d-6a8dea229ab4-013 Invoice.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623961M",
+    "exportsInvoiceValue": 4263.0,
+    "shipper": "quickshine ltd c/o sae logistics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e22f019e8ca7ed78f9b783/execution-documents/6a7975989f11ad11617deb65/c7eea991-ef44-41b3-8045-84259b3309bd-EXPORT Commercial Invoice_XQAMZLCL082623961M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL072623521M",
@@ -208,6 +226,18 @@
     "exportsInvoiceValue": 70559.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a7aed2906042e0e1b09a8d8/1845f634-f286-47b4-80ac-6bb68033a013-Commercial Invoice_XQAMZFCL082624030M (2).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624040M",
+    "exportsInvoiceValue": 6060.0,
+    "shipper": "paul longley",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da627871c4cab886d336c5/execution-documents/6a7b240df69b546801e05e31/4882263c-9d25-4497-a5b6-47532cf7d7a3-Export Commercial Invoice - Excel_XQAMZLCL082624040M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623509M",
+    "exportsInvoiceValue": 29931.1,
+    "shipper": "hosley india pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6916e6dd493a8fe03548badc/execution-documents/6a6752f351ab713780cce63c/0e5847eb-a5b1-47f0-860a-d5786d698ba2-Export Commercial Invoice - Excel_XQAMZFCL072623509M.xls"
   },
   {
     "quoteId": "XQAMZFCL082623974M",
