@@ -24,12 +24,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a6704c1beb56690fcaffccc/5bba9940-afdf-4dda-8c68-d9d5c361b079-Destination Invoice_XQLCL072623493.xlsm"
   },
   {
-    "quoteId": "XQAMZFCL082623811M",
-    "exportsInvoiceValue": 31555.0,
-    "shipper": "apl",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/bookings-docs/6a72dffdf601a40070dfe189/75820ca7-95ab-482b-9870-761c13225f76.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL082624290M",
     "exportsInvoiceValue": 127909.66,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -100,12 +94,6 @@
     "exportsInvoiceValue": 40560.0,
     "shipper": "Global Exim",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/execution-documents/6a683fcf088688e9040e9b6d/2cc0ec79-ca11-4555-ab7d-15ae9b4876ae-Import Commercial Invoice - Excel_XQAMZLCL072623535M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623249M",
-    "exportsInvoiceValue": 7398.0,
-    "shipper": "ashok & company",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a5a01ee43692db5fb74dc19/d0c16309-a68f-4521-8ee9-7e2cdcfdfef3-Export Commercial Invoice - Excel_XQAMZLCL072623249M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623325M",
@@ -556,6 +544,12 @@
     "exportsInvoiceValue": 724.0,
     "shipper": "priis trading",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=693126bb7af44cae0e2c4c31/execution-documents/6a6aef00ce5c9b740c0548bf/d5f7bf2f-39b6-499b-8501-55e98eca7923-Export Commercial Invoice - Excel_XQAMZLCL072623561M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623249M",
+    "exportsInvoiceValue": 7398.0,
+    "shipper": "ashok & company",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/bookings-docs/6a5a01ee43692db5fb74dc19/2781cf13-a67d-416e-b813-45811175824a.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623571M",
@@ -1126,12 +1120,6 @@
     "exportsInvoiceValue": 2000.0,
     "shipper": "forestis gallinaria",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65de0cf9067eee7d021d21ca/execution-documents/6a50cb310917135e98d87ea2/8a11a0ed-7fb6-4618-8076-b28d26ac08cf-Export Commercial Invoice - Excel_XQAMZLCL072623065M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623273M",
-    "exportsInvoiceValue": 1078.0,
-    "shipper": "kenova organics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5a6a33379f8c8b160d41ea/bookings-docs/6a5f50e3a7d50d4de0dd850b/7391eaea-d470-4752-8d34-b8428e656b07.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623047M",
