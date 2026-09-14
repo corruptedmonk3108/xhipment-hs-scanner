@@ -426,12 +426,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e8c6cd0a47d0e5728e3720/execution-documents/6a313c4bd9fd94c31a79431e/35952444-3be6-4032-a2fc-b25082729145-Export Commercial Invoice - Excel_XQAMZLCL062622369M.xls"
   },
   {
-    "quoteId": "XQAMZLCL062622411M",
-    "exportsInvoiceValue": 12387.64,
-    "shipper": "imperial automotives",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32873e39dc0673bc4c3e70/execution-documents/6a33bfd59f41e3e23f47d012/547477de-e62f-4143-adb9-11666b84c105-Export Commercial Invoice - Excel_XQAMZLCL062622411M.xls"
-  },
-  {
     "quoteId": "XQAMZAIR0926206214",
     "exportsInvoiceValue": 3079.12,
     "shipper": "jack deboo",
@@ -538,6 +532,18 @@
     "exportsInvoiceValue": 19044.0,
     "shipper": "archie enterprise",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/6a2bc281ce6514965568013e/4b5315a5-00fb-46c2-a30d-6e9e6a42c2a9.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624253M",
+    "exportsInvoiceValue": 12638.0,
+    "shipper": "coming nature gmbh & co. kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a82e2227d7a6fea697778c6/bookings-docs/6a85779792c2f90495989845/f452142b-140c-49c1-8f37-f8b6390593e1.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622411M",
+    "exportsInvoiceValue": 12387.64,
+    "shipper": "imperial automotives",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32873e39dc0673bc4c3e70/bookings-docs/6a33bfd59f41e3e23f47d012/cf5d6836-7439-469f-87bf-fdf3618e10f6.xls"
   },
   {
     "quoteId": "XQAMZLCL072623490M",
@@ -774,12 +780,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68a46f3f96799b214ebf29c1/execution-documents/6a7c74512f661bb49fcdea9e/ed410a53-dfe1-477c-82d4-bbe91c0ea589-Packing_List_Commercial_Invoice_XQAMZLCL082624086M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624253M",
-    "exportsInvoiceValue": 12638.0,
-    "shipper": "coming nature gmbh & co. kg",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a82e2227d7a6fea697778c6/execution-documents/6a85779792c2f90495989845/64a6f146-b43c-4e1f-a40e-7e8b41c3c584-Packing_List_Commercial_Invoice_XQAMZLCL082624253M.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL072623628M",
     "exportsInvoiceValue": 105924.12,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -1000,12 +1000,6 @@
     "exportsInvoiceValue": 34681.99,
     "shipper": "Tapes n More",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a63679decdf55c384d94bbc/de77ddcb-6975-497a-8094-362d4ac1bea2-Import INV & PL GSEXPO2627008.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623654M",
-    "exportsInvoiceValue": 139524.72,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a6b4c2ddea5ccb7f698eb3d/abc359ed-7134-4ae5-a512-4dfd57d91e81-Invoice No.xlsx"
   },
   {
     "quoteId": "XQLCL082623753",
