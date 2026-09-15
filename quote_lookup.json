@@ -558,6 +558,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a68d94132bb3676b45c1496/1434416d-cdbe-42b8-a784-6847b7091e82-Export Commercial Invoice - Excel_XQAMZLCL072623571M.xls"
   },
   {
+    "quoteId": "XQFCL072623615",
+    "exportsInvoiceValue": 64113.04,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a6ad268c76c1d2b83f2f774/4dd6788d-8063-40d4-a150-0c2402893b5d-Commercial Invoice_XQFCL072623615 (4).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623597M",
     "exportsInvoiceValue": 5878.0,
     "shipper": "woody24into7",
