@@ -516,12 +516,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8858ba336102e08167d8df/execution-documents/6a8884379ad582604af6a3d8/ed0a3d67-95e8-4611-bb1e-925773b417ca-Commercial Invoice_XQAMZLCL082624413M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL062622261M",
-    "exportsInvoiceValue": 19044.0,
-    "shipper": "archie enterprise",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/6a2bc281ce6514965568013e/4b5315a5-00fb-46c2-a30d-6e9e6a42c2a9.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624253M",
     "exportsInvoiceValue": 12638.0,
     "shipper": "coming nature gmbh & co. kg",
