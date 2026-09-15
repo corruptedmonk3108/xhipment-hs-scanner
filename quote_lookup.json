@@ -1,11 +1,5 @@
 [
   {
-    "quoteId": "XQAMZFCL072623455M",
-    "exportsInvoiceValue": 52335.36,
-    "shipper": "propelus",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6140eabe25c88f7d322571/execution-documents/6a644fa39d68e01b535ca215/c5870da4-d7ee-4eea-bffc-6ae285eb39f9-Export Commercial Invoice - Excel_XQAMZFCL072623455M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623166M",
     "exportsInvoiceValue": 4306.0,
     "shipper": "d v traders",
@@ -78,12 +72,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/execution-documents/6a4502b0d78c70534d9d3134/3829e43f-2077-420f-9e7f-7eb4a3d4b412-Export commercial invoice - excel.xls"
   },
   {
-    "quoteId": "XQAMZLCL072623532M",
-    "exportsInvoiceValue": 761.4,
-    "shipper": "chauhan rustam abdulbhai",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6957710c932514569105c17f/execution-documents/6a6833be27744e6266fb7758/6e0c80d9-8bd3-452f-9313-14cbb043e657-Export Commercial Invoice - Excel_XQAMZLCL072623532M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072622925M",
     "exportsInvoiceValue": 1600.0,
     "shipper": "desiboardgames india",
@@ -142,12 +130,6 @@
     "exportsInvoiceValue": 1809.0,
     "shipper": "Xcapism Learning Ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a75db4a150422611711f2b8/execution-documents/6a75e1c7170bbbbb0e87050c/252c990e-3bd6-4213-ad2f-fe9bbf76ab10-Export Commercial Invoice - Excel_XQAMZLCL082623932M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623637M",
-    "exportsInvoiceValue": 10800.0,
-    "shipper": "tawa one wood handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/execution-documents/6a6b378254af5d9d3a53af8a/0ba01905-2324-4132-9cd9-fdc150d77e62-Import Commercial Invoice - Excel_XQAMZLCL072623637M.xlsx"
   },
   {
     "quoteId": "XQFCL072623615",
@@ -684,12 +666,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a193bed0cb0a3b1b2d80509/execution-documents/6a1952d45f64a2e908d796a1/beaf90b0-d7e8-4302-b56e-a36526dff6f7-Export Commercial Invoice - Excel_XQAMZLCL052621825M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623570M",
-    "exportsInvoiceValue": 13427.5,
-    "shipper": "prophila handelsgesellschaft mbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69984b5d1c919212f4c47f61/execution-documents/6a68d51232bb3676b459674e/b893a3f7-8790-442b-8217-229976504b52-Commercial Invoice_XQAMZLCL072623570M (1).XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL082623866M",
     "exportsInvoiceValue": 8563.0,
     "shipper": "halm straws gmbh",
@@ -780,12 +756,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5e397c3a385e7e1e008979/bookings-docs/6a621d07915912089884d73b/114fb9a3-fa54-4d75-b14d-c7c9602f91a4.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624490M",
-    "exportsInvoiceValue": 4572.23,
-    "shipper": "Rainbow Chalk Markers Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6a918f603f0130a882092c22/bb17c77d-68e6-4f31-a07c-19ed41625f4d-Export Commercial Invoice - Excel_XQAMZLCL082624490M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624679M",
     "exportsInvoiceValue": 23004.88,
     "shipper": "sky high beauty ltd",
@@ -862,12 +832,6 @@
     "exportsInvoiceValue": 1344.3,
     "shipper": "bja trading limited t/a birkdale sales",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/execution-documents/6a70b4fd04da0bdd73e99664/2a654cfd-d9e5-4d04-9f1a-e193a10abc3a-Export Commercial Invoice - Excel_XQAMZLCL082623767M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092624763M",
-    "exportsInvoiceValue": 2691.84,
-    "shipper": "henry watson's potteries ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6a96cd770b2f4413bc1e9c5c/a898370d-7901-420f-be07-9dc324fc2148-EXPORT Commercial Invoice_XQAMZLCL092624763M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL072622861M",
@@ -1120,12 +1084,6 @@
     "exportsInvoiceValue": 176415.1,
     "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6a74240c3b49fc606550735c/2b68f19e-d219-4b0e-a37b-fd7df1a6009c-Destination Invoice_XQAMZFCL082623857M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL062622354M",
-    "exportsInvoiceValue": 720.0,
-    "shipper": "smitakart enterprises  c/o- priyansi jena",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a30f3f1aa18b9a09a2d285e/execution-documents/6a310800405ab7fecf12fbc4/59704b86-86a6-4b48-bc84-dfe92024af6c-Export_Commercial_Invoice_XQAMZLCL062622354M_REPAIRED (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622735M",
