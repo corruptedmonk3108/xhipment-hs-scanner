@@ -150,12 +150,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6666c34a03e9e1801a16d7d1/execution-documents/6a69c80615369d3c8a7ebcf5/1640b207-f4da-4004-b000-64eeee8e3ea0-Export Commercial Invoice - Excel_XQAMZLCL072623582M.xlsm"
   },
   {
-    "quoteId": "XQAMZLCL072623631M",
-    "exportsInvoiceValue": 3974.04,
-    "shipper": "ms variety silk house",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=680e00e693dca682d1449366/execution-documents/6a6b1dc3e7aa820159c46a47/e1ea3c85-63a7-478c-b3ca-5527325dc01f-Export Commercial Invoice - Excel_XQAMZLCL072623631M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622034M",
     "exportsInvoiceValue": 5215.0,
     "shipper": "ashok & company",
