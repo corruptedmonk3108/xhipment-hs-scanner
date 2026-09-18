@@ -54,6 +54,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a855b86a9eb0a955f353bd3/3d01c359-435d-4ac6-b1fe-16ad86181686-XQAMZFCL082624290M ctd.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL082624720M",
+    "exportsInvoiceValue": 106091.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a95c0dbfc74808eb7d381cb/6a6a04b6-3663-42b8-b0b0-634c3776e730-Import Commercial Invoice - Excel_XQAMZFCL082624720M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623750M",
     "exportsInvoiceValue": 30103.5,
     "shipper": "muqeem and brothers pvt ltd",
@@ -156,6 +162,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a75db4a150422611711f2b8/execution-documents/6a75e1c7170bbbbb0e87050c/252c990e-3bd6-4213-ad2f-fe9bbf76ab10-Export Commercial Invoice - Excel_XQAMZLCL082623932M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082623736M",
+    "exportsInvoiceValue": 11569.0,
+    "shipper": "preet patel",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f077448f83a5ac5b9e2f16/execution-documents/6a701f744b49caf645497293/6f8491de-2e28-4feb-9450-13380392a4ae-Export Commercial Invoice - Excel_XQAMZLCL082623736M.xlsx"
+  },
+  {
     "quoteId": "XQFCL072623615",
     "exportsInvoiceValue": 64113.04,
     "shipper": "Katyani Exports (SVA Organics)",
@@ -166,6 +178,18 @@
     "exportsInvoiceValue": 4263.0,
     "shipper": "quickshine ltd c/o sae logistics",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e22f019e8ca7ed78f9b783/execution-documents/6a7975989f11ad11617deb65/c7eea991-ef44-41b3-8045-84259b3309bd-EXPORT Commercial Invoice_XQAMZLCL082623961M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL082623737M",
+    "exportsInvoiceValue": 1008.0,
+    "shipper": "ashwin hathiyani",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67162a8d3a3b6c2fb90f64a3/execution-documents/6a71e2eb6a331f911a0528e8/f93391a5-b197-4d34-8d6d-3d7f457b5cb7-Export Commercial Invoice - Excel_XQAMZLCL082623737M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623973M",
+    "exportsInvoiceValue": 183.0,
+    "shipper": "gopalram sriram",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=665c51b97a4733fca8a1069b/execution-documents/6a79bd1d1bd6543fb87129d0/a1d6e9ac-830d-428c-bd55-ea7560979c47-Export Commercial Invoice - Excel_XQAMZLCL082623973M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623521M",
