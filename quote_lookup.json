@@ -12,10 +12,40 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5637dbdee1d980acfbde1c/execution-documents/6a571845ca6f79eaa1be6750/1e1ba142-c175-4e26-b70e-31e9c6b12eaf-Export Commercial Invoice - Excel_XQAMZLCL072623166M.xlsx"
   },
   {
+    "quoteId": "XQFCL082624652",
+    "exportsInvoiceValue": 47197.0,
+    "shipper": "Topline Retail Solutions",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68da376164a72ed0a3369ff4/execution-documents/6a92a845f6c0d421e032c68c/e0aecd8a-7027-4864-8e7c-5a11dffcf22f-Commercial Invoice_XQFCL082624652.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624050M",
+    "exportsInvoiceValue": 2160.0,
+    "shipper": "anshul c/o fba sunny sadh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68287776586fa2a9a7251d9c/execution-documents/6a8432d1ba4520ab6b3e7038/b932274f-4722-409a-bfe2-f0dc57385e4c-Import Commercial Invoice - Excel_XQAMZLCL082624050M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624141M",
+    "exportsInvoiceValue": 13650.6,
+    "shipper": "muhammad talha yousaf",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cba66fc86af54d9e759e81/execution-documents/6a7ea565caddf6052a6f8c0f/beedc147-9585-43be-aa34-5c8274d90f7d-Export Commercial Invoice - Excel_XQAMZLCL082624141M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624298M",
+    "exportsInvoiceValue": 20109.0,
+    "shipper": "archie enterprise",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/execution-documents/6a85a3d732245325a223009c/ec2e9c7e-4095-4470-bedb-62529f133c0a-Import Commercial Invoice - Excel_XQAMZLCL082624298M (1).xlsx"
+  },
+  {
     "quoteId": "XQLCL072623493",
     "exportsInvoiceValue": 32915.13,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a6704c1beb56690fcaffccc/5bba9940-afdf-4dda-8c68-d9d5c361b079-Destination Invoice_XQLCL072623493.xlsm"
+  },
+  {
+    "quoteId": "XQFCL082624473",
+    "exportsInvoiceValue": 94805.84,
+    "shipper": "Imagimake",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a8c108bbafb4b8876f7462c/7f9521a0-f259-494c-b7b7-53330cc5c20f-Import Commercial Invoice - Excel_XQFCL082624473.xls"
   },
   {
     "quoteId": "XQAMZFCL082624290M",
