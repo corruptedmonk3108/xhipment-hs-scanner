@@ -756,6 +756,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a439b4092515c31a4b5af65/execution-documents/6a631299c1b60cdb56c55d8f/d188303d-dd95-4752-82d7-5822bf876328-Import Commercial Invoice - Excel_XQAMZLCL072623349M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082623965M",
+    "exportsInvoiceValue": 14920.0,
+    "shipper": "woody24into7",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68072dbf4cc2575ea17bb258/execution-documents/6a7980641fd769fe2e614578/e50ff703-497d-48e8-a7a4-93b5da09378a-aug invoice 2026 - usa (1).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623520M",
     "exportsInvoiceValue": 2590.681545,
     "shipper": "alyna international private limited",
@@ -820,6 +826,18 @@
     "exportsInvoiceValue": 20000.0,
     "shipper": "Tullycavy Barrel Co",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697b80ba286c5c6fdba3100e/execution-documents/6a54edbbe730e77b41d00338/3ad71c6f-a73a-449c-888f-e6055b82998a-Commercial Invoice_XQFCL072622922.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL072623289M",
+    "exportsInvoiceValue": 70068.0,
+    "shipper": "wellspring consumer private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69837f5aa490850c58310d2f/execution-documents/6a5ded5874b88b9e7f6c6ba8/aa9d9901-ee4e-463e-a144-f0123d137c98-Export_Commercial_Invoice_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0926209122",
+    "exportsInvoiceValue": 18593.51,
+    "shipper": "Sljivo Trading GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a9ed0304822429610c5a31c/a3adefc6-c9c7-4e81-a0c6-22ec666659b0-Commercial Invoice_XQAMZAIR0926209122.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082623745M",
