@@ -840,6 +840,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6a9ed0304822429610c5a31c/a3adefc6-c9c7-4e81-a0c6-22ec666659b0-Commercial Invoice_XQAMZAIR0926209122.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623052M",
+    "exportsInvoiceValue": 2596.0,
+    "shipper": "meet ghevariya",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c1fe144a5c43fae7a4c16c/execution-documents/6a563613931a786547054d59/bb8942b4-bccf-425f-a693-d7de3eeffd1a-Export Commercial Invoice - Excel_XQAMZLCL072623052M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623745M",
     "exportsInvoiceValue": 11334.36,
     "shipper": "a&a labels",
@@ -852,16 +858,52 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69f30be48e7092164001fb10/execution-documents/6a706183713e90d84b74f7ba/f82130a7-1383-4298-a167-d313cf19b856-Excel_XQAMZFCL072623688M consolidated.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623336M",
+    "exportsInvoiceValue": 7518.0,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a631254c1b60cdb56c54d41/5fd5141c-51a3-4d9f-8d39-6624f4b7fa93-Export_Commercial_Invoice_336M_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623522M",
+    "exportsInvoiceValue": 490.0,
+    "shipper": "gera industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/execution-documents/6a6865273a928fff9a6864cb/3d68bcba-e80f-4b71-8ab1-3c2c47fe9d1b-Export Commercial Invoice - Excel_XQAMZLCL072623522M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072622861M",
     "exportsInvoiceValue": 16163.34,
     "shipper": "caterpillar signs pvt. ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69a28dd5bd688ab6ee1e03ab/execution-documents/6a47911f1edffe88389a6859/5f1dc164-ccc2-49d2-b614-89beab8836e8-Import Commercial Invoice - Excel_XQAMZLCL072622861M UP.pdf"
   },
   {
+    "quoteId": "XQAMZLCL072623594M",
+    "exportsInvoiceValue": 2400.0,
+    "shipper": "girijesh kumar",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66d6dbc776b52022cbe2b70b/execution-documents/6a69fddf9c1ab8273ca5fb6f/363f07d8-3b7e-4caa-987a-584b00f03639-Import Commercial Invoice - Excel_XQAMZLCL072623594M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623700M",
+    "exportsInvoiceValue": 5372.0,
+    "shipper": "om ethnic wear",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0646b56ddb6539c26b494b/execution-documents/6a6dbcee470ae3e217599ef8/f8ebda49-c501-4e7f-9d63-a90636821943-Export Commercial Invoice - Excel_XQAMZLCL082623700M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623710M",
+    "exportsInvoiceValue": 287.3,
+    "shipper": "hashcart india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65f9a5d71145aeca8b87e8ac/execution-documents/6a6f76f609a634b6c1372799/9dce7256-296a-46cb-84c5-29ec9087be87-Export_Commercial_Invoice_710M_Formatted.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623716M",
     "exportsInvoiceValue": 66892.82,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/bookings-docs/6a702865349f55fa0fcbc700/d73806c5-414f-43aa-a79d-624126d5726f.xlsm"
+  },
+  {
+    "quoteId": "XQAMZLCL082623820M",
+    "exportsInvoiceValue": 10712.40078,
+    "shipper": "guhan krishnamurtthy",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3b8471434775cacf2fa6d2/execution-documents/6a72ec6cf601a40070e115cb/355624ca-954c-48e1-9a7f-d84e84e21e5f-Export Commercial Invoice - Excel_XQAMZLCL082623820M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623049M",
