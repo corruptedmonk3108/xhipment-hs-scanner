@@ -540,12 +540,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df90c00cea47474ce68d4b/execution-documents/6a030afbc3401b9b20649f1d/97f4b317-99f6-496c-b3e2-7738f0b1cdab-Import Commercial Invoice - Excel_XQAMZLCL052621198M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623482M",
-    "exportsInvoiceValue": 3296.66,
-    "shipper": "sharma handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=677d13d91b731bf79f059e39/execution-documents/6a66f6d0606af3abe3569d17/2402d07e-e73d-40f7-811e-05329b5644ff-Import Commercial Invoice - Excel_XQAMZLCL072623482M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624200M",
     "exportsInvoiceValue": 5874.0,
     "shipper": "Madan Mohan textiles",
@@ -904,6 +898,54 @@
     "exportsInvoiceValue": 10712.40078,
     "shipper": "guhan krishnamurtthy",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3b8471434775cacf2fa6d2/execution-documents/6a72ec6cf601a40070e115cb/355624ca-954c-48e1-9a7f-d84e84e21e5f-Export Commercial Invoice - Excel_XQAMZLCL082623820M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624011M",
+    "exportsInvoiceValue": 137740.0,
+    "shipper": "butterfly edufields pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68370c625aa0e5bb683499c1/execution-documents/6a7aba7a90ab565697160d7d/def27622-81d2-45eb-b251-c965c7e310b9-Export Commercial Invoice - Excel_XQAMZFCL082624011M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623947M",
+    "exportsInvoiceValue": 1804.0,
+    "shipper": "sj handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699add9a2b3e5b19c4f52d56/execution-documents/6a770efa291bcde5b0598c56/a800ace1-9e16-4738-9194-5de97143907a-Export Commercial Invoice - Excel_XQAMZLCL082623947M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623959M",
+    "exportsInvoiceValue": 5952.0,
+    "shipper": "yash punjabi",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6a79c67a1bd6543fb882125d/02602367-6484-4dcd-a113-cdcf752c7d1d-Export Commercial Invoice - Excel_XQAMZLCL082623959M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623964M",
+    "exportsInvoiceValue": 18552.0,
+    "shipper": "tawa one wood handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/execution-documents/6a7993f10399726097720740/ac61ec35-9014-4cd9-8249-3e2b8e9f41e5-Import Commercial Invoice - Excel_XQAMZLCL082623964M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624021M",
+    "exportsInvoiceValue": 850.5,
+    "shipper": "divine metal exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a35107edcad6f1336bc27f0/execution-documents/6a7ae5a9439c5e9a74a89879/f1978abf-e380-4292-8499-1b394d8efe2a-Import Commercial Invoice - Excel_XQAMZLCL082624021M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624047M",
+    "exportsInvoiceValue": 28688.75,
+    "shipper": "s a enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a7bf5848cf58d93770b1ae9/60f84fa9-5d35-447f-8cfd-bfd754bba5c5-Export Commercial Invoice - Excel_XQAMZLCL082624047M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL082624102M",
+    "exportsInvoiceValue": 8001.6,
+    "shipper": "luxmi tea company pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/execution-documents/6a7d8987ceb3b16381c7a352/5c018ccb-b0a9-4288-afc9-e3217da92c63-Export Commercial Invoice - Excel_XQAMZLCL082624102M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL072623056M",
+    "exportsInvoiceValue": 31072.94,
+    "shipper": "detilish rugs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/6a50d740bb3629f70e829113/ffce795b-9f9d-40b2-9980-8bd05686c779-Import Commercial Invoice - Excel_XQAMZFCL072623056M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623049M",
