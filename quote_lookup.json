@@ -948,6 +948,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691b0dae2d2885d145cbfce6/execution-documents/6a50d740bb3629f70e829113/ffce795b-9f9d-40b2-9980-8bd05686c779-Import Commercial Invoice - Excel_XQAMZFCL072623056M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622372M",
+    "exportsInvoiceValue": 3668.63,
+    "shipper": "olivia international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a03aff3f5691ebb35ca3456/bookings-docs/6a31560d89adc5a2be91484e/7da06ec3-9a7b-4d37-ac63-8c0398542f58.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622754M",
+    "exportsInvoiceValue": 2720.0,
+    "shipper": "nb infrastructure and technology",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e3df0c6396da61a749bc72/bookings-docs/6a438cdabd254ff1d032e82f/895454b6-8cda-4425-8fcb-268f328bb558.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL072623049M",
     "exportsInvoiceValue": 20089.99,
     "shipper": "fireants sourcing technologies pvt ltd",
@@ -972,6 +984,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/bookings-docs/6a7da96f84d3734037e0a611/34c3ba79-b2bb-43cb-8844-884863a6ddcd.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0926211025",
+    "exportsInvoiceValue": 9963.03,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6aa3e58f9d3310b409440e88/a054c055-6733-43f1-83e0-c49e0f2ef37d-CI XQAMZAIR0926211025 (Solino Home).xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL072623428M",
     "exportsInvoiceValue": 34681.99,
     "shipper": "Tapes n More",
@@ -982,6 +1000,18 @@
     "exportsInvoiceValue": 6731.0,
     "shipper": "nutural world",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef7912aa3c4f47460a9908/execution-documents/6a70699104491426514addcf/d1489835-2ad9-4034-b0c0-1ceba7686f13-Export Commercial Invoice - Excel_XQLCL082623753.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622825M",
+    "exportsInvoiceValue": 2511.5,
+    "shipper": "VOYZZ INDIA PRIVATE LIMITED",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b8feedd3d470619b976a65/bookings-docs/6a463d1e34c7ec10ffc3071d/ccdac466-9a15-4184-a9ed-c35023d06895.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072622908M",
+    "exportsInvoiceValue": 250.9003601,
+    "shipper": "pragati fashion pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ca7cd8a3204eed6a5c1230/bookings-docs/6a4b4608354bfa3637fd3974/c2dea365-5844-404a-9051-ec68e699ec21.xlsx"
   },
   {
     "quoteId": "XQAMZFCL082624121M",
