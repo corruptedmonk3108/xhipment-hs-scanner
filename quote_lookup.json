@@ -78,10 +78,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/bookings-docs/6a87d775482e74c4b19440e4/b092ed80-3d53-439f-9b4f-b92fe2c658ea.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082623699M",
-    "exportsInvoiceValue": 6302.57,
-    "shipper": "hashcart india",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65f9a5d71145aeca8b87e8ac/execution-documents/6a6d75307c0253f3559363b8/471910ad-17fd-49ed-b5c4-779a706e3252-Export_Commercial_Invoice_XQAMZLCL082623699M.xlsx"
+    "quoteId": "XQAMZLCL082624102M",
+    "exportsInvoiceValue": 8001.6,
+    "shipper": "luxmi tea company pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/bookings-docs/6a7d8987ceb3b16381c7a352/6746d902-072c-446d-bc64-5b87164d69ee.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL062622706M",
+    "exportsInvoiceValue": 14490.0,
+    "shipper": "indian handicraft exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/bookings-docs/6a72af79057bd4e31862b59c/68c8ef15-c53c-4094-8371-d36230cd8f61.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622315M",
@@ -216,12 +222,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a9acd2fb06fd2d119da1ea5/b393d0c8-7870-4d68-b83e-1fb54afe9afb-CI XQAMZAIR0926207867 (PAWEL LIPSZYC).XLSX"
   },
   {
-    "quoteId": "XQAMZLCL072623485M",
-    "exportsInvoiceValue": 31350.0,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a66f5b1606af3abe3566c39/b6847837-390f-4e94-96c1-3fbee1be69d3-Export Commercial Invoice - Excel_XQAMZLCL072623485M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL062622407M",
     "exportsInvoiceValue": 67320.24,
     "shipper": "bala murugan",
@@ -348,12 +348,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/bookings-docs/6a5a01ee43692db5fb74dc19/2781cf13-a67d-416e-b813-45811175824a.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623571M",
-    "exportsInvoiceValue": 16900.0,
-    "shipper": "s a enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a68d94132bb3676b45c1496/1434416d-cdbe-42b8-a784-6847b7091e82-Export Commercial Invoice - Excel_XQAMZLCL072623571M.xls"
-  },
-  {
     "quoteId": "XQFCL072623615",
     "exportsInvoiceValue": 64113.04,
     "shipper": "Katyani Exports (SVA Organics)",
@@ -364,12 +358,6 @@
     "exportsInvoiceValue": 5878.0,
     "shipper": "woody24into7",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68072dbf4cc2575ea17bb258/execution-documents/6a6af1ddb274cb2064ca31b4/09888962-004c-49aa-a780-443dda801a9a-Import Commercial Invoice - Excel_XQAMZLCL072623597M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL082623780M",
-    "exportsInvoiceValue": 990.0,
-    "shipper": "feyn foods (opc) private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a718a85243853331d47486a/3b1f4a86-bdc5-48a5-a9bf-336e3bca4ff7-Export Commercial Invoice - Excel_XQAMZLCL082623780M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082623848M",
@@ -394,12 +382,6 @@
     "exportsInvoiceValue": 2700.0,
     "shipper": "ashok & company",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/execution-documents/6a473f4f807ae969640eb220/6bee316f-a08e-4fad-80fa-766e5cb1e6f9-Export Commercial Invoice - Excel_XQAMZLCL072622846M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL082623812M",
-    "exportsInvoiceValue": 9442.5,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a774e49cefc1ada00fea8cf/a680612e-cd12-463a-800b-499fb2adf09b-Export Commercial Invoice - Excel_XQAMZLCL082623812M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624200M",
@@ -466,12 +448,6 @@
     "exportsInvoiceValue": 7317.0,
     "shipper": "c k worldwide furniture",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a04757daa72a0ba5f30e1e9/execution-documents/6a0572c9866a1e5e248acc6e/7c487465-6500-4efa-a16a-2f7cc4b8bbe8-Export Commercial Invoice - Excel_XQAMZLCL052621358M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622706M",
-    "exportsInvoiceValue": 14490.0,
-    "shipper": "indian handicraft exports",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696ac0330fdae2e2d5b33189/execution-documents/6a72af79057bd4e31862b59c/aded5a9d-61c6-44f2-8b5f-fd7b7c1d1b30-CI.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623414M",
@@ -568,12 +544,6 @@
     "exportsInvoiceValue": 8794.309724,
     "shipper": "lsd lifestyle",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a6b19ee45df1091f4c0eeb2/96e75921-2483-425a-adb5-a0da6f3d8703-Export Commercial Invoice - Excel_XQAMZLCL072623630M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623335M",
-    "exportsInvoiceValue": 11210.34,
-    "shipper": "jucofabs",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5e397c3a385e7e1e008979/bookings-docs/6a621d07915912089884d73b/114fb9a3-fa54-4d75-b14d-c7c9602f91a4.xlsx"
   },
   {
     "quoteId": "XQAMZFCL082624198M",
@@ -688,12 +658,6 @@
     "exportsInvoiceValue": 28688.75,
     "shipper": "s a enterprises",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a7bf5848cf58d93770b1ae9/60f84fa9-5d35-447f-8cfd-bfd754bba5c5-Export Commercial Invoice - Excel_XQAMZLCL082624047M.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL082624102M",
-    "exportsInvoiceValue": 8001.6,
-    "shipper": "luxmi tea company pvt. ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/execution-documents/6a7d8987ceb3b16381c7a352/5c018ccb-b0a9-4288-afc9-e3217da92c63-Export Commercial Invoice - Excel_XQAMZLCL082624102M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623056M",
@@ -838,11 +802,5 @@
     "exportsInvoiceValue": 57916.25,
     "shipper": "hawkins cookers limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4bfa948dc987673f4ee9a7/bookings-docs/6a7ef973e505b63a420d51c7/653daef7-25e0-4188-89e5-2695631017e2.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623065M",
-    "exportsInvoiceValue": 2000.0,
-    "shipper": "forestis gallinaria",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65de0cf9067eee7d021d21ca/execution-documents/6a50cb310917135e98d87ea2/8a11a0ed-7fb6-4618-8076-b28d26ac08cf-Export Commercial Invoice - Excel_XQAMZLCL072623065M.xlsx"
   }
 ]
