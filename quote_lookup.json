@@ -204,34 +204,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ef6453d059a30d3ed020d4/execution-documents/6a4e2949dfba9e5f443c6011/4aec62c8-9993-430a-b753-99d895091d8c-Import Commercial Invoice - Excel_XQAMZLCL072622937M.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0926207714",
-    "exportsInvoiceValue": 1578.82,
-    "shipper": "stephensons online ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6a9a9e03af186f17255bd85b/6ee579a6-389d-4648-9067-fbece9a74ce7-CI XQAMZAIR0926207714 (stephensons online ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0926208672",
-    "exportsInvoiceValue": 687.0,
-    "shipper": "mujahid diwan",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32a8570219e173780b599d/bookings-docs/6a9e88904822429610adc18e/a4890eec-f191-44cb-b223-99556cf88a8b.XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR0926207867",
     "exportsInvoiceValue": 3020.0,
     "shipper": "PAWEL LIPSZYC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6a9acd2fb06fd2d119da1ea5/b393d0c8-7870-4d68-b83e-1fb54afe9afb-CI XQAMZAIR0926207867 (PAWEL LIPSZYC).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0926207390",
-    "exportsInvoiceValue": 1439.5,
-    "shipper": "irshad patel",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ba78a010d6f433436e5d74/bookings-docs/6a99726e0b6be79b172b484e/782f1225-dd16-47e3-9414-7bcc50df1763.XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0926207680",
-    "exportsInvoiceValue": 2607.17,
-    "shipper": "stephensons online ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/bookings-docs/6a9a96f5af186f172557b101/e366f349-e4cb-459f-b76a-f0c99a22cf36.XLSX"
   },
   {
     "quoteId": "XQAMZLCL072623485M",
@@ -256,12 +232,6 @@
     "exportsInvoiceValue": 2116.56,
     "shipper": "stephensons online ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6a9ea2754822429610bab551/3d0d1113-6851-4c96-9ebd-dfd0b96b9d89-CI XQAMZAIR0926208806 (stephensons online ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZAIR0826204450",
-    "exportsInvoiceValue": 8444.0,
-    "shipper": "rutherford wren",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7f0654941968614a480ee7/execution-documents/6a8eb5aa62d982548bd67678/f190d447-be06-4b48-889c-e67d9def4e2b-CI XQAMZAIR0826204450 (rutherford wren).XLSX"
   },
   {
     "quoteId": "XQAMZLCL072623598M",
@@ -406,12 +376,6 @@
     "exportsInvoiceValue": 64113.04,
     "shipper": "Katyani Exports (SVA Organics)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a6ad268c76c1d2b83f2f774/4dd6788d-8063-40d4-a150-0c2402893b5d-Commercial Invoice_XQFCL072623615 (4).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0926209695",
-    "exportsInvoiceValue": 682.5,
-    "shipper": "creative jam enterprises ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/bookings-docs/6aa0edf728d29eeba2ddc050/a211be9d-6dcc-4a60-96d8-f1304d53800a.XLSX"
   },
   {
     "quoteId": "XQAMZLCL072623597M",
