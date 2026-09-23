@@ -330,6 +330,30 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68efb09009d5365d9e3bdd24/bookings-docs/6aa7d192e45b9dc7ae96feef/14ee85c8-e8a5-4bcb-9126-3114b26b7c76.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL082624360M",
+    "exportsInvoiceValue": 47062.2,
+    "shipper": "satish",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6206ad9500082b3db6562e/execution-documents/6a86fa58a7bbd7b81851c6b8/a7809276-e611-4248-95e7-95bda6c744f3-INV 441.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624185M",
+    "exportsInvoiceValue": 142102.04,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a82ae6f357bdf45c09dad84/0b04210a-da70-429b-9639-d9e712accb7b-FY-2627-036 - Destination Inv pl.xlsm"
+  },
+  {
+    "quoteId": "XQAMZLCL082624354M",
+    "exportsInvoiceValue": 44470.0,
+    "shipper": "Carmel Organics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=642d53a7cc9c1a665f81375f/execution-documents/6a87d775482e74c4b19440e4/681dae6f-8243-4191-a151-90a590f609b6-Export Commercial Invoice - Excel_XQAMZLCL082624354M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624881M",
+    "exportsInvoiceValue": 40367.5,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a9a5ecbc8a1a70b73448d76/2ce69016-041c-4e15-96de-5e8c9b0d6bb1-Import Commercial Invoice - Excel_XQAMZLCL092624881M.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0926206327",
     "exportsInvoiceValue": 2573.12,
     "shipper": "utl shipping / noatum logistcs",
@@ -856,12 +880,6 @@
     "exportsInvoiceValue": 2422.08,
     "shipper": "opro international ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689d95f5dd669bdeda5e205c/execution-documents/6aabccdef8ff670f13a10fb8/745f7bfc-ebca-4029-a3f4-bfa4901b637f-CI XQAMZAIR0926212850 (opro international ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL072623374M",
-    "exportsInvoiceValue": 24776.0,
-    "shipper": "cerberus uk ltd c/o ezidrops ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a60ccec2e2fe5c7dbe8586b/bookings-docs/6a61be045b39ce96efadc07c/77fcf242-0323-4d9e-b5b0-1e296d93c4b0.XLSX"
   },
   {
     "quoteId": "XQAMZFCL072623509M",
