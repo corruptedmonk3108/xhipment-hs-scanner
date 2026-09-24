@@ -240,12 +240,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a96bf692143d8512a40ad7a/execution-documents/6a96bf94a5762e58da320652/a345f749-a3a3-4949-a742-08aeea3cd885-CI XQAMZAIR0926206349 (utl shipping noatum logistcs).XLSX"
   },
   {
-    "quoteId": "XQAMZFCL082623975M",
-    "exportsInvoiceValue": 42587.64,
-    "shipper": "m/s sunlord apparels mfg.co.pvt.ltd.",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69907bfb2afeabd118fc1a74/execution-documents/6a79de921bd6543fb8a14f74/371d2570-0905-4fdf-80ef-57c8938dfd17-Import Commercial Invoice - Excel_XQAMZFCL082623975M.xls"
-  },
-  {
     "quoteId": "XQAMZFCL082624402M",
     "exportsInvoiceValue": 47719.0,
     "shipper": "Sljivo Trading GmbH",
@@ -294,10 +288,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a8e74de6ac28d6e9ea6083d/d77603e2-0563-4a72-83b1-897ec76c8e5e-Export Commercial Invoice - Excel_XQAMZLCL082624539M.xls"
   },
   {
+    "quoteId": "XQAMZLCL072623413M",
+    "exportsInvoiceValue": 625.0,
+    "shipper": "homscape enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=683db1ba687ae8799368eb94/execution-documents/6a671ec91f682fc7663e8630/e7405a85-ea72-4350-a64b-d253fca9debd-Export Commercial Invoice - Excel_XQAMZLCL072623413M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623491M",
+    "exportsInvoiceValue": 400.0,
+    "shipper": "hanzla enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a664bcbd7edcf43f9194830/execution-documents/6a67341286b7026810efc303/683c0c00-459e-4e48-a2a4-7c53d42c63b0-Export Commercial Invoice - Excel_XQAMZLCL072623491M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622407M",
     "exportsInvoiceValue": 67320.24,
     "shipper": "bala murugan",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f312bfe86e64c45c312fce/execution-documents/6a34d3a6e3d823d44a73ed65/962832b0-9d33-4a44-a34f-7c6a7c2a9489-Export Commercial Invoice - Excel_XQAMZLCL062622407M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623638M",
+    "exportsInvoiceValue": 634.0,
+    "shipper": "tawa one wood handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/execution-documents/6a6b376654af5d9d3a53ad37/ce411a9e-0ebf-4c13-b342-de1ee8491e51-Import Commercial Invoice - Excel_XQAMZLCL072623638M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623709M",
+    "exportsInvoiceValue": 10599.58,
+    "shipper": "fireants sourcing technologies pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69306717df9ba73ff2810597/execution-documents/6a6dd789a6b059545ad6a64f/c41f6f4d-2ad6-4c11-9274-9e81734c94f9-Export Commercial Invoice - Excel_XQAMZLCL082623709M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622413M",
