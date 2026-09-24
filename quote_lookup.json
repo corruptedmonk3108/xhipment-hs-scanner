@@ -234,12 +234,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0c2a81686685bb559fe50c/execution-documents/6a7c1c1371e0aa969fc125e2/2576e5fb-7741-46e5-8a3f-8701ded03980-Export Commercial Invoice - Excel_XQAMZLCL082624052M.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR0926206349",
-    "exportsInvoiceValue": 2270.4,
-    "shipper": "utl shipping / noatum logistcs",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a96bf692143d8512a40ad7a/execution-documents/6a96bf94a5762e58da320652/a345f749-a3a3-4949-a742-08aeea3cd885-CI XQAMZAIR0926206349 (utl shipping noatum logistcs).XLSX"
-  },
-  {
     "quoteId": "XQAMZFCL082624402M",
     "exportsInvoiceValue": 47719.0,
     "shipper": "Sljivo Trading GmbH",
@@ -318,10 +312,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69306717df9ba73ff2810597/execution-documents/6a6dd789a6b059545ad6a64f/c41f6f4d-2ad6-4c11-9274-9e81734c94f9-Export Commercial Invoice - Excel_XQAMZLCL082623709M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622413M",
-    "exportsInvoiceValue": 19527.0,
-    "shipper": "nostalgic-art merchandising gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b907326a5b02aab5bfe481/execution-documents/6a339c207185be95d63813af/90183acf-dfd1-4b02-a9f6-5f915edae2b9-Commercial Invoice_XQAMZLCL062622413M CI.xlsx"
+    "quoteId": "XQAMZFCL092625130M",
+    "exportsInvoiceValue": 125991.04,
+    "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686e7b1f8728165d6d14b7ae/execution-documents/6aa1274a05da83e468068e65/0270aa4a-ad61-47ce-9a4b-be7c1afa2cfd-MIE_Trade_Packing_List_and_Proforma_Invoice_130M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623122M",
+    "exportsInvoiceValue": 4698.8,
+    "shipper": "jpt enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ce2c6ffa5367b10798b4cc/execution-documents/6a588e1f1751223f6f30630f/2e458be1-544b-40cd-abd4-f29db57baca2-Export Commercial Invoice - Excel_XQAMZLCL072623122M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623598M",
@@ -352,6 +352,12 @@
     "exportsInvoiceValue": 3412.54,
     "shipper": "matthias christian",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/bookings-docs/6a9ee7a419ad287c4173d42b/10fdc246-dcd1-4c05-9563-5ac3bcf046f3.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623396M",
+    "exportsInvoiceValue": 7336.0,
+    "shipper": "universal crafts incorporation",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ced9c87dd39e37c30c47b5/execution-documents/6a633559b2703822c52d9d61/ce329634-e9d3-47fe-956f-6b3ac071b1e4-Invoice  PL  UC01 26-27 destination.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0926209150",
@@ -402,16 +408,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a82ae6f357bdf45c09dad84/0b04210a-da70-429b-9639-d9e712accb7b-FY-2627-036 - Destination Inv pl.xlsm"
   },
   {
+    "quoteId": "XQAMZLCL082624070M",
+    "exportsInvoiceValue": 1663.6,
+    "shipper": "tara trading",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65d892c6a714f45865c50d6b/execution-documents/6a7c6e51641916163a198604/bbcf7672-eb2e-4460-af52-b8d7ff5dd198-Export Commercial Invoice - Excel_XQAMZLCL082624070M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL092624881M",
     "exportsInvoiceValue": 40367.5,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a9a5ecbc8a1a70b73448d76/2ce69016-041c-4e15-96de-5e8c9b0d6bb1-Import Commercial Invoice - Excel_XQAMZLCL092624881M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622512M",
-    "exportsInvoiceValue": 40145.9212,
-    "shipper": "wishcare",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69df78e6318ad0a323658a75/execution-documents/6a393284b96900a8f2906691/590b9032-a370-4f41-9e73-b1f5ebc755f5-Export_Commercial_Invoice_XQAMZLCL062622512M_REPAIRED.xlsx"
+    "quoteId": "XQAMZLCL082624318M",
+    "exportsInvoiceValue": 3392.1,
+    "shipper": "leather forever",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696a0cb7bba46b2c32ac09f5/execution-documents/6a85b612729d103a6feab7c0/cc2958d9-83d8-4322-918c-e03a10428c19-Import Commercial Invoice - Excel_XQAMZLCL082624318M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL062622411M",
