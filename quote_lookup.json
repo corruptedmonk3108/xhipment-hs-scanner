@@ -648,28 +648,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a6b19ee45df1091f4c0eeb2/96e75921-2483-425a-adb5-a0da6f3d8703-Export Commercial Invoice - Excel_XQAMZLCL072623630M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL082624198M",
-    "exportsInvoiceValue": 136935.52,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a82cc61edcbd8e774fcb6b1/aeadff80-b0f6-487f-bae6-d784eea5b09b-XQAMZFCL082624198M - ctd.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL082624295M",
-    "exportsInvoiceValue": 123152.86,
-    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a8566c032c64df88158d699/f704ae4f-6cc5-4c4f-bca5-35f11bdf4bb6-XQAMZFCL082624295M ctd.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623668M",
     "exportsInvoiceValue": 73064.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a6c4cf04549c8f14c078dfc/da4c41cf-bcf6-45a9-839e-56ce18faa229-XQAMZLCL072623668M ctd.xlsx"
-  },
-  {
-    "quoteId": "XQFCL072622922",
-    "exportsInvoiceValue": 20000.0,
-    "shipper": "Tullycavy Barrel Co",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697b80ba286c5c6fdba3100e/execution-documents/6a54edbbe730e77b41d00338/3ad71c6f-a73a-449c-888f-e6055b82998a-Commercial Invoice_XQFCL072622922.pdf"
   },
   {
     "quoteId": "XQAMZLCL072623289M",
@@ -804,12 +786,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6aa3e58f9d3310b409440e88/a054c055-6733-43f1-83e0-c49e0f2ef37d-CI XQAMZAIR0926211025 (Solino Home).xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072623428M",
-    "exportsInvoiceValue": 34681.99,
-    "shipper": "Tapes n More",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960b7e63b2f99f4c60dc5f2/execution-documents/6a63679decdf55c384d94bbc/de77ddcb-6975-497a-8094-362d4ac1bea2-Import INV & PL GSEXPO2627008.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072622825M",
     "exportsInvoiceValue": 2511.5,
     "shipper": "VOYZZ INDIA PRIVATE LIMITED",
@@ -898,11 +874,5 @@
     "exportsInvoiceValue": 1680.0,
     "shipper": "rajendra bhavsar",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68f8c6fac30d819240c91dc5/bookings-docs/6a55221a36ae0f22be0cb3ad/44c27c40-e9fe-4e58-8172-260b670ec362.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL082623790M",
-    "exportsInvoiceValue": 57916.25,
-    "shipper": "hawkins cookers limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a4bfa948dc987673f4ee9a7/bookings-docs/6a7ef973e505b63a420d51c7/653daef7-25e0-4188-89e5-2695631017e2.xlsx"
   }
 ]
