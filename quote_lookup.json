@@ -138,12 +138,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/execution-documents/6a5f5e783388250835976c47/41be538f-e4b5-474d-9a05-d98d9a6fc2ea-Export Commercial Invoice - Excel_XQAMZLCL072623325M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623610M",
-    "exportsInvoiceValue": 10252.0,
-    "shipper": "Bluemoon Homes",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6a6ad46c6fa0e1f3e50e83f8/b3698174-6612-4b2c-a0b1-86479d0b5394-Export Commercial Invoice -26-27_007 US inv UP.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624571M",
     "exportsInvoiceValue": 8264.4,
     "shipper": "J&J ARONIA TRADING INC",
@@ -738,6 +732,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6a6b19ee45df1091f4c0eeb2/96e75921-2483-425a-adb5-a0da6f3d8703-Export Commercial Invoice - Excel_XQAMZLCL072623630M.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0926213997",
+    "exportsInvoiceValue": 216.0,
+    "shipper": "global contract packers ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3a512cc13868b8dff4963b/execution-documents/6ab10976f62151c7d129e96b/e78ab1d2-79ff-41fd-8bd9-432f0ce7b6a7-CI XQAMZAIR0926213997 (global contract packers ltd).XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL072623668M",
     "exportsInvoiceValue": 73064.0,
     "shipper": "Madan Mohan textiles",
@@ -750,6 +750,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69837f5aa490850c58310d2f/execution-documents/6a5ded5874b88b9e7f6c6ba8/aa9d9901-ee4e-463e-a144-f0123d137c98-Export_Commercial_Invoice_Fixed.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0926213825",
+    "exportsInvoiceValue": 673.45,
+    "shipper": "passionforperfume",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=687e28420f7a4019289d4165/execution-documents/6ab04073df76daaa6aa77dfc/a92fe023-6430-4c83-b946-eee03ed0efd3-CI XQAMZAIR0926213825 (passionforperfume).XLSX"
+  },
+  {
     "quoteId": "XQAMZAIR0926209122",
     "exportsInvoiceValue": 18593.51,
     "shipper": "Sljivo Trading GmbH",
@@ -760,6 +766,18 @@
     "exportsInvoiceValue": 2596.0,
     "shipper": "meet ghevariya",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c1fe144a5c43fae7a4c16c/execution-documents/6a563613931a786547054d59/bb8942b4-bccf-425f-a693-d7de3eeffd1a-Export Commercial Invoice - Excel_XQAMZLCL072623052M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0926212382",
+    "exportsInvoiceValue": 8182.0,
+    "shipper": "PAWEL LIPSZYC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6aaa474046dcbd3d35bf94b3/45d9bc19-213b-4dc0-84f2-2a008ea64ba2-CI XQAMZAIR0926212382 (PAWEL LIPSZYC).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926213326",
+    "exportsInvoiceValue": 11893.2,
+    "shipper": "delta / new leaf",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690b7faea346c7e7274e5335/execution-documents/6aad1a5df75b294a08d1606f/dcc16d83-dab2-42d2-8b8d-165e60d13f87-CI XQAMZAIR0926213326 (delta new leaf).XLSX"
   },
   {
     "quoteId": "XQAMZLCL072623336M",
@@ -858,6 +876,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69306717df9ba73ff2810597/execution-documents/6a4fac46ae593fe911ab6b4f/4f8c005c-9da7-41ac-bb6f-d67d4e63e3b6-CI.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0926213952",
+    "exportsInvoiceValue": 1928.45,
+    "shipper": "stephensons online ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6ab0f9d1266dc4cdd401b34b/53ec526d-0d57-46ea-8c08-09f5dc9b47b6-CI XQAMZAIR0926213952 (stephensons online ltd).XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL082623870M",
     "exportsInvoiceValue": 349898.7051,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
@@ -874,6 +898,12 @@
     "exportsInvoiceValue": 9963.03,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6aa3e58f9d3310b409440e88/a054c055-6733-43f1-83e0-c49e0f2ef37d-CI XQAMZAIR0926211025 (Solino Home).xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624027M",
+    "exportsInvoiceValue": 31457.7,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a7aeb885c2e977fce1aa5cd/70ca093d-88e5-4cb6-829d-ac74c42c19f5-Import Commercial Invoice - Excel_XQAMZFCL082624027M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622825M",
@@ -922,12 +952,6 @@
     "exportsInvoiceValue": 1281.62,
     "shipper": "stephensons online ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6aa7c133aa077c0d6525c90c/434de5e7-3870-46f7-8a7e-52e411db878e-CI XQAMZAIR0926211783 (stephensons online ltd).XLSX"
-  },
-  {
-    "quoteId": "XQAMZLCL072623072M",
-    "exportsInvoiceValue": 516.97,
-    "shipper": "simranpreet singh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a16ec709447b6702833beaa/bookings-docs/6a55c23de616757a8e784104/2f40d362-31e1-4fb0-ad31-cc4558ee492b.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0926212557",
