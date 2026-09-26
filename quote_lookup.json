@@ -186,6 +186,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=675043c7776ffcbbc82dfe25/execution-documents/6a9a99f5af186f1725585f2c/41f66786-baf5-49c9-bdf9-1cbdd8cdf14d-ELIWARE_Commercial_Invoice_and_Packing_List_RE3476370.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR0926211046",
+    "exportsInvoiceValue": 18381.0,
+    "shipper": "fashionking brands pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6960a018432aad3e7f15db14/execution-documents/6aa3f0465e25aea80d573193/942ff5a1-2b1f-4ec0-97fb-f2aebee2ac32-CI XQAMZAIR0926211046 (fashionking brands pvt ltd).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0926208228",
+    "exportsInvoiceValue": 6304.0,
+    "shipper": "mplinn foods",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b589eda1e9bad190698548/execution-documents/6a9bfd09c1f712b6b6d87fc2/b6bdddf1-3a22-4e15-9d1b-247ad68d734a-CI XQAMZAIR0926208228 (mplinn foods).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622034M",
     "exportsInvoiceValue": 5215.0,
     "shipper": "ashok & company",
