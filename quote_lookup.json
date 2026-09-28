@@ -198,6 +198,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b589eda1e9bad190698548/execution-documents/6a9bfd09c1f712b6b6d87fc2/b6bdddf1-3a22-4e15-9d1b-247ad68d734a-CI XQAMZAIR0926208228 (mplinn foods).xlsx"
   },
   {
+    "quoteId": "XQAMZFCL082624719M",
+    "exportsInvoiceValue": 80975.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a95c22160382b5561cdb84e/8ae778e7-b76d-482b-8b89-138a3851765a-INVOICE  PACKING LIST 128 MAYFAIR LINEN GREENCASTLE.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL082624560M",
+    "exportsInvoiceValue": 90659.5,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a8fd70ebf15d3534f096152/0a5c1c92-5de3-40d3-83a7-696c7f7dd6fb-Export Commercial Invoice - Excel_XQAMZFCL082624560M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624276M",
+    "exportsInvoiceValue": 13000.0,
+    "shipper": "new light drawing emporium",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c994fc6533300e1228d85/execution-documents/6a8557ac2aebe46938a2bab6/0b75d8f0-acdc-4cfd-b615-d8f27ccf87c6-Export Commercial Invoice - Excel_XQAMZLCL082624276M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622034M",
     "exportsInvoiceValue": 5215.0,
     "shipper": "ashok & company",
