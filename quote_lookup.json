@@ -216,6 +216,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c994fc6533300e1228d85/execution-documents/6a8557ac2aebe46938a2bab6/0b75d8f0-acdc-4cfd-b615-d8f27ccf87c6-Export Commercial Invoice - Excel_XQAMZLCL082624276M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL082624389M",
+    "exportsInvoiceValue": 69221.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a881e2b6926b3fac1ec1a8e/bf8bb7cc-804e-4252-a510-0485fcbd6ebf-Import Commercial Invoice - Excel_XQAMZFCL082624389M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622034M",
     "exportsInvoiceValue": 5215.0,
     "shipper": "ashok & company",
