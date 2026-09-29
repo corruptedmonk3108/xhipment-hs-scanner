@@ -144,16 +144,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68887b4ec734b267a9719ca8/execution-documents/6a8efb4c62d982548beaa467/d7198074-9357-4fa6-82f0-f1b55b99b63b-Aronia_Original_Commercial_Invoice_and_Packing_List_RE15079.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625046M",
+    "exportsInvoiceValue": 3467.85,
+    "shipper": "t & d pharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6981fe0e702ca5ae4ff9fc35/execution-documents/6a9eb6fb4d6ada7a8ceb0774/748a5272-aa0e-4cca-8102-6a70ea37c979-Commercial Invoice_XQAMZLCL092625046M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072622910M",
     "exportsInvoiceValue": 6758.26,
     "shipper": "sesa care",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6846d10c98d09badaca95a42/bookings-docs/6a4b59cc08c40f0d83870900/ddd6312a-316f-4f60-b825-a1d453aa48f0.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082624569M",
+    "exportsInvoiceValue": 127661.21,
+    "shipper": "brun spedition gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68fe558b249a057517f49d55/execution-documents/6a8ee9229a60757cf1fe8049/1b580c0e-8f4f-4243-a9e6-244ad0bdec6e-Commercial Invoice_XQAMZLCL082624569M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623736M",
     "exportsInvoiceValue": 11569.0,
     "shipper": "preet patel",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f077448f83a5ac5b9e2f16/execution-documents/6a701f744b49caf645497293/6f8491de-2e28-4feb-9450-13380392a4ae-Export Commercial Invoice - Excel_XQAMZLCL082623736M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL082624570",
+    "exportsInvoiceValue": 40486.77,
+    "shipper": "Hansen & Hansen Trading GMBH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8ef21f9a60757cf1070099/execution-documents/6a8ef7029a60757cf1072246/43c1ef14-78d7-473c-ab66-083d0a5f4a2e-Herpa_Packing_List_and_Commercial_Invoice.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082623737M",
@@ -514,12 +532,6 @@
     "exportsInvoiceValue": 5874.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a82cd15ddb9f04dabd484a8/a6eb4f81-2ebb-4c02-b814-2b2002a21982-XQAMZLCL082624200M  ctd.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL072623453M",
-    "exportsInvoiceValue": 26269.35,
-    "shipper": "satish",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6206ad9500082b3db6562e/execution-documents/6a644c339d68e01b535c832d/f9ea219a-8774-43aa-bcab-70d68a193d4c-INVOICEPACKINGLIST-SI-EX262700353.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623454M",
