@@ -264,12 +264,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3b8471434775cacf2fa6d2/bookings-docs/6a72ec6cf601a40070e115cb/d15025f9-42c6-4dfd-bee8-65edc5ff8d92.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL062622034M",
-    "exportsInvoiceValue": 5215.0,
-    "shipper": "ashok & company",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699d9a3f27c39b83c40b15c1/bookings-docs/6a22ce0e9d4a926830e884d4/9cb9b64d-458d-411a-9729-bb7afa09289e.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624257M",
     "exportsInvoiceValue": 5311.0,
     "shipper": "wagon home furnishing",
@@ -342,12 +336,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a664bcbd7edcf43f9194830/execution-documents/6a67341286b7026810efc303/683c0c00-459e-4e48-a2a4-7c53d42c63b0-Export Commercial Invoice - Excel_XQAMZLCL072623491M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623638M",
-    "exportsInvoiceValue": 634.0,
-    "shipper": "tawa one wood handicrafts",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/execution-documents/6a6b376654af5d9d3a53ad37/ce411a9e-0ebf-4c13-b342-de1ee8491e51-Import Commercial Invoice - Excel_XQAMZLCL072623638M (1).xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082623709M",
     "exportsInvoiceValue": 10599.58,
     "shipper": "fireants sourcing technologies pvt ltd",
@@ -400,12 +388,6 @@
     "exportsInvoiceValue": 717.19,
     "shipper": "hardik",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5c943d2f7848f1e64407/execution-documents/6a268379f25d92aef9cab513/99b4c020-ee9a-49d0-88c3-ada4849ef9ba-Export Commercial Invoice - Excel_XQAMZLCL062622102M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623598M",
-    "exportsInvoiceValue": 1085.648696,
-    "shipper": "shubham swami",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65b375889f95a0791ea2b9b2/execution-documents/6a6af22cd5a66036a02c07e3/92eebdea-f515-4714-8104-fc72d9244252-EXPORT Commercial Invoice_XQAMZLCL072623598M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL072623609M",
@@ -510,6 +492,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aad08fa91f97e96a9f1298a/execution-documents/6aad08fd91f97e96a9f129b6/2ab30021-cb30-4813-85f4-aab231f31f8d-CI XQAMZAIR0926213268 (everyday innovations ltd).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL072623638M",
+    "exportsInvoiceValue": 634.0,
+    "shipper": "tawa one wood handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/bookings-docs/6a6b376654af5d9d3a53ad37/5d482220-ddea-4dd3-83ec-e236cfdb1037.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623560M",
     "exportsInvoiceValue": 10256.0,
     "shipper": "hwc trading ltd",
@@ -540,12 +528,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=688a1c38a7ba0eab96f1c733/execution-documents/6a85df499e80fd850f5f1813/aaa89e43-6839-4eff-9d42-428a0f2715f3-Export Commercial Invoice - Excel_XQAMZLCL082624333M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL072623454M",
-    "exportsInvoiceValue": 53757.29,
-    "shipper": "satish",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6206ad9500082b3db6562e/execution-documents/6a644d189d68e01b535c8f0b/f8755a2f-eb22-463e-a757-530fdb2dab41-INVOICEPACKINGLIST-SI-EX262700352.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624425M",
     "exportsInvoiceValue": 487132.0708,
     "shipper": "KRISHNA HANDICRAFTS TRADING PVT. LTD.",
@@ -562,12 +544,6 @@
     "exportsInvoiceValue": 69690.0,
     "shipper": "butterfly edufields pvt ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68370c625aa0e5bb683499c1/execution-documents/6a8458c650ebad5495157fed/d19d036c-b30b-4272-80c2-03a4ea0026b0-Import Commercial Invoice - Excel_XQAMZLCL082624266M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL052621358M",
-    "exportsInvoiceValue": 7317.0,
-    "shipper": "c k worldwide furniture",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a04757daa72a0ba5f30e1e9/execution-documents/6a0572c9866a1e5e248acc6e/7c487465-6500-4efa-a16a-2f7cc4b8bbe8-Export Commercial Invoice - Excel_XQAMZLCL052621358M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623414M",
@@ -676,18 +652,6 @@
     "exportsInvoiceValue": 2590.681545,
     "shipper": "alyna international private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff91d01c4b4c1ac2c9883c/execution-documents/6a68782f118967bdf2f2932d/7d52ce78-dc8c-46c8-a1ee-68802001c7b3-Export Commercial Invoice - Excel_XQAMZLCL072623520M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623289M",
-    "exportsInvoiceValue": 70068.0,
-    "shipper": "wellspring consumer private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69837f5aa490850c58310d2f/execution-documents/6a5ded5874b88b9e7f6c6ba8/aa9d9901-ee4e-463e-a144-f0123d137c98-Export_Commercial_Invoice_Fixed.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL072623052M",
-    "exportsInvoiceValue": 2596.0,
-    "shipper": "meet ghevariya",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c1fe144a5c43fae7a4c16c/execution-documents/6a563613931a786547054d59/bb8942b4-bccf-425f-a693-d7de3eeffd1a-Export Commercial Invoice - Excel_XQAMZLCL072623052M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623336M",
