@@ -186,12 +186,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c994fc6533300e1228d85/execution-documents/6a8557ac2aebe46938a2bab6/0b75d8f0-acdc-4cfd-b615-d8f27ccf87c6-Export Commercial Invoice - Excel_XQAMZLCL082624276M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL082624389M",
-    "exportsInvoiceValue": 69221.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a881e2b6926b3fac1ec1a8e/bf8bb7cc-804e-4252-a510-0485fcbd6ebf-Import Commercial Invoice - Excel_XQAMZFCL082624389M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624298M",
     "exportsInvoiceValue": 20109.0,
     "shipper": "archie enterprise",
@@ -402,6 +396,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/bookings-docs/6aab739b331fdcea29ef933d/ec020107-b6b2-474e-a785-215265c0a05f.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622102M",
+    "exportsInvoiceValue": 717.19,
+    "shipper": "hardik",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69be5c943d2f7848f1e64407/execution-documents/6a268379f25d92aef9cab513/99b4c020-ee9a-49d0-88c3-ada4849ef9ba-Export Commercial Invoice - Excel_XQAMZLCL062622102M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623598M",
     "exportsInvoiceValue": 1085.648696,
     "shipper": "shubham swami",
@@ -432,16 +432,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/bookings-docs/6a9ee7a419ad287c4173d42b/10fdc246-dcd1-4c05-9563-5ac3bcf046f3.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623396M",
-    "exportsInvoiceValue": 7336.0,
-    "shipper": "universal crafts incorporation",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ced9c87dd39e37c30c47b5/execution-documents/6a633559b2703822c52d9d61/ce329634-e9d3-47fe-956f-6b3ac071b1e4-Invoice  PL  UC01 26-27 destination.xlsx"
+    "quoteId": "XQAMZLCL072623394M",
+    "exportsInvoiceValue": 559.29,
+    "shipper": "n.s.y instruments",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff31aa4a283b01aaf2bc4b/execution-documents/6a6701ce86b7026810dbd13c/ec2300e2-3c02-46c8-a038-52dd3a36d579-Export Commercial Invoice - Excel_XQAMZLCL072623394M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL072623533M",
+    "exportsInvoiceValue": 35905.0,
+    "shipper": "bharat adwani",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=657992156e8a358c76812849/execution-documents/6a68469151ab713780ee8b15/2a9efa70-9c56-4bac-a2b1-28eb01538ee2-Import Commercial Invoice - Excel_XQAMZLCL072623533M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0826203935",
     "exportsInvoiceValue": 549.24,
     "shipper": "the imaging centre (se) ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a566eec6b6e7816be1b0f22/bookings-docs/6a8c4eb8475d587057e7a57a/6adb362c-f662-431d-a005-94b3284b6113.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625234M",
+    "exportsInvoiceValue": 27000.73,
+    "shipper": "roman mayer logistik gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a9a1af53545781f21faf499/bookings-docs/6aa3a7669d3310b40939d258/dec7e9bb-cbe4-46c7-839a-b5b8159c25ea.xlsx"
   },
   {
     "quoteId": "XQAMZFCL082624360M",
@@ -490,6 +502,12 @@
     "exportsInvoiceValue": 1380.0,
     "shipper": "the imaging centre (se) ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a566eec6b6e7816be1b0f22/execution-documents/6a5f7597609f219321e4fa9f/918afe5e-df88-45ae-858a-07ba1568ad37-Export Commercial Invoice - Excel_XQAMZLCL072623331M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0926213268",
+    "exportsInvoiceValue": 5382.0,
+    "shipper": "everyday innovations ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aad08fa91f97e96a9f1298a/execution-documents/6aad08fd91f97e96a9f129b6/2ab30021-cb30-4813-85f4-aab231f31f8d-CI XQAMZAIR0926213268 (everyday innovations ltd).xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623560M",
@@ -600,12 +618,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a48e776418a3d7efc852eb6/e36b03d4-f2f9-4e15-a13c-9e54d91ec8af-Export Commercial Invoice - Excel_XQAMZLCL072622885M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624171M",
-    "exportsInvoiceValue": 30700.0,
-    "shipper": "burhan nathdwara wala",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d58b0197a4a9e1face0b6c/execution-documents/6a8046ce9631384be8a85770/b3440dbf-e07e-486f-b33b-35559318a8d7-Immart AWD  Invoice Ocean Aug  2026 US.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624160M",
     "exportsInvoiceValue": 180.0,
     "shipper": "himanshu singh",
@@ -636,12 +648,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ba85765ae692ed64b5fdd1/execution-documents/6a6afcca090bff19ed77fea0/4530a473-e907-454b-9f5b-fc098324d426-Export Commercial Invoice - Excel_XQAMZLCL072623624M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082623966M",
-    "exportsInvoiceValue": 885.0,
-    "shipper": "ahesanali kadival",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68107577043bf11af642e3ca/execution-documents/6a799a7ce35789ca9e5fcdb0/302bb9dd-45c4-401d-b137-acdd4b3cee50-Export Commercial Invoice - Excel_XQAMZLCL082623966M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624337M",
     "exportsInvoiceValue": 40000.0,
     "shipper": "b s exports",
@@ -664,12 +670,6 @@
     "exportsInvoiceValue": 750.0,
     "shipper": "butt brand ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b63ddac5cab6855daa594/execution-documents/6a9e84203bc1305fa183f474/5d99d19d-5ca0-453e-9a85-76baa4e10982-Export Commercial Invoice - Excel_XQAMZLCL092624998M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL082623965M",
-    "exportsInvoiceValue": 14920.0,
-    "shipper": "woody24into7",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68072dbf4cc2575ea17bb258/execution-documents/6a7980641fd769fe2e614578/e50ff703-497d-48e8-a7a4-93b5da09378a-aug invoice 2026 - usa (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623520M",
