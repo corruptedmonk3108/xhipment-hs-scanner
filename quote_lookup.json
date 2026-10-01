@@ -192,12 +192,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6814b149e0d8c70be5f70516/bookings-docs/6a85a3d732245325a223009c/eb5370ab-cd15-4abd-baea-cee3b91305b2.xlsx"
   },
   {
-    "quoteId": "XQFCL082624561",
-    "exportsInvoiceValue": 11645.0,
-    "shipper": "Click Europe",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b76cf0177e42b128a6ef74/execution-documents/6a8ef1779a60757cf106e224/624de77e-70fc-4c36-8799-35ab09579375-Commercial Invoice_XQFCL082624561 (1).pdf"
-  },
-  {
     "quoteId": "XQAMZLCL082624141M",
     "exportsInvoiceValue": 13650.6,
     "shipper": "muhammad talha yousaf",
@@ -400,18 +394,6 @@
     "exportsInvoiceValue": 82021.5,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6a8fea56f9b47865a3f11608/bea7222e-073f-4057-ac66-de332b5ba019-INVOICE  PACKING LIST 124 MAYFAIR LINEN NORTH EAST.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0926209189",
-    "exportsInvoiceValue": 3754.54,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/bookings-docs/6a9ee79d3bc1305fa19c94a7/43b8255a-cb85-4800-8eb8-0f1c6b3369ff.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0926209194",
-    "exportsInvoiceValue": 3412.54,
-    "shipper": "matthias christian",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/bookings-docs/6a9ee7a419ad287c4173d42b/10fdc246-dcd1-4c05-9563-5ac3bcf046f3.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623394M",
@@ -706,6 +688,12 @@
     "exportsInvoiceValue": 2590.681545,
     "shipper": "alyna international private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff91d01c4b4c1ac2c9883c/execution-documents/6a68782f118967bdf2f2932d/7d52ce78-dc8c-46c8-a1ee-68802001c7b3-Export Commercial Invoice - Excel_XQAMZLCL072623520M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623920M",
+    "exportsInvoiceValue": 3288.3,
+    "shipper": "ajay jain",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=672a28d7dbfa634b146b703e/execution-documents/6a75bc56c015e36bf85a30a0/bcdbfe19-4fb7-442d-b161-f9153da7ffbd-Export Commercial Invoice - Excel_XQAMZLCL082623920M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623336M",
