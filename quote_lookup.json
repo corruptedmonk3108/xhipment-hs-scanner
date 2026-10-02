@@ -1006,11 +1006,5 @@
     "exportsInvoiceValue": 963.36,
     "shipper": "the imaging centre (se) ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a566eec6b6e7816be1b0f22/execution-documents/6a843acfb7b83d30112c7856/fb4f2a7c-2608-4194-aeea-f3f52e147495-CI XQAMZAIR0826201508 (the imaging centre (se) ltd).xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR0826201479",
-    "exportsInvoiceValue": 1284.48,
-    "shipper": "the imaging centre (se) ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a566eec6b6e7816be1b0f22/execution-documents/6a843ac3b7b83d30112c75b7/016485a8-1946-4ddb-8348-1f957cbc5779-CI XQAMZAIR0826201479 (the imaging centre (se) ltd).xlsx"
   }
 ]
