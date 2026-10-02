@@ -744,6 +744,66 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69bb8f1da488ace74f250865/execution-documents/6a8d268edf735c91663f3a39/3b79076f-4213-41b1-a254-88c9e1353107-Import Commercial Invoice - Excel_XQAMZLCL082624391M.xls"
   },
   {
+    "quoteId": "XQAMZLCL072623120M",
+    "exportsInvoiceValue": 2028.5448,
+    "shipper": "shakti hnco",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699411493830010e2ac1e944/execution-documents/6a55cef152f55c9158a131a5/7103c990-d202-465b-92c8-e220f9234359-Amaara_Botanicals_Packing_List_and_Commercial_Invoice.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624033M",
+    "exportsInvoiceValue": 914.2,
+    "shipper": "raghavendra ks",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e2171782011809b0c2805a/execution-documents/6a7b339f317b27bea26eccf3/6c293965-4d20-4dd1-afb4-98f09652e08f-Export Commercial Invoice - Excel_XQAMZLCL082624033M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624633M",
+    "exportsInvoiceValue": 10213.6,
+    "shipper": "luxmi tea company pvt. ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/execution-documents/6a91c2263f0130a8820cb704/c4cd8b3e-d8dd-4d43-acec-5cf5f61e83fd-Import Commercial Invoice - Excel_XQAMZLCL082624633M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL092625463M",
+    "exportsInvoiceValue": 65760.9,
+    "shipper": "Woldoshop GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670d1566bbe15dbe3293a823/execution-documents/6aace584458ae98ea25b09d0/4d54bc57-4f4f-4e48-a64f-dcd52397302d-Woldoshop_Invoice_RE1001353189.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624126M",
+    "exportsInvoiceValue": 992.2,
+    "shipper": "sam toys",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6596883b10fd1b3d36094eff/execution-documents/6a7dc5b7bf25729d36b5ccf8/ec10725c-ed8a-4278-b8b3-b0a19da1dc02-Export Commercial Invoice - Excel_XQAMZLCL082624126M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624580M",
+    "exportsInvoiceValue": 943.0,
+    "shipper": "mv print",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5a2adbdc485256103973e2/execution-documents/6a8fc6e7763c32672951cbbe/af30ac92-ae25-40a7-b80b-5c134f203247-Export Commercial Invoice - Excel_XQAMZLCL082624580M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625135M",
+    "exportsInvoiceValue": 18177.25,
+    "shipper": "Mmeyou Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=665444cfe8139b124b2fbe4c/execution-documents/6aa1350c7787d28c1c179eb3/4b1a0ab5-9b5b-4388-975d-e6b4c321959b-Export Commercial Invoice - Excel_XQAMZLCL092625135M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625203M",
+    "exportsInvoiceValue": 1005.28,
+    "shipper": "global contract packers ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3a512cc13868b8dff4963b/execution-documents/6aa2cb368d87b9b48ad752d5/a604c56d-fe39-45ef-ac66-f273f7519814-Export Commercial Invoice - Excel_XQAMZLCL092625203M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625323M",
+    "exportsInvoiceValue": 7863.83,
+    "shipper": "Booktech Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff88942c005fcd785ccdeb/execution-documents/6aa7cff3a4d23e6cb10bfbe9/e58c6b40-a8e2-4fa1-9759-ff7b681527f4-Export Commercial Invoice - Excel_XQAMZLCL092625323M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625439M",
+    "exportsInvoiceValue": 1868.22,
+    "shipper": "calzette",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6aabe7e0127192473f111ccc/b114cb84-a9a2-48e4-99e0-8ec4f1aabd6a-Export Commercial Invoice - Excel_XQAMZLCL092625439M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623336M",
     "exportsInvoiceValue": 7518.0,
     "shipper": "vinay sharma",
