@@ -72,12 +72,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab3d839b36ff00be29ad5bd/execution-documents/6ab3d840b36ff00be29ad647/b4bf04f1-2ce4-4295-80f8-c218a8e8e6ab-CI XQAMZAIR0926215129 (agust sveinsson).XLSX"
   },
   {
-    "quoteId": "XQAMZLCL082624506M",
-    "exportsInvoiceValue": 14425.4,
-    "shipper": "5kind (xhipment warehouse)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6a8d4639270389bccef99548/c9722453-930f-46c6-8660-7681c3b93bd5-Commercial Invoice_XQAMZLCL082624506M.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0926215576",
     "exportsInvoiceValue": 271.3,
     "shipper": "andrew",
@@ -444,12 +438,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/bookings-docs/6a6b376654af5d9d3a53ad37/5d482220-ddea-4dd3-83ec-e236cfdb1037.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624096M",
-    "exportsInvoiceValue": 6183.3,
-    "shipper": "cravium gourmet private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c7f5533090171811a9d0fd/execution-documents/6a7eac005f02bf7162eecc49/3f811566-099c-4d43-b0d9-43799a180d45-Export Commercial Invoice - Excel_XQAMZLCL082624096M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623560M",
     "exportsInvoiceValue": 10256.0,
     "shipper": "hwc trading ltd",
@@ -804,12 +792,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6aabe7e0127192473f111ccc/b114cb84-a9a2-48e4-99e0-8ec4f1aabd6a-Export Commercial Invoice - Excel_XQAMZLCL092625439M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623336M",
-    "exportsInvoiceValue": 7518.0,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6a631254c1b60cdb56c54d41/5fd5141c-51a3-4d9f-8d39-6624f4b7fa93-Export_Commercial_Invoice_336M_Fixed.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL072623522M",
     "exportsInvoiceValue": 490.0,
     "shipper": "gera industries",
@@ -904,6 +886,54 @@
     "exportsInvoiceValue": 89559.06,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6ab3c2b3052dc11a3f90aa6b/1860c95b-13dc-41dc-8f50-ccc8eda7a9f3-CI XQAMZAIR0926215100 (Solino Home).xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR0926215234",
+    "exportsInvoiceValue": 1889.29,
+    "shipper": "harrow business services ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6ab3f39c58e966a1ae9ae938/baffbc25-d480-443b-940c-652b610747d5-CI XQAMZAIR0926215234 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926215249",
+    "exportsInvoiceValue": 1889.29,
+    "shipper": "harrow business services ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6ab3f3a357b1bd7789569b59/f1732ff6-d71d-4025-ac75-0f53c9b0d8ba-CI XQAMZAIR0926215249 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926213392",
+    "exportsInvoiceValue": 14915.39,
+    "shipper": "rutherford wren",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7f0654941968614a480ee7/execution-documents/6aad3f950d87e9ac33312e68/51edd606-8186-4112-a117-458a30d3a9dc-CI XQAMZAIR0926213392 (rutherford wren).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926215216",
+    "exportsInvoiceValue": 1700.98,
+    "shipper": "harrow business services ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6ab3f39b60cfe580870f0135/4fa64200-7c17-49cf-b2cc-8a1f207a86ee-CI XQAMZAIR0926215216 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926214626",
+    "exportsInvoiceValue": 2168.68,
+    "shipper": "stephensons online ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6ab27fa11dfb43ec098b9b40/b133fca5-075f-40da-96fb-e113a1cb3e9a-CI XQAMZAIR0926214626 (stephensons online ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926215222",
+    "exportsInvoiceValue": 1774.13,
+    "shipper": "harrow business services ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6ab3f39b4152a02c2b487dbc/9daba78e-ba3b-4540-8c84-90df6a5355fa-CI XQAMZAIR0926215222 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR0926215208",
+    "exportsInvoiceValue": 1616.95,
+    "shipper": "harrow business services ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c6804a8ad2e8db76a68421/execution-documents/6ab3f39a57b1bd778956994e/d1f3cadf-fcd5-4b6e-8661-d35fd7f6656e-CI XQAMZAIR0926215208 (harrow business services ltd).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL082624096M",
+    "exportsInvoiceValue": 6183.3,
+    "shipper": "cravium gourmet private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67c7f5533090171811a9d0fd/bookings-docs/6a7eac005f02bf7162eecc49/9ff26d5e-29c4-4189-aaeb-3285d8c33060.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622825M",
