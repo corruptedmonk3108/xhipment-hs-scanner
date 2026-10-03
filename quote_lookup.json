@@ -900,6 +900,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6ab0f9d1266dc4cdd401b34b/53ec526d-0d57-46ea-8c08-09f5dc9b47b6-CI XQAMZAIR0926213952 (stephensons online ltd).XLSX"
   },
   {
+    "quoteId": "XQAMZAIR0926215100",
+    "exportsInvoiceValue": 89559.06,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6ab3c2b3052dc11a3f90aa6b/1860c95b-13dc-41dc-8f50-ccc8eda7a9f3-CI XQAMZAIR0926215100 (Solino Home).xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072622825M",
     "exportsInvoiceValue": 2511.5,
     "shipper": "VOYZZ INDIA PRIVATE LIMITED",
