@@ -24,12 +24,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a8c108bbafb4b8876f7462c/7f9521a0-f259-494c-b7b7-53330cc5c20f-Import Commercial Invoice - Excel_XQFCL082624473.xls"
   },
   {
-    "quoteId": "XQAMZLCL082623750M",
-    "exportsInvoiceValue": 30103.5,
-    "shipper": "muqeem and brothers pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65c0c2ed4a5c43fae785f9b4/execution-documents/6a7067b204491426514a99ff/75face59-c8f0-4c82-8ca5-f27c70fe68c4-INV_MB-2627-0159_Under GST_XQAMZLCL082623750M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624354M",
     "exportsInvoiceValue": 44470.0,
     "shipper": "Carmel Organics",
