@@ -1,5 +1,29 @@
 [
   {
+    "quoteId": "XQAMZLCL082624469M",
+    "exportsInvoiceValue": 57392.14,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a8be99accf9dfea867381d7/17f68078-ef88-480c-b12b-618d0d8e5d7c-FY-2627-039 - Destination Inv PL.xlsm"
+  },
+  {
+    "quoteId": "XQLCL082624039",
+    "exportsInvoiceValue": 61122.06,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a7b1da1f69b546801dd1d9a/811af3ec-6b07-4ba0-a6c9-9e5d7ccc8ba0-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL092625167M",
+    "exportsInvoiceValue": 131958.76,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aa2567f8b52ca2a4e2d3871/365ceb89-1646-480c-a160-b4bd7216ce86-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL092625169M",
+    "exportsInvoiceValue": 148696.4,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aa257082f0808716567734e/23e64e91-d919-4f1a-b0c0-d191274f6df2-XQAMZFCL092625169M.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0926215030",
     "exportsInvoiceValue": 1721.22,
     "shipper": "philip lawes",
@@ -22,6 +46,18 @@
     "exportsInvoiceValue": 94805.84,
     "shipper": "Imagimake",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65361d0abaaff8718950ced6/execution-documents/6a8c108bbafb4b8876f7462c/7f9521a0-f259-494c-b7b7-53330cc5c20f-Import Commercial Invoice - Excel_XQFCL082624473.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL082624658M",
+    "exportsInvoiceValue": 32662.92,
+    "shipper": "Solino Home",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6a94efda39568e518a63abca/ce11c8c8-0fe4-4206-ad44-fff1493ca3b9-FY-2627-041 - Destination Inv PL U.xlsm"
+  },
+  {
+    "quoteId": "XQLCL082624590",
+    "exportsInvoiceValue": 4478.0,
+    "shipper": "nostalgic-art merchandising gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c69a77c9ba462a9983766/execution-documents/6a917ba03065a6fd8223c303/10ebbbaa-1789-49f4-848d-6802a6358049-Nostalgic_Art_Commercial_Invoice.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624354M",
