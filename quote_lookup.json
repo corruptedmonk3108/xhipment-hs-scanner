@@ -630,12 +630,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a50e9b55d836a7cfd2c3813/execution-documents/6a7dbcbe1a3015fb43a22971/0b0df327-b669-4177-a2ed-64fd2e243cec-EXPORT Commercial Invoice_XQAMZLCL082624127M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL072623414M",
-    "exportsInvoiceValue": 8833.8,
-    "shipper": "m/s taran enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fe379db229f97f2aae7f1d/execution-documents/6a66ef641cdd79672dfac1fe/a062de3c-70f3-496f-a351-ad9c0f97ddda-Export Commercial Invoice - Excel_XQAMZLCL072623414M.xlsx"
-  },
-  {
     "quoteId": "XQLCL082624099",
     "exportsInvoiceValue": 20510.73354,
     "shipper": "TK Logistics Solutions",
@@ -664,12 +658,6 @@
     "exportsInvoiceValue": 10919.0,
     "shipper": "Bizeev LLC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a71edcd057bd4e31858d439/c42650cd-00ec-4581-8235-87a7d8202e19-INVOICE CC-02-2026-27.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL072623375M",
-    "exportsInvoiceValue": 1817.93,
-    "shipper": "rao fariyad ali",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/execution-documents/6a61e972d2d0f32d0ac6bb0c/624c4306-dc75-43de-bf83-0c4be416b43a-Export Commercial Invoice - Excel_XQAMZLCL072623375M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072622885M",
