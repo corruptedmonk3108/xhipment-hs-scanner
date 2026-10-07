@@ -24,10 +24,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aa257082f0808716567734e/23e64e91-d919-4f1a-b0c0-d191274f6df2-XQAMZFCL092625169M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL062622754M",
+    "exportsInvoiceValue": 2720.0,
+    "shipper": "nb infrastructure and technology",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e3df0c6396da61a749bc72/bookings-docs/6a438cdabd254ff1d032e82f/3919d5e1-c610-4907-b979-6448d935f82c.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR0926214642",
     "exportsInvoiceValue": 239.6,
     "shipper": "andrew",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6ab29c8bf0c2a0ec588772de/87323cf9-68f7-49d8-b086-5b00eb42b5aa-CI XQAMZAIR0926214642 (andrew).xlsx"
+  },
+  {
+    "quoteId": "XQLCL082624146",
+    "exportsInvoiceValue": 14875.0,
+    "shipper": "RSG DATA MANAGEMENT SERVICES PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67e24ba89b1b30c04a92a66f/execution-documents/6a7eef87a4a5dc8c008e0a3c/b4924499-6d89-4be3-8f84-2ab4906d0290-Export Commercial Invoice - Excel_XQLCL082624146.xlsx"
+  },
+  {
+    "quoteId": "XQLCL082624170",
+    "exportsInvoiceValue": 12000.01,
+    "shipper": "Aramex / Global Transportation Services Pvt Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669fe7632fbf3f0d5b0f30d9/execution-documents/6a8034511c676eeb33823b66/0ca67718-fbdc-4770-aab5-dfb954399ace-HNR_Retail_Packing_List_and_Export_Invoice.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624658M",
@@ -42,6 +60,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c69a77c9ba462a9983766/execution-documents/6a917ba03065a6fd8223c303/10ebbbaa-1789-49f4-848d-6802a6358049-Nostalgic_Art_Commercial_Invoice.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082624233M",
+    "exportsInvoiceValue": 10108.8,
+    "shipper": "loyora play pvt. ltd.",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68d2a452db4f9f33089b2577/execution-documents/6a842a86dd0fe3f2321f5cb2/0f6da886-a911-4341-b857-94d4e81309a5-Export Commercial Invoice - Excel_XQAMZLCL082624233M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL072623649",
+    "exportsInvoiceValue": 567.0,
+    "shipper": "Print'N'Art LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b3d3754af5d9d3a544682/execution-documents/6a6b413bb290158ab6b72d2c/2140febe-fbb4-456f-b6c0-0a774f3cfb8a-Import Commercial Invoice - Excel_XQLCL072623649.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082624354M",
     "exportsInvoiceValue": 44470.0,
     "shipper": "Carmel Organics",
@@ -54,10 +84,46 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/bookings-docs/6a7d8987ceb3b16381c7a352/6746d902-072c-446d-bc64-5b87164d69ee.xlsx"
   },
   {
+    "quoteId": "XQLCL082624294",
+    "exportsInvoiceValue": 33117.5,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6a85668732c64df88158cf90/9c4cab44-6682-4f32-aec9-0a10b2fe8ad1-INVOICE Fashion Pearlz LLP Buyer SEA 298.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL072622824M",
+    "exportsInvoiceValue": 6320.0,
+    "shipper": "VOYZZ INDIA PRIVATE LIMITED",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b8feedd3d470619b976a65/execution-documents/6a463d0134c7ec10ffc300b7/46042651-5aa5-43ed-a16a-031100e4c255-Import Commercial Invoice - Excel_XQAMZLCL072622824M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL082624671M",
     "exportsInvoiceValue": 31523.58,
     "shipper": "apl",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a950deef3555db6fad00d43/a12ddfe6-76aa-4f99-83c7-efe27ac9686c-Import Commercial Invoice - Excel_XQAMZFCL082624671M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL072622964",
+    "exportsInvoiceValue": 6000.0,
+    "shipper": "feyn foods (opc) private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a72fc6c2c994646eea22d86/4ff8836b-eff9-424c-a87c-b52fbc560fb3-Export Commercial Invoice - Excel_XQLCL072622964.xlsx"
+  },
+  {
+    "quoteId": "XQLCL072623486",
+    "exportsInvoiceValue": 2811.84,
+    "shipper": "yutika natural private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6836e4797a60102afc8782a9/execution-documents/6a6d7cc6c22ee46a7169b22c/e6fc4b05-7136-4625-87c0-8f2ba2eb1f8f-Import Commercial Invoice - Excel_XQLCL072623486.xlsx"
+  },
+  {
+    "quoteId": "XQLCL072623575",
+    "exportsInvoiceValue": 431.0,
+    "shipper": "Lucky Marble and Granite (DB Naik Company)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a690a6632bb3676b45d1cdd/execution-documents/6a6b70ab1c32ce27089e4450/60d9b3c0-76a7-40fa-a113-a1f5aaa0572e-Export Commercial Invoice - Excel_XQLCL072623575.xlsx"
+  },
+  {
+    "quoteId": "XQLCL082623713",
+    "exportsInvoiceValue": 2908.63,
+    "shipper": "yutika natural private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6836e4797a60102afc8782a9/execution-documents/6a7179334873e5a42b14227d/0744a86c-cddd-4650-9995-6b9e1b6aca24-Import Commercial Invoice - Excel_XQLCL082623713.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624098M",
@@ -546,12 +612,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6839c3c8a4ea3ace82f57b96/execution-documents/6a9936d88914e1a5195c8f4c/1645c710-4f72-42c1-86d6-a57084667f6f-Export Commercial Invoice - Excel_XQAMZLCL092624841M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082623784M",
-    "exportsInvoiceValue": 10919.0,
-    "shipper": "Bizeev LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a71edcd057bd4e31858d439/c42650cd-00ec-4581-8235-87a7d8202e19-INVOICE CC-02-2026-27.xls"
-  },
-  {
     "quoteId": "XQAMZLCL092624907M",
     "exportsInvoiceValue": 2526.72,
     "shipper": "henry watson's potteries ltd",
@@ -768,12 +828,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a0646b56ddb6539c26b494b/execution-documents/6a6dbcee470ae3e217599ef8/f8ebda49-c501-4e7f-9d63-a90636821943-Export Commercial Invoice - Excel_XQAMZLCL082623700M.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL082624011M",
-    "exportsInvoiceValue": 137740.0,
-    "shipper": "butterfly edufields pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68370c625aa0e5bb683499c1/execution-documents/6a7aba7a90ab565697160d7d/def27622-81d2-45eb-b251-c965c7e310b9-Export Commercial Invoice - Excel_XQAMZFCL082624011M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082623947M",
     "exportsInvoiceValue": 1804.0,
     "shipper": "sj handicrafts",
@@ -802,12 +856,6 @@
     "exportsInvoiceValue": 3668.63,
     "shipper": "olivia international",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a03aff3f5691ebb35ca3456/bookings-docs/6a31560d89adc5a2be91484e/7da06ec3-9a7b-4d37-ac63-8c0398542f58.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL062622754M",
-    "exportsInvoiceValue": 2720.0,
-    "shipper": "nb infrastructure and technology",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e3df0c6396da61a749bc72/bookings-docs/6a438cdabd254ff1d032e82f/895454b6-8cda-4425-8fcb-268f328bb558.xlsx"
   },
   {
     "quoteId": "XQAMZFCL072623049M",
