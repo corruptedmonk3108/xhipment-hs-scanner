@@ -498,12 +498,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d9d08241956f7c88b98fe3/execution-documents/6a7ebb6f3e677957c4e29076/ab786578-2678-4954-a65a-a6a24daaff33-Export Invoice-USA-13th invoice-13_08_2026-.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL072623611M",
-    "exportsInvoiceValue": 9312.8,
-    "shipper": "hwc trading ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6874e741610057fe492df18e/execution-documents/6a6b400ab1424c25013095f3/f48b571f-86bc-4eb2-8683-4ac20ed84ca2-Export Commercial Invoice - Excel_XQAMZLCL072623611M.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR0826204299",
     "exportsInvoiceValue": 282.9,
     "shipper": "the imaging centre (se) ltd",
@@ -790,12 +784,6 @@
     "exportsInvoiceValue": 10213.6,
     "shipper": "luxmi tea company pvt. ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68e8bfbfd2a7fccc85260057/execution-documents/6a91c2263f0130a8820cb704/c4cd8b3e-d8dd-4d43-acec-5cf5f61e83fd-Import Commercial Invoice - Excel_XQAMZLCL082624633M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL092625463M",
-    "exportsInvoiceValue": 65760.9,
-    "shipper": "Woldoshop GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670d1566bbe15dbe3293a823/execution-documents/6aace584458ae98ea25b09d0/4d54bc57-4f4f-4e48-a64f-dcd52397302d-Woldoshop_Invoice_RE1001353189.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624126M",
