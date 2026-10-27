@@ -1,5 +1,11 @@
 [
   {
+    "quoteId": "XQAMZFCL092625768M",
+    "exportsInvoiceValue": 20746.68,
+    "shipper": "D-Line Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682db1786450d8ae7aafcf7a/bookings-docs/6aba1861998301452495cd11/3e88a66d-727e-417b-9663-ebc70db08c56.xlsx"
+  },
+  {
     "quoteId": "XQLCL082624590",
     "exportsInvoiceValue": 4478.0,
     "shipper": "nostalgic-art merchandising gmbh",
@@ -540,12 +546,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6634d248c5fbe101be6336e1/execution-documents/6ab4d9f260cfe58087246eda/bc9796c0-0f52-4cbe-9b7f-4f6cc78ceb4b-Venture_Trade_Commercial_Invoice_and_Packing_List_Fixed.xlsx"
   },
   {
-    "quoteId": "XQAMZFCL092625768M",
-    "exportsInvoiceValue": 20746.68,
-    "shipper": "D-Line Limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682db1786450d8ae7aafcf7a/execution-documents/6aba1861998301452495cd11/69336cfb-43c2-42a7-b9ae-b362182abb33-CDS-Import-40693579-20261008-1233 (1).pdf"
-  },
-  {
     "quoteId": "XQAMZFCL092625921M",
     "exportsInvoiceValue": 157407.92,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -912,12 +912,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664602ea5d52248b7e4aad43/execution-documents/6a9fefb7ce2ec0ca60943cd3/f4c8affd-ecf7-4df6-b2ef-693772170e17-Import Commercial Invoice - Excel_XQAMZLCL092625067M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092625073M",
-    "exportsInvoiceValue": 4066.75,
-    "shipper": "nikilko2017 ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6a9fba7c98e6ae5886fbf060/20a73a1e-a6c2-4394-8b8e-23b7e28bf46b-Commercial Invoice_XQAMZLCL092625073M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625080M",
     "exportsInvoiceValue": 10676.75,
     "shipper": "dom ventas india pvt ltd",
@@ -1210,12 +1204,6 @@
     "exportsInvoiceValue": 30537.0,
     "shipper": "matras exporters",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/execution-documents/6ab225c01e1cb0ec9dc5088d/4d406ddd-137c-49a0-96ea-125d8834dc71-Excel Invoice -  ME2627-0049 (1) UP.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625655M",
-    "exportsInvoiceValue": 4638.75,
-    "shipper": "alphafoodie limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab32ad0a01ea6335fa19903/execution-documents/6ab374dc5945098e552afb28/6cb01fc0-46aa-4d23-bed7-6284b582245c-EXPORT Commercial Invoice_XQAMZLCL092625655M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL092625663M",
