@@ -6,10 +6,64 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682db1786450d8ae7aafcf7a/bookings-docs/6aba1861998301452495cd11/3e88a66d-727e-417b-9663-ebc70db08c56.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL092625856M",
+    "exportsInvoiceValue": 21943.12,
+    "shipper": "faith in nature",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a98284e806a6bcea919a430/execution-documents/6aba8d3f592916be82fca4a8/753f0568-9141-44fb-b228-a0b82e1eff3b-Export Commercial Invoice - Excel_XQAMZFCL092625856M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624172M",
+    "exportsInvoiceValue": 1099.5,
+    "shipper": "matec industries private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ef6453d059a30d3ed020d4/execution-documents/6a843136533375f80415810d/19154aff-0f32-4aae-884c-ccef476d5334-Export Commercial Invoice - Excel_XQAMZLCL082624172M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624581M",
+    "exportsInvoiceValue": 5060.0,
+    "shipper": "cresurge pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653cafe326796547ec0fa6c7/execution-documents/6a8fcc27f4fe70c3c3b5cb0c/5d8477f0-9d68-4574-8e5e-fff09fe29936-Export Commercial Invoice - Excel_XQAMZLCL082624581M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624663M",
+    "exportsInvoiceValue": 9826.504155,
+    "shipper": "magic linen private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a92f2bfa553befe52918d74/execution-documents/6a93136dd2c380b31885e47c/fbeb220d-206d-461d-a08e-598139e94716-Export Commercial Invoice - Excel_XQAMZLCL082624663M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624675M",
+    "exportsInvoiceValue": 688.5,
+    "shipper": "shakti hnco",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699411493830010e2ac1e944/execution-documents/6a951f96385dc4fd966322ad/8582d8a9-dae1-4940-b8e4-5b148b877380-Export Commercial Invoice - Excel_XQAMZLCL082624675M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624701M",
+    "exportsInvoiceValue": 3365.5,
+    "shipper": "shobhit gupta",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=666fbd23b82fdbb2b8147773/execution-documents/6a9562f4f9f7134bc0d3e931/ff74d103-e996-4508-860c-bb1ed1846c64-Invoice_and_Packing_List_EXP-26-27-003_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624705M",
+    "exportsInvoiceValue": 19425.0,
+    "shipper": "megadi network opc pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694770a132608c2b8a68d4ca/execution-documents/6a966e356e4f25cc0be01d48/9a6f141b-04f1-4f4c-9679-2001d964815c-Megadi_Network_Invoice_CI-MN-26-27-20_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624748M",
+    "exportsInvoiceValue": 3300.0,
+    "shipper": "feyn foods (opc) private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a96a849bf2384063c8ca2cd/b95403ff-c04e-4c97-af41-48f545f2a373-Export Commercial Invoice - Excel_XQAMZLCL092624748M.xlsx"
+  },
+  {
     "quoteId": "XQLCL082624590",
     "exportsInvoiceValue": 4478.0,
     "shipper": "nostalgic-art merchandising gmbh",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c69a77c9ba462a9983766/execution-documents/6a917ba03065a6fd8223c303/10ebbbaa-1789-49f4-848d-6802a6358049-Nostalgic_Art_Commercial_Invoice.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625027M",
+    "exportsInvoiceValue": 502.9,
+    "shipper": "skymoon apparel",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a9e9ee44822429610ba8160/execution-documents/6a9ebe6b3bc1305fa193be68/6b4a17e9-e98d-413c-b0af-65130e2c93e0-FINAL_COMMERCIAL_INVOICE_98 (1).xlsx"
   },
   {
     "quoteId": "XQAMZLCL082623711M",
