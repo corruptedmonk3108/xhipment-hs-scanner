@@ -48,12 +48,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6a96a849bf2384063c8ca2cd/b95403ff-c04e-4c97-af41-48f545f2a373-Export Commercial Invoice - Excel_XQAMZLCL092624748M.xlsx"
   },
   {
-    "quoteId": "XQLCL082624590",
-    "exportsInvoiceValue": 4478.0,
-    "shipper": "nostalgic-art merchandising gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c69a77c9ba462a9983766/execution-documents/6a917ba03065a6fd8223c303/10ebbbaa-1789-49f4-848d-6802a6358049-Nostalgic_Art_Commercial_Invoice.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625027M",
     "exportsInvoiceValue": 502.9,
     "shipper": "skymoon apparel",
@@ -138,12 +132,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a92f2bfa553befe52918d74/bookings-docs/6a93136dd2c380b31885e47c/42724ea3-e341-4d4f-9991-df4302af388a.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR1026225665",
-    "exportsInvoiceValue": 750.0,
-    "shipper": "creative jam enterprises ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6adaea028ac8165e709479c7/0a020e05-601b-4c59-8ee3-fcbd7ab748b6-Commercial Invoice_XQAMZAIR1026225665.XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR1026226143",
     "exportsInvoiceValue": 464.7,
     "shipper": "andrew",
@@ -184,6 +172,24 @@
     "exportsInvoiceValue": 7675.8,
     "shipper": "Vicco Products (Bombay) Pvt. Ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66bae3d84b9008cca66b9847/execution-documents/6a72d4b89d4d223e2d93d91a/9135b984-f3ae-4631-bb79-7cc6ceef4523-Vicco_Invoice_ND13_and_Packing_List.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR1026225665",
+    "exportsInvoiceValue": 750.0,
+    "shipper": "creative jam enterprises ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/bookings-docs/6adaea028ac8165e709479c7/e91412be-bc3b-47d3-a1a7-9a2d4a5ac0ea.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL092625354M",
+    "exportsInvoiceValue": 72676.89,
+    "shipper": "pleasant times industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa828246cda386b95d31d6b/execution-documents/6aa916fe6cda386b95023678/a77e32b4-0f92-42b8-85b5-25b9323cd28f-Export Commercial Invoice - Excel_XQAMZLCL092625354M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625282M",
+    "exportsInvoiceValue": 22673.82,
+    "shipper": "indus cosmeceuticals pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69945b84bb0464a85e64a8ac/execution-documents/6aaa2c57d1a7d333e4322095/c54950e3-519e-4a1f-bad3-8329d3198cb0-Indus_Cosmeceuticals_Invoice_HR-CI-26-27-006_and_Packing_List_Fixed.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624012M",
@@ -324,12 +330,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6abcb0364aff62894c0e74b0/3a493e29-57a5-44e4-b78b-56ed0c7a73a1-XQAMZLCL092625903M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL102626002M",
-    "exportsInvoiceValue": 69664.28,
-    "shipper": "fm-pack gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6abd018d73475ee36651ed52/execution-documents/6abe669dc90bcc1d8a056b5e/fa6f83dd-38fc-4527-ba19-f529a6d5437e-Commercial Invoice_XQAMZLCL102626002M.XLSX"
-  },
-  {
     "quoteId": "XQAMZLCL102626170M",
     "exportsInvoiceValue": 8420.2,
     "shipper": "e-m-c-direct gmbh & co. kg",
@@ -364,12 +364,6 @@
     "exportsInvoiceValue": 35608.57,
     "shipper": "apl",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6ab14af1a947686624a36454/ae5ac224-1a1e-4805-a1aa-f7b1fe943f4e-Import Commercial Invoice - Excel_XQFCL092625585.xlsx"
-  },
-  {
-    "quoteId": "XQLCL082624206",
-    "exportsInvoiceValue": 18249.0,
-    "shipper": "Sutram Creations",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63c926046d1bac3d2152c43c/bookings-docs/6a82e05f7d7a6fea69775cea/1339ed3e-51a0-4914-b32e-dca993529654.xlsx"
   },
   {
     "quoteId": "XQLCL082624338",
@@ -484,12 +478,6 @@
     "exportsInvoiceValue": 21019.55,
     "shipper": "delta / new leaf",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690b7faea346c7e7274e5335/execution-documents/6ad63d9cd452ebf5742ec7b8/36f26290-42df-4203-836e-fd0d0aa90fba-Commercial Invoice_XQAMZAIR1026224288.XLSX"
-  },
-  {
-    "quoteId": "XQAMZFCL092624810M",
-    "exportsInvoiceValue": 93248.6062,
-    "shipper": "nostalgic-art merchandising gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b907326a5b02aab5bfe481/execution-documents/6a9a6d0c1d168f4aa36cc3b1/65636c20-e45b-45b2-98d1-f0aeb61f412a-Commercial Invoice_XQAMZFCL092624810M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL092624886M",
@@ -1044,12 +1032,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa778d0b9f05c948d6d9c27/execution-documents/6aa8e1e55d3c6ae25c72098b/f7f711f2-9b8d-4baf-8289-99778465bc9f-Export Commercial Invoice - Excel_XQAMZLCL092625318M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092625324M",
-    "exportsInvoiceValue": 2885.42,
-    "shipper": "nikilko2017 ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6aa7d0b8a4d23e6cb10c0658/26810535-42a8-49c3-b0a2-93a959b6bf86-Commercial Invoice_XQAMZLCL092625324M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625325M",
     "exportsInvoiceValue": 4413.16,
     "shipper": "nikilko2017 ltd",
@@ -1146,22 +1128,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6ab11540014469d37e8560b9/b7527ebd-86b5-4f08-bd94-0743817a24bb-Commercial Invoice_XQAMZLCL092625571M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092625573M",
-    "exportsInvoiceValue": 9069.07,
-    "shipper": "BRISA ENTERTAINMENT GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670cc8d9bbe15dbe328d750a/execution-documents/6ab11810014469d37e8612f1/1ebcdbf9-2ef9-47e4-8f7b-6ce79f461948-BRISA_Invoice_and_Packing_List_AB26-123_Fixed.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625575M",
     "exportsInvoiceValue": 17263.3504,
     "shipper": "5kind (xhipment warehouse)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6ab11eb97f4f2785b055e0d5/108d7ef2-d77f-4e89-8b44-65fee7c0a804-5Kind_Commercial_Invoice_and_Packing_List.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625589M",
-    "exportsInvoiceValue": 3987.36,
-    "shipper": "nikilko2017 ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6ab1503e939ddf30a08ced45/8420efbd-bd9f-45d8-8ca8-89f941ac865b-Commercial Invoice_XQAMZLCL092625589M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625600M",
