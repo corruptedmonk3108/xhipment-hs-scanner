@@ -138,6 +138,36 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a92f2bfa553befe52918d74/bookings-docs/6a93136dd2c380b31885e47c/42724ea3-e341-4d4f-9991-df4302af388a.xlsx"
   },
   {
+    "quoteId": "XQAMZAIR1026225665",
+    "exportsInvoiceValue": 750.0,
+    "shipper": "creative jam enterprises ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/execution-documents/6adaea028ac8165e709479c7/0a020e05-601b-4c59-8ee3-fcbd7ab748b6-Commercial Invoice_XQAMZAIR1026225665.XLSX"
+  },
+  {
+    "quoteId": "XQAMZAIR1026226143",
+    "exportsInvoiceValue": 464.7,
+    "shipper": "andrew",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6ade44509d8d1a700506c07d/9dcc2c03-fd84-4c7d-bd8b-e4253d4b3101-Commercial Invoice_XQAMZAIR1026226143.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625379M",
+    "exportsInvoiceValue": 900.0,
+    "shipper": "Navodita apparels pvt ltd. (Nonalifestyle)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6891a1a27864b58cf8b4a412/bookings-docs/6aaa5032a2c8a5a909529798/d9a8151a-49b9-4b21-87b0-38f550b16cd4.xlsx"
+  },
+  {
+    "quoteId": "XQAIR102626680",
+    "exportsInvoiceValue": 4320.0,
+    "shipper": "James White",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=662b7b0c14e68f9840106f9d/execution-documents/6ad9dc6141f27db2d6979a34/b5210e0c-194c-4699-8791-025e40f5aebe-James_White_Drinks_Invoice_335229_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZAIR1026225857",
+    "exportsInvoiceValue": 359.8,
+    "shipper": "andrew",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6adb7e94bdf37c9c907a2a18/e11797ff-b692-44cb-8c3a-eae9adfd64c7-Commercial Invoice_XQAMZAIR1026225857.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623711M",
     "exportsInvoiceValue": 3282.4,
     "shipper": "my dec international",
@@ -172,12 +202,6 @@
     "exportsInvoiceValue": 21665.36,
     "shipper": "Amay International LLC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b4f26e368c0968cce937f0/execution-documents/6a82a1ca357bdf45c0973627/a1acc02d-5d3c-425d-a1f2-c60033cc00fb-HTS_Commercial_Invoice_398_Boxes_August-17-2026.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL082624157M",
-    "exportsInvoiceValue": 900.0,
-    "shipper": "Delphi Leather",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63bfec928bb33ef411fecaa8/execution-documents/6a82a18dd9b502b889bd696c/5b4d5dd5-fab1-474d-b548-2bdcd3d95bec-Delphi_Leather_Packing_List_and_Invoice_Aligned.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624158M",
@@ -360,12 +384,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698c69a77c9ba462a9983766/execution-documents/6a917ba25905c830b857f12e/c79b73a2-a15a-48c9-b574-32ab279eff48-Nostalgic_Art_Invoice_and_Packing_List_XQLCL082624588.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR1026220402",
-    "exportsInvoiceValue": 126960.0,
-    "shipper": "shakila miah",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac766693252794c2504995d/bookings-docs/6ac7666d3252794c25049990/94e2161b-5716-4558-80b6-61ac26d61235.XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR1026225390",
     "exportsInvoiceValue": 394.6,
     "shipper": "andrew",
@@ -414,18 +432,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a075235df856e2f4d552bfe/execution-documents/6acd146b7c6b04e230f0658d/e12779ca-0fe0-48e3-bd9e-3438c3e3ec97-Commercial Invoice_XQAMZAIR1026221923.XLSX"
   },
   {
-    "quoteId": "XQAMZAIR0926217398",
-    "exportsInvoiceValue": 20760.0,
-    "shipper": "cartamundi",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68a46f3f96799b214ebf29c1/bookings-docs/6abc2e4ea958855db9bd0e1a/d98705fb-3cea-4dc1-98f7-352287eda62b.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR1026219487",
-    "exportsInvoiceValue": 6060.0,
-    "shipper": "jannis neumann",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a22d748de31b2284b2ea687/execution-documents/6ac3d4dfe80cdc354f7a239d/2c2341fb-fde7-42df-8008-e2d7922483b9-Kruemel_Commercial_Invoice_and_Packing_List_Aligned.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1026224537",
     "exportsInvoiceValue": 2137.22,
     "shipper": "stephensons online ltd",
@@ -444,12 +450,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a43959f50c5a92709dfdb1e/execution-documents/6aba488e062344ff5d177a17/65b11e01-bc5d-4444-b468-01bc3339b2a8-Commercial Invoice_XQAMZAIR0926216675.XLSX"
   },
   {
-    "quoteId": "XQAMZAIR1026219394",
-    "exportsInvoiceValue": 16578.24,
-    "shipper": "Sljivo Trading GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=673306c34ca1ac11762ee1f0/execution-documents/6ac3a9310d1b146674e8d9e8/f84ad5c1-af35-49d3-963e-b1a3d931be71-Sljivo_Trading_Invoice_100372_and_Packing_List.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1026219037",
     "exportsInvoiceValue": 690.27,
     "shipper": "vdo honest",
@@ -462,12 +462,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab5020459073fb46583d53d/execution-documents/6ab5020759073fb46583d574/a625d7d4-d4cc-426c-a507-d1e2b278c09c-Commercial Invoice_XQAMZAIR0926215493.XLSX"
   },
   {
-    "quoteId": "XQAMZAIR1026223920",
-    "exportsInvoiceValue": 406.9,
-    "shipper": "andrew",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6ad4c9f1ffc913b39d22263d/0cd300b0-7c85-48c4-a609-5dc8e8b1e86b-Kelvin_Products_Invoice_and_Packing_List_Fixed.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1026224477",
     "exportsInvoiceValue": 2190.62,
     "shipper": "stephensons online ltd",
@@ -478,12 +472,6 @@
     "exportsInvoiceValue": 3232.0,
     "shipper": "PAWEL LIPSZYC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66890749d74c4c80b2db4891/execution-documents/6abbb58d41560083ec2b8539/ae9e2bfe-e7af-4026-aff0-54de3d2f653f-Commercial_Invoice_XQAMZAIR0926217326_Fixed.xlsx"
-  },
-  {
-    "quoteId": "XQAMZAIR1026224203",
-    "exportsInvoiceValue": 356.1,
-    "shipper": "andrew",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6ad5fbbd65fada645eeb182c/b09c4c01-48b5-4156-87e6-fd0967e45d87-Commercial Invoice_XQAMZAIR1026224203K.xlsx"
   },
   {
     "quoteId": "XQAMZAIR1026223936",
@@ -1096,12 +1084,6 @@
     "exportsInvoiceValue": 900.0,
     "shipper": "navodita apparels pvt ltd (Merchlio LLC)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6965d94f53aae2103d9d7419/bookings-docs/6aaa4dd346dcbd3d35bfda4c/776bb85c-3393-46e0-a173-087aff26bfeb.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625379M",
-    "exportsInvoiceValue": 900.0,
-    "shipper": "Navodita apparels pvt ltd. (Nonalifestyle)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6891a1a27864b58cf8b4a412/execution-documents/6aaa5032a2c8a5a909529798/903222b2-8efd-4c0d-a5ff-43e643779e4b-Export Commercial Invoice - Excel_XQAMZLCL092625379M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625385M",
