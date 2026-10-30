@@ -150,12 +150,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/bookings-docs/6adaea028ac8165e709479c7/e91412be-bc3b-47d3-a1a7-9a2d4a5ac0ea.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL092625354M",
-    "exportsInvoiceValue": 72676.89,
-    "shipper": "pleasant times industries",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa828246cda386b95d31d6b/execution-documents/6aa916fe6cda386b95023678/a77e32b4-0f92-42b8-85b5-25b9323cd28f-Export Commercial Invoice - Excel_XQAMZLCL092625354M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625282M",
     "exportsInvoiceValue": 22673.82,
     "shipper": "indus cosmeceuticals pvt ltd",
@@ -222,10 +216,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a86e2a6608e99ae4349e789/execution-documents/6a875d910df3471d44d5c11d/0c7f2cce-c455-4023-b266-3005a2c0ed90-Export Commercial Invoice - Excel_XQAMZLCL082624359M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624012M",
-    "exportsInvoiceValue": 17135.94475,
-    "shipper": "Bizeev LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66153d2c2d4374b19d603180/execution-documents/6a7afea2fc68357ef5028831/effbed75-ee89-4c9f-b331-93d47b1077f1-A.xls"
+    "quoteId": "XQAMZLCL092625354M",
+    "exportsInvoiceValue": 72676.89,
+    "shipper": "pleasant times industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa828246cda386b95d31d6b/bookings-docs/6aa916fe6cda386b95023678/bcf7f586-1a44-496d-9d25-7d70626b6280.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624100M",
@@ -414,12 +408,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab5020459073fb46583d53d/execution-documents/6abc1e8ba958855db9bcc2f9/452b65fa-3976-4a2f-b441-12f2cf1fcd46-Commercial Invoice_XQAMZAIR0926217380.XLSX"
   },
   {
-    "quoteId": "XQAMZFCL082624192M",
-    "exportsInvoiceValue": 15575.0,
-    "shipper": "creative 7",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69661e1dd924c15124a05be8/execution-documents/6a82b42dddb9f04dabc79c0f/de46abf7-8faa-47f5-a117-dcf05add2edc-EXPORT Commercial Invoice_XQAMZFCL082624192M.XLSX"
-  },
-  {
     "quoteId": "XQAMZAIR1026221923",
     "exportsInvoiceValue": 13954.86,
     "shipper": "matthias christian",
@@ -544,12 +532,6 @@
     "exportsInvoiceValue": 149403.42,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6abcd4ee32b8e54652b10fbf/f8853d88-60fc-43d8-b7f6-5eeac9e5945d-XQAMZFCL092625922M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL102625995M",
-    "exportsInvoiceValue": 121395.228,
-    "shipper": "IDVENTURE UG",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=694122b31da56540f5f0544b/execution-documents/6abe53692c4339a5a9ca61b8/81c82b3c-7d24-4fd5-92f9-6378ec216abc-Commercial Invoice_XQAMZFCL102625995M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL102626101M",
