@@ -330,6 +330,36 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6acdd9f9c69d244aba349a03/8a553156-6dfd-4c37-95bc-2355dfc84602-Export Commercial Invoice - Excel_XQAMZLCL102626352M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626194M",
+    "exportsInvoiceValue": 41099.91,
+    "shipper": "Cobra Industries Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=664d96bbd1a3a6a836c1e063/execution-documents/6ac75ede23d01de9f57a3cd0/b16cc110-05e2-4807-8062-0d0a6c208b9c-Export Commercial Invoice - Excel_XQAMZLCL102626194M UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626197M",
+    "exportsInvoiceValue": 5078.52,
+    "shipper": "henry watson's potteries ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6ac76a40a4c7d941579f02e5/73a83c18-6a82-4f8e-a01b-038dfc8b9cab-Export Commercial Invoice - Excel_XQAMZLCL102626197M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626330M",
+    "exportsInvoiceValue": 1401.19,
+    "shipper": "calzette",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6accee4fa1558fb18823d279/020080df-8226-4963-b866-4845889508db-Export Commercial Invoice - Excel_XQAMZLCL102626330M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL102626385M",
+    "exportsInvoiceValue": 2775.0,
+    "shipper": "Nutri Align",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a735d0115fe4137927d9cd7/execution-documents/6ace69a6614c90d532820354/6db6e801-cbae-4626-8d0b-8d7ec9d4c9d9-EXPORT Commercial Invoice_XQAMZLCL102626385M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL092625841M",
+    "exportsInvoiceValue": 10318.6,
+    "shipper": "HWC Trading Co",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65327271746a7bdea0584faf/execution-documents/6aba4043c6bdcfb14152fa16/7124c796-d3dc-46e2-94c9-1bc1b3449b75-Export Commercial Invoice - Excel_XQAMZLCL092625841M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082624100M",
     "exportsInvoiceValue": 1004.64,
     "shipper": "madhu jayanti international pvt ltd",
