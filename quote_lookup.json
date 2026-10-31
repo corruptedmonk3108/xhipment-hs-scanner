@@ -408,10 +408,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66daae11ba1a5a9fc766ca77/execution-documents/6a8d26cadf735c91663f3de7/e3d274bd-9c40-41b3-be4c-e1a23c98f8a7-Parable_Ventures_Invoice_and_Packing_List_Fixed.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL092625369M",
+    "exportsInvoiceValue": 114216.04,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aaa31d50124b618465bdba6/2afcbce9-fdc9-4e2e-b1af-0c94c3424e79-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL092625370M",
+    "exportsInvoiceValue": 132642.22,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aaa33693fcf22ab3118ca9e/fe75956a-d029-4f89-834c-369c1176880b-Invoice No.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL092625371M",
+    "exportsInvoiceValue": 193358.78,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aaa33e246dcbd3d35b0cd2e/d769e1ea-bd2c-4012-b4ec-21399f394b49-Invoice No.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082624461M",
     "exportsInvoiceValue": 3390.0,
     "shipper": "akriti online",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686ab0e1018574c8e2bab4a4/execution-documents/6a8bd65ce343ea4cd72686c9/5c5e4717-95e1-4453-82f1-dc3c3ab6faea-EXPORT Commercial Invoice_XQAMZLCL082624461M.xls"
+  },
+  {
+    "quoteId": "XQAMZFCL092625368M",
+    "exportsInvoiceValue": 163720.72,
+    "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aaa305146dcbd3d35b05b16/dd0c85ca-db9a-40df-bfee-2f9c2e8f040d-Invoice No.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092624936M",
