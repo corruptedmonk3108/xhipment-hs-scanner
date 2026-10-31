@@ -120,6 +120,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6839c3c8a4ea3ace82f57b96/execution-documents/6ac36f53e5f60de11c34bdb3/e31e95e4-007e-40bb-ac3f-7771b42c4d61-Export Commercial Invoice - Excel_XQAMZLCL102626068M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626131M",
+    "exportsInvoiceValue": 7434.32,
+    "shipper": "mirae tejura",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac3c206f1db467f2ab7d334/execution-documents/6ac4f15d94a9a2aa3abe3d6c/29e0010c-6bb6-4f54-ae64-f803cd34dacb-Export Commercial Invoice - Excel_XQAMZLCL102626131M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL102626116M",
     "exportsInvoiceValue": 230130.9741,
     "shipper": "m.i.e.-trade ug (haftungsbeschraenkt) co kg",
@@ -136,6 +142,12 @@
     "exportsInvoiceValue": 9826.504155,
     "shipper": "magic linen private limited",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a92f2bfa553befe52918d74/bookings-docs/6a93136dd2c380b31885e47c/42724ea3-e341-4d4f-9991-df4302af388a.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626132M",
+    "exportsInvoiceValue": 7434.32,
+    "shipper": "mirae tejura",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac3c206f1db467f2ab7d334/execution-documents/6ac4f25cdaf401d91bf8dea8/c017ce0b-2b75-49a3-9146-e4c728b114e3-Export Commercial Invoice - Excel_XQAMZLCL102626131M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR1026226143",
@@ -162,6 +174,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6adb7e94bdf37c9c907a2a18/e11797ff-b692-44cb-8c3a-eae9adfd64c7-Commercial Invoice_XQAMZAIR1026225857.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626133M",
+    "exportsInvoiceValue": 7434.32,
+    "shipper": "mirae tejura",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac3c206f1db467f2ab7d334/execution-documents/6ac4f36494a9a2aa3abe5a4e/6b97e6a2-101f-43c7-8d79-82e036d6d3b5-Export Commercial Invoice - Excel_XQAMZLCL102626131M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626134M",
+    "exportsInvoiceValue": 7434.32,
+    "shipper": "mirae tejura",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac3c206f1db467f2ab7d334/execution-documents/6ac4f41094a9a2aa3abe707a/a13ed396-f1e4-433a-930c-c628e5fe71b9-Export Commercial Invoice - Excel_XQAMZLCL102626131M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082623711M",
     "exportsInvoiceValue": 3282.4,
     "shipper": "my dec international",
@@ -184,6 +208,12 @@
     "exportsInvoiceValue": 750.0,
     "shipper": "creative jam enterprises ltd",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68b744d3015ac4433468e07a/bookings-docs/6adaea028ac8165e709479c7/e91412be-bc3b-47d3-a1a7-9a2d4a5ac0ea.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL102626140M",
+    "exportsInvoiceValue": 10127.27,
+    "shipper": "millbank trading uk limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698dab3ff1f1ee58570f5efe/execution-documents/6ac51cffdaf401d91b124e3a/fff3e5af-6a0c-4b64-8579-c15b290cefde-Export Commercial Invoice - Excel_XQAMZLCL102626140M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625282M",
@@ -256,6 +286,48 @@
     "exportsInvoiceValue": 72676.89,
     "shipper": "pleasant times industries",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa828246cda386b95d31d6b/bookings-docs/6aa916fe6cda386b95023678/bcf7f586-1a44-496d-9d25-7d70626b6280.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626161M",
+    "exportsInvoiceValue": 18303.18,
+    "shipper": "nutural world",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69ef7912aa3c4f47460a9908/execution-documents/6ac617e1457bb45e09b1a488/fcbe0d1d-3431-4de4-b9c7-e0e236b10c5d-Export Commercial Invoice - Excel_XQAMZLCL102626161M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625855M",
+    "exportsInvoiceValue": 6072.0,
+    "shipper": "supriva c/o fulfilx",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7485ebc71937c660feab98/execution-documents/6aba8125592916be82fc99af/01a842ff-6b9e-41da-bc4b-85c19d99fd32-Export Commercial Invoice - Excel_XQAMZLCL092625855M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626212M",
+    "exportsInvoiceValue": 1620.0,
+    "shipper": "PURE CLINICA",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66e7f67ec5e77288b0d0bc3c/execution-documents/6ac7a388f1e87f21293e3a80/ffd8d90b-db68-4c24-840e-0250977983b8-Export Commercial Invoice - Excel_XQAMZLCL102626212M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626234M",
+    "exportsInvoiceValue": 10689.6,
+    "shipper": "enabled works",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c033d8ee546dbaf2e62816/execution-documents/6ac8ae9246c1b28bf0fa60e4/73825a9d-745d-46dc-9794-5d5dfab7fd65-Export Commercial Invoice - Excel_XQAMZLCL102626234M.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL102626269M",
+    "exportsInvoiceValue": 6335.76,
+    "shipper": "ecom stream ltd/hsp couriers",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac90ab7c617550b9a7ef3f1/execution-documents/6ac9e211e7ce9d50e0afd80d/b53f1a0e-3875-4cd4-8604-a0e925f2f935-Export Commercial Invoice - Excel_XQAMZLCL102626269M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626298M",
+    "exportsInvoiceValue": 820.0,
+    "shipper": "mv print",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5a2adbdc485256103973e2/execution-documents/6acc7b98d934ee1585b7c12b/1a7e215b-566c-4de9-84af-3257bb18e8d4-Export Commercial Invoice - Excel_XQAMZLCL102626298M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626352M",
+    "exportsInvoiceValue": 5370.2,
+    "shipper": "Rainbow Chalk Markers Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6acdd9f9c69d244aba349a03/8a553156-6dfd-4c37-95bc-2355dfc84602-Export Commercial Invoice - Excel_XQAMZLCL102626352M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624100M",
