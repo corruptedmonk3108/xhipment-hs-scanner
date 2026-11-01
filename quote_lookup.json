@@ -438,6 +438,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aaa305146dcbd3d35b05b16/dd0c85ca-db9a-40df-bfee-2f9c2e8f040d-Invoice No.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626115M",
+    "exportsInvoiceValue": 840.0,
+    "shipper": "calzette",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6ac4b15c3e3498a433e8decd/a3a9f6c2-11c2-4ca1-ba0f-cfd34ebd7cd6-Export Commercial Invoice - Excel_XQAMZLCL102626115M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL092625624",
+    "exportsInvoiceValue": 7603.0,
+    "shipper": "Click Europe",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b76cf0177e42b128a6ef74/execution-documents/6ab25ffc1dfb43ec097cbf06/5ce9306c-8376-4e6f-aecb-4c45b495a6c2-Bopster_Invoice_TOYNKCI2310_and_Packing_List.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL092624936M",
     "exportsInvoiceValue": 10159.68,
     "shipper": "brainmart",
