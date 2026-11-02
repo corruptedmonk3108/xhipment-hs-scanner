@@ -450,6 +450,48 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b76cf0177e42b128a6ef74/execution-documents/6ab25ffc1dfb43ec097cbf06/5ce9306c-8376-4e6f-aecb-4c45b495a6c2-Bopster_Invoice_TOYNKCI2310_and_Packing_List.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626354M",
+    "exportsInvoiceValue": 13310.85,
+    "shipper": "Rainbow Chalk Markers Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6acddb9ac69d244aba35a691/4cfac50d-79b6-4d93-b012-1e572615febc-Export Commercial Invoice - Excel_XQAMZLCL102626354M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626305M",
+    "exportsInvoiceValue": 19658.32,
+    "shipper": "sky high beauty ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6883acac1489bc47f1b7fb88/execution-documents/6acca911dfd479f80a739145/d7cdcb12-da53-4183-b3c7-a28f5425bec1-EXPORT Commercial Invoice_XQAMZLCL102626305M (1).XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL082624089M",
+    "exportsInvoiceValue": 9226.5,
+    "shipper": "srijan exports",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7c782fb6a9a435c7302d13/execution-documents/6a7c7bdba0b4c6a3814a8bc0/1f5f22f9-e303-43cf-9f5f-9c66ead9c017-Export Commercial Invoice - Excel_XQAMZLCL082624089M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624244M",
+    "exportsInvoiceValue": 12277.8,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a8422c4aba9540d80af6c9a/f1946914-aff9-47ef-b7c9-c82d81526cc1-Import Commercial Invoice - Excel_XQAMZLCL082624244M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624669M",
+    "exportsInvoiceValue": 4335.12,
+    "shipper": "mr. tamilselvan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68521cab2fb860a75762b6d5/execution-documents/6a957ce3f9f7134bc0e3be5b/8b661aff-6cd8-4633-ba2c-bf8e581317ed-Export Commercial Invoice - Excel_XQAMZLCL082624669M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL082624713M",
+    "exportsInvoiceValue": 1056.0,
+    "shipper": "desiboardgames india",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a302d639c149c6905faa444/execution-documents/6a96891aaad6925d719b2509/1504e026-49f4-40dd-8646-0dab51fd55a4-Export Commercial Invoice - Excel_XQAMZLCL082624713M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624274M",
+    "exportsInvoiceValue": 53864.0,
+    "shipper": "gautam international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c9371640b40e220f568b39/execution-documents/6a854cfb6436c1745cc85624/7babe8ea-9093-4ae6-9595-26ad2e89b654-INV_04_26-27 FBA.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL092624936M",
     "exportsInvoiceValue": 10159.68,
     "shipper": "brainmart",
