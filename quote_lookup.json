@@ -204,6 +204,18 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6aad0e1b582c85a869d263b2/94bad7b6-3067-4112-8ec8-b8a4347c110f-XQAMZFCL092625483M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092624911M",
+    "exportsInvoiceValue": 1204.89,
+    "shipper": "jppl innovation private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3e57a28f6d90a6ea31709d/execution-documents/6a9ac971c1855b393bc3d360/3c541006-371b-491d-932b-03438c43b1dd-Commercial Invoice.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL102626545M",
+    "exportsInvoiceValue": 117618.24,
+    "shipper": "Woldoshop GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670d1566bbe15dbe3293a823/execution-documents/6ad6013365fada645eeb789c/99e70244-1ec1-4642-9a50-c4d4fe2ce28c-Woldoshop_Invoice_RE-1001353548_and_Delivery_Note.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL092625554M",
     "exportsInvoiceValue": 9900.0,
     "shipper": "Global Exim",
@@ -304,6 +316,30 @@
     "exportsInvoiceValue": 1401.19,
     "shipper": "calzette",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6accee4fa1558fb18823d279/020080df-8226-4963-b866-4845889508db-Export Commercial Invoice - Excel_XQAMZLCL102626330M.xls"
+  },
+  {
+    "quoteId": "XQAMZLCL092625904M",
+    "exportsInvoiceValue": 4194.16,
+    "shipper": "nikilko2017 ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6abcb31d4aff62894c0ecd30/62c0580a-887b-42fc-bf32-d672935f1ef9-Commercial Invoice_XQAMZLCL092625904M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625935M",
+    "exportsInvoiceValue": 3628.8,
+    "shipper": "Dermastil Cosmetics GmbH",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6704ea3a3a897c14fc56cf3b/execution-documents/6abcea6d90fa2fe752223aac/1ceac9e9-c1ed-4d2d-9112-bd304846aa0f-Commercial Invoice_XQAMZLCL092625935M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626001M",
+    "exportsInvoiceValue": 2343.24,
+    "shipper": "nikilko2017 ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6abe6724c90bcc1d8a05de84/9df4805e-ea15-45f0-9296-088161a6e4c3-Commercial Invoice_XQAMZLCL102626001M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626484M",
+    "exportsInvoiceValue": 780946.92,
+    "shipper": "tradestart gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6894813e084d16113412e5fb/execution-documents/6ad1edcab9720ee96156d5fb/9747f3b0-abcf-4c88-8784-018b6c66e8c2-Tradestart_Proforma_Invoice_EX-US-730_and_Packing_Slip.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624100M",
