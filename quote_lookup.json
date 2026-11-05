@@ -672,6 +672,42 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6858f7aa113ed56177cb2833/execution-documents/6a86c203b9ee419af3b209c5/9c149ac1-d011-4826-82e1-979db3377e1a-Import Commercial Invoice - Excel_XQAMZLCL082624301M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL082623821M",
+    "exportsInvoiceValue": 566.0,
+    "shipper": "folkulture (mensa brands)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a21591e8c2a019cf0926c10/execution-documents/6a72fdb12bf6d28128517c43/cb45e729-aa2d-4493-b18e-055dc3da6e7c-Mensa_Brand_Export_Invoices_13Aug2026.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624375M",
+    "exportsInvoiceValue": 6188.37,
+    "shipper": "multiquo consultancy llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a86e2a6608e99ae4349e789/execution-documents/6a876ef30df3471d44d5fb8e/6822e420-57ab-4b15-b2f3-a33c3d1f857d-Export Commercial Invoice - Excel_XQAMZLCL082624375M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624551M",
+    "exportsInvoiceValue": 4445.425704,
+    "shipper": "m/s. afsha handicrafts overseas",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8dc558db2389fae550bf04/execution-documents/6a8ed1189a60757cf1f78062/c2004eb4-d1d0-45df-a36e-d7b0a4f9977d-Import Commercial Invoice - Excel_XQAMZLCL082624551M AFSHA.xlsx"
+  },
+  {
+    "quoteId": "XQLCL092624800",
+    "exportsInvoiceValue": 3300.55,
+    "shipper": "OFW Global Logistics",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691d9ce2ce1dfbcc0eb9c251/execution-documents/6a9803c0806a6bcea9fe14dd/1a84cd41-d101-4fc4-a1a3-4ca1038710d6-Import Commercial Invoice - Excel_XQLCL092624800.xls"
+  },
+  {
+    "quoteId": "XQLCL092624854",
+    "exportsInvoiceValue": 24948.0,
+    "shipper": "Print'N'Art LLC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6b3d3754af5d9d3a544682/execution-documents/6a996382b06fd2d1198c5076/5df736ad-f22b-4b10-a52c-772cead515f0-Import Commercial Invoice - Excel_XQLCL092624854.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625118M",
+    "exportsInvoiceValue": 34755.85821,
+    "shipper": "lsd lifestyle",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6aa275457106c2211f2cc03e/cb7d5ca3-1992-428e-838e-db29d07959c5-WishCare_LSD_Lifestyle_Invoice_ECOM-0036_and_Packing_List_Fixed_UP_with_weights_v2.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL092625787M",
     "exportsInvoiceValue": 20170.73,
     "shipper": "Solino Home",
