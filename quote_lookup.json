@@ -756,10 +756,34 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ed53d68f83a5ac5b832656/execution-documents/6ad09b3faa1194152ad40b30/f8f14916-6326-4555-b48c-e5fe8b70110a-Rustins_Invoice_RSTAMZ20261016_and_Packing_Slip_Fixed.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL092625902M",
+    "exportsInvoiceValue": 83463.0,
+    "shipper": "Madan Mohan textiles",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6abcaec2b69c87605de2dc2e/8f7f5e91-5779-49d4-8397-3f1d8352ec27-XQAMZFCL092625902M.xlsx"
+  },
+  {
+    "quoteId": "XQFCLST102626569",
+    "exportsInvoiceValue": 39168.0,
+    "shipper": "Lockabox",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ab922f3a2205dd88733e89/execution-documents/6ad71b024f95698533753b6e/6ff32d7a-8f42-4ab7-b2af-8960507fa776-Export Commercial Invoice - Excel_XQFCLST102626569 up.pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL102626143M",
+    "exportsInvoiceValue": 338400.0,
+    "shipper": "toker trading gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ac51639369ea52579487cfb/execution-documents/6ac52afacd279491f7bae09a/a7f56a51-a8db-44fe-a307-ad06aeaf8b5b-Toker_Trading_Invoice_and_Packing_List_XQAMZLCL102626143M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL102626227M",
     "exportsInvoiceValue": 76452.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ac892df67ae380d632cf5ee/c2bab319-3b4a-4c2b-aa5a-2a2d3d892076-Import Commercial Invoice - Excel_XQAMZLCL102626227M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626553M",
+    "exportsInvoiceValue": 23448.0,
+    "shipper": "Rui Smiths",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69c51b89737970adee441e93/execution-documents/6ad5fcb265fada645eeb1f03/7fcef872-9431-478b-840f-b8dc646e497d-Commercial Invoice_XQAMZLCL102626553M.xlsx"
   },
   {
     "quoteId": "XQFCL092625583",
