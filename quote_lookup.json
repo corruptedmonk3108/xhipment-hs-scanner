@@ -24,6 +24,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=653cafe326796547ec0fa6c7/execution-documents/6a8fcc27f4fe70c3c3b5cb0c/5d8477f0-9d68-4574-8e5e-fff09fe29936-Export Commercial Invoice - Excel_XQAMZLCL082624581M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL092624727M",
+    "exportsInvoiceValue": 30205.98,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6a96635c6e4f25cc0bd855f0/13a01ff4-0558-4201-a41a-2e6efa6743b5-XQAMZFCL092624727M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082624675M",
     "exportsInvoiceValue": 688.5,
     "shipper": "shakti hnco",
@@ -840,34 +846,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f0f1e6068dcc233f0fb232/execution-documents/6a8997730490bc5a5419b687/24e460f0-f34e-48be-8820-fe02d6479584-US_68_ROYAL_20.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624480M",
-    "exportsInvoiceValue": 3599.45,
-    "shipper": "aakash gulla",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8c20435e79d36ce9b2d69e/execution-documents/6a8c2d2c2860ebe6861ee19c/4d3ee0e2-63b2-4cbb-bd44-dc3eba6e0acf-Tanaura_Essentials_Tax_Invoice_TEPL-7.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624626M",
     "exportsInvoiceValue": 2293.6,
     "shipper": "folkulture (mensa brands)",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a21591e8c2a019cf0926c10/execution-documents/6a917b9f3f0130a88200d715/7ac8af48-f9c3-4da0-b105-6cdbaa39c199-Mensa_Brand_Export_Invoices_01Sep2026.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624634M",
-    "exportsInvoiceValue": 517.7,
-    "shipper": "kapil akbari",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a9188eb3f0130a88208f963/execution-documents/6a91901a0479d3a16571d895/670d596c-a17c-4c59-af2a-5d91a5dbfe0e-Setu_Tradelink_Invoice_and_Packing_List_Fixed.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL082624670M",
     "exportsInvoiceValue": 2613.0,
     "shipper": "saahil enterprises",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68061727c219cf9fae7a8b61/execution-documents/6a955fd212da62daa58dfe7a/532edc2d-dbbd-4363-8909-9a2082690e66-Siddhaye_Enterprises_Invoice_and_Packing_List_Fixed.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL082624674M",
-    "exportsInvoiceValue": 3950.0,
-    "shipper": "anand ramaswami",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a854028ca43a39be785632b/execution-documents/6a96339775bf0641ffade88d/db65f704-fcea-4566-a0f5-270e0a8df5dc-Export Commercial Invoice - Excel_XQAMZLCL082624674M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092624746M",
