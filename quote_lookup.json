@@ -120,6 +120,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6ab241b0054dddc241520555/050f0e7a-5efc-4ec9-9f08-a54313b4205a-XQAMZFCL092625610M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626375M",
+    "exportsInvoiceValue": 17185.31,
+    "shipper": "Rising Brands DE",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698afcba590641950044626c/execution-documents/6ace25e4f42dd3285feb501d/bf3c5685-cdea-4f0f-9808-1b76d574b44d-Commercial Invoice_XQAMZLCL102626375M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL092625072M",
     "exportsInvoiceValue": 149260.08,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
@@ -136,6 +142,12 @@
     "exportsInvoiceValue": 158509.74,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6ab24c722e368c8a1829c097/f46493ac-95da-4164-a8a3-0b8975ea7736-XQAMZFCL092625619M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626556M",
+    "exportsInvoiceValue": 12889.24384,
+    "shipper": "5kind (xhipment warehouse)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68878ad3aeb81ce54cee284b/execution-documents/6ad5fdf6a512552681fa4817/df807f9c-d4b6-4b18-af75-66dfe10ac343-Commercial Invoice_XQAMZLCL102626556M.xlsx"
   },
   {
     "quoteId": "XQAIR102626680",
