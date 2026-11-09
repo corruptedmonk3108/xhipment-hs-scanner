@@ -156,6 +156,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69425e0247d324cfdc366591/execution-documents/6acccae06b88bf366b597d94/8ef61f3a-a8f3-45cc-87b7-66f9bcb2a74f-Commercial Invoice_XQAMZLCL102626316M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL092625958M",
+    "exportsInvoiceValue": 8572.39,
+    "shipper": "britannia factory",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab68ae1ba292294e356adbe/execution-documents/6ac0cdefe0320486e30e5df4/c476daec-ea07-4a90-a523-5ad555efe968-Britannia_Export_Invoices_UETU2802199.xls"
+  },
+  {
     "quoteId": "XQAIR102626680",
     "exportsInvoiceValue": 4320.0,
     "shipper": "James White",
@@ -172,6 +178,12 @@
     "exportsInvoiceValue": 149301.1,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=647594734988569a71a54341/execution-documents/6a9fcf189e9d800a77f6f608/7dada2fb-9e8d-43a2-b147-f88f789fc8a1-XQAMZFCL092625083M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL102626056",
+    "exportsInvoiceValue": 15158.02,
+    "shipper": "Aramex / Global Transportation Services Pvt Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=669fe7632fbf3f0d5b0f30d9/execution-documents/6ac33f2013ed7b9c98510ecd/f29985fc-bd87-4ff8-83f3-bf0dd5f2807a-HNR_Retail_Packing_List_and_Invoice_HRPL-10-USA.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082623711M",
@@ -226,6 +238,12 @@
     "exportsInvoiceValue": 1664.0,
     "shipper": "zeshane handicrafts",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68ba85765ae692ed64b5fdd1/execution-documents/6ab222dd1e1cb0ec9dc18eef/d939fa54-0389-496d-9e9e-85026febbdeb-Export Commercial Invoice - Excel_XQAMZLCL092625598M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL102625965M",
+    "exportsInvoiceValue": 91580.41049,
+    "shipper": "homemonde lifestyle private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7b130f4a8642722f499d1f/execution-documents/6abdf62b5944a897606d2c0d/40398374-3c35-43eb-8f72-9d36f198f49a-Export Commercial Invoice - Excel_XQAMZFCL102625965M (1).xls"
   },
   {
     "quoteId": "XQAMZLCL082624049M",
