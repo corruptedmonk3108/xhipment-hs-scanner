@@ -264,6 +264,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67f0f1e6068dcc233f0fb232/execution-documents/6aaaa04d8923e92b5832f94f/56276f73-7322-4b8f-90c2-0c24ba856c76-Import Commercial Invoice - Excel_XQAMZLCL092625393M.xlsx"
   },
   {
+    "quoteId": "XQFCL092625181",
+    "exportsInvoiceValue": 84426.3,
+    "shipper": "Euphotic Labs Private Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b2abe9afc035cf658d5186/execution-documents/6aa283f06463f372a0c2af8d/7e658cba-80b4-4191-bdb1-c1190a58313c-Export Commercial Invoice - Excel_XQFCL092625181 (1).xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL102626611M",
     "exportsInvoiceValue": 170841.44,
     "shipper": "NMK TEXTILE MILLS INDIA PVT LTD",
