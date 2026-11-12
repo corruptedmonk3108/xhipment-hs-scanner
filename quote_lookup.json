@@ -6,12 +6,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a32b8f00219e173780b7fca/execution-documents/6aeb127f57d793d791cd7966/492ba389-0483-4937-8a7f-b1f03f59d7ef-CI XQAMZAIR1126229043 (benross marketing ltd).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624172M",
-    "exportsInvoiceValue": 1099.5,
-    "shipper": "matec industries private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ef6453d059a30d3ed020d4/execution-documents/6a843136533375f80415810d/19154aff-0f32-4aae-884c-ccef476d5334-Export Commercial Invoice - Excel_XQAMZLCL082624172M.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1026227445",
     "exportsInvoiceValue": 810.0,
     "shipper": "Rose and Caramel Limited (SEND)",
@@ -156,12 +150,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d26eeda3c65a579275d133/execution-documents/6aa287807281dd9854514950/8923d5ca-ea7b-436c-8efb-719ec8c6b09d-Passion_Indulge_Commercial_Invoice_PIPL-A-036_with_line_weights.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092624911M",
-    "exportsInvoiceValue": 1204.89,
-    "shipper": "jppl innovation private limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a3e57a28f6d90a6ea31709d/execution-documents/6a9ac971c1855b393bc3d360/3c541006-371b-491d-932b-03438c43b1dd-Commercial Invoice.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625296M",
     "exportsInvoiceValue": 47395.0,
     "shipper": "Maks India Corporation",
@@ -250,12 +238,6 @@
     "exportsInvoiceValue": 79480.0,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ad88adc038f895efb34662b/05da2c76-7498-44be-81e7-deed81b01bc8-XQAMZFCL102626629M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625935M",
-    "exportsInvoiceValue": 3628.8,
-    "shipper": "Dermastil Cosmetics GmbH",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6704ea3a3a897c14fc56cf3b/execution-documents/6abcea6d90fa2fe752223aac/1ceac9e9-c1ed-4d2d-9112-bd304846aa0f-Commercial Invoice_XQAMZLCL092625935M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626780M",
@@ -546,6 +528,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/bookings-docs/6acdd48758e6cd1649906db0/1d136178-55f2-40b4-b950-80be5d720615.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625790M",
+    "exportsInvoiceValue": 35492.0,
+    "shipper": "imperial logistics & services gmbh",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68aee75f413855dfa8fa1ac3/bookings-docs/6ab6794fba292294e3563f74/c127eaf7-7d1b-4752-a02e-9cf722967f55.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL082624037M",
     "exportsInvoiceValue": 73027.16,
     "shipper": "homemonde lifestyle private limited",
@@ -786,12 +774,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6abd51bdf604c982ecb8ca01/execution-documents/6abe068c5944a89760753d69/6d5f4c21-7e12-443b-8777-a4e4f4383b99-Sixty_One_Sixty_Six_Invoice_EXPORTUSA-0009_and_Packing_List.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092625790M",
-    "exportsInvoiceValue": 35492.0,
-    "shipper": "imperial logistics & services gmbh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68aee75f413855dfa8fa1ac3/bookings-docs/6ab6794fba292294e3563f74/2972965e-9c6c-45fd-b78c-637a08f42ba2.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL102626067M",
     "exportsInvoiceValue": 4864.0,
     "shipper": "vertfort ltd",
@@ -886,11 +868,5 @@
     "exportsInvoiceValue": 512.0,
     "shipper": "s ganesh kumar",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa7e199e45b9dc7ae9d2f2d/execution-documents/6aa8d9eaaa077c0d655bd4a0/1f248224-1aba-4f7c-baa2-a49053551867-Export Commercial Invoice - Excel_XQAMZLCL092625332M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625533M",
-    "exportsInvoiceValue": 2938.0,
-    "shipper": "Vrutik Hirenbhai Bara",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690ca0876f1965bc6dcea409/execution-documents/6ab229ea2f768e918bde9250/a2b09c6c-2ac8-4e3c-a483-76606552dd41-Honey_XP_Invoice_US-03E_and_Packing_List_Fixed.xlsx"
   }
 ]
