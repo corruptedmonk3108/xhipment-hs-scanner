@@ -348,10 +348,40 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e86dd9b3c806cd172ea0c0/bookings-docs/6abb371bd684f664ddbfa217/a10cfe5b-b957-45f5-bbf2-de3d5be06a15.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL112626990M",
+    "exportsInvoiceValue": 51537.5,
+    "shipper": "VENTURE TRADE LTD",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6634d248c5fbe101be6336e1/execution-documents/6ae8652fa0cf5709fb24d41e/2e5fdd84-6ca5-4aa3-9aa3-866203ca3975-Venture_Trade_Invoice_and_Packing_List_FBA19VKFBNC4_Fixed UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626786M",
+    "exportsInvoiceValue": 4332.39,
+    "shipper": "liquid gaming ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6adf3e333927bdae36a53fc1/execution-documents/6adf4bb3b18d92bbca1ff5f9/af5f83dc-ff9f-41c3-881c-b5e2b8006d4b-Export Commercial Invoice - Excel_XQAMZLCL102626786M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626875M",
+    "exportsInvoiceValue": 5577.0,
+    "shipper": "the master herbalist",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68bef5427d66cb15b30c27a0/execution-documents/6ae2fe9df085cde5e55ea6ce/dd2d431f-e757-4acd-9729-97845a517a61-EXPORT Commercial Invoice_XQAMZLCL102626875M.XLSX"
+  },
+  {
     "quoteId": "XQLCL092625624",
     "exportsInvoiceValue": 7603.0,
     "shipper": "Click Europe",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67b76cf0177e42b128a6ef74/execution-documents/6ab25ffc1dfb43ec097cbf06/5ce9306c-8376-4e6f-aecb-4c45b495a6c2-Bopster_Invoice_TOYNKCI2310_and_Packing_List.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626560M",
+    "exportsInvoiceValue": 2856.96,
+    "shipper": "henry watson's potteries ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69d77f5e32c06081c8eb03c4/execution-documents/6ad5ff6065fada645eeb57bc/6a425b5a-cc70-4a85-97cb-041393f557eb-EXPORT Commercial Invoice_XQAMZLCL102626560M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL102626638M",
+    "exportsInvoiceValue": 4855.8,
+    "shipper": "chai guys",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698b240f68f6f2c1cf527d11/execution-documents/6ada0ca23f82b88264b26534/582d00ed-da2e-4d88-8b92-de99bfcc21da-Export Commercial Invoice - Excel_XQAMZLCL102626638M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624089M",
@@ -384,10 +414,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c9371640b40e220f568b39/execution-documents/6a854cfb6436c1745cc85624/7babe8ea-9093-4ae6-9595-26ad2e89b654-INV_04_26-27 FBA.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626481M",
+    "exportsInvoiceValue": 3824.66,
+    "shipper": "Collar And Cuffs Trading Limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=666033b937288f446a6927a6/execution-documents/6ad1ebfd47d1fba771cffc6b/79b1f33d-d395-414a-9e67-8461676a16e3-Export Commercial Invoice - Excel_XQAMZLCL102626481M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL102626350M",
     "exportsInvoiceValue": 67300.5,
     "shipper": "Madan Mohan textiles",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6acdd5bb58e6cd164991345d/501e3502-4eaa-4c28-8033-26bdf7d1bcfd-XQAMZLCL102626350M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626604M",
+    "exportsInvoiceValue": 1457.5,
+    "shipper": "ancient care limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a85c3849f62eba4b9282a45/execution-documents/6ad770df02d3daa19972e57f/a7dab86b-69fa-4471-acab-c22ed9914e06-EXPORT Commercial Invoice_XQAMZLCL102626604M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL102626351M",
