@@ -546,6 +546,30 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6810aef170061954ed072ef9/execution-documents/6a64b8b912ae2ff0559c6b1b/6aced2a8-6e68-46f8-8c03-d2b19e07cc29-Import Commercial Invoice - Excel_XQAMZLCL072623450M.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL092625895M",
+    "exportsInvoiceValue": 83336.4,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/execution-documents/6abcb07e4aff62894c0ea7de/43d84e4b-08d9-4488-a1d7-043cd5ad78b5-Export Commercial Invoice - Excel_XQAMZFCL092625895M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624835M",
+    "exportsInvoiceValue": 1456.0,
+    "shipper": "wowearth retails llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a990da0a03146e52fb6fc96/execution-documents/6a991ae4a8b9beb4f6bb0fb0/3afcd5ac-bfbf-4144-8bc7-10a28e7a8924-TintBox_Wowearth_Invoice_TB-2609-EXP-2_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624787M",
+    "exportsInvoiceValue": 9937.98,
+    "shipper": "tribal trail llp",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6852747979cde98286ff18d6/execution-documents/6a99724228f114b4bb1d0a98/72976d3f-5360-4aca-96d6-f1ac99b41618-Tribal_Trail_Invoice_TT-2026-27-00-02_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625068M",
+    "exportsInvoiceValue": 3260.84,
+    "shipper": "1 a commerce",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6810aef170061954ed072ef9/execution-documents/6a9fdd60bab5d9e9a0518628/e920cec3-1ed9-4795-8dfc-e350f37ce5d7-Import Commercial Invoice - Excel_XQAMZLCL092625068M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL092624731M",
     "exportsInvoiceValue": 31072.94,
     "shipper": "detilish rugs",
@@ -610,6 +634,24 @@
     "exportsInvoiceValue": 832.5,
     "shipper": "kavita narayanan",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6911d47237b9050de969b7ea/execution-documents/6a7c365471e0aa969fcb047a/5eb62850-12a0-4858-a39f-92771ec14f98-Trelish_Foods_Invoice_TFBPLU-0042_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625184M",
+    "exportsInvoiceValue": 3394.4,
+    "shipper": "sesa care",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6846d10c98d09badaca95a42/execution-documents/6aa293071517264a164b2dad/f6636f78-08ad-4e21-9ade-1ef2aeebde8b-Sesa_Care_Invoice_SCBHAR26-2660670_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625334M",
+    "exportsInvoiceValue": 5162.0,
+    "shipper": "Akanhshaa Arts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=646ccf0f1e98ada32c75c233/bookings-docs/6aaa26c0d1a7d333e431e09a/9620b8bc-be95-41c1-aa39-11a00c11716a.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625452M",
+    "exportsInvoiceValue": 2000.0,
+    "shipper": "akriti online",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=686ab0e1018574c8e2bab4a4/execution-documents/6aacd288467c70b0faacf1f7/b9ed79eb-7955-4115-b8a2-89e03f002d37-EXPORT Commercial Invoice_XQAMZLCL092625452M.XLSX"
   },
   {
     "quoteId": "XQAMZLCL082623821M",
