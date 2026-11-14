@@ -102,10 +102,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aae32518d9a49d5d707a4d5/execution-documents/6aae3fbecf1a4ce11dba1336/84a40a38-369e-4072-bde0-7e7f8cacc9e8-RL-USA-AMZ-007 INVOICE - USA.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL102626076M",
+    "exportsInvoiceValue": 29160.0,
+    "shipper": "Rose and Caramel Limited (SEND)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66b5f1fd1967c7914f75209f/execution-documents/6ac388af28ecf29eccf7c9bc/83d06024-bd89-4a0b-a63d-8293d2a61501-Rose_Caramel_Invoice_REF08-10US_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626570M",
+    "exportsInvoiceValue": 12197.94,
+    "shipper": "stsfy",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69b98333881d07ba0925e2c8/execution-documents/6ad64de422e35dfe6e1ae73a/dddf1028-4950-4620-bf3b-ce129fa35ba2-Export Commercial Invoice - Excel_XQAMZLCL102626570M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL102626375M",
     "exportsInvoiceValue": 17185.31,
     "shipper": "Rising Brands DE",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=698afcba590641950044626c/execution-documents/6ace25e4f42dd3285feb501d/bf3c5685-cdea-4f0f-9808-1b76d574b44d-Commercial Invoice_XQAMZLCL102626375M.xlsx"
+  },
+  {
+    "quoteId": "XQLCL102626374",
+    "exportsInvoiceValue": 28943.6,
+    "shipper": "Rainbow Chalk Markers Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66a7931f2136cefba1f88e98/execution-documents/6ace252f09c7166365a2bf5e/801edda1-2174-46e2-93a3-90c675aefa69-Export Commercial Invoice - Excel_XQLCL102626374 UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL082624663M",
