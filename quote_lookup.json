@@ -60,12 +60,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ad9bc5eb6e26aa8ec97572b/9adafcc7-44e7-482e-994e-d421b330aab8-XQAMZFCL102626674M- G5IZDH4ZYS).xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092625886M",
-    "exportsInvoiceValue": 7920.0,
-    "shipper": "hawkins mutes limited",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69e5fc42477afcd65a506c52/execution-documents/6abbbf891864049426f1e596/a9d7c588-7333-40b4-a164-681b39087dd9-Export Commercial Invoice - Excel_XQAMZLCL092625886M.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1026227968",
     "exportsInvoiceValue": 397.8,
     "shipper": "andrew",
@@ -204,6 +198,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6ad07200c7124aa01efdc099/470ba92b-07e0-4eb6-bf97-040e8e639366-Destination Invoice_XQAMZLCL102626432M.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625539M",
+    "exportsInvoiceValue": 2224.4,
+    "shipper": "pranitha murugesan",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa7edde8037974bb93113fe/execution-documents/6ab284991dfb43ec098bed2c/c5570460-b763-48aa-89aa-e691fcaad7ab-Stitch_Story_Invoice_SS-002_and_Packing_List_Fixed.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL102625965M",
     "exportsInvoiceValue": 91580.41049,
     "shipper": "homemonde lifestyle private limited",
@@ -222,6 +222,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a7ca19ecfeadaf8649dd8a5/execution-documents/6a7d89beceb3b16381c7a5c7/01c97920-841b-4946-9efb-41e27b1e2d08-Infinity_Products_Invoice_INV01260005_and_Packing_List_Fixed.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625788M",
+    "exportsInvoiceValue": 6480.0,
+    "shipper": "ksr cosmetic industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab64382c304a6492935ebac/execution-documents/6ab689f26a66492f2258d52b/5538db0d-057b-491f-a399-b3a1df2cbf46-KSR_Cosmetic_Invoice_KCIEX0003_and_Packing_List_Fixed.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082624359M",
     "exportsInvoiceValue": 10756.42,
     "shipper": "multiquo consultancy llp",
@@ -232,6 +238,12 @@
     "exportsInvoiceValue": 72676.89,
     "shipper": "pleasant times industries",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aa828246cda386b95d31d6b/bookings-docs/6aa916fe6cda386b95023678/bcf7f586-1a44-496d-9d25-7d70626b6280.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626177M",
+    "exportsInvoiceValue": 9832.0,
+    "shipper": "yash punjabi",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=682f22265c045505bb3935ad/execution-documents/6ac75ab261c0d49c69436056/bb03669d-3a39-4308-967a-9b31ce306914-Export Commercial Invoice - Excel_XQAMZLCL102626177M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625862M",
@@ -316,6 +328,12 @@
     "exportsInvoiceValue": 1215.0,
     "shipper": "farhan",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6819f708b326f93fa2eba6e6/execution-documents/6ae313ba85141520bbe4f026/b5f5c81a-6cdd-4f8f-9ae3-9f01ab466b15-AMF_Handicrafts_Invoice_AMF-050_and_Packing_List.xlsx"
+  },
+  {
+    "quoteId": "XQFCL092625757",
+    "exportsInvoiceValue": 96256.12,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6ab621ff185235cee167c653/fe6cc1e7-72fa-4f42-b1bc-f28d40c5d49f-Commercial invoice FBA Sri Venkatesh Aromas LLC 15651 KE (SEA) 374.xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626484M",
