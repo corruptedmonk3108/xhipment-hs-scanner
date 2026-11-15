@@ -168,6 +168,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6810aef170061954ed072ef9/bookings-docs/6a9fdd60bab5d9e9a0518628/655dfcfc-c195-4295-b883-b741cb1068af.xlsx"
   },
   {
+    "quoteId": "XQAMZFCL102626551M",
+    "exportsInvoiceValue": 22355.0,
+    "shipper": "apl",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67fa5fd2756c7f4294efeb3c/execution-documents/6ad5f708c13b99fb367578c5/53218d53-ff00-4f06-9acf-9d678782472e-Import Commercial Invoice - Excel_XQAMZFCL102626551M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL082624418M",
     "exportsInvoiceValue": 116298.0,
     "shipper": "matras exporters",
@@ -180,10 +186,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67d26eeda3c65a579275d133/execution-documents/6aa287807281dd9854514950/8923d5ca-ea7b-436c-8efb-719ec8c6b09d-Passion_Indulge_Commercial_Invoice_PIPL-A-036_with_line_weights.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625450M",
+    "exportsInvoiceValue": 5769.37,
+    "shipper": "aman jain",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=670ad27358ab482d64b72450/execution-documents/6aad59aa420fa8130be8c459/cbaf60fe-271c-4645-a922-2a488d17ab0c-Indian_Needle_Invoice_TI26-27-317_and_Packing_List_with_Weights.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL092625296M",
     "exportsInvoiceValue": 47395.0,
     "shipper": "Maks India Corporation",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6794c7355f6e928df4f6e7e9/bookings-docs/6aa92843e45b9dc7aec0cc5a/0643a524-c75e-4012-a90b-db549f9dcf25.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626432M",
+    "exportsInvoiceValue": 31795.0,
+    "shipper": "Bluemoon Homes",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=645390587346be98cdf96c23/execution-documents/6ad07200c7124aa01efdc099/470ba92b-07e0-4eb6-bf97-040e8e639366-Destination Invoice_XQAMZLCL102626432M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL102625965M",
