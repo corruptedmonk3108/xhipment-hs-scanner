@@ -18,12 +18,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65ebfe1840ae489b155dfe16/execution-documents/6aa10ad69b0669f804b4b295/44050cbd-886d-40b8-9da0-b6915e29a3a2-Jumps_Auto_Invoice_CI2600000758_and_Packing_List UP.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092624784M",
-    "exportsInvoiceValue": 6084.0,
-    "shipper": "s a enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/execution-documents/6a9812f9dae80ac7f4a0f597/354d33c4-7d36-4786-9e52-d6bda9663ce3-XQAMZLCL092624784M.xls"
-  },
-  {
     "quoteId": "XQAMZLCL102626394M",
     "exportsInvoiceValue": 12760.0,
     "shipper": "s a enterprises",
@@ -88,12 +82,6 @@
     "exportsInvoiceValue": 397.8,
     "shipper": "andrew",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6ae66ab5d1531192c408e971/486cbe88-e61e-45a3-a4d6-53b67f653e86-Commercial Invoice_XQAMZAIR1026227968.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL092625079M",
-    "exportsInvoiceValue": 31570.14,
-    "shipper": "hosley india pvt. ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6916e6dd493a8fe03548badc/bookings-docs/6a9fed99ce2ec0ca608ea35b/7655bdd9-66d9-4415-a3c3-dd3d579f6ced.xls"
   },
   {
     "quoteId": "XQAMZLCL092625515M",
@@ -480,16 +468,46 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a302d639c149c6905faa444/execution-documents/6a96891aaad6925d719b2509/1504e026-49f4-40dd-8646-0dab51fd55a4-Export Commercial Invoice - Excel_XQAMZLCL082624713M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624274M",
-    "exportsInvoiceValue": 53864.0,
-    "shipper": "gautam international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68c9371640b40e220f568b39/execution-documents/6a854cfb6436c1745cc85624/7babe8ea-9093-4ae6-9595-26ad2e89b654-INV_04_26-27 FBA.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625194M",
     "exportsInvoiceValue": 555.0,
     "shipper": "tawa one wood handicrafts",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/bookings-docs/6aa2ebf201e9cf54ec8f2578/f9c6469b-d7a6-41c0-b7ea-eceb1437603f.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082623963M",
+    "exportsInvoiceValue": 3200.0,
+    "shipper": "tawa one wood handicrafts",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6801dc50e3cf1171176e0c60/bookings-docs/6a7994384d2828a1f42591fe/c32478f6-8768-4b41-9259-138027971920.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL082624293M",
+    "exportsInvoiceValue": 4880.2,
+    "shipper": "21g design works pvt ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65548f5b48c6c7d36e5e369f/execution-documents/6a85e2a427152cc221afa8e6/18b8d87d-b52b-43e3-a9ea-bddd45198a41-XQAMZLCL082624293M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624784M",
+    "exportsInvoiceValue": 6084.0,
+    "shipper": "s a enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684694b126e6ca9d1ffed9dc/bookings-docs/6a9812f9dae80ac7f4a0f597/0a0382ad-2faa-4c29-8da8-3b05995b3d21.xls"
+  },
+  {
+    "quoteId": "XQAMZAIR1126231738",
+    "exportsInvoiceValue": 442.3,
+    "shipper": "andrew",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/bookings-docs/6afa0db67ee3c9f22ab11ab5/337358e1-bb25-4cd8-90d1-c5a9c909697e.xlsx"
+  },
+  {
+    "quoteId": "XQAMZFCL102626893M",
+    "exportsInvoiceValue": 69396.52856,
+    "shipper": "J&J ARONIA TRADING INC",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68887b4ec734b267a9719ca8/execution-documents/6ae82dc8d00c17b7791979f7/72f17e56-ee38-4b6f-8bd0-52004039b99f-Commercial Invoice_XQAMZFCL102626893M (6) (1).pdf"
+  },
+  {
+    "quoteId": "XQAMZLCL092624761M",
+    "exportsInvoiceValue": 964.0,
+    "shipper": "tara trading",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65d892c6a714f45865c50d6b/bookings-docs/6a96c96b002ac05f610cdcf5/ab4de48a-6715-459e-a0bb-2d2f3ca37ffa.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625860M",
@@ -1000,11 +1018,5 @@
     "exportsInvoiceValue": 11000.0,
     "shipper": "creation craft world",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a98f3458fc2b0575662f7f8/execution-documents/6a99a056c1855b393b7e0805/bb4982a8-0220-4b1c-9cd2-e13bce2d09df-Creation_Craft_World_Invoice_and_Packing_List_Fixed.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625080M",
-    "exportsInvoiceValue": 10676.75,
-    "shipper": "dom ventas india pvt ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a43569e6e1c926a9e2aff2b/bookings-docs/6aa120a39ed83a567a6ec9d8/303554be-4be9-4fa5-9aa0-0011a535ec5a.xlsx"
   }
 ]
