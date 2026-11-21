@@ -12,10 +12,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6ad5c768edb8644f6fab246a/59b91429-d5bd-45b7-9d30-25f651095497-XQAMZFCL102626537M.xls"
   },
   {
-    "quoteId": "XQAMZLCL092625120M",
-    "exportsInvoiceValue": 112484.64,
-    "shipper": "Parts World LLC",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65ebfe1840ae489b155dfe16/execution-documents/6aa10ad69b0669f804b4b295/44050cbd-886d-40b8-9da0-b6915e29a3a2-Jumps_Auto_Invoice_CI2600000758_and_Packing_List UP.xlsx"
+    "quoteId": "XQAMZLCL082624140M",
+    "exportsInvoiceValue": 750.0,
+    "shipper": "homscape enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=683db1ba687ae8799368eb94/execution-documents/6a7ee06f6b98e06b328cbc65/3f2d159c-600b-4ecf-8eef-af7e886a8d38-Export Commercial Invoice - Excel_XQAMZLCL082624140M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624773M",
+    "exportsInvoiceValue": 392.0,
+    "shipper": "tihami inc",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f0eb248f83a5ac5b9ee1a6/execution-documents/6a97c8028c05db5ac732613f/2343aa14-0729-4e89-96ec-699329aaccb9-EXPORT Commercial Invoice_XQAMZLCL092624773M.XLS"
   },
   {
     "quoteId": "XQAMZLCL102626394M",
@@ -642,22 +648,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6847cc1ad4f1cd0f59183fb0/execution-documents/6aa275457106c2211f2cc03e/cb7d5ca3-1992-428e-838e-db29d07959c5-WishCare_LSD_Lifestyle_Invoice_ECOM-0036_and_Packing_List_Fixed_UP_with_weights_v2.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL082624301M",
-    "exportsInvoiceValue": 3542.59,
-    "shipper": "anshul c/o fba sunny sadh",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6858f7aa113ed56177cb2833/bookings-docs/6a86c203b9ee419af3b209c5/4408e5b2-9f4d-4950-aa4c-3c5f1c9ab092.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625894M",
     "exportsInvoiceValue": 4950.4,
     "shipper": "vaibhav",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684d47010c96bb63e5a43614/execution-documents/6abc9c0dbbd45cc60fc165ac/24642c54-a8ed-42d0-9bb4-7156d25d086b-Export Commercial Invoice - Excel_XQAMZLCL092625894M.xlsx"
-  },
-  {
-    "quoteId": "XQLCL102626449",
-    "exportsInvoiceValue": 8235.25,
-    "shipper": "Rustins Ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66ed53d68f83a5ac5b832656/execution-documents/6ad09b3faa1194152ad40b30/f8f14916-6326-4555-b48c-e5fe8b70110a-Rustins_Invoice_RSTAMZ20261016_and_Packing_Slip_Fixed.xlsx"
   },
   {
     "quoteId": "XQAMZFCL092625902M",
