@@ -84,12 +84,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6995ca5b508ff046a4811ee2/bookings-docs/6ab130df939ddf30a08c25a5/e83078d7-75f4-4676-94a5-e445de577ab2.xlsx"
   },
   {
-    "quoteId": "XQAMZAIR1026227968",
-    "exportsInvoiceValue": 397.8,
-    "shipper": "andrew",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8b213fa034c38710d50012/execution-documents/6ae66ab5d1531192c408e971/486cbe88-e61e-45a3-a4d6-53b67f653e86-Commercial Invoice_XQAMZAIR1026227968.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1126232666",
     "exportsInvoiceValue": 463.2,
     "shipper": "andrew",
@@ -378,6 +372,24 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6ab621ff185235cee167c653/374252f7-e965-493d-8cb2-8e90122bed7e-Commercial invoice FBA Sri Venkatesh Aromas LLC SVA MP 025 (15651) HBNO.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625250M",
+    "exportsInvoiceValue": 1170.0,
+    "shipper": "bo international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a6af8e4090bff19ed77dc8b/execution-documents/6aa7e1040155663e72342c4b/98b37372-6271-4178-9b8f-a211afb608db-Export Commercial Invoice - Excel_XQAMZLCL092625250M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625440M",
+    "exportsInvoiceValue": 1100.0,
+    "shipper": "sourav singhi",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68147be487d4ea99148fa2f2/execution-documents/6aaccc1111725e0459c348ed/a16e9f7f-eca1-4eb7-81d1-f38a9bd30aef-Export Commercial Invoice - Excel_XQAMZLCL092625440M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625048M",
+    "exportsInvoiceValue": 600.0,
+    "shipper": "j.m. international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8f0fbbb62b588be1c446b6/execution-documents/6aa3d93abf64fdb717add0f4/883db933-e12f-4b8d-aa5d-f0c6c40c589d-Export Commercial Invoice - Excel_XQAMZLCL092625048M.xlsx"
+  },
+  {
     "quoteId": "XQAMZAIR1126230668",
     "exportsInvoiceValue": 1200.0,
     "shipper": "PURE CLINICA",
@@ -492,6 +504,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65b375889f95a0791ea2b9b2/execution-documents/6abb967d41560083ec17fe54/2b3363fc-57c1-4be6-b67a-160009746199-EXPORT Commercial Invoice_XQAMZLCL092625860M.XLSX"
   },
   {
+    "quoteId": "XQAMZLCL092625047M",
+    "exportsInvoiceValue": 600.0,
+    "shipper": "j.m. international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8f0fbbb62b588be1c446b6/execution-documents/6aa3d9205e25aea80d5297f2/f0f41e36-a99a-48db-8936-18924922a0a4-Export Commercial Invoice - Excel_XQAMZLCL092625047M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL102626893M",
     "exportsInvoiceValue": 69396.52856,
     "shipper": "J&J ARONIA TRADING INC",
@@ -510,10 +528,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a267d3ed18a505028a947cb/execution-documents/6a27c4fc1b58ab243b512b6b/06400a7f-ffa2-4261-8c55-e7629df33baf-Export Commercial Invoice - Excel_XQAMZLCL062622145M (1).xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092624938M",
+    "exportsInvoiceValue": 777.0,
+    "shipper": "art on floor",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a9bd521fd08f9cdb2b10e30/execution-documents/6a9bd82ac1f712b6b6bbb835/cbab20f3-0029-43a9-8b41-403bab98a059-XQAMZLCL092624938M.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL072623223M",
     "exportsInvoiceValue": 7871.9,
     "shipper": "gala enterprises",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=697cd4dd37b419d9048f3a33/execution-documents/6a5b735358dc63374aa2cccb/57c71aa4-b248-484e-bf45-9b6e3a7b58f6-Gala_Enterprises_Invoice_EXP-26-27-6_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625626M",
+    "exportsInvoiceValue": 1072.0,
+    "shipper": "shubhalaxmi food industry",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696f723f323a6540c0a08694/execution-documents/6ab2811cf0c2a0ec58812eae/3fdabdaa-7a28-4da6-8c22-7d0aa2f0d40a-Export Commercial Invoice - Excel_XQAMZLCL092625626M (Autosaved) UP.xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626920M",
@@ -526,6 +556,12 @@
     "exportsInvoiceValue": 618.4,
     "shipper": "gina woolman",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a503e7d94089d6d1145a88f/execution-documents/6ae59fdbf592b5c380a9dcb6/f5cb38ba-084a-4cec-bd32-45afa2919099-Flint_Invoice_INV-FLINT-20261103_and_Packing_List_Fixed.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625818M",
+    "exportsInvoiceValue": 1515.07,
+    "shipper": "best deal export",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=699c56075d3c259c7c160aad/execution-documents/6aba08a499830145248556d4/895c45ca-757c-46a9-8eb2-15d81f4da80b-Export Commercial Invoice - Excel_XQAMZLCL092625818M.xlsx"
   },
   {
     "quoteId": "XQAMZFCL082624249M",
