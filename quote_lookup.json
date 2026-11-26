@@ -1,21 +1,27 @@
 [
   {
+    "quoteId": "XQAMZLCL092625751M",
+    "exportsInvoiceValue": 1002.0,
+    "shipper": "coshal unfolding artistry private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ab5c89360cfe580877dbe80/execution-documents/6ab68aa86dcdf184bdf42119/a39be91a-774f-4b52-a11a-fc9a73e3ca01-XQAMZLCL092625751M.xlsx"
+  },
+  {
     "quoteId": "XQAMZFCL102626537M",
     "exportsInvoiceValue": 219760.4,
     "shipper": "Shrimahaveer Home Furnish Expo Pvt. Ltd.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=63a43a7560ce26e635ec2dcd/execution-documents/6ad5c768edb8644f6fab246a/59b91429-d5bd-45b7-9d30-25f651095497-XQAMZFCL102626537M.xls"
   },
   {
+    "quoteId": "XQAMZLCL102626433M",
+    "exportsInvoiceValue": 9440.0,
+    "shipper": "metallic elegance",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68640815c470e72ac1adeede/execution-documents/6ad3652062fa31267c0482bb/f0d03b82-b4ee-4b07-afa2-f858deeac9b1-EXPORT Commercial Invoice_XQAMZLCL102626433M.XLS"
+  },
+  {
     "quoteId": "XQAMZLCL082624140M",
     "exportsInvoiceValue": 750.0,
     "shipper": "homscape enterprises",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=683db1ba687ae8799368eb94/execution-documents/6a7ee06f6b98e06b328cbc65/3f2d159c-600b-4ecf-8eef-af7e886a8d38-Export Commercial Invoice - Excel_XQAMZLCL082624140M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092624773M",
-    "exportsInvoiceValue": 392.0,
-    "shipper": "tihami inc",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f0eb248f83a5ac5b9ee1a6/execution-documents/6a97c8028c05db5ac732613f/2343aa14-0729-4e89-96ec-699329aaccb9-EXPORT Commercial Invoice_XQAMZLCL092624773M.XLS"
   },
   {
     "quoteId": "XQAMZAIR1126232364",
@@ -36,22 +42,10 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/execution-documents/6ad84d7ba56e60d1981776bc/2917713a-f982-4642-b06a-edf8bd37f1b8-XQAMZLCL102626586M.xlsm"
   },
   {
-    "quoteId": "XQAMZFCL102626674M",
-    "exportsInvoiceValue": 81594.5,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ad9bc5eb6e26aa8ec97572b/498f6cab-223f-4787-9823-102c3045f957-XQAMZFCL102626674M- (W287M60F6X).xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1126229457",
     "exportsInvoiceValue": 5601.98,
     "shipper": "Only Curls, Inc.",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a83edea9d27862aad6b83c4/bookings-docs/6aecafab815ae626910073a0/24173f2d-c02b-4af8-9e04-60e503b2ae61.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL102626674M",
-    "exportsInvoiceValue": 81594.5,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ad9bc5eb6e26aa8ec97572b/43417166-55e5-40bb-aefb-34a70977c44e-XQAMZFCL102626674M - (PNM2C976XZ).xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626306M",
@@ -60,22 +54,22 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6accb336bfe39fc262587d69/bddd3f41-8fc3-43fd-a5b0-8e25110b011c-XQAMZLCL102626306M.xls"
   },
   {
-    "quoteId": "XQAMZFCL102626674M",
-    "exportsInvoiceValue": 81594.5,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ad9bc5eb6e26aa8ec97572b/d421cad3-eb0d-4147-9aa9-8f468b7d2093-XQAMZFCL102626674M-  (IDUA24CGX7).xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL102626674M",
-    "exportsInvoiceValue": 81594.5,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6ad9bc5eb6e26aa8ec97572b/9adafcc7-44e7-482e-994e-d421b330aab8-XQAMZFCL102626674M- G5IZDH4ZYS).xlsx"
+    "quoteId": "XQAMZLCL092624773M",
+    "exportsInvoiceValue": 392.0,
+    "shipper": "tihami inc",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f0eb248f83a5ac5b9ee1a6/bookings-docs/6a97c8028c05db5ac732613f/fab7b0bf-57b6-4a01-835b-1862412a361d.XLS"
   },
   {
     "quoteId": "XQFCL092625548",
     "exportsInvoiceValue": 26175.45,
     "shipper": "Ergode Inc",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6995ca5b508ff046a4811ee2/bookings-docs/6ab130df939ddf30a08c25a5/e83078d7-75f4-4676-94a5-e445de577ab2.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626290M",
+    "exportsInvoiceValue": 1483.84,
+    "shipper": "manjunatha km",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6791cbdde43222add0401271/execution-documents/6acc5cf4de1b8d53748012be/d79f064f-b603-4b1a-8d45-25e21d16ba5d-XQAMZLCL102626290M.xlsx"
   },
   {
     "quoteId": "XQAMZAIR1126232666",
@@ -592,12 +586,6 @@
     "exportsInvoiceValue": 4950.4,
     "shipper": "vaibhav",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684d47010c96bb63e5a43614/execution-documents/6abc9c0dbbd45cc60fc165ac/24642c54-a8ed-42d0-9bb4-7156d25d086b-Export Commercial Invoice - Excel_XQAMZLCL092625894M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZFCL092625902M",
-    "exportsInvoiceValue": 83463.0,
-    "shipper": "Madan Mohan textiles",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64439ee4dd743bd4c1ef60b6/execution-documents/6abcaec2b69c87605de2dc2e/8f7f5e91-5779-49d4-8397-3f1d8352ec27-XQAMZFCL092625902M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625366M",
