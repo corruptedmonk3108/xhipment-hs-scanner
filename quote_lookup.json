@@ -90,12 +90,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6589317d6468b5b1e1c5b2d8/execution-documents/6aa27d512d282b00e80be4dc/887c77da-41cf-4be8-8a62-4721f9718742-XQAMZLCL092624976M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL102626719M",
-    "exportsInvoiceValue": 10368.0,
-    "shipper": "vinay sharma",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/bookings-docs/6adf0ed4b3e7df9343011eee/6b1ffc7e-8f05-4df6-bce2-87d9dabeb39c.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL102626730M",
     "exportsInvoiceValue": 5762.4,
     "shipper": "Vicco Products (Bombay) Pvt. Ltd.",
@@ -124,12 +118,6 @@
     "exportsInvoiceValue": 25163.9,
     "shipper": "Solino Home",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=64a6af4fb03bfab1854edcb1/bookings-docs/6ad1fb52e0bf7c92ef789744/79e4558f-a02e-409e-92b2-d7ecb38e7185.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL092625536M",
-    "exportsInvoiceValue": 1920.0,
-    "shipper": "al azlan frozen foods",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aae88abf9f336410f67b1cc/execution-documents/6ab13ccae4d5a7d420c77aff/6f639c9a-2017-404b-a312-12420b44a174-XQAMZLCL092625536M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626193M",
@@ -184,12 +172,6 @@
     "exportsInvoiceValue": 1921.84,
     "shipper": "rao fariyad ali",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68666ae185f22d9af212c652/bookings-docs/6acdd001645c5973f75b0c34/92dfe60e-92c4-440b-bc1f-62aa32b15e72.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL102626295M",
-    "exportsInvoiceValue": 793.1,
-    "shipper": "Sharaar Enterprises",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f27d0e117f863c6d28d7e7/bookings-docs/6ad06bb4d3a33eec9de9e51d/19d563cc-596a-4ddb-a193-973e26aa1dde.xlsx"
   },
   {
     "quoteId": "XQAMZFCL102626551M",
@@ -348,12 +330,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a5f8502188d68bcfc2142bd/execution-documents/6b005a8280e765cac655fcc7/b5d0bae2-aba7-4ce7-a803-9914d6f7c514-Commercial Invoice_XQAMZAIR1126233699.XLSX"
   },
   {
-    "quoteId": "XQFCL092625757",
-    "exportsInvoiceValue": 96256.12,
-    "shipper": "Katyani Exports (SVA Organics)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6ab621ff185235cee167c653/fe6cc1e7-72fa-4f42-b1bc-f28d40c5d49f-Commercial invoice FBA Sri Venkatesh Aromas LLC 15651 KE (SEA) 374.xlsx"
-  },
-  {
     "quoteId": "XQAMZAIR1126233831",
     "exportsInvoiceValue": 825.1,
     "shipper": "passionforperfume",
@@ -408,12 +384,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a21591e8c2a019cf0926c10/execution-documents/6a7f195ea4a5dc8c00a00774/29d38864-b551-491e-92c7-5113651aaca5-Mensa_Brand_Export_Invoices_17-18Aug2026 UP.xlsx"
   },
   {
-    "quoteId": "XQFCL092625757",
-    "exportsInvoiceValue": 96256.12,
-    "shipper": "Katyani Exports (SVA Organics)",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6ab621ff185235cee167c653/374252f7-e965-493d-8cb2-8e90122bed7e-Commercial invoice FBA Sri Venkatesh Aromas LLC SVA MP 025 (15651) HBNO.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625250M",
     "exportsInvoiceValue": 1170.0,
     "shipper": "bo international",
@@ -424,12 +394,6 @@
     "exportsInvoiceValue": 1100.0,
     "shipper": "sourav singhi",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68147be487d4ea99148fa2f2/execution-documents/6aaccc1111725e0459c348ed/a16e9f7f-eca1-4eb7-81d1-f38a9bd30aef-Export Commercial Invoice - Excel_XQAMZLCL092625440M.xlsx"
-  },
-  {
-    "quoteId": "XQAMZLCL092625048M",
-    "exportsInvoiceValue": 600.0,
-    "shipper": "j.m. international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8f0fbbb62b588be1c446b6/execution-documents/6aa3d93abf64fdb717add0f4/883db933-e12f-4b8d-aa5d-f0c6c40c589d-Export Commercial Invoice - Excel_XQAMZLCL092625048M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626838M",
@@ -534,22 +498,28 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=689de30d8bb10ba8a8965c68/execution-documents/6aec2cde5e3184558bea8fef/c8f15e59-b798-44a6-a5a4-f0b78e433b0a-EXPORT Commercial Invoice_XQAMZLCL112627098M.XLSX"
   },
   {
-    "quoteId": "XQAMZLCL092625047M",
-    "exportsInvoiceValue": 600.0,
-    "shipper": "j.m. international",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8f0fbbb62b588be1c446b6/execution-documents/6aa3d9205e25aea80d5297f2/f0f41e36-a99a-48db-8936-18924922a0a4-Export Commercial Invoice - Excel_XQAMZLCL092625047M.xlsx"
-  },
-  {
     "quoteId": "XQAMZFCL102626893M",
     "exportsInvoiceValue": 69396.52856,
     "shipper": "J&J ARONIA TRADING INC",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68887b4ec734b267a9719ca8/bookings-docs/6ae82dc8d00c17b7791979f7/2ab3dbc3-d494-4f6f-b297-dd8bfb272df8.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL092625658M",
+    "exportsInvoiceValue": 1365.15,
+    "shipper": "pinky c/o humming herbs",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68193501408dc5312d5ff843/bookings-docs/6ab37e15c15b14bd48c68680/66b5fe09-8a3b-4c3e-a798-1c3858311c80.xlsx"
+  },
+  {
     "quoteId": "XQAMZLCL062622145M",
     "exportsInvoiceValue": 450.0,
     "shipper": "craftline international llp",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a267d3ed18a505028a947cb/execution-documents/6a27c4fc1b58ab243b512b6b/06400a7f-ffa2-4261-8c55-e7629df33baf-Export Commercial Invoice - Excel_XQAMZLCL062622145M (1).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102625977M",
+    "exportsInvoiceValue": 13496.39824,
+    "shipper": "vijay kumar lamba",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67a5d5bb19a3ffd48f010b03/execution-documents/6abe16285cb5ddc953ed62eb/732704b2-e2bd-4323-9e78-47af67aa6b41-XQAMZLCL102625977M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL072623223M",
@@ -562,6 +532,24 @@
     "exportsInvoiceValue": 1072.0,
     "shipper": "shubhalaxmi food industry",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=696f723f323a6540c0a08694/execution-documents/6ab2811cf0c2a0ec58812eae/3fdabdaa-7a28-4da6-8c22-7d0aa2f0d40a-Export Commercial Invoice - Excel_XQAMZLCL092625626M (Autosaved) UP.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626724M",
+    "exportsInvoiceValue": 23979.19,
+    "shipper": "uppfylla ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=688a1c38a7ba0eab96f1c733/execution-documents/6adb2329372feebb8c809684/d28cb88d-fa0b-4aaa-bf25-7fe8a19e7904-EXPORT Commercial Invoice_XQAMZLCL102626724M.XLSX"
+  },
+  {
+    "quoteId": "XQAMZLCL112627001M",
+    "exportsInvoiceValue": 23601.4,
+    "shipper": "poura ltd c/o stormguard group",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ae887acc8cc0b971d41d62a/execution-documents/6ae99c22eabfa3d92f33d391/e2e09a95-c4b7-4c11-ad36-1ac11d6e7488-EXPORT_Commercial_Invoice_XQAMZLCL112627001M_with_Weights.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL112627155M",
+    "exportsInvoiceValue": 5469.78,
+    "shipper": "Rustins Ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68763c2255f5b7bd2576a4c3/execution-documents/6aedb46be15a3956513ce4f1/a59481b3-7102-47a7-98a4-68867c351ad6-Rustins_Invoice_RSTAMZ20261107_and_Packing_Slip.xlsx"
   },
   {
     "quoteId": "XQAMZLCL092625818M",
@@ -660,6 +648,12 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69cba66fc86af54d9e759e81/execution-documents/6ada1418ec4d123502073eae/b3cd4909-c05b-4fa3-aefe-2dae067f744f-Export_Commercial_Invoice_XQAMZLCL102626682M_with_Weights.xlsx"
   },
   {
+    "quoteId": "XQAMZLCL112627168M",
+    "exportsInvoiceValue": 18248.0,
+    "shipper": "b2 premium limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a1ed623d41bbcc926a93452/execution-documents/6aedf32571c0be8222aca1a2/d58262c7-2076-4881-8066-57d22ec2b55b-EXPORT Commercial Invoice_XQAMZLCL112627168M.XLSX"
+  },
+  {
     "quoteId": "XQAMZLCL102626636M",
     "exportsInvoiceValue": 25560.0,
     "shipper": "Global Exim",
@@ -672,10 +666,16 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6944099cd92ae2ba7369ee1d/execution-documents/6ad30f183aba8b8fc54fe116/460fb5fc-5118-416d-b574-81888da21307-Export Commercial Invoice - Excel_XQAMZLCL102626506M.xlsx"
   },
   {
-    "quoteId": "XQLCL092624800",
-    "exportsInvoiceValue": 3300.55,
-    "shipper": "OFW Global Logistics",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=691d9ce2ce1dfbcc0eb9c251/execution-documents/6a9803c0806a6bcea9fe14dd/1a84cd41-d101-4fc4-a1a3-4ca1038710d6-Import Commercial Invoice - Excel_XQLCL092624800.xls"
+    "quoteId": "XQAMZLCL112627220M",
+    "exportsInvoiceValue": 1825.83,
+    "shipper": "calzette",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=690379ce3ac676be7a7500c3/execution-documents/6af2da1bee996fb45a0a7569/9390dba1-dff2-4dd6-80c7-9898d4fbdeb1-Export Commercial Invoice - Excel_XQAMZLCL112627220M.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL112627221M",
+    "exportsInvoiceValue": 10308.68,
+    "shipper": "just cards direct",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a218ec8b52e57e1f1ffce67/execution-documents/6af4108f54e59d16ad7ce7f8/22f3b55b-3f8e-4808-8cf0-8ca21a4583b6-Export Commercial Invoice - Excel_XQAMZLCL112627221M.xlsx"
   },
   {
     "quoteId": "XQAMZLCL102626327M",
@@ -696,12 +696,6 @@
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=684d47010c96bb63e5a43614/execution-documents/6abc9c0dbbd45cc60fc165ac/24642c54-a8ed-42d0-9bb4-7156d25d086b-Export Commercial Invoice - Excel_XQAMZLCL092625894M.xlsx"
   },
   {
-    "quoteId": "XQAMZLCL092625366M",
-    "exportsInvoiceValue": 756.0,
-    "shipper": "gera industries",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/execution-documents/6aaa26fdd1a7d333e431e74b/3571dea5-7f41-4538-aac8-9cf465b478c2-XQAMZLCL092625366M.xlsx"
-  },
-  {
     "quoteId": "XQAMZLCL092625955M",
     "exportsInvoiceValue": 8146.58,
     "shipper": "dom ventas india pvt ltd",
@@ -718,6 +712,102 @@
     "exportsInvoiceValue": 964.0,
     "shipper": "tara trading",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=65d892c6a714f45865c50d6b/bookings-docs/6a96c96b002ac05f610cdcf5/ae2a1ed8-21a8-49ca-8a85-cc21be34fd17.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626719M",
+    "exportsInvoiceValue": 10368.0,
+    "shipper": "vinay sharma",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6598c5e41413a98e20b687e7/bookings-docs/6adf0ed4b3e7df9343011eee/6ff59130-0593-4f8f-beca-14289ce94385.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625047M",
+    "exportsInvoiceValue": 600.0,
+    "shipper": "j.m. international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8f0fbbb62b588be1c446b6/bookings-docs/6aa3d9205e25aea80d5297f2/70e0f288-99d1-4928-97c6-0d586a818117.xlsx"
+  },
+  {
+    "quoteId": "XQFCL102626778",
+    "exportsInvoiceValue": 117962.46,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6adf21d279a790aa6edabc97/9c8da188-7971-4a9c-81b3-14f04503ce6c-Commercial invoice FBA Sri Venkatesh Aromas LLC SVA MP 029 (15651) HBNO.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625048M",
+    "exportsInvoiceValue": 600.0,
+    "shipper": "j.m. international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6a8f0fbbb62b588be1c446b6/bookings-docs/6aa3d93abf64fdb717add0f4/da85899b-2d35-463a-b3f9-f413a5491459.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626024M",
+    "exportsInvoiceValue": 2355.0,
+    "shipper": "feyn foods (opc) private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/bookings-docs/6ac0bfd09f947288a89942cc/c3db16ca-357e-47e8-928d-ce085438a72a.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626153M",
+    "exportsInvoiceValue": 2820.0,
+    "shipper": "feyn foods (opc) private limited",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6909925fad00cd1a5c502154/execution-documents/6acf2f0d8d6a5b2831ab7bd0/5167bce1-d2a4-4e1a-a593-93b3c7d01e32-XQAMZLCL102626153M u.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626295M",
+    "exportsInvoiceValue": 793.1,
+    "shipper": "Sharaar Enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=66f27d0e117f863c6d28d7e7/bookings-docs/6ad06bb4d3a33eec9de9e51d/f8822f48-4a83-42e6-bbfc-c576920b4e30.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626786M",
+    "exportsInvoiceValue": 4332.39,
+    "shipper": "liquid gaming ltd",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6adf3e333927bdae36a53fc1/bookings-docs/6adf4bb3b18d92bbca1ff5f9/d1edabfb-1eaf-417b-8969-56363968afaf.xlsx"
+  },
+  {
+    "quoteId": "XQFCL102626778",
+    "exportsInvoiceValue": 117962.46,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6adf21d279a790aa6edabc97/4227adeb-7978-4e32-8a0e-cd6d05580e1e-Commercial invoice FBA Sri Venkatesh Aromas LLC SVA MP 030 (15651).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625536M",
+    "exportsInvoiceValue": 1920.0,
+    "shipper": "al azlan frozen foods",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6aae88abf9f336410f67b1cc/bookings-docs/6ab13ccae4d5a7d420c77aff/78a7e667-e7ce-4414-b48d-cc3fa5e15a52.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625366M",
+    "exportsInvoiceValue": 756.0,
+    "shipper": "gera industries",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=68837a52508d6c0fb872dc38/execution-documents/6aaa26fdd1a7d333e431e74b/7fb1afa9-f862-4a92-a817-e76e75db1140-CI_PL.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092625880M",
+    "exportsInvoiceValue": 20479.2,
+    "shipper": "vivasvan international",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=67ff725967cd40aedb886bdf/execution-documents/6abbf01172da091bd3aa7663/4ed5d745-b014-4804-8618-a6c4a417c4cc-Consolidated-CI (4).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL092624939M",
+    "exportsInvoiceValue": 4845.6,
+    "shipper": "m/s taran enterprises",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=69fe379db229f97f2aae7f1d/execution-documents/6a9e3f868d35fd6181af9077/328cfe04-9068-4243-a510-ab6142cecd1b-Consolidated-CI (3).xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626442M",
+    "exportsInvoiceValue": 12396.08,
+    "shipper": "joy junction",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6ad07a71c939295f2555e7df/execution-documents/6ad1abcc23780516d25e70c7/c22029a9-37f0-4407-a225-57cdfabd28fb-Consolidated-CI (5).xlsx"
+  },
+  {
+    "quoteId": "XQFCL102626778",
+    "exportsInvoiceValue": 117962.46,
+    "shipper": "Katyani Exports (SVA Organics)",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6413ea6386f8f3d27a499d64/execution-documents/6adf21d279a790aa6edabc97/4e5c9ca7-aca6-4ceb-b014-f06b65ba4a7d-Commercial invoice Walmart Sri Venkatesh Aromas LLC SVA MP 032 NJ3.xlsx"
+  },
+  {
+    "quoteId": "XQAMZLCL102626348M",
+    "exportsInvoiceValue": 519.14,
+    "shipper": "surinder enterprise",
+    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6958d88589c4ca36f079e55b/execution-documents/6ad09754c939295f255745a0/20006513-d59d-4f66-9b50-c49567aa2c82-Surinder_Enterprises_Invoice_SEAUS49_and_Packing_List_Fixed.xlsx"
   },
   {
     "quoteId": "XQAMZAIR0926217380",
@@ -886,11 +976,5 @@
     "exportsInvoiceValue": 3095.0,
     "shipper": "dass export house",
     "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6948d5668e1f5580a5452985/bookings-docs/6aba651961fb1e559d281fea/fba4f346-f83d-4658-bed6-a3a4441a55f0.xls"
-  },
-  {
-    "quoteId": "XQAMZLCL102626786M",
-    "exportsInvoiceValue": 4332.39,
-    "shipper": "liquid gaming ltd",
-    "url": "https://api.xhipment.com/api/v1/utils/download-report?url=6adf3e333927bdae36a53fc1/bookings-docs/6adf4bb3b18d92bbca1ff5f9/0c0023dd-3e8b-43d7-84b5-513feebd0b49.xlsx"
   }
 ]
